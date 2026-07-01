@@ -113,6 +113,7 @@ class CameraScreen(Screen):
         rarity = card_info.get("rarity", "")
         unique_number = card_info.get("unique_number")
         card_name = card_info.get("card_name", "")
+        super_types = card_info.get("super_types", [])
         card_type = card_info.get("card_type", "")
         card_subtypes = card_info.get("card_subtypes", [])
         card_text = card_info.get("card_text", "")
@@ -136,7 +137,7 @@ class CameraScreen(Screen):
             result = translate_card(
                 GEMINI_API_KEY, card_name, card_text,
                 csv_path=CSV_PATH, keywords_path=KEYWORDS_PATH,
-                card_type=card_type, card_subtypes=card_subtypes,
+                super_types=super_types, card_type=card_type, card_subtypes=card_subtypes,
             )
             if result is None:
                 update_status("翻訳失敗。もう一度試してください。")
