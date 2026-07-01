@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_40_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/134BN0GNE1980SQ6E329VMP1HT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23EJ1WM4ENQY9Y19K9YE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23EJ1WM4ENQY9Y19K9YE",
+          "text": "Une symphonie naît de deux notes, un feu d'une étincelle, et un chef-d'œuvre de deux gouttes de métal."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23F3BVSFMEY0KPY9MRY2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J23F3BVSFMEY0KPY9MRY2",
+          "text": "Je cligne des yeux et essuie mon front dégoulinant de sueur tellement la fournaise est implacable. Ma respiration est hachée, et je me verse un baquet d'eau tiède sur la tête pour essayer de supporter un peu plus la chaleur. Non loin du métal en fusion, je vois Gibil en train de capter une projection de lave. Il la ramène vers lui en la faisant dériver dans l'air, la soupesant du regard pour en scruter les défauts et les impuretés. Alors que l'eau dont je me suis aspergée fume autour de moi, un ouvrier me frotte les cheveux pour me féliciter de mon endurance. Je lui rends son sourire et saisis les bacs de silice pour les rapprocher du dieu en plein ouvrage. Luttant pour garder les yeux ouverts face aux courants d'air caniculaire, je dépose les seaux et me remets en retrait, lorsque du coin de l'œil, je vois un Scarabot défaillir. Je me rapproche et le vois s'affaisser, vidé de toute énergie. Je vérifie son cylindre de Kélon et remarque qu'il est encore presque plein.\n\nJe passe une main sur sa tête, comprenant qu'il est en fin de vie. Bientôt, certains de ses congénères vont venir le chercher pour le recycler, et en refaçonner peut-être un nouveau, même si je ne suis pas très au fait de leur cycle de vie naturel. Derrière moi, j'entends le grondement de la voix de Gibil, qui exige de nouveau qu'on lui apporte de quoi faire fondre et de quoi forger. Ses yeux incandescents se tournent vers moi et la petite forme qui est en train de lutter à mes pieds. C'est alors que d'un geste de la main, il rapproche le Scarabot de lui. D'une simple pression de sa volonté, le dieu désassemble la petite créature robotique. Puis en utilisant un arc de lave, qu'il pétrie et sculpte, il crée un nouveau châssis, une aile et de nouvelles pièces pour le Scarabot. Une fois celui-ci revitalisé, Gibil le dépose dans le creux de mes bras, comme s'il me demandait d'en prendre soin désormais..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23ETZZB71YKP31P99MNP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23ETZZB71YKP31P99MNP",
+          "text": "Dieu mésopotamien de tout ce qui touche au feu, Gibil représente à la fois ses aspects positifs (source de chaleur et de lumière) et négatifs (destructeur et vorace). La divinité est le patron tutélaire des forgerons et des métallurgistes, et au-delà de ce rôle, a une fonction purificatrice. Mais attention à son courroux. On disait que les éclairs étaient les signes de la colère de Gibil, quand ils frappaient la terre et les champs, ou embrasaient les maisons. Son symbole est la torche, que l'on peut brandir la nuit pour s'éclairer, ou chasser les mauvais esprits.\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23DX277ZVM1EPE90TNAE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J23DX277ZVM1EPE90TNAE",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23E88MMVZ71A8FTRBC45",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23E88MMVZ71A8FTRBC45",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "134BN0GNE1980SQ6E329VMP1HT",
+      "reference": "ALT_ALIZE_B_AX_40_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f0b6c413863fda7ffdb5",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/43f3087160e55c4f6694",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5608295b296935d65eba",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/c6a66f36307abcd5c032",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:13+00:00",
+      "question": "Can Rare Gibil create Brassbugs in two different Expeditions?",
+      "answer": "No. "
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/fr_FR/4814abef79810f910625d47e822e77e0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_68412e665a821f3c25f027ed3404f1de",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_f1955915662d7bfff1f71a2cee357ce6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_7994b67d44a7cac843eb1009f8b9963f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_40_R1",
+  "reference": "ALT_ALIZE_B_AX_40_R1",
+  "id": "01J1Q4P4RV2A0EQ68788JASAYW",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/fr_FR/4814abef79810f910625d47e822e77e0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/en_US/770cfb61931c495a36f373aa8f03034a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/de_DE/6cf0394d5d3ade43fb561ec7c5f952dd.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/it_IT/83f2e49fd4be882fbe311a2fec7e2801.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/es_ES/fe9a69d3f98c176c740a345506e3b566.jpg"
+  },
+  "name": "Gibil",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{J} #Si vous contrôlez au moins deux Permanents, créez deux jetons Robot [2/2/2 Scarabot] dans une Expédition ciblée. Sinon,# créez-en un seul.",
+    "ECHO_EFFECT": "{D} : Activez les capacités {j} d'un Permanent ciblé que vous contrôlez. (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-012-R-FR"
+}

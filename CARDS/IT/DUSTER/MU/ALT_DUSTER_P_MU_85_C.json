@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_P_MU_85_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2AVD1A25RT8BZ8PC2JCTRQJKMM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K3R4M8KGKR0GQ4F6NAR3F9G9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K3R4M8KGKR0GQ4F6NAR3F9G9",
+          "text": "\"La sopravvivenza del Fuso potrebbe dipendere dal Naos.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4M8PC5KM6X9XMZZCJT7DV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K3R4M8PC5KM6X9XMZZCJT7DV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4M8MHBERB84KMRQ9ZGAP0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K3R4M8MHBERB84KMRQ9ZGAP0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4M8GB88SBK2GR0N5JA3M6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K3R4M8GB88SBK2GR0N5JA3M6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4M8HJTN9N6RV427PYFW9T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K3R4M8HJTN9N6RV427PYFW9T",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "2AVD1A25RT8BZ8PC2JCTRQJKMM",
+      "reference": "ALT_DUSTER_P_MU_85_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Semi di Unità"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0cc530403719ea45f47d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_MU_85/JPG/it_IT/416d57ce729bd386197613f534680c81.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_MU_85/HERO_THUMB_d782806d2b36fc93c45a21a8383f379d"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_MU_85/HERO_WIDE_0d331680f74f704d709cf3dc14f710d1"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_MU_85/WEB_7d4079b86ba07fd4d665f90fdd28899d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_P_MU_85_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_P_MU_85_C",
+  "id": "01JZJG13TY1H4FNM4CG08P75TX",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_MU_85/JPG/fr_FR/96105413701978c08913c6390eb1187e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_MU_85/JPG/en_US/fcff38dfd44071b32edda9ff95a47c28.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_MU_85/JPG/it_IT/416d57ce729bd386197613f534680c81.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_MU_85/JPG/es_ES/6a13c735a9ede9547c74fd768a6d7972.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_MU_85/JPG/de_DE/3d739ea4ae7fa8253c83239d7e84fc5f.jpg"
+  },
+  "name": "Turuun e Benih",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Quando fai un [Regalo] — Puoi consumarmi ({T}) per riceverlo anche tu. (Un Regalo avviene se, durante il tuo turno, l’avversario pesca una carta, si Rifornisce o riceve una pedina.)  Ignora la mia abilità il primo Giorno."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "SDU-055-C-IT"
+}

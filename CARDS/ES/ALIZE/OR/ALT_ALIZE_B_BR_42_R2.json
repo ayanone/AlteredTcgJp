@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_42_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0FDZ8G5BB29SSBH0Y0DAG0A15G",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24MN0Z03Q1F27K54P3H7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24MN0Z03Q1F27K54P3H7",
+          "text": "¿Sientes la presión?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24N82196VGYQBN59ZCRW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24N82196VGYQBN59ZCRW",
+          "text": "Me quedo mirando las enormes columnas de agua y vapor que brotan del suelo. Es fascinante al tiempo que inquietante, tanto que no puedo apartar la mirada. Es como si la tierra se hubiera convertido en una enorme olla a presión. Me doy la vuelta para decir algo, pero me doy cuenta de que quería llamar a Gault. No está aquí, claro. Está a miles de kilómetros. Cuando llegué ayer después de un largo día caminando por las llanuras, me dijeron que fue Atsadi quien creó este lugar hace unos días mientras se enfrentaba a hordas de Belisenki. No concibo el poder que desató aquí. Le llaman el espadachín manco o la Cigarra del Crepúsculo, y se merece su reputación: las enormes burbujas que creó desgarraron el suelo.\n\nEs extraño ver que el lugar de una batalla tan épica se ha convertido en una especie de parque de atracciones acuático. Los Lyra se instalaron en el lugar y lo convirtieron en una piscina al aire libre. Lo enfriaron, por supuesto, para que nadie se escaldara, y luego lo nivelaron para retener el agua. Ahora, todo el mundo está bañándose, chapoteando y charlando… Si alguien me hubiera dicho ayer, mientras atravesábamos los páramos helados a duras penas, que hoy estaría de relax en unas aguas termales, no me lo habría creído. Mientras mi mente divaga, preguntándose si Atsadi aceptará un escudero, me salpican de repente un urracagüino y un tanuki que se pelean por subir primero a la zona de propulsión. El urracagüino gana la discusión y salta justo a tiempo cuando el suelo empieza a retumbar. Un inmenso géiser lo propulsa hacia el cielo mientras emite gritos de felicidad."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24MZTH59K7CWFWY2SXRX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24MZTH59K7CWFWY2SXRX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24M1968JAA6DE52A3HGW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24M1968JAA6DE52A3HGW",
+          "text": "KOJO\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24MBT5S2S2H43V0T21G3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24MBT5S2S2H43V0T21G3",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "0FDZ8G5BB29SSBH0Y0DAG0A15G",
+      "reference": "ALT_ALIZE_B_BR_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/581374258ac2caba2dfb",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disrupción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3795893c878264ae3593",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/c0255c0ee7c0d4302561",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:13+00:00",
+      "question": "If I play \"Geyser\" from Reserve and it gains Fleeting, do I still put it in my Mana Orbs?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/es_ES/4a975177273e360c4ee6751197b8cf8a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/WEB_a02a6b9dbe2bfe28fe3b1b705408ecd0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/WEB_bca9d6588d88cb89e95af16a25e8ea84"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_42_R2",
+  "reference": "ALT_ALIZE_B_BR_42_R2",
+  "id": "01J1Q4P4S3CD549S9SSC7PCM6G",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/de_DE/f3129538d8e1c7e6a7853df15aeab59d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/es_ES/4a975177273e360c4ee6751197b8cf8a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/it_IT/3d7684c5efd8dd2354280f54d4b86cc9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/fr_FR/d829387fe37e8c0b135c66118634f733.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/en_US/98fdcb3e5a93389bcc0ec8a81e93d67d.jpg"
+  },
+  "name": "Géiser",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Devuelve a la mano de su propietario un personaje o permanente objetivo y luego colócame en tu zona de maná (como orbe de maná agotado)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-029-F-ES"
+}

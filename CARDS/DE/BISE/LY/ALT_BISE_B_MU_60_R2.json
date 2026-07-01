@@ -1,0 +1,162 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_60_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5ZPAQKK5Q797H857CGST5HPT26",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A7XTBZCWZ3W6TY2Y08A0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A7XTBZCWZ3W6TY2Y08A0",
+          "text": "Harmonie bewahren. Das Gleichgewicht bewahren. Manchmal muss erst etwas sterben, damit etwas anderes leben kann."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7YFR6BYH2ESGCE26PJ1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A7YFR6BYH2ESGCE26PJ1",
+          "text": "387 AC - I paddle through the blood, shaking. All around, the carnage is so bad that it makes me retch. The beast was merciless, gripped by a murderous frenzy. The other animals didn't stand a chance. I bend down over each member of the deer herd. I go from carcass to carcass in hopes I can heal one of them, but it's hopeless. There are no survivors. A far-off clamor suddenly catches my attention. It's the characteristic sound of a pursuit happening on the outskirts of the Fagn. Nauraa offers me his back, and I jump on. We rush off through the trees towards the noise. The fox leaps between the thickets and tree stumps, stooping to avoid branches… In no time, we reach the little group of Hellequin Hunters — easily recognizable by their antler headdresses — who had set out to track down the rabid animal. They advance in a line to drive their prey into the deathly trap. The cold determination is visible on their faces. They blow an ominous melody, a requiem, into their horns. I shiver.\n\nNauraa accelerates. He knows where to go, guided by his nose and his instincts. I trust him. I lie down on him to make it easier for him to run. After a furious gallop, he finally stops. Just ahead, the stag corrupted by the Fagn stares at us defiantly. It's getting ready to charge. I don't even have time to open my mouth before it leaps! But before I can do anything, a spear strikes it in the chest as it gallops full tilt. It collapses, sliding on the ground to my feet. I realize that the spear was thrown from behind me by a well-camouflaged Huntress. She bears the initials of the Harvesters. She approaches the beast, which is now breathing with rapid, short and strained breaths. She pulls her spear out of the animal, which bellows in agony, to deliver her coup de grace. I can't hold back a horrified yelp. She turns to me, and I see the \"tears of duty\" appearing on her face, ritually shed by the Hellequin for the lives they are forced to take to maintain the balance of nature. This is the mission of these Muna fighters who live on the fringes of their community. I hold Nauraa tightly in my arms, as a dark liquid flows over the ground from the animal's eyes and wounds."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7Y5DBMJTFAMFAB3EPJW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A7Y5DBMJTFAMFAB3EPJW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7W3FJX6RBMXV8776MSV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A7W3FJX6RBMXV8776MSV",
+          "text": "TEIJA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7XGJSCYJZEXJX7QYDJN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A7XGJSCYJZEXJX7QYDJN",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "5ZPAQKK5Q797H857CGST5HPT26",
+      "reference": "ALT_BISE_B_MU_60_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/82545dfa31c535026b9c",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Unterbrechung"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/21596c0c4387a5a3e33d",
+      "reference": "SONG",
+      "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
+      "name": "Lied"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/976eb7c4206256829194",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_60/JPG/de_DE/ddfb77459743c9e384e4c14893de8f70.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_60/WEB_32a23d33315d1a98807c45b9ecb1ffdc",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_60/WEB_4d7464c8fe921cfb321646e2059e3e72"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_60_R2",
+  "reference": "ALT_BISE_B_MU_60_R2",
+  "id": "01JB1YGPBRF2KJ5JP3F6R3P3AA",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_60/JPG/de_DE/ddfb77459743c9e384e4c14893de8f70.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_60/JPG/it_IT/e0aef0b498260690ffbf152be25109de.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_60/JPG/es_ES/498764fd8d8a45e222a9844285694188.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_60/JPG/en_US/4399ef84a628c12a9d2395db14b3005c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_60/JPG/fr_FR/6d5bfe6f222aa4a32e49f892fb5afa09.jpg"
+  },
+  "name": "Requiem",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "#[Abkühlung].# (Falls ich in die Reserve gehe, nachdem mein Effekt abgeklungen ist, erschöpfe mich {T}. Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)  Wähle eine Aktion:  • Lege einen Charakter deiner Wahl mit [[Vergänglich]] #oder [[Schlafend]]# mit Handkosten {4} oder weniger ab.  • Lege eine Bleibende Karte deiner Wahl mit Handkosten {4} oder weniger ab."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-065-F-DE"
+}

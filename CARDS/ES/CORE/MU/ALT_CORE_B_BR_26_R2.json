@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_26_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZBAMFMH3EEHMF8HYRC9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5SPV7936770CVW6NKWDF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5SPV7936770CVW6NKWDF",
+          "text": "100 abdominales, 100 flexiones, 100 sentadillas, correr 10 kilómetros y el deseo de ponerte a prueba. La típica rutina de entrenamiento matutino en Bravos."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SQMKBQ03J7152PVX4RE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5SQMKBQ03J7152PVX4RE",
+          "text": "Ah, the Kurung… With a bundle over my shoulder, I make my way through the throngs of recruits as they train. A few cadets are circling the inner courtyard, jogging in their sweat-drenched tunics. Other soldiers are training on the central lawn, hitting straw dummies or wooden targets. I greet an instructor with a discreet nod, while a cohort of kids runs past just beside me. I can't help but smile. I, too, was once a part of this bunch—one pupil among so many others, whose barracks became my home. Looking toward the orphanage, I watch for Nanshe's silhouette with a tinge of nostalgia. But I don't see the Eidolon anywhere, not even one of her pelicans. I'll have time to go see her once I'm settled in my dorm.\n\nAs I stroll past the administrative buildings in the Small Court, I spot an instructor in a courtyard correcting one of his students' posture. The student seems to take umbrage, fuming at his mentor with the wounded pride of the young. I raise my eyebrows as I notice his coach's expression and the cold fury on his face. If this kid gets too stubborn about it, he's sure to get a beating and an extra round of chores. But who am I to judge? I was surly and recalcitrant too. I, too, was reprimanded at least three times a day. With the tip of his sword, the instructor points over to the dueling circle. Time for a little tough love, it would seem. He's right to not let himself be walked all over. The little foot soldier deserved a good hiding. Even now, I'm surprised at how patient my teachers were. In truth, I was far worse then, and they made me what I am today…"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SQBPND9HQTSHVENQFK4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5SQBPND9HQTSHVENQFK4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SP5PWPFDF2Y22SMAVNC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5SP5PWPFDF2Y22SMAVNC",
+          "text": "Basira"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SPGQM581Q6RDJGR26B8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5SPGQM581Q6RDJGR26B8",
+          "text": "368 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY4ZBAMFMH3EEHMF8HYRC9",
+      "reference": "ALT_CORE_B_BR_26_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/368e822eae3761a54944",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Ayuda"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c6eae0d1295cf9845779",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/es_ES/0f3053d094a60ebf571c5c45f3ea1bb5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/ALT_CORE_B_BR_26_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/ALT_CORE_B_BR_26_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_26_R2",
+  "reference": "ALT_CORE_B_BR_26_R2",
+  "id": "01HKAFJNQPAZK24YWPG749K5BV",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/de_DE/400c0659c595031f61511e22632c9e07.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/en_US/372979dbfd7d5c5c29f3a21d224f6891.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/fr_FR/fde033fbb8a9b8648930cded50f9590a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/es_ES/0f3053d094a60ebf571c5c45f3ea1bb5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/it_IT/f8b1667a624cbb451b80cafd184abfea.jpg"
+  },
+  "name": "Entrenamiento físico",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Un personaje objetivo gana 3 potenciadores[]. (Un potenciador es un contador +1/+1/+1. Retíralo cuando abandone la zona de expedición.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-058-F-ES"
+}

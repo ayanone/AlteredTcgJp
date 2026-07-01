@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_38_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2GZ7G5WFB39ASTFG8M0BYZZ3KH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23BH6ZGDMD304ZP34X28",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23BH6ZGDMD304ZP34X28",
+          "text": "\"If we could just find a substitute for the missing parts, we could make it work.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23C28KQJY02PPG3JS1XK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23C28KQJY02PPG3JS1XK",
+          "text": "Hrrrgh. I put down the heavy box full of odds and ends, then shake my hands to try and get rid of the pain. I then stand up and take a deep breath, massaging my sore neck. It's not easy working in this cold, especially on my own. Around me, the Brassbugs come and go, climbing the body of my unlucky Automaton. I tried my absolute hardest, but I should have known it wouldn't have been in its element in this frozen landscape. After one unfortunate misstep, I watched it tumble down the gorge like a ragdoll before crumpling dozens of meters below. I couldn't bring myself to abandon it there, even though retrieving it would cost precious time. And using valuable supplies to repair it was also out of the question. So all I could do was collect all the scraps of metal and try to make something out of them.\n\nOK, almost there. A shower of sparks crackles as a Brassbug welds a new chest plate onto my robotic prototype. It was salvaged from an old armored Scrambler, as was the shoulder piece. But the hardest part will be making a new leg. It may not have the most graceful gait, but an ungainly limp will be good enough if it means getting back to camp. I sigh and pass a hand over its damaged frame. Well, old boy, I promise I'll get you back in shape as soon as I can, but you'll need to help me a bit in return.  The Automaton starts to move its toes and suddenly lifts its head. I can't help smiling, and I pat its exoskeleton in encouragement. I step aside as it awkwardly tries to get up. Good. And when I've finishing repairing you, I promise to give you a suitable name."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23BS0199353ZQG9JQ3F8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23BS0199353ZQG9JQ3F8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23APM2P5JSQG1VZEKRH7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23APM2P5JSQG1VZEKRH7",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23B2K64MHMSQ312D1D64",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23B2K64MHMSQ312D1D64",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2GZ7G5WFB39ASTFG8M0BYZZ3KH",
+      "reference": "ALT_ALIZE_B_AX_38_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/eeb902e872080073312b",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/565beb4ae4755e9fe30f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/en_US/14673b04ce01c5b0944f9367e01161a7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_176e74e3b9c2ebcabed125990a5f0d37",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_512573fbe1e878d1febadf43de6496e4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_4a2ca4fe0db64cb1b28dd73669ba2931"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_38_R2",
+  "reference": "ALT_ALIZE_B_AX_38_R2",
+  "id": "01J1Q4P4RTGYQGABCPS4EW548G",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/it_IT/5b21fbb993ab8ef0d158eca7a7796f8c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/es_ES/3771ac4e3163d2c93dd1db78c46cb4ac.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/de_DE/f15dfbbe1178e4e85c4c71515d22fa96.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/fr_FR/0e98f80a1685d3b4c8b1d7e33be1664d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/en_US/14673b04ce01c5b0944f9367e01161a7.jpg"
+  },
+  "name": "Flawed Prototype",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{J} Sacrifice a #Plant# or Permanent. If you can't, sacrifice me."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-010-F-EN"
+}

@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_44_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4B3EQP2KM18EWVH6C8X34GY5MC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J27EZV685EB9JPBJADCA5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J27EZV685EB9JPBJADCA5",
+          "text": "Ein hübscher Schutz vor dem Zorn der Elemente."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27FS9Y7ZFM7YHJFT9GF2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J27FS9Y7ZFM7YHJFT9GF2",
+          "text": "Ich lege meinen Handrücken auf Rins Stirn. Als ich keine Anzeichen von Fieber bemerke, seufze ich erleichtert. Überall um uns herum schwanken die Blütenblätter des Blumenzeltes im wirbelnden Wind hin und her. Es war pures Glück gewesen, dass ich trotz des Schneesturms gesehen hatte, wie sie hinfiel. Und zum Glück hatte die Pulverschicht des frischen Schnees ihren Sturz abgedämpft. Trotzdem hatte ich fast eine Stunde gebraucht, um sie zu erreichen. Ihre Körpertemperatur war bereits abgesunken. Plötzlich zupft Spike an meinem Ärmel. Ja, kleiner Spross, ich weiß. Ich nehme den Kessel vom Feuer und gieße etwas heißes Wasser in einen metallenen Becher. Dann streue ich etwas schwarzen Kompost hinein, um die Mischung, durch die er die Kälte aushalten kann, ein wenig aufzupeppen. Eine kräftiger Windstoß schüttelt mit einem wütenden Heulen die Wände des Blütenzeltes durch. Spike wickelt sich mit besorgtem Blick in seine Decke ein. Er sieht irgendwie niedergeschlagen aus.\n\nWir hatten Glück, dass wir diesen Unterschlupf trotz des rauen Wetters zum Wachsen bringen konnten. Seine Blätterkrone ist so ausgerichtet, dass sie einen Großteil des starken Windes ableitet. Ich schaue zu den Blütenstempeln, die jetzt zu glühen beginnen. Das bedeutet, dass es draußen dunkel wird. Wir können nur hoffen, dass sich der Sturm über Nacht abschwächt … Plötzlich höre ich ein Kratzen am Zelteingang. Sanft berühre ich die Blütenmembran, um sie einen Spalt weit zu öffnen. Der Fung, den ich fortgeschickt hatte, um die anderen Entdecker zu finden, kommt schneebedeckt und völlig verfroren herein. Sofort kuschelt sich der Pilz zwischen die Stempel, um sich aufzuwärmen. Als er sich beruhigt hat, sendet er mir seine Gefühle durch sein Myzel. Er hat gute Nachrichten für mich. Es gibt da draußen noch weitere Blütenzelte und alle anderen Entdecker haben in ihnen Schutz gefunden. Ich atme erleichtert auf. Jetzt muss ich nur noch warten, bis die Kleine aufwacht."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27FCW4JB5BY2G2Y1SC7T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J27FCW4JB5BY2G2Y1SC7T",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27E03AB89ZFQJZMGF060",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J27E03AB89ZFQJZMGF060",
+          "text": "ARJUN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27EECR34KM8X2JYNMD43",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J27EECR34KM8X2JYNMD43",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "4B3EQP2KM18EWVH6C8X34GY5MC",
+      "reference": "ALT_ALIZE_B_MU_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Bleibende Expeditionskarte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d51250a6a099487f397a",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Ausrüstung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cbe4276fdb088435653c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/de_DE/8b5b1662c711d5877a351f90963e33c9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/WEB_3d6c78a8e34fa5d87a1a2d351a7fde20",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/WEB_1fc7ad33fd9c8afe4ee29534b2b00b70"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_44_R1",
+  "reference": "ALT_ALIZE_B_MU_44_R1",
+  "id": "01J1Q4P4SGG6TEVFRSKNDKQK72",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/es_ES/d6d6981522bffd933947fb7744ed6ea7.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/de_DE/8b5b1662c711d5877a351f90963e33c9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/it_IT/398799ab511bad8c2ced01bf5462c649.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/en_US/4aa282e734c8ff8312f47f45361e34ad.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/fr_FR/7b302b091568dfcbbb25c7d28f429b19.jpg"
+  },
+  "name": "Blütenzelt",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "{J} [Nachschub].  Falls ein Charakter mit [[Verankert]] meine Expedition am Nachmittag verlassen würde, verliert er stattdessen [[Verankert]].",
+    "ECHO_EFFECT": "#{D} : Ein Charakter deiner Wahl mit Handkosten {3} oder weniger erhält [[Verankert]].# (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-067-R-DE"
+}

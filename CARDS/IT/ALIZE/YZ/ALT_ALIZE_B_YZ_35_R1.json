@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_35_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7VR4R5CR718EYBTFZTW5R7RVF8",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2AQZ9X3HX1F10HD0GN7K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2AQZ9X3HX1F10HD0GN7K",
+          "text": "Cavalcano l'ondata di freddo come una marea fluttuante."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AT57BB0PD3MC5X2MHXK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2AT57BB0PD3MC5X2MHXK",
+          "text": "Finalmente riesco a vedere quei flagelli. Ho addestrato le mie iris a seguire i loro movimenti furtivi e le loro traiettorie di volo, che sono silenziose come quelle di una civetta, e soprattutto a eludere la loro mimetizzazione quando si confondono tra i rami o si nascondono davanti a un muro di ghiaccio. Ecco perché sono pronto quando improvvisamente ci piombano addosso, approfittando della tempesta di neve per cavalcare i venti vorticosi. Le loro ali assomigliano a quelle di una farfalla, con disegni bianchi che risaltano su uno sfondo ametista. Le loro teste, sormontate da antenne a pettine che sembrano piccoli spolverini, ricordano quelle dei gufi, con occhi che brillano come fari nella notte. Ma ciò che mi spaventa di più sono le due paia di zampe, ciascuna dotata di artigli affilati come rasoi. Non ho mai incontrato un nemico così silenzioso, furtivo e impercettibile... In più occasioni mi hanno colto di sorpresa mentre proteggevo il convoglio. Ma non questa volta.\n\nNon permetterò mai che abbiano la meglio sulle truppe e ne minino il morale con i loro continui assalti. Oggi ripagherò i belisenki con la stessa moneta. Ma avrò bisogno di qualcosa di più delle mie iris per riuscirci. Lancio un'occhiata ad Akesha, che sta manifestando decine di falene di mana intorno a sé. Se la sua teoria è corretta, i belisenki non attaccheranno se c'è il rischio di coinvolgere quegli insetti. Come previsto, interrompono il loro attacco in picchiata ed evitano con cautela qualsiasi contatto con le falene. Hanno paura di loro? O non vogliono far loro del male? Non che abbia molta importanza. Ora so che posso sfruttare questa vulnerabilità. Studio la tecnica della maga, analizzando il modo in cui manifesta le falene. Con le mie iris, posso cercare di scomporre le sue azioni in modo da copiarle più efficacemente e replicare il risultato..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2ASGZPTAM8G233WWC7NY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2ASGZPTAM8G233WWC7NY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2APN6H89P39MHTXWSEW1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2APN6H89P39MHTXWSEW1",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AQAGRJR09W0TZ746XC5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2AQAGRJR09W0TZ746XC5",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7VR4R5CR718EYBTFZTW5R7RVF8",
+      "reference": "ALT_ALIZE_B_YZ_35_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/fe2e7bfa7aeae1f3fecf",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9fa3656b789ba7dd85de",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/it_IT/2e6a181ac37150c3f6adb49adf23bd5f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/WEB_fb1ba27c02fd9e8111aa0af1f18a8fc3",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/WEB_a2a96b8c38629ff4e4c83e06604a1cd6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/WEB_015765bb612e4beaab09e0c39d950e88"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_35_R1",
+  "reference": "ALT_ALIZE_B_YZ_35_R1",
+  "id": "01J1Q4P4STVYKQPX3X8SF0WV9N",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/it_IT/2e6a181ac37150c3f6adb49adf23bd5f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/es_ES/5b8b711755136a0c6b5fa0b933fe5b34.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/en_US/c34b57c965610e248f9add5e5634d66b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/de_DE/fa42224930766a420a0b076d21cd202e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/fr_FR/56c05e8a2c29af72efb2768e6c8dcc90.jpg"
+  },
+  "name": "Belasenka",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "{H} Puoi consumare ({T}) una carta bersaglio nella Riserva. #Poi, se ci sono due o più carte consumate nella Riserva, ottengo 1 rinforzo.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-091-R-IT"
+}

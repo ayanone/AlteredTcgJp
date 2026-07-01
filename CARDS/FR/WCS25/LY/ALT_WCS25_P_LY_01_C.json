@@ -1,0 +1,143 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCS25_P_LY_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3Q6BPPDBQW86PTEKGE5RSZJV3N",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JYRGVWTFKX98E58PF2FJBDF3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JYRGVWTFKX98E58PF2FJBDF3",
+          "text": "Le chaos est source de désillusions, mais recèle aussi les plus belles pépites !"
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWTXEZ1ZV1Y9Q83PWQ2Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JYRGVWTXEZ1ZV1Y9Q83PWQ2Q",
+          "text": "392 AC - Hop hop ! Pas de temps à perdre. L'Eidolon de Sierra va pas tarder à popper hors de sa prison de peinture. Et forcément, il va être un peu vénère. Comment ça, de la triche ? Hé, c'est juste pour donner un peu de piquant à la compète ! T'es d'accord, hein, Blotch ? Ah. Euh. Ben, merci pour ton soutien. C'est pas moi qui ai fixé les règles du jeu, et franchement, rien disait qu'il était pas possible de mettre des bâtons dans les roues de ses adversaires ! Hmm ? Comment ça ? Le Covenant ? Coopération entre les Factions, bonne entente... Blablabla. Ouais, ok, mais là, c'est juste pour s'amuser. Y a pas de Covenant qui tienne ! Oh, hein. T'es dans quelle équipe, Blotch ? T'es l'Alter Ego de qui ? Ouais, ben, c'est pas ma faute si t'as d'mauvais goût dans le choix de tes alliés, surtout quand c'est ad vitam ratatam !\n\nOk, ok. Soit. Tu lâches du lest sur la question, et je t'envoie de quoi t'aider. Ça te va ? Allez zou, emballé c'est pesé. Reste juste à invoquer une petite route arc-en-ciel ! Je dégaine mes sprays et commence à barbouiller le sol. Tout à coup, un ruban d'un rose irisé se met à tortiller dans les airs, tournicotant vers le ciel, puis à travers les nuages comme une anguille qui se dandine. Allez hop ! Tous en piste et dans les starting-blocks ! Par l'Altération, je matérialise des rollers aux pieds du Chapelier, un char à voile pour Tanuki ! En suivant le Bifröst, ils vont débarquer sur les chapeaux de roues auprès de Blotch. Hein, vieux frère ? Tu vois comment on doit se soutenir ? C'est comme ça qu'on est censé s'épauler dans un Exalt ! Pas en contredisant son comparse, surtout sur des points de détails ! Vroum vroum ! Tchou tchou ! Alors, les renforts sont arrivés, vieille branche ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWTP0NVRHE7VWP9TVYS1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JYRGVWTP0NVRHE7VWP9TVYS1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWSZWY2G78NWCSB85CWT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JYRGVWSZWY2G78NWCSB85CWT",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWT85SZ250PE171TFGCE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JYRGVWT85SZ250PE171TFGCE",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "3Q6BPPDBQW86PTEKGE5RSZJV3N",
+      "reference": "ALT_WCS25_P_LY_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/WCS25",
+    "@type": "CardSet",
+    "id": "01JTJV0RDYYPKJ3EH4M68H4RKT",
+    "reference": "WCS25",
+    "name": "World Championship Series 2025"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d55d69606018a6b2ed28",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_01/JPG/fr_FR/a96fc3befb974a7db2b89c72a3059a76.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCS25_P_LY_01_C",
+  "isOwnerless": false,
+  "reference": "ALT_WCS25_P_LY_01_C",
+  "id": "01JTJV64VV6XGV7RA28YQQS6ZB",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_01/JPG/fr_FR/a96fc3befb974a7db2b89c72a3059a76.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_01/JPG/en_US/8f95a2b4539d6aca2dc7cf7cde5aa0f5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_01/JPG/it_IT/96ca8ccd9a21119c0533eff15085e4b0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_01/JPG/es_ES/3ed2cd78f354b0954c4f0e8b9b3994a9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_01/JPG/de_DE/ae7774737d7cfe0246c9fe98d13a5964.jpg"
+  },
+  "name": "Nevenka & Blotch",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "MAIN_EFFECT": "{T} : Ciblez un Personnage que vous contrôlez, puis lancez un dé. Sur :  • 6+, il gagne [[Ancré]]. (Au Repos, il ne va pas en Réserve et il perd Ancré.)  • 2-5, il gagne 1 boost. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)  • 1, envoyez-le en Réserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "WCS25-LY-01-C-FR"
+}

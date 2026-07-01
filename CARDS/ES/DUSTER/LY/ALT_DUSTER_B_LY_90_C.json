@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_B_LY_90_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6FE67H19E6825SZW6T45Y0FWJ6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JZ37ZMWV01KWE4FYK381W42P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JZ37ZMWV01KWE4FYK381W42P",
+          "text": "«No me hace falta estar en la lista VIP. Tengo mis formas de entrar»."
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZMXRAM612XX99KZRK9H6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JZ37ZMXRAM612XX99KZRK9H6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZMXBB0HS4506N9ZJ1409",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JZ37ZMXBB0HS4506N9ZJ1409",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZMVJ08ESBCXW12KWGQWN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JZ37ZMVJ08ESBCXW12KWGQWN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZMVZ20A3113B096FBTWR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JZ37ZMVZ20A3113B096FBTWR",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "6FE67H19E6825SZW6T45Y0FWJ6",
+      "reference": "ALT_DUSTER_B_LY_90_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a66fb589a36c06064dfd",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mago"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Semillas de la unidad"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2d52b5856c9a8fc79d18",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/JPG/es_ES/6d8a13ef693d4502e2824a63298cca40.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/WEB_c0ea0a8d1c67af52a63f0b233041610b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/WEB_2da0a5239a40c57760100b1af9011b82",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/WEB_06a5c35bd9b1170fc2ec8ae7831dc8ed"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_LY_90_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_B_LY_90_C",
+  "id": "01JYP9SVPTWRP6MSB5E1RSJWZ9",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/JPG/fr_FR/094f3741a39d19461d8ee71ca1be369f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/JPG/en_US/1cfccababe94035135a69a78ca84ae4b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/JPG/it_IT/f39b9207501ae9ac01df3e1f50109579.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/JPG/es_ES/6d8a13ef693d4502e2824a63298cca40.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/JPG/de_DE/e99139ef912cea6f24aabf2e32e9b26d.jpg"
+  },
+  "name": "Nyala, juerguista nocturna",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{H} Si estoy [En contacto], puedes intercambiar una carta de tu reserva por una carta de tu mano. (Estoy en contacto si la expedición de otro jugador está en mi región.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "SDU-042-C-ES"
+}

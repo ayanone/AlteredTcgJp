@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_57_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/652J1YFYCX87Z89AVZC7S9FH1F",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A7MB42P4X9ZHXYKD6RKS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A7MB42P4X9ZHXYKD6RKS",
+          "text": "La cacería salvaje libera a los espíritus inquietos."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7N0DZJ77D5Q2G3W7XS3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A7N0DZJ77D5Q2G3W7XS3",
+          "text": "393 AC - There's something comical about watching him ride his deer with huge antlers. Followed by a pack of fearsome corgis, he looks more like a dogsitter than a king, but I don't say it out loud. I force myself to keep my composure and not burst out laughing, using all the tricks I learned from my role as a diplomat to avoid making a faux pas. After all, Arawn is one of those who preside over the Wild Hunt, and his dogs are the Cŵn Annwn, spectral hounds with a terrifying reputation. He pulls on the bridle and stops his mount next to me, turning his jade eyes towards me. He has a cold, severe look, and his silence demands an answer. He needs prey, a target, and I'm getting ready to give him one. Traditionally, it was the Hellequin Hunters that would call on him to hunt down wrongdoers, but in my case, it's to hunt down missing persons.\n\nWhile patting the deer's neck, I allow it to sniff the personal belongings of some of the missing people. Once that's been done, Arawn nods to signal that he understands the mission. He whips the side of his mount, and the stag snorts, then sets off at a furious gallop. Its glowing hooves pound the ground, shaking the air with thunder. I hope he gets there in time to save the poor guys. There have been no signs of life from the missing expedition in two days, though it was supposed to join up with the Mesektet at the entrance to the Scholars' Vault. It was so easy to get lost here. But that was the least of our worries. We had learned that much worse was lurking in the shadows… While crossing my fingers that his hunt would be successful, I watch his pack of hounds run by me. Ouch! One of them bit my ankle on the way past."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7MN7WZ43MA2C37V3W48",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A7MN7WZ43MA2C37V3W48",
+          "text": "In Welsh mythology, Arawn is the king of Annwn, the Celtic Otherworld. It is by no means a hellish kingdom, but rather a paradise of abundant food and bliss. As a psychopomp, Arawn guides souls to the afterlife. But in certain versions of the legends, he is also responsible for hunting the spirits of criminals who are trying to escape judgment."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7JY9DPNRFZY2JVHMAK6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A7JY9DPNRFZY2JVHMAK6",
+          "text": "TEIJA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7M1JEBFPC7FZ6MRS9PX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A7M1JEBFPC7FZ6MRS9PX",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "652J1YFYCX87Z89AVZC7S9FH1F",
+      "reference": "ALT_BISE_B_MU_57_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d5785b7d901394aa7291",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Espíritu"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1b3d0113683abc4c45e7",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_57/JPG/es_ES/c588d57de34e52aea7b4a77b08461493.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_57/WEB_6e354b3959b3eba6f4d451dfdb29598a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_57/WEB_310473505824ed205dce1514adfd4338",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_57/WEB_02c99277bf332058546d9ac184e8dbc0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_57_R1",
+  "reference": "ALT_BISE_B_MU_57_R1",
+  "id": "01JB1YGPBQ05E8J0QAVBX0XGVK",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_57/JPG/es_ES/c588d57de34e52aea7b4a77b08461493.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_57/JPG/de_DE/72457c2192250bdc479a03c8ba5722f8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_57/JPG/it_IT/cec44bc86a1319e47b9d2fe7f5411b56.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_57/JPG/en_US/e22822d9bf1f82338a3be7467b4b7f1f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_57/JPG/fr_FR/ee68e86ee18cb4b31c42ae3cc3fc649d.jpg"
+  },
+  "name": "Arawn",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "#5#",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "[Explorar] {2}. (Puedes jugarme desde la mano por {2} con «{h} Envíame a la reserva».)  {J} Los animales que controles ganan 1 potenciador."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-062-R-ES"
+}

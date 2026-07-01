@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_A_OR_57_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/064H3HDYND9YQSBZQ99QJKNKG0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A3ZF2PQBDZ6XKZSE6K96",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A3ZF2PQBDZ6XKZSE6K96",
+          "text": "Big up to all the little people who keep the event running."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3ZQT06PCF0N9M066SCS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A3ZQT06PCF0N9M066SCS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3ZKDY3D459XH3NGQHTD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A3ZKDY3D459XH3NGQHTD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3Z7RQX442Y4D2C8KAR9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A3Z7RQX442Y4D2C8KAR9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3ZBCM4QB1D1S0R5F0H4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A3ZBCM4QB1D1S0R5F0H4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "064H3HDYND9YQSBZQ99QJKNKG0",
+      "reference": "ALT_BISE_A_OR_57_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/66156a841a04c12f7a64",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrat"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2ab2c7dd3bc050e01856",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Noble"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/889f55f223d52d391108",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_57/JPG/en_US/22705c26b79d0acd7d5c9b7c5584627e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_57/WEB_31b3ada382e56b7ac6c5ad61bf96e4e1",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_57/WEB_280ef6d30ca90ac1122ef46349636673",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_57/WEB_32bfa6a0fcae5049be6326a092270fbc"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_OR_57_R2",
+  "reference": "ALT_BISE_A_OR_57_R2",
+  "id": "01JB2169SJKSRX61MR8ZQ356PP",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_57/JPG/it_IT/3b87fe126a0f19f4e354b600914009c4.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_57/JPG/de_DE/d3c804d087f2feabb0cf0973673575d7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_57/JPG/es_ES/149d052308c76c64a9a1dea985759839.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_57/JPG/en_US/22705c26b79d0acd7d5c9b7c5584627e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_57/JPG/fr_FR/c7184cf188e3f9f4416bdbe76b8f9e5b.jpg"
+  },
+  "name": "Ariadne",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "#3#",
+    "MOUNTAIN_POWER": "#3#",
+    "MAIN_EFFECT": "When an opponent plays a Character — If there are no Characters in the Expedition facing me, that Character switches Expeditions."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-079-F-EN"
+}

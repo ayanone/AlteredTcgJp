@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_A_OR_38_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3FFSGT7Z8G9D99F3X04VTZ5Q4S",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J3JJF0WPWF6BTCYKTJ05FPH8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J3JJF0WPWF6BTCYKTJ05FPH8",
+          "text": "O procediamo o restiamo fermi. Indietro non si torna."
+        },
+        {
+          "@id": "/lore_entry_elements/01JVYNAC6ZBGDYTQ8WXD4PG960",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JVYNAC6ZBGDYTQ8WXD4PG960",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JVYNAC6PMAAZG723BB8J62PP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JVYNAC6PMAAZG723BB8J62PP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JVYNAC5QPF2SVP34QHW4F10X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JVYNAC5QPF2SVP34QHW4F10X",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JVYNAC66A12AE22792NJ7VK3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JVYNAC66A12AE22792NJ7VK3",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "3FFSGT7Z8G9D99F3X04VTZ5Q4S",
+      "reference": "ALT_ALIZE_A_OR_38_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a38776496a74f191a739",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldato"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/296eaaaf38d6224f2c4a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_OR_38/JPG/it_IT/2ed93445419f5923ca4732bd628e2576.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_OR_38/WEB_e987662d5a82474cf8387f447dc20827",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_OR_38/WEB_1ebe17e783a775f981f24df1bce7bc9e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_OR_38/WEB_78d406b4c2e3792d95c6d08f16a3e1e1"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_OR_38_R2",
+  "reference": "ALT_ALIZE_A_OR_38_R2",
+  "id": "01J3GTS39HZD7BD2N3RRRY0X6S",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_OR_38/JPG/de_DE/ea3d13c87b119f0ac0b640633b3bd9a8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_OR_38/JPG/it_IT/2ed93445419f5923ca4732bd628e2576.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_OR_38/JPG/es_ES/8bfd052f3ab3c7ce7da5d6b99f60a2e7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_OR_38/JPG/fr_FR/ea305c9687c3d10121801ecc3c432fd1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_OR_38/JPG/en_US/4f0df7df1690a63d845253d61794c2cf.jpg"
+  },
+  "name": "Sunisa, Caposquadra Infaticabile",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "[Difensore]. (La mia spedizione non può avanzare durante il crepuscolo.)  Se la mia spedizione è indietro, i personaggi con [Difensore] non le impediscono di avanzare."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-074-F-IT"
+}

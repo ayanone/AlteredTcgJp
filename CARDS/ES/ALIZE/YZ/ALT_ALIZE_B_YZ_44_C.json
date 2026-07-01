@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_44_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4C9VJGY2YJ87TA0KW7PENET6QZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2C03TXABWCE1F0PDH00Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2C03TXABWCE1F0PDH00Y",
+          "text": "A su luz, las cosas cambian y se tornan ilusiones."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2C26F9SA53MJ1XY7NAGY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2C26F9SA53MJ1XY7NAGY",
+          "text": "«No te ves la mano si te la pones delante de la cara», dicen los humanos que nos acompañan. Es un hecho innegable que romper la lámpara del espeleólogo en plena exploración de la cueva no ha sido la mejor opción. Llevamos un rato avanzando a tientas, y los afloramientos rocosos son cada vez más peligrosos, asimétricos, dentados y afilados. Los miembros de la expedición tienen cortes y magulladuras por todas las manos y rodillas. Es imposible ver con claridad qué clase de trampas nos esperan en las profundidades. Sugiero a Lindiwe que proponga una solución iluminadora. Se detiene, reflexiona y busca en sus bolsillos un objeto: una bombilla de cristal emplomado translúcido con una pequeña cadena en un extremo. Es un objeto perfectamente corriente con múltiples usos: un recipiente para muestras, un frasco que abrir o aplastar contra el suelo en caso de emergencia... Pero en este momento está vacío. La Alteradora desenrosca la tapa metálica e introduce su esquirla de éter, tal como le ordeno.\n\nSopla suavemente en la bombilla, lo cual produce una niebla brillante, y luego vuelve a colocar la tapa con un rápido giro de muñeca. El maná del interior del tubo hace repiquetear la joya. De repente, aparece un enjambre de polillas luminosas que se arremolinan alrededor de la bombilla, convertida en una lámpara improvisada por la mera presencia de las resplandecientes criaturas voladoras. En la cueva por fin vuelve a haber luz, que nos revela la naturaleza del camino que queda por delante. La vista que tenemos ante nosotros es realmente mágica, y le concedo a Lindiwe el placer de contemplarla. Los afloramientos rocosos son, de hecho, magníficos e impresionantes cristales, y sus ángulos agudos proyectan brillantes rayos sobre todas las superficies de la caverna. Los insectos revolotean alrededor de la bombilla; es momento de mantenerlos allí. Lindiwe se concentra, coloca las manos sobre el cristal del farol y, con un movimiento brusco impulsado por un nuevo pico de maná, hace girar la bombilla, que atrae y captura a los bichos. La Alteradora sonríe, reflejando mi propia satisfacción."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2C1NAE9EQK8MET8NPWV7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2C1NAE9EQK8MET8NPWV7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BYRNV6WRPQP7AQ43HQ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2BYRNV6WRPQP7AQ43HQ5",
+          "text": "FAUCES"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BZFQN6W32VJBS7SZTY0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2BZFQN6W32VJBS7SZTY0",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "4C9VJGY2YJ87TA0KW7PENET6QZ",
+      "reference": "ALT_ALIZE_B_YZ_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanente de expedición"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/24e5e6709e85baeeb95c",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Accesorio"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/746db7f458c40ee7b1ed",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/es_ES/3675f8c434a92d7cad10698f8522c7a5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/WEB_0a4fd398c4378dd9b3f9360220c9c077",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/WEB_0c6ed17d391918cdef31a9f630715cc9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_44_C",
+  "reference": "ALT_ALIZE_B_YZ_44_C",
+  "id": "01J1Q4P4SWD7ABYG5VK63B8RNY",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/it_IT/6c4318f82411c90adffe4eeb53674064.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/de_DE/d8c9ad06fa950ea9a54e923e8f6da32a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/es_ES/3675f8c434a92d7cad10698f8522c7a5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/en_US/9255bf4076b1f3f417477a2968df9052.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/fr_FR/e1348ab056a44fb5f1e74d6dd11c4a57.jpg"
+  },
+  "name": "Farolilla",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Cuando sacrifiques un personaje que no sea ilusión — Crea una ficha de ilusión [MANA_MOTH] en mi expedición.  {J} Sacrifica un personaje de mi expedición."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-100-C-ES"
+}

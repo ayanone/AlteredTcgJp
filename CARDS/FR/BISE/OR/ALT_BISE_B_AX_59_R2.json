@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_59_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5EQWHSH8VG9YVVX1ZEVSNJJR0T",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4CW1E6T6G5RN4MVMNR2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4CW1E6T6G5RN4MVMNR2",
+          "text": "À chaque excavation, la récolte de la Sève devient plus risquée."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4D8PB66KGDV2VN2YKDK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A4D8PB66KGDV2VN2YKDK",
+          "text": "393 AC - Je désactive le sonar et replie l'antenne. Les relevés sont formels : il y a de la Sève de l'autre côté de la paroi. Ici, là où le Sous-bois commence à faire place à des formations rocheuses plus géométriques, les arbres se parent d'entrelacs et de circonvolutions, signe qu'ils se sont adaptés à la vie souterraine en se nourrissant du liquide doré. Hier encore, nous avons découvert une souche creuse où nous avons pu collecter l'équivalent de deux citernes, et sur tout le pourtour des racines, une flore bigarrée avait pu se développer, s'appuyant non sur la lumière du soleil et les minéraux du sol, mais bien sur la substance nourricière. Je siffle en direction d'Oddball, qui interrompt sa ronde pour venir me rejoindre. Sa jauge de Mana est au plus haut depuis qu'il a effectué sa mission de reconnaissance dans les profondeurs. Je vais prendre appui sur lui plutôt que de passer par du matériel de forage conventionnel.\n\nPrenant place face à la paroi boursouflée, en position stationnaire, il condense son énergie, avant de tirer un rayon concentré sur une craquelure du mur. Le faisceau frappe la surface veinée, qui se met à rougeoyer sous le coup de la soudaine montée de température. L'auréole carmine s'étend sur la pierre sombre, comme une tâche d'encre qui se propage sur le vélin, comme un circuit sanguin soudain mis en lumière à travers la chair. Je fais signe à la sentinelle qui m'a été affectée à mon insu, soi-disant pour ma protection, mais cette dernière, rétive, ne semble pas vouloir suivre mes conseils. Tant pis pour elle. Soudain, la cloison se craquelle, et sous le coup de la pression accumulée, la substance pâteuse jaillit tel un geyser. Derrière moi, les équipes se mettent en branle avec leurs pompes et leurs siphons kéloniques. Il ne reste plus qu'à collecter la Sève jusqu'à la dernière goutte et, accessoirement, débarbouiller l'Eidolon qui n'a pas voulu respecter les consignes de sécurité..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4D3C84AAK706GXRQRK9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4D3C84AAK706GXRQRK9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4CHE4G3SE3BTTEB29NX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A4CHE4G3SE3BTTEB29NX",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4CQTWFW49BH9DGSBB8G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4CQTWFW49BH9DGSBB8G",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "5EQWHSH8VG9YVVX1ZEVSNJJR0T",
+      "reference": "ALT_BISE_B_AX_59_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/264a6bd20a8d7a8edf59",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8bb4ec4a761c6d389ddd",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/fr_FR/dfd92638be5c22b5169ac557bc7c5c9a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/WEB_42ac8e81f796caec3ff2067581034441",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/WEB_c429cb2571f356f638d71df9a4711075"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_59_R2",
+  "reference": "ALT_BISE_B_AX_59_R2",
+  "id": "01JB1YGPB6T61E0YAFG5S1GH8G",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/it_IT/a5b92c1ca1ff35a368f10e72b04a43e9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/de_DE/05286bcd35c89c5f9abc93cd75fe8a01.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/en_US/ebf1d34e55d315da0a5368fa5c57098f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/fr_FR/dfd92638be5c22b5169ac557bc7c5c9a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/es_ES/f089218f30ae77a97fb768bec49db2c6.jpg"
+  },
+  "name": "Débordement de Sève",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "[[Fugace]].  #Choisissez l'un :  • Dépensez 1 compteur d'une carte que vous contrôlez ou dans votre Réserve pour défausser un Permanent ciblé.#  • Défaussez un Personnage ciblé en jeu ou en Réserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-013-F-FR"
+}

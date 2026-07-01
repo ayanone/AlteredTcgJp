@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_10_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77VXVRQKKZW86SVS2D2S",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7W6PVAMKY7G02TSBPG70",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7W6PVAMKY7G02TSBPG70",
+          "text": "« L'Aérolithe ne semble pas affectée par la gravité. En domestiquant ses propriétés, nous pourrions créer des vaisseaux et des villes volantes, tutoyer les nuages... »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W73YM6NEBH7M78Z8R2C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7W73YM6NEBH7M78Z8R2C",
+          "text": "Jian Lam pose une main sur le cœur d'Aérolithe, tapotant sa surface tandis qu'il nous parle de ses propriétés. J'écoute attentivement l'Eidolon. Comme le Kélon, l'Aérolithe est un matériau qui a émergé avec la Confluence. Les Nomades du Tumulte en parlaient déjà durant leurs voyages : des ruines flottantes, des rocs suspendus dans les airs comme par magie... Ce n'était pas un simple caprice de la nature, mais un nouvel élément, qui pouvait être exploité. C'est ce qu'avait fait Jian Lam il y a plus de trois cents ans de ça. Il avait dessiné des plates-formes et des barges à lévitation, des quantités d'inventions fantasques et visionnaires... Quelque part, c'est même grâce à lui que la capitale ressemble à ce qu'elle est aujourd'hui, avec des zones lacustres qui volettent au-dessus de l'eau sans l'aide de pilotis.\n\nLam active un bouton, et la sphère d'Aérolithe s'élève de quelques centimètres. Il active son propre propulseur dorsal et prend de la hauteur à son tour. Bon, il n'est pas toujours facile de suivre ses explications. Paju le décrit comme quelqu'un de distraitement passionné, avec un tempérament rêveur. Mais quand il parle de ses créations, ses yeux se mettent à pétiller et son enthousiasme est communicatif. Même s'il perd parfois la notion du temps et que ses cours ne finissent jamais à l'heure... Pour nous, l'Aérolithe est ce qui va permettre à nos airships de s'élever dans le ciel et de côtoyer les oiseaux. Situé au centre de l'appareil, juste derrière le cockpit, ce noyau est un peu notre bouée. En y envoyant des impulsions, on pourra faire varier l'altitude, tandis que les moteurs au Kélon nous propulseront en avant ou en arrière. À la demande de l'Eidolon, j'enfile mon réacteur dorsal. J'adore cet aspect de nos travaux pratiques."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W6WJZ5JP5J9P0R1WNB6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7W6WJZ5JP5J9P0R1WNB6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W68AV8KT0F63CB8CZ36",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7W68AV8KT0F63CB8CZ36",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W6G0Y0CSZMHES112NVS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7W6G0Y0CSZMHES112NVS",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77VXVRQKKZW86SVS2D2S",
+      "reference": "ALT_COREKS_B_AX_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8a96ef5a287a88c5b9ed",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9636a9d7da2f8931944c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/05f82065da0ce5a0a6d7",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:42+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of (Rare) Jian, Assembly Overseer had the Support Ability \"{D} : Activate the {j} triggers of target Permanent you control. (Discard me from Reserve to do this.)\"  Future printings will read \"{D} : Activate the {j} abilities of target Permanent you control. (Discard me from Reserve to do this.)\" "
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/fr_FR/553012bec41576e3817b77588aa239e1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_10/ALT_CORE_B_AX_10_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_10/ALT_CORE_B_AX_10_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_10/ALT_CORE_B_AX_10_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_10_R1",
+  "reference": "ALT_COREKS_B_AX_10_R1",
+  "id": "01HN5TXR3AMG2PDQ8PATA28ZB7",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/it_IT/1656ccb9404126ad8507c73a49a451e2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/es_ES/c95fb7fe4e3cec17efc6cc452160b94d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/de_DE/81d47d60fa5abb57e0de704690eb5e95.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/en_US/82b925a8cfb58b37d8dbfd4b4126e543.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/fr_FR/553012bec41576e3817b77588aa239e1.jpg"
+  },
+  "name": "Jian, Superviseur d'Assemblage",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "3",
+    "ECHO_EFFECT": "#{D} : Activez les capacités {j} d'un Permanent ciblé que vous contrôlez.# (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-009-R-FR"
+}

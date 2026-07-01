@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_08_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YV465QSV86J7ZT6C19A",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QCDS3G0N1DVVFZTQZFT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QCDS3G0N1DVVFZTQZFT",
+          "text": "Die begrenzten Ressourcen der Axiom zwangen sie dazu, so viel wie möglich wiederzuverwenden."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QCS5G7AW3GK96MYW2CT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5QCS5G7AW3GK96MYW2CT",
+          "text": "The Lead Salvager watches me as I unload my gear. I groan when I see his eyes narrow, and begin sorting assiduously. I know how demanding he can be about this. After seeing that I'm following his instructions, he looks away and puts his welding mask back on. The flame of his blowtorch starts to glow as he goes back to the piece of metal he's cutting. I know the Suspira mines are becoming depleted, in terms of both rare ores and Kelon. The only solution we've found is to reduce waste by recycling materials as much as possible. This will be a problem in the long term if the Rediscovery Endeavor isn't a success. I know what the higher-ups say: We need to cut costs to keep up the pace, blah blah blah. In the meantime, that means recycling as much as we can to give it a second life, and that's no easy task.\n\nThe Salvager approaches while I empty the contents of my latest sackful. He goes through the gear, weighs something in his hand, examines a part that still seems to work. Yep, my haul is good and I shouldn't be ashamed of what I collected. He waves his hand at me, a vague gesture somewhere between showing approval and telling me to get back to work. I do as he says. It's not like I was expecting congratulations. As I climb the steps of the recycling area, I remember a story I was told when I was young: A long time ago, there once was a man whose job was to bring loads of presents to people all over the world. I can't say I envy him…"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QCKKEX1BR0SK5MCTW7A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QCKKEX1BR0SK5MCTW7A",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QC1NM5B439WY13DFZZ0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5QC1NM5B439WY13DFZZ0",
+          "text": " Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QC7VCGBP78THR2XJVZQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QC7VCGBP78THR2XJVZQ",
+          "text": "373 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YV465QSV86J7ZT6C19A",
+      "reference": "ALT_CORE_B_AX_08_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b6392064c00ff6943a98",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingenieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/904fead522ef34abd361",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_08/JPG/de_DE/26528bd0c69bd34075bbeba31d43bc35.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_08/ALT_CORE_B_AX_08_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_08/ALT_CORE_B_AX_08_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_08/ALT_CORE_B_AX_08_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_08_R1",
+  "reference": "ALT_CORE_B_AX_08_R1",
+  "id": "01HKAFJNHZYCM51XFNXHSS6E38",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_08/JPG/es_ES/04874d355bc2cd3d286919dafa64350a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_08/JPG/de_DE/26528bd0c69bd34075bbeba31d43bc35.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_08/JPG/it_IT/e8aebce5c0e9cb0bbaa507e043489f50.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_08/JPG/en_US/389b02630b427344972f8ffc1ddc61f8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_08/JPG/fr_FR/069c88f1b7eae308649b6af888918ede.jpg"
+  },
+  "name": "Axiom-Bergungsarbeiter",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#1#",
+    "OCEAN_POWER": "#0#",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{R} [Nachschub]. (Lege die oberste Karte deines Decks in die Reserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-005-R-DE"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_B_OR_76_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1YHT7GDZDG9788KRGRVXE4JM5C",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGC3D935P8F5VQ6J1A8QYV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGC3D935P8F5VQ6J1A8QYV",
+          "text": "Wenn sie ihre Flügel ausbreitet, wird ihr Sieg für alle Ewigkeit strahlen."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGC3E8YYWABQ47VV69QPKX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JNRGC3E8YYWABQ47VV69QPKX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGC3DS1JCS37YFWKHZWZ28",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGC3DS1JCS37YFWKHZWZ28",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGC3CAF5WTS981Z47Z0Y2M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JNRGC3CAF5WTS981Z47Z0Y2M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGC3CTKMYG1J9EJMJ0W5GP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGC3CTKMYG1J9EJMJ0W5GP",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1YHT7GDZDG9788KRGRVXE4JM5C",
+      "reference": "ALT_CYCLONE_B_OR_76_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/dad674008f99ee7d8903",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Gottheit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Skybound Odyssey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cd08a75894b58302505d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_76/JPG/de_DE/7fb8aa349234b67c105c1e1d4912ce64.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_76/WEB_bcfcc3a43ffe58fa1ccb3f426138d460",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_76/WEB_7b16536b5d36610fec2763c742dc89d4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_76/WEB_84f068c938958c3ebeb3cc2b2c0722a0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_OR_76_R2",
+  "reference": "ALT_CYCLONE_B_OR_76_R2",
+  "id": "01JN9HNDYCGM12D0GM1JTBX41N",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_76/JPG/de_DE/7fb8aa349234b67c105c1e1d4912ce64.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_76/JPG/it_IT/42a043b70ae8a8ac2c59572b4ac1ed44.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_76/JPG/en_US/3d3af297fb35de2f55e8e3ee22a8ccf5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_76/JPG/fr_FR/b85d7ba18409cae0d9bac69c1ffef1b0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_76/JPG/es_ES/7870b66b1b105f094931fbd09c664633.jpg"
+  },
+  "name": "Nike",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "OCEAN_POWER": "#4#",
+    "FOREST_POWER": "#4#",
+    "MOUNTAIN_POWER": "#4#",
+    "MAIN_EFFECT": "[Ewig]. (Während der Ruhepause gehe ich nicht in die Reserve.)  Zum Mittag — Eine Expedition deiner Wahl ist [Aufsteigend]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "SKY-84-F-DE"
+}

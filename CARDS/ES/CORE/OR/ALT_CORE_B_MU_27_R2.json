@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_27_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY5083PJNW6747S5H8N7VE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5YG7GFRWDFJFMRAVG3DB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5YG7GFRWDFJFMRAVG3DB",
+          "text": "Cuando el sol brille, brillaremos juntos."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YH3XVZ6VTFQFS45KTFD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5YH3XVZ6VTFQFS45KTFD",
+          "text": " \"The Muna's relationship with nature is unparalleled. Few others can claim to be as closely linked to the things and beings around them. Of this we have collected many clues, if not outright evidence. The matter is not so clear at first glance, however. When you study Muna philosophy, it can be distinguished as primarily inward-facing. But do not see this as egocentrism — quite the contrary. The Muna practice introspection, owing to which they possess a self-knowledge far exceeding most ordinary individuals. I think this internal wisdom is what ultimately guides a Muna's relationship with the world and with others. Being lucid about themself, they can focus their full awareness on what they want to contribute to what is outside of themself. They know their place in the world. Certain unknowns remain, of course. What the Muna call the Skein is one of them. If what they say is true, Mana — which we thought was a result of the Confluence — could have existed before the cataclysm. But it was invisible then, firmly rooted in living beings and inanimate objects. According to their claims, this Mana is arranged within a vast and interwoven fabric. As we are not Muna, we cannot verify this information. But if it were found to be true, this would open new perspectives on what we might be able to accomplish... perhaps even find a solution to stabilize reality!\"\n\nTestimony from Issur, 157 AC\nAt the panel to decide the Muna's status as a Faction"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YGNG92Q4C8CQCRG0Y5B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5YGNG92Q4C8CQCRG0Y5B",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YFASD6SFSQPATF308H9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5YFASD6SFSQPATF308H9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YFR4D8XK330C9BPWSS8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5YFR4D8XK330C9BPWSS8",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY5083PJNW6747S5H8N7VE",
+      "reference": "ALT_CORE_B_MU_27_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1deee8c8abf723f96752",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Ayuda"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8efb934cd9a951ef56f2",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/es_ES/43cdc40a7d580ec93d2b4f47dc5597fb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/ALT_CORE_B_MU_27_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/ALT_CORE_B_MU_27_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_27_R2",
+  "reference": "ALT_CORE_B_MU_27_R2",
+  "id": "01HKAFJP99YYMKVM7PT675HXBF",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/it_IT/8d5f0e6133400b464624f48679099fe4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/en_US/8ee2ed33d2532e244ebf012a7555c92e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/fr_FR/9ac4fcdc8ce646c1cb4654946f5d6be0.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/de_DE/466ff415f6181dd411968d56a5876cf3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/es_ES/43cdc40a7d580ec93d2b4f47dc5597fb.jpg"
+  },
+  "name": "Cuidar",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Hasta dos personajes objetivo ganan 1 potenciador cada uno."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-116-F-ES"
+}

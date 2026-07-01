@@ -1,0 +1,146 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_NE_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7636DX0C7C9Q7BVPC6FS04Y45E",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A8AYD39KEFCH8WABW1X3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A8AYD39KEFCH8WABW1X3",
+          "text": "Mana is the cement that binds ideas and reality."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8BNH1B8AHJF50JKTCV0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A8BNH1B8AHJF50JKTCV0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8BA3146GKB010QWA0PZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A8BA3146GKB010QWA0PZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8A7ED05ARA2TAG8VR3C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A8A7ED05ARA2TAG8VR3C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8AKRSZ2438TE2KFVHQ2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A8AKRSZ2438TE2KFVHQ2",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J21DT90AFB9Y6TNNK7CTA4DR",
+        "@type": "LoreEntryType",
+        "id": "01J21DT90AFB9Y6TNNK7CTA4DR",
+        "reference": "TOKEN_MANA",
+        "name": "Mana",
+        "description": ""
+      },
+      "id": "7636DX0C7C9Q7BVPC6FS04Y45E",
+      "reference": "ALT_BISE_B_NE_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP4ACD3DFEJW3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN_MANA",
+    "id": "01H0FV1VGP4ACD3DFEJW3PWTQT",
+    "name": "Maná"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0e34a2bc254e835a564f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/es_ES/595182bf40225e6d548e0ba9f5f59b25.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/WEB_faf91d646d47466555b4d8feff085ef5"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_NE_01_C",
+  "reference": "ALT_BISE_B_NE_01_C",
+  "id": "01JB21S40DBTTHG0ZRS4DW6ME6",
+  "mainFaction": {
+    "@id": "/factions/NE",
+    "@type": "Faction",
+    "reference": "NE",
+    "color": "#8f95b2",
+    "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+    "name": "Neutral"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/es_ES/595182bf40225e6d548e0ba9f5f59b25.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/de_DE/e79e7b856f84450c48aaf7e77a62f43d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/en_US/ac7bf2f78e7466194ee789b49b68b0df.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/it_IT/02adab48f5aa2e4fea9bdeffd08c484b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/fr_FR/28f412905c57bca4b0c333f1da092005.jpg"
+  },
+  "name": "Convergencia de maná",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "MAIN_EFFECT": "No se me puede jugar, pero se me puede usar como orbe de maná. (En un draft, puedes añadir cualquier número de cartas \"Convergencia de maná\" a tu mazo.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-106-T-ES"
+}

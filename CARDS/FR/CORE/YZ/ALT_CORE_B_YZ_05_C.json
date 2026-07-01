@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_05_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50CEP0E5CH3VT8H2MRRG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH63HADKMG2W0Z86C8QA1E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH63HADKMG2W0Z86C8QA1E",
+          "text": "En théorie, la transdifférenciation peut se poursuivre indéfiniment, rendant ainsi la méduse biologiquement immortelle... et visqueuse."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63JY8JN03RK9GWWK86Y4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH63JY8JN03RK9GWWK86Y4",
+          "text": "La lune ne va pas tarder à pointer le bout de son nez. Je plonge la main dans l'eau de la mare, regardant de lentes ondes se propager sur sa surface. C'est l'heure pour les méduses de sortir de leur cachette et de venir emplir les halls diaphanes du Magisterium. On peut les voir sortir de l'eau et prendre leur envol à la nuit tombée, surtout quand la lune illumine les jardins d'une clarté laiteuse, comme ce sera le cas aujourd'hui. C'est un spectacle magnifique, plein de grâce... comme dans un rêve. Mais pour une fois, je suis bien réveillée. Suffisamment pour profiter pleinement de cette féerie. Le bruit de l'eau se réverbère dans les couloirs déserts, tout comme la lueur étoilée qui émane des murs ou du plafond. Il faut que je profite du moment, que je savoure autant que je peux cette brève parenthèse.\n\nBientôt, une méduse lunaire nage gaiement jusque dans la paume de ma main. Je sens bien entendu la morsure urticante de son épiderme, mais cela fait du bien de sentir quelque chose... Soudain, une sourde léthargie se met à m'envahir, comme un venin qui se propage en moi. Ma main sort la méduse de l'eau. Elle est engourdie, mais je peux encore percevoir la texture gluante de son mucus. Je cligne des yeux, sentant la torpeur se diffuser dans mon être pour m'attirer dans une nouvelle rêverie. Mais avant cela...je me tourne vers le ver astral qui m'enserre comme un serpent. Je dois le nourrir, satisfaire sa faim. La Chimère renifle la méduse. Brusquement, elle l'avale toute entière pour se repaître de sa chair gélatineuse. Je la vois désintégrer le métazoaire, digérer les idées qui le composent pour en extraire le Mana. Maintenant qu'elle a été nourrie, il est temps pour moi de me rendormir..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63J5SS7076VYC9TK87BJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH63J5SS7076VYC9TK87BJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63FRPX8QRF1CPRXK2E6K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH63FRPX8QRF1CPRXK2E6K",
+          "text": " Lindiwe"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63GJQ8SC31DDD2Y71V9Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH63GJQ8SC31DDD2Y71V9Z",
+          "text": "372 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50CEP0E5CH3VT8H2MRRG",
+      "reference": "ALT_CORE_B_YZ_05_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3c86d42daf6e6ecf79c8",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Esprit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c761872132dbd1262c87",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/6839e1c968794768591d",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:47+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Moonlight Jellyfish read: \"When I'm sacrificed, if I'm not [FLEETING] — Put me in Reserve.\" Future printings will read: \"When I'm sacrificed, if I was not [FLEETING] — Put me in Reserve.\""
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/2520f03b531b3ad7e5ca",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:47+00:00",
+      "question": "In which order does the effect of Moonlight Jellyfish resolves when it's sacrificed?",
+      "answer": "1. The controller of Moonlight Jellyfish declares they sacrifice it. 2. Moonlight Jellyfish reaction is triggered, depending on whether it's Fleeting or not. 3. Moonlight Jellyfish goes to discard. 4. After the effect that sacrificed it is resolved, Moonlight Jellyfish reaction (or any other reactions still in Limbo at that moment) can be resolved."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/JPG/fr_FR/27fec0b6aaf0e239d2b2b778db7e4097.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_05_C",
+  "reference": "ALT_CORE_B_YZ_05_C",
+  "id": "01HKAFJNZA6P42ZSQG643469SA",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/JPG/de_DE/e837fd9d37bcf85bcb285b3a8ef690d7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/JPG/fr_FR/27fec0b6aaf0e239d2b2b778db7e4097.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/JPG/it_IT/7b189f430519501717236c6c065ca1b3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/JPG/es_ES/d462d9254e5500603a076f99287802e8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/JPG/en_US/7780e503f0b1a5a4a493ddb2371a16ab.jpg"
+  },
+  "name": "Méduse Lunaire",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "Lorsque je suis sacrifiée, si je n'étais pas [[Fugace]] — Mettez-moi en Réserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-154-C-FR"
+}

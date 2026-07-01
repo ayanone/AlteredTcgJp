@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_36_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1NZP9BGM828ZETT3GEP08KDS0B",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24A9NF16W9D7J7B79RY0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24A9NF16W9D7J7B79RY0",
+          "text": "\"Their ranks will be composed of seasoned argonauts, ready to face the perils of the unknown!\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24AV782J9SY805Q2FETZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24AV782J9SY805Q2FETZ",
+          "text": "I don't want to slow down, but I notice with relief that more and more victims of the avalanche are being pulled from the snow by our rescue team. Not far from me, Catriona is summoning the idea of heat itself to warm up an Ordis recruit. I feel a warm air current caress my face and start to dream of a hot place to relax my muscles, like I saw those damned Lyra doing just yesterday. Ha! I suddenly feel exhausted from the extra effort we've had to put in, barely a few hours after returning from the expedition. We didn't even have time to rest or finish our bowl of soup... But I don't regret answering the call, considering all the people we're saving. That obviously justifies the extra soreness we'll feel after this ordeal.\n\nAs I watch the Bravos rescuer, I wonder where her younger sister Aoife is. Maybe she was deployed on the western flank to help or guide the little Brassbug army that was dropped from the Ouroboros? Or did she stay onboard? Whereas Aoife is an experienced adventurer who can sometimes take a few too many risks, Cat radiates kindness and generosity. And with Aoife's tendency to rush in, having someone to take care of minor wounds once the job is done is a great help. They are certainly polar opposites. But they also clearly complement each other. That was evident at the start of their training, and it's still the case. I smile in spite of everything. With Chagha, solid and taciturn as a rock, and Cat, dedicated and always calm, it seems my little protégé is in good hands."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24AJ43EZ11J9RND5KAZE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24AJ43EZ11J9RND5KAZE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J249KD1TSFSB0TGHRYCAP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J249KD1TSFSB0TGHRYCAP",
+          "text": "BASIRA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J249ZBQYF8SJA1QN5D1M6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J249ZBQYF8SJA1QN5D1M6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1NZP9BGM828ZETT3GEP08KDS0B",
+      "reference": "ALT_ALIZE_B_BR_36_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/73d2cd7d38f223aae66c",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Adventurer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/dfa246d819f2c61411d4",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/en_US/492704a7834866604a86eba1be13f57f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_7d12689d4a40063df30beb0bf9ece902",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_939ef3ed4617f3cd30dca7093809cd4e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_160a421ab9230aae2d52bc2d8422ef17"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_36_R1",
+  "reference": "ALT_ALIZE_B_BR_36_R1",
+  "id": "01J1Q4P4S1E6BR3CRG4TVW2HF2",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/it_IT/859dd85b2507cdca423acd02440de8a1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/de_DE/42872a491127600e57345c87c26073db.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/es_ES/df35c443144c42b2b8469f977690979d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/fr_FR/402711750ea09dbd0208ac8daee12c3b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/en_US/492704a7834866604a86eba1be13f57f.jpg"
+  },
+  "name": "Bravos Rescuer",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "#3#",
+    "MAIN_EFFECT": "#{J} You may target another [[Fleeting]] Character. It gains 2 boosts.#",
+    "ECHO_EFFECT": "{D} : Target Character loses [[Fleeting]]. (Discard me from Reserve to do this.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-024-R-EN"
+}

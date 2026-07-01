@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_25_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB797Z0H49NTW2AJK864BH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME84NZBP1936V9M8ZMK5GP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME84NZBP1936V9M8ZMK5GP",
+          "text": "Ne pense pas que tu es, sache que tu es."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84Q1VK93H319P4K3Y4WR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME84Q1VK93H319P4K3Y4WR",
+          "text": "Je prends place sur le sol duveteux, essayant de calmer ma respiration. Pendant un instant, je m'imagine au sein de la Katkera, sous la frondaison des arbres qui oscillent au-dessus de ma tête, tandis que les rayons du Soleil transpercent la canopée. Mais nous sommes bien loin d'Asgartha, sous des cieux inconnus, et les arbres ici me sont étrangers. Cette forêt aussi est ancienne. Cependant, les troncs qui s'y élancent ont la couleur du marbre, et les feuilles qui y vacillent ont la teinte du miel. Je souffle longuement et m'assieds sur le sol moussu. Ces vénérables arbres répondront-ils à mon appel ? Immédiatement, je sens les filaments de Mana crépiter sous mes doigts, comme s'ils signifiaient leur accord. Ils ne semblent pas rejeter ma présence. Bien au contraire, ils m'invitent à entrer en résonance. J'étends ma conscience. Mon esprit remonte le long des veinules énergétiques, qui s'étirent comme du mycélium.\n\nJ'accède au Skein, le réseau d'énergie qui relie toutes choses et tous êtres. Je pourrais puiser à l'intérieur, mais ce n'est pas ce que je fais en cet instant. À l'inverse, j'y insuffle mon propre Mana, stabilisant mon environnement, ainsi que tout ce qui s'y déploie. Non loin, je sens l'Eidolon que j'ai matérialisé s'ébrouer. Son Mana est faible, et il est en train de se désincarner. Je mobilise mon énergie et celle du monde autour, la fais affluer vers lui. Les rigoles deviennent des ruisseaux, les ruisseaux une rivière... Lampée après lampée, je nourris son être, lui fais reprendre un peu de consistance, jusqu'à ce qu'il vibre à nouveau d'énergie. J'ouvre alors les yeux, remerciant les arbres tout autour. Après cette brève méditation, je me lève et me remets en route. Au-dessus de ma tête, les branches s'agitent et les feuillages bruissent, palpitant de réalité."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84PGQN90B8D6RXRHBJBM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME84PGQN90B8D6RXRHBJBM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84MV12KA2HPKKV7RP931",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME84MV12KA2HPKKV7RP931",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84NE93RNY1245C1T43MC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME84NE93RNY1245C1T43MC",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB797Z0H49NTW2AJK864BH",
+      "reference": "ALT_COREKS_B_MU_25_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/63b3f2001b07d07cfad3",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Bénédiction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8224196597bc41725fea",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/fr_FR/c3524ce16f3ae9e69e2b232667895e65.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_25/WEB_1f403da3e74c3f88f8b8a326bc466cf5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_25/WEB_5792395d161b0dfa902f1255b1f07b46"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_25_R1",
+  "reference": "ALT_COREKS_B_MU_25_R1",
+  "id": "01HN5TXRSBXXCXG39MHNN0X3VZ",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/de_DE/e4d8fcd62c81efe14ec6adf5082d77aa.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/it_IT/d927f7e2ea8b2d012e9dae0356906ea3.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/fr_FR/c3524ce16f3ae9e69e2b232667895e65.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/en_US/0882947049df709c745faf3ededd7b3d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/es_ES/3259d8a755b8ae599197bab12043c5e0.jpg"
+  },
+  "name": "Entraînement à la Méditation",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Un Personnage ciblé de Coût de Main {3} ou moins gagne [[Ancré]]. (Au Repos, il ne va pas en Réserve et il perd Ancré.)",
+    "ECHO_EFFECT": "#{D} : Le prochain Personnage que vous jouez ce tour gagne 1 boost.# (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-117-R-FR"
+}

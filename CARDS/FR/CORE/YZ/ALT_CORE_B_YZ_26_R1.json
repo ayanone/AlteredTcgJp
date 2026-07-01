@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_26_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50EK27ASV25MJD9819M5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH66MTYK32AQ5KN3Z7NC04",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH66MTYK32AQ5KN3Z7NC04",
+          "text": "Les vagues rugissantes se brisèrent sur les armées qui chargeaient, et d'innombrables soldats disparurent sous les eaux en furie."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66P1PGG4B08YZBM44CA3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH66P1PGG4B08YZBM44CA3",
+          "text": "Avec horreur, je vois les soldats de l'Aegis se faire avaler par les vagues. Le Kraken ravage les rangs Ordis, et je désespère de leur prêter main-forte. Mais Taru est cramponné à mon bras, tournant ses yeux larmoyants dans ma direction. D'un de ses tentacules, il pointe une direction à l'opposé du champ de bataille. Mais les propos qu'il me tient sont incompréhensibles. \"Ailleurs. La menace vient d'ailleurs\". Ses ventouses se collent à ma peau, m'empêchant d'incanter. Je vois une silhouette disparaître dans la houle et supplie mon Alter Ego de relâcher son étreinte. Il finit par se résigner en prenant une moue boudeuse, tandis que ses appendices se mettent à pendre mollement. En contrebas, la mer est sens dessus-dessous. L'écume bouillonne, la houle gifle les falaises, la mer tourne comme l'eau d'une baignoire qui se vide. Mais c'est précisément là que je dois aller.\n\nJe me laisse tomber, et plonge sous la surface. Immédiatement, je sens les courants me chahuter, mais réussis à garder ma respiration. Je me laisse entraîner vers les profondeurs, vers l'insondable pénombre des fonds marins. Retenant mon souffle, je combine mes gestes et invoque un portail vers la terre ferme. Je sens les courants changer de sens, alors que l'eau tourbillonnante est aspirée par la porte que j'ai entrouverte, ainsi que les soldats qui ont été engloutis par les flots. Je dois tenir. Je dois tenir pour qu'ils puissent passer. La pression sur mes poumons devient de plus en plus insupportable, des tâches noires dansent à la périphérie de ma vision, mais je ne peux pas encore abandonner. Soudain, Taru enveloppe ma tête et libère une bulle d'air dans la cavité qu'il a formée avec son corps gélatineux. J'inspire profondément, et tousse pour recracher l'eau que j'ai avalée par le nez."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66NDCYG4V1H0AG30MSJ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH66NDCYG4V1H0AG30MSJ7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66KJ3E4D19H78GFAE7HV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH66KJ3E4D19H78GFAE7HV",
+          "text": " Akesha"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66M6VKPM2K236555DG2D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH66M6VKPM2K236555DG2D",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50EK27ASV25MJD9819M5",
+      "reference": "ALT_CORE_B_YZ_26_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/abdb4058447ff9d38aed",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/87c3dacbedb360dbccf1",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/79378bcefa833dc97541",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-07T10:37:43+00:00",
+      "question": "What happens if I use Kraken's Wrath against Characters with Tough?",
+      "answer": "You pay extra mana for each Character with Tough."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_26/JPG/fr_FR/1f7f3b655d6238b6d2a6b0efa6877ef7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_26/WEB_f8c158f5909bc95036a7eec07eb5b353",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_26/WEB_8aa5c41a98dfee792f805e63ebf29ae3"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_26_R1",
+  "reference": "ALT_CORE_B_YZ_26_R1",
+  "id": "01HKAFJP5DY7BC1ARTKTKPWMFQ",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_26/JPG/fr_FR/1f7f3b655d6238b6d2a6b0efa6877ef7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_26/JPG/en_US/02c13df853a850acb03743e70b2e8824.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_26/JPG/it_IT/5679cbc7fc526a8489f9e33355fbc798.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_26/JPG/es_ES/1295889baab272250353c995e0ca96d6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_26/JPG/de_DE/82e08035e4de460bd2d6e26f65f42850.jpg"
+  },
+  "name": "Furie du Kraken",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Envoyez en Réserve jusqu'à #quatre# Personnages ciblés avec un Coût de Main total de #{6} ou moins#."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-175-R-FR"
+}

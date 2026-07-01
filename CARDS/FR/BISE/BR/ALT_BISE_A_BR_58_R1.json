@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_A_BR_58_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6ZYG53VX2Z9RCSATE7SS7X7J6H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A3X8054667P70K9AQGSE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A3X8054667P70K9AQGSE",
+          "text": "Comme par hasard, il joue des grosses cartes."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3XGH9YV6H54WBKW54S8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A3XGH9YV6H54WBKW54S8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3XCKG9G5N782GDAX6TY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A3XCKG9G5N782GDAX6TY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3X03VFPVP9TMGW1G6RS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A3X03VFPVP9TMGW1G6RS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3X42VY4AY7WXK5EZHDP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A3X42VY4AY7WXK5EZHDP",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "6ZYG53VX2Z9RCSATE7SS7X7J6H",
+      "reference": "ALT_BISE_A_BR_58_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/eb98aa385bd159b93334",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f7616a91cefcda86bba0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/fr_FR/56eb2907464d6a3f1df68ca95e0b651a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/WEB_7ac81c75f76a8d06c740f9aa025b1240",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/WEB_e13a1b458419fc998aca91c2c2b492bf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/WEB_b61e9225995f059476ac0ac0a6051416"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_BR_58_R1",
+  "reference": "ALT_BISE_A_BR_58_R1",
+  "id": "01JB20NSDBRZ1T4RH15G0KB5F5",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/de_DE/8ac6c5d3d937da13792a970efcbdde2c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/it_IT/4bbd53b1fccc106e74ee550722c6b778.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/es_ES/9dc393424a5dc8ffaa73dc26d5426eaf.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/fr_FR/56eb2907464d6a3f1df68ca95e0b651a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/en_US/b573b4d5be935c9930c97b6baa3a4989.jpg"
+  },
+  "name": "Thésée",
+  "elements": {
+    "MAIN_COST": "8",
+    "RECALL_COST": "8",
+    "OCEAN_POWER": "6",
+    "FOREST_POWER": "6",
+    "MOUNTAIN_POWER": "6",
+    "MAIN_EFFECT": "#[Repérage] {4}.# (Vous pouvez me jouer de votre main pour {4} avec «{h} Envoyez-moi en Réserve ».)  {J} Envoyez un Personnage ciblé #en Réserve.#  {R} Je gagne #3 boosts.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-030-R-FR"
+}

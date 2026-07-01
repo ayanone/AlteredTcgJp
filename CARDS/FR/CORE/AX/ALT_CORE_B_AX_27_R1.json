@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_27_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z55JR4GB9EKA1M92YW9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5R4GV5ZE04QEXYTJEJBN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5R4GV5ZE04QEXYTJEJBN",
+          "text": "« Les mines de Suspira seront bientôt exsangues. Votre précieux Kélon va se tarir. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R4ZQZC0Y720EP6N7YNP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5R4ZQZC0Y720EP6N7YNP",
+          "text": "Mes mains se serrent sur les accoudoirs de ma chaise roulante. En face de moi, les Grems sont en train d'activer la machine, ricanant malicieusement. Je sens la colère monter en moi. Même si je sais que leur rire ne m'est pas destiné, j'ai l'impression qu'ils se moquent de mon infirmité. Ce que le Générateur est en train de charger est probablement ma seule chance de marcher de nouveau... Je serre les dents en repensant à l'accident. Nous avions réussi à passer le Rempart, mais le deuxième moteur avait explosé en plein vol. Si Amelia avait réussi à atterrir en catastrophe sur la plage, mon corps avait été brisé par l'impact. Ma colonne vertébrale avait été fracturée, de même que mes deux jambes et mon bras... J'étais celui qui avait eu de la chance, disait-on. Paju, lui, n'avait pas survécu. Mais peut-être que c'était lui, le chanceux. Il n'avait pas eu à vivre la souffrance, la dépression, la convalescence...\n\nLa cuve énergétique vrombit, tandis qu'à l'intérieur, le cristal de Kélon de ma vertèbre mécanique est en train de charger. Je repense aux longs mois, allongé dans le lit sans sentir mes jambes. Je repense aux regards peinés et plein de commisération... Je regarde la jauge de l'artefact se remplir barre après barre, comme un compte à rebours. Même si l'opération est un succès, toute ma vie, je serai dépendant de ce bout de métal et de Kélon pour me mouvoir... Mes pensées se bousculent. Je revois la tombe de Paju, le regard vide de sa mère. Il avait suffi d'un jour pour réduire nos rêves en miettes et me priver de mon meilleur ami. Je sens les larmes couler sur mon visage. Nous étions naïfs, à peine plus que des enfants, au final. Je baisse les yeux et sanglote dans la lumière tamisée de l'atelier."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R4QVBHZB4V1WVVYRXWA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5R4QVBHZB4V1WVVYRXWA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R3Y073EXQVX0X5KB18X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5R3Y073EXQVX0X5KB18X",
+          "text": "Treyst"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R455KJX336JXZTTG301",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5R455KJX336JXZTTG301",
+          "text": "380 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY4Z55JR4GB9EKA1M92YW9",
+      "reference": "ALT_CORE_B_AX_27_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f4857793ebdf4413773a",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9def0e709a1740a05a70",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/fr_FR/4e9af49df705a9e8b011c4038503faf7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/ALT_CORE_B_AX_27_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/ALT_CORE_B_AX_27_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_27_R1",
+  "reference": "ALT_CORE_B_AX_27_R1",
+  "id": "01HKAFJNM7BYRDPYF70YGRK0VG",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/it_IT/b39953b061e4920452c8608947b273ad.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/fr_FR/4e9af49df705a9e8b011c4038503faf7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/en_US/9a0a1b787bc3821588218f69652fc7d6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/de_DE/779cfc2622c31d6158aec0a1aa18dea4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/es_ES/1edef5471a25d3f808f367a07a271d44.jpg"
+  },
+  "name": "Générateur Kélonique",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{T}, #{1}# : Piochez une carte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-027-R-FR"
+}

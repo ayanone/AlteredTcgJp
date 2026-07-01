@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_13_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79CKAWJXNA6RY8TTAMTM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8AYA5Y9D41KVKAC2WHS1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8AYA5Y9D41KVKAC2WHS1",
+          "text": "„Eine gute Tat verdient eine weitere.“"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8AZV5C8NCW19Z2ZKR317",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8AZV5C8NCW19Z2ZKR317",
+          "text": "After the crisis has passed, the Initiate asks me to leave so that my sister can rest. But as soon as I leave the room, I burst into tears on the doorstep. This is all my fault. She fell ill because of me. I stay there a while, listless, until I finally stop sobbing. No one disturbs me. There's no one else in the Cloister at this hour anyway, other than a few nurse-mages. I feel so powerless, so inadequate. Not a single cure has worked: none of the poultices, balms, or pills. I'd give anything to help Kumari, but I don't know what to do. I know nothing about magic. But I think I'll go mad if I don't do anything to make her better. I swear I'll lose my mind the next time someone tells me to let it go and accept the situation.\n\nSuddenly, a light out of nowhere makes me look up at the wall across from me. Some sort of oddly colored soap bubbles burst out of the dividing wall. Then a figure leaps out of the wall, landing on her rear end as if she'd been catapulted several feet. She rubs her bruised buttocks, then realizes that I'm staring wide-eyed at her. Alice. She instantly smiles at me, then plunges her hand down her neckline to pull out a bizarre creature, some sort of cross between a caterpillar and a water bear. Then she quickly fixes her blond hair, dusts herself off and jumps up before holding out her hand to me. I take it, though I have no idea where she might want to take me. She picks me up and, without letting go, lets herself fall backwards, dragging me down with her. The ground opens up beneath us and swallows us whole."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8AZ2TP2Q1D6J034MDSEB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8AZ2TP2Q1D6J034MDSEB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8AWVT53BK7JDRGTZ53Y0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8AWVT53BK7JDRGTZ53Y0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8AXM6Z5MNA8YY0WPAGPZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8AXM6Z5MNA8YY0WPAGPZ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79CKAWJXNA6RY8TTAMTM",
+      "reference": "ALT_COREKS_B_YZ_13_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/90e98345481f0c5e399a",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Bürger"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9a4e57c35a92a33683d7",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_13/JPG/de_DE/dd47839547ad17213e797dac8a83110c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/ALT_CORE_B_YZ_13_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/ALT_CORE_B_YZ_13_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/ALT_CORE_B_YZ_13_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_13_C",
+  "reference": "ALT_COREKS_B_YZ_13_C",
+  "id": "01HN5TXRK97G8DCPVXK1YX7C2M",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_13/JPG/it_IT/845bd6f4a3edf4e92561faa74e344883.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_13/JPG/es_ES/d90114887921c645e7620445e5d37920.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_13/JPG/de_DE/dd47839547ad17213e797dac8a83110c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_13/JPG/en_US/973235001e9b8c5227c0fb5649ffad4c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_13/JPG/fr_FR/80bca611c841874dc5a7ff4b327692a4.jpg"
+  },
+  "name": "Alice",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2",
+    "ECHO_EFFECT": "{D} : [Nach dir]. (Lege mich aus deiner Reserve ab, um deine Runde zu beenden, als ob du eine Karte gespielt hättest.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-162-C-DE"
+}

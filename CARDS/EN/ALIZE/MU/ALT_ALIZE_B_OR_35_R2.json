@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_35_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6FHMPS87058P788X52X7NKE8JS",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J28D6WTRZPY9RFB87QM9J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J28D6WTRZPY9RFB87QM9J",
+          "text": "Justice is best served cold."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28F4TG3NTGPDQKG5QB09",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J28F4TG3NTGPDQKG5QB09",
+          "text": "I struggle to ignore the pain in my joints and the stitch in my side. We're running breathlessly to reach the edge of the forest with the Belisenki right on our heels, and it's absolutely exhausting. Running isn't my strong suit, especially in the snow, and I doubt our pursuers would be interested in hearing me hold forth on the benefits of diplomatic discussions. I can't keep this up much longer. And the rest of my companions, who are scattering in all directions in a highly questionable display of military discipline, don't seem ready to spearhead any sort of counterattack. We need to stop our attackers and put an end to this rout. We need to do something to turn things around. For a public official like myself, inspiring fear and awe among the enemy is supposed to be one of my most powerful tools. If only I'd been a better student of military debacles and strategic retreats, perhaps I could get us out of this mess!\n\nUp ahead, the blizzard intensifies. That certainly won't help our cause. Unless… The Heka lights up my hands as I trace the necessary symbols in the wind. Carried by the swirling gusts, a gigantic paper scroll unfurls in a circle before us. At its center, Dong Da Shen lounges on a lump of snow, a magnificent blue cape whipping in the wind at his back. I hope that his presence will bring fear to our enemies while easing our own. Ideograms written on the scroll blaze with an azure flame. I remember that the document Dong Da Shen holds is a statement of criminal charges. His inquisitorial voice thunders as he points his scepter at the wintry mob. He's the perfect choice here as he is the god of cold, and his painted mask is the face of winter. Yielding to his authority, the Belisenki disperse and return to the shelter of the trees. I'll be feeling all manner of aches, pains and sore joints before long, but considering the alternative, that's really not so bad."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28EF6FZYNK512XE7M247",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J28EF6FZYNK512XE7M247",
+          "text": "Dong Da Shen is the Taiwanese god of winter who strikes fear and intimidation into the hearts of his adversaries. He shows no pity and demands his enemies' respect. His face is painted with the shapes of a tiger and a chrysanthemum. He is armed with a snake or a snake-shaped staff to frighten enemy prisoners."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28C4BTXWPTQ3R3W2AQH0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J28C4BTXWPTQ3R3W2AQH0",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28CM33HQA00AE7RTK5B7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J28CM33HQA00AE7RTK5B7",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "6FHMPS87058P788X52X7NKE8JS",
+      "reference": "ALT_ALIZE_B_OR_35_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/098ffdab452d42868018",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrat"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3f1f2b1b276fe2aac00f",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deity"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4a8542e69939e2f7eac6",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/en_US/1bcf9a3e87589be4d49535d3eeeaf95c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_ecf931302bf5c83597e3fdca7252cd5d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_e1dcde14e0c6599e5cb23377398f2e25",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_c741a0f8a9ba8b8195551804a4859c19"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_35_R2",
+  "reference": "ALT_ALIZE_B_OR_35_R2",
+  "id": "01J1Q4P4SKAF9A6PP6VDW6X2PF",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/it_IT/babdb68596cea11d4aa8b43608719ab0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/es_ES/322058083c395adeefe033c972c3fcdc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/en_US/1bcf9a3e87589be4d49535d3eeeaf95c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/fr_FR/7a515c1ab60239aa056083ac346bba2a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/de_DE/4d4870bf6004b8aead6aa12aa4f7f82f.jpg"
+  },
+  "name": "Dong Da Shen",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "#3#",
+    "MAIN_EFFECT": "#At Noon — #You may exhaust ({T}) target card in Reserve. (Exhausted cards can't be played and have no Support abilities.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-076-F-EN"
+}

@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_06_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77YT4C9Q6Z0RK39VH92R",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7XFRJPGJCSV67F9WD449",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7XFRJPGJCSV67F9WD449",
+          "text": "El fuego que parece extinto a menudo duerme bajo las cenizas."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XGAQ7GZBDD271YN3CP9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7XGAQ7GZBDD271YN3CP9",
+          "text": "As I descend the long sandstone staircase, Haven's cold humidity—the damp chill that inexorably flakes the paint on frescoes and eats away at the bas-reliefs—gradually gives way to a stifling heat. That heat doesn't come from the dim light of the torches, but from deeper. It rises in bursts that drift in the air, bringing intoxicating scents with them. The aroma of sulfur and incense. At the bottom of the stairs, I come to a large room carved into the rock. It was here, in the feverish darkness of this chamber, that Rune was crowned the first Kuningas of Asgartha. It was here, cut off from the rest of the world, that the Bravos Creed was enacted. I wander around the tiers of seats, gazing at the countless urns that fill the alcoves and stone shelves, belonging to heroes of old, some of whose names are half erased.\n\nSticks of incense are placed in front of each one. Some are lit, diffusing their heady aroma, others extinguished and waiting to be rekindled. But the central brazier, whose hissing column of smoke disappears into an opening in the rocky ceiling, smolders most of all. Within it, incubated by the flames, rests the egg of the Phoenix, which the Bravos have waited centuries to see reborn. And to care for the sleeping bird, a multitude of little Jinn are there. It's they who keep the fire continuously lit and ensure that the nest continues to burn. They can be seen floating in the air like will-o'-the-wisps, generating fire with nothing but the pressure of their little palms. No doubt they are the true guardians of this sacred place. I get closer and put my hand over the ardent flames, just high enough to keep from burning myself."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XG19F7BY2XJW1KRJ1CH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7XG19F7BY2XJW1KRJ1CH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XF63BPXVQKEVW06C4XC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7XF63BPXVQKEVW06C4XC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XFGDZT7FH6TQS6H3YGE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7XFGDZT7FH6TQS6H3YGE",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77YT4C9Q6Z0RK39VH92R",
+      "reference": "ALT_COREKS_B_BR_06_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b1e1ccf184b978a080f5",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Elemental"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/be6d197eb607ea85da10",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/dde96ae8a37a97af8f5b",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-06-20T10:38:07+00:00",
+      "question": "When is the effect of \"Tiny Jinn\" resolved? If it's after the card leaves the Expedition zone, is it still boosted?",
+      "answer": "You can resolve Tiny Jinn as if its wording said \"If I would leave the Expedition zone while I am boosted — Put me in your Mana zone instead (as an exhausted Mana Orb)\"."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b405d0588612abe8d7da",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-06-20T10:38:07+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Tiny Jinn said \"When I leave the Expedition zone, if I'm [BOOSTED] — Put me in my owner's Mana zone (as an exhausted Mana Orb).  {R} I gain 1 boost.\"\n\nFuture printings will say:\n\"If I would leave the Expedition zone while I'm [BOOSTED], put me in my owner's Mana zone instead (as an exhausted Mana Orb).\n  {R} I gain 1 boost.\""
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_06/JPG/es_ES/f575bb78113ad03219f73924c803c640.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_06_R1",
+  "reference": "ALT_COREKS_B_BR_06_R1",
+  "id": "01HN5TXR6ZEA7EH4457RX0JVR3",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_06/JPG/de_DE/de744272aacbd2bc36319404c0c8fc83.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_06/JPG/es_ES/f575bb78113ad03219f73924c803c640.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_06/JPG/it_IT/41fd55fa2d46c5a2818fda7055b5bf06.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_06/JPG/fr_FR/74fdbfa44942d754849a710f83d1447d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_06/JPG/en_US/a81fcced088cb2eef86ac41e001c1ab5.jpg"
+  },
+  "name": "Jinn chiquitín",
+  "elements": {
+    "MAIN_COST": "#1#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "#2#",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "Si fuese a abandonar la zona de expedición mientras estoy [[potenciado]], colócame en la zona de maná de mi propietario (como orbe de maná agotado.)  {R} Gano 1 potenciador."
+  },
+  "isSuspended": false,
+  "isErrated": true,
+  "isBanned": false,
+  "collectorNumber": "BTG-041-R-ES"
+}

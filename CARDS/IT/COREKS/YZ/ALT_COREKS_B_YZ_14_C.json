@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_14_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79CPG4A39P0HNBRWF6NK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8B2QHV6NK5K1BEM0CEZ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8B2QHV6NK5K1BEM0CEZ5",
+          "text": "La Rubedo è la fase finale dell'alchimia, dove la sostanza rinasce come una fenice prima di fare ritorno nel mondo."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8B42EQG2HWFQEJ9F9XCD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8B42EQG2HWFQEJ9F9XCD",
+          "text": "I watch the procession of Disciples descend the winding stairs of the Well of Tears. I look for Matera's profile, but I don't recognize her in the line of hooded figures. They pass under plunging waterfalls, beneath stone arches and over narrow ledges, following the slippery path that winds along the cliffside. In the middle of the chasm, the Megalith sparkles like a crystal meteor floating in the air. Although its base is physically in reality, its summit is invisible, lost in the misty swirls. This Aether Singularity is dangerous, but also holds incredible power. And that's exactly what they want to tap into today. Flamel waits beside me, a kind smile lighting up his face. It was customary for the Eidolon to preside over this ceremony, at which Yzmir Disciples earn their rank as Initiates.\n\nFlamel was known for having given humanity the knowledge to sculpt Effigies, the little statuettes of Eidolons that make it much easier to summon them from the Empyrean. Legends had cast him as a powerful alchemist with a particular gift for transmuting matter. Looking around, I notice that the Disciples have finally reached us. They position themselves in a semicircle around us, as the rite requires. The purplish glow of the Megalith casts a shadowy veil across their faces, hiding their eyes. However, I can easily spot Matera in the group. I nod to my student in encouragement, while the alchemist calls the first of them to come forward. The Disciple steps forward ceremoniously, and the Eidolon hands him a hammer and a chisel. With these tools, he can collect a fragment of the Megalith and be formally inducted into the Faction. The hammer blows ring out in the vastness of the cave. One by one, they come forward to collect a fragment of the Aether anomaly."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8B3C9G511ZQ9DXP847B3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8B3C9G511ZQ9DXP847B3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8B16GBBD6H75GF50REW0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8B16GBBD6H75GF50REW0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8B1XQZ6N6W91BJ4W3AZE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8B1XQZ6N6W91BJ4W3AZE",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79CPG4A39P0HNBRWF6NK",
+      "reference": "ALT_COREKS_B_YZ_14_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/406bae94adb46cbc6140",
+      "reference": "SCHOLAR",
+      "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+      "name": "Studioso"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/44e26d5ee1da441422fd",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_14/JPG/it_IT/eb360c7e963527d4a835089404e0935b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/ALT_CORE_B_YZ_14_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/ALT_CORE_B_YZ_14_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/ALT_CORE_B_YZ_14_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_14_C",
+  "reference": "ALT_COREKS_B_YZ_14_C",
+  "id": "01HN5TXRKDKPCEN97XERNC109H",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_14/JPG/de_DE/f16453b4c5dcedc70387e372d02df47a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_14/JPG/it_IT/eb360c7e963527d4a835089404e0935b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_14/JPG/es_ES/104e3c74d0f80658ecae87a03f3bdfe9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_14/JPG/fr_FR/3b0f0be28e5e2ed2fd9356607e19b5a8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_14/JPG/en_US/f5bffab924eb3772f619efe68da18915.jpg"
+  },
+  "name": "Flamel",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "4",
+    "MAIN_EFFECT": "{H} Puoi riprendere in mano un incantesimo dalla tua Riserva.",
+    "ECHO_EFFECT": "{D}: Il prossimo incantesimo che giochi in questo turno costa {1} in meno. (Scartami dalla Riserva per eseguire questa azione.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-164-C-IT"
+}

@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_A_BR_31_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4CZHZP32YC963TFPGD912D7XGM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J7K5Z3332G0FZBB98FT62XP6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J7K5Z3332G0FZBB98FT62XP6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K5Z33GN4XK1B2ERYHMPMFW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J7K5Z33GN4XK1B2ERYHMPMFW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K5Z33A9WSEFKQ7BVANFP59",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J7K5Z33A9WSEFKQ7BVANFP59",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K5Z32JW3RB1R25ESB29GT0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J7K5Z32JW3RB1R25ESB29GT0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K5Z32XWAFJP2NM1T52A7PF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J7K5Z32XWAFJP2NM1T52A7PF",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "4CZHZP32YC963TFPGD912D7XGM",
+      "reference": "ALT_CORE_A_BR_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Jeton Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9c721dc2066c92cdb69e",
+      "reference": "COMPANION",
+      "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
+      "name": "Compagnon"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/95cb452abe3240431c3e",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_A_BR_31/JPG/fr_FR/d736b7a2626476fb34504fa74576d498.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_A_BR_31/WEB_bbf92d5990ba60931474b35ffc784e9d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_A_BR_31_C",
+  "reference": "ALT_CORE_A_BR_31_C",
+  "id": "01HTNFW4W9HYQVK4SZDF0NB09M",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_A_BR_31/JPG/en_US/cbabf3ac3cfc3490c426e8c10fabe712.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_A_BR_31/JPG/fr_FR/d736b7a2626476fb34504fa74576d498.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_A_BR_31/JPG/de_DE/3591337ea885f33973d936c2c616c0b0.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_A_BR_31/JPG/it_IT/ed213dccb6edc7d5745b028a60026081.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_A_BR_31/JPG/es_ES/d87b6397d2f7182bd412e3729b55db24.jpg"
+  },
+  "name": "Booda",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "(Si je quitte la zone d'Expédition, retirez-moi du jeu.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-182-T-FR"
+}

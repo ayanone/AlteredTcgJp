@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_40_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/134BN0GNE1980SQ6E329VMP1HT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23EJ1WM4ENQY9Y19K9YE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23EJ1WM4ENQY9Y19K9YE",
+          "text": "Symphonies begin with two notes, fires with a couple of sparks, and masterpieces with two drops of metal."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23F3BVSFMEY0KPY9MRY2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23F3BVSFMEY0KPY9MRY2",
+          "text": "I blink and wipe the dripping sweat from my forehead. The heat from the furnace is ferocious. My breathing is ragged, and I pour a tub of lukewarm water over my head to try and bear the heat a little longer. Not far from the molten metal, I see Gibil capturing a jet of lava. He brings it closer to him and lets it drift in the air as he examines it for any defects or impurities. As the water I soaked myself with steams around me, a worker ruffles my hair to congratulate me on my endurance. I return his smile and take the tubs of silica to the god at work. Struggling to keep my eyes open as scorching drafts blow against my face, I set down the buckets and move back, when from the corner of my eye, I see a Brassbug shutting down. I approach and watch it slump, drained of energy. I check its Kelon cylinder and notice it's still almost full.\n\nI place a hand on its head, realizing that it's dying. Some of its kindred will soon collect it and recycle it, maybe to create a new one, but I'm not too familiar with their life cycle. Behind me, I hear the rumble of Gibil's voice, demanding that we bring him something else to melt and forge. His glowing eyes turn towards me and the little shape struggling at my feet. Then, using his hand, he reaches out and draws the Brassbug to him. With the simple force of his will, the god disassembles the little robotic creature. He then takes an arc of lava and shapes and sculpts it to create a new chassis, a wing and new parts for the Brassbug. After giving it a new lease on life, Gibil places it in the crook of my arms as if asking me to take care of it from now on..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23ETZZB71YKP31P99MNP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23ETZZB71YKP31P99MNP",
+          "text": "Gibil was the Mesopotamian god of all things related to fire, both its positive aspects (source of heat and light) and its negative aspects (destructive and voracious). He was the patron deity of blacksmiths and metallurgists, and he also played a role in ritual purification. But beware his wrath! It was said that lightning strikes were a sign of Gibil's anger when they struck the ground and the fields, or when they set homes alight. His symbol was a torch, which could be held at night to light the way or chase away evil spirits."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23DX277ZVM1EPE90TNAE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23DX277ZVM1EPE90TNAE",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23E88MMVZ71A8FTRBC45",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23E88MMVZ71A8FTRBC45",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "134BN0GNE1980SQ6E329VMP1HT",
+      "reference": "ALT_ALIZE_B_AX_40_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3a986107a8402ee61b27",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Engineer"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/116961991bd3d93d3b2a",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deity"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b463bba26cd4d251dfd2",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/en_US/9f43b4cb16bfdc4401ead016e6ed65c1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_68412e665a821f3c25f027ed3404f1de",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_f1955915662d7bfff1f71a2cee357ce6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_7994b67d44a7cac843eb1009f8b9963f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_40_C",
+  "reference": "ALT_ALIZE_B_AX_40_C",
+  "id": "01J1Q4P4RV2A0EQ68788JASAYS",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/es_ES/3b5fff6ded4435e9594d9800dbd9f659.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/fr_FR/74d76f1404725f43f12fb7f892869635.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/de_DE/7c6b73cd27b665a111c9df6d32b84290.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/en_US/9f43b4cb16bfdc4401ead016e6ed65c1.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/it_IT/a7ad640acc907babfd003174e3db1695.jpg"
+  },
+  "name": "Gibil",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{J} Create a [Brassbug 2/2/2] Robot token in target Expedition.",
+    "ECHO_EFFECT": "{D} : Activate the {j} abilities of target Permanent you control. (Discard me from Reserve to do this.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-012-C-EN"
+}

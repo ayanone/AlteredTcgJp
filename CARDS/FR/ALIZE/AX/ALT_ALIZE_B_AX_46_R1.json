@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_46_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6BAZX3FHGJ9FFSJDF6QG3FDE5P",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23W1MGEHZ0V0ZF78XZ40",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23W1MGEHZ0V0ZF78XZ40",
+          "text": "Depuis les grottes et les crevasses, il geint et nous appelle."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23WM03ZGXTCVHG8FT33E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J23WM03ZGXTCVHG8FT33E",
+          "text": "J'arrime mon araignée et descends difficilement sur la corniche. Un bref instant, probablement à cause du vent qui souffle le long de la falaise, je ressens du vertige, ce qui ne m'arrivait jamais, même quand j'étais dans l'habitacle d'un airship. La porteuse pose son barda et le harnache au sol avec des sangles. Puis elle vient me rejoindre à l'entrée de la caverne. Reste là, dis-je à Rossum, et il acquiesce, même si je sens qu'il est clairement inquiet. Je brandis une lanterne et me mets à illuminer l'intérieur de la grotte. Immédiatement, les parois se mettent à luire de mille feux. Gypse, glace et pyrite. Mais il y a une lumière qui provient des tréfonds de ces boyaux. Soudain, je vois un papillon voleter non loin de mon visage, et je fais un pas de côté. Je soupire et regarde en direction de la porteuse, mais elle ne semble pas vouloir se moquer de mon sursaut de frayeur.\n\nAlors que nous descendons une pente humide, les parois s'illuminent d'une clarté éthérée. Même si je n'ai jamais visité le Kadigir, c'est l'image que je me fais du Magisterium, avec des points de lumière qui constellent les murs. De la bioluminescence... Est-ce du lichen ? Ou bien une autre forme de vie ? Nous visitons des cavités de plus en plus spacieuses, certaines si lumineuses que je n'ai même plus besoin de maintenir ma lanterne allumée. Je m'approche d'une colonne, qui s'élève au milieu d'un bosquet de stalagmites. En posant une main sur sa surface, je réalise qu'elle s'étire jusqu'à la voûte, et s'évase en branches, comme si c'était le tronc d'un arbre. J'écarquille les yeux face aux lueurs qui tapissent les parois et le plafond, comme des nuées de lucioles ou de feux follets... J'ai l'impression d'être dans un jardin ou un verger, mais uniquement faits de matières minérales. La porteuse pose une main sur mon bras, et me pointe l'eau qui couvre le sol de la caverne. Elle a raison, elle monte à vue d'œil.."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23WB09GGRSSCX0QF967V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23WB09GGRSSCX0QF967V",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23VD42KRJQAF4DXKR7FD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J23VD42KRJQAF4DXKR7FD",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23VQYZJ23NC3Q6GJ6TRX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23VQYZJ23NC3Q6GJ6TRX",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "6BAZX3FHGJ9FFSJDF6QG3FDE5P",
+      "reference": "ALT_ALIZE_B_AX_46_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Repère Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/023463acf1e1bd8859fa",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Lieu"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e9d17d713b3577677bef",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/c78fcd69bc91dd05212c",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:13+00:00",
+      "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
+      "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/fr_FR/f2bb3f255a5ff5d97276f9d9d1895374.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/WEB_6d76ca6e557e4d824b84e7fe14d42385",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/WEB_2bd8a292af18d582eb246bc805b1c798"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_46_R1",
+  "reference": "ALT_ALIZE_B_AX_46_R1",
+  "id": "01J1Q4P4RXESM7EW214EN53FJ7",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/es_ES/07810c6119acd5ef4b8bbab3d2b3052a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/en_US/33ac94cd7452b665579493fae23bcc9d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/fr_FR/f2bb3f255a5ff5d97276f9d9d1895374.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/de_DE/29858246ba4b03f9e6922ffd28087ee9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/it_IT/6f1c9194c8cc8d649e15023df2548bba.jpg"
+  },
+  "name": "Galeries Saisies par les Glaces",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Lorsqu'une carte va en Réserve depuis votre deck ou votre main — Je gagne 1 compteur Épreuve.  Lorsque je gagne mon troisième compteur Épreuve — Sacrifiez-moi. Si vous le faites, créez un jeton Illusion [5/5/5 Reflet Draconique] dans une Expédition ciblée, puis redressez toutes les cartes dans votre Réserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-016-R-FR"
+}

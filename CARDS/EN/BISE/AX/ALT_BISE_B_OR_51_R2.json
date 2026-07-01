@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_51_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0C0YF7N47R8ZRBNQHX5TF6M44H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A90GPPG2WZBSRBT68PQS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A90GPPG2WZBSRBT68PQS",
+          "text": "Don't venture into the depths alone."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A917M4F20827X854QSAT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A917M4F20827X854QSAT",
+          "text": "393 AC - I lift the flap of the tent and almost get bowled over by the person coming out. She's holding a stamped assignment order in her hand and is visibly furious. I hear her grumbling as I take her place. Even inside the tent there's a line. Opposite me, the staff clerk is organizing her papers. There are stacks of loose documents around her, forming a paper wall on her desk. With her one good eye, she observes, sometimes giving a mocking smile, sometimes a stern look, sometimes an encouraging one. Undergrowth, escort. Tomb, communications rep. City Hall, administrative assistant. The postings are handed out with written instructions for each one. I sigh, patiently waiting for my turn. I was actually surprised when my name was called out, and the words \"special assignment\" were uttered. It was certainly very cryptic, and it must be something major to be so confidential.\n\nWhile standing and waiting my turn, I can't help looking at the map behind her of the Abyss where all the urgent requests for reinforcements are pinned. Wow, there's so many of them. And not just for the most glamorous areas. I sigh and look back to the clerk. Other than those mountains of paper, she has only a simple stamp in front of her. It's what usually opens or closes doors. It decides whether or not you're fit to be deployed.  It's finally my turn. As I stand to attention in front of her, I say my name, title and rank. It's time to find out what this \"special assignment\" is that I've been saddled with today. I just hope it takes up my whole day… She asks for my certificate of health, glances over it, then brings down the stamp on my mission order and hands it back to me. I unfold it as I leave the line. Wait… Is this a joke?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A90WP9RSKXPCRAV0X3EE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A90WP9RSKXPCRAV0X3EE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8ZSMD5GDJGWGMN4PT34",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A8ZSMD5GDJGWGMN4PT34",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A905N58PGBA54TP2F9Q3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A905N58PGBA54TP2F9Q3",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0C0YF7N47R8ZRBNQHX5TF6M44H",
+      "reference": "ALT_BISE_B_OR_51_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/358d6158a67ad1c41c86",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4cc335e0c5dcca49406e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/en_US/ba6045375e5067507f0fab893b93fd17.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/WEB_522b786cc252de1bfe0af54c8c4a797e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/WEB_0a5a037be34437ef6cb82d0949cbf9bf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/WEB_78b80db215c0c5352fc97990b0dab14c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_51_R2",
+  "reference": "ALT_BISE_B_OR_51_R2",
+  "id": "01JB1YGPBVGB6DPE03BAS3WEP1",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/it_IT/8ffcb6a0d2f184cd2704102120b45fc0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/es_ES/5f8f4cb563b980f3007ae6618905c3e1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/fr_FR/ec267114e4da2d763bf6c6601f63ea1f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/de_DE/763a4da4928969f416aa89341334a2a5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/en_US/ba6045375e5067507f0fab893b93fd17.jpg"
+  },
+  "name": "Staff Clerk",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "#2#",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "When #you# play another card from Reserve — Create an [Ordis Recruit 1/1/1] Soldier token in my Expedition."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-072-F-EN"
+}

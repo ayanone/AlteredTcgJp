@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_18_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77WMYBY583Y6WZWEHWE5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7WHC2TWYWV5NPAK9QHAW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7WHC2TWYWV5NPAK9QHAW",
+          "text": "«Aparté la niebla que cubría tus ojos»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WHT01VE5VK0WQS7CV7W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7WHT01VE5VK0WQS7CV7W",
+          "text": "Athena appears before us, supported by her mechanical owl. The bird's wings unfold, and she flies off toward the horizon. The squadron leader falls in behind, and we do the same in turn. Paju pushes on the throttle, and I feel the g-forces on my face. The airship takes off, and we join the formation. Athena turns to starboard, and we turn as well, being careful to remain in position. But that doesn't stop Paju from letting out a whoop of joy. I smile too. Far ahead, the Eidolon disappears among some clouds, and we stay in pursuit through the fluffy vapor. I keep an eye on the instruments and gauges while constantly monitoring the radar. Everything is green. Although I didn't pass the final exam to become a pilot because of my eyesight, I still managed to land a job as a navigator. Paju and I have achieved our dream of flying together.\n\nWe break through the cloud cover as droplets of condensation stream over the cockpit. In the endless blue, Athena is a point of light sparkling in the sky. When she came to inspect each airship, she looked nothing like the first time I saw her. During the Ordis military parade, she was dressed in military attire with a large crested helmet and an elegant spear. Today, she's dressed like us, in a pilot's uniform. I point out the fuel level to Paju. That's when the squadron leader gives us our orders. As we stall and nosedive, I clench my teeth as the acceleration hits me. Two ships follow us while the three others continue to climb. The aerial combat simulation against Athena can now begin."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WHKMK3CN9G2WJWX8FNQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7WHKMK3CN9G2WJWX8FNQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WGRJ36ANPP8SGYMG6G8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7WGRJ36ANPP8SGYMG6G8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WH5CDV99MXTDP7NXGQ6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7WH5CDV99MXTDP7NXGQ6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77WMYBY583Y6WZWEHWE5",
+      "reference": "ALT_COREKS_B_AX_18_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/aade556a5237ebff7489",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deidad"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1e004ac5211758c9b3c5",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/es_ES/32b94fcebe4df4edb4d4f49422f5bb52.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_463605d2fd8a7bb755ca9eb4ae9ad681",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_9cf5a361a77d5318c62fe9822f30b594",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_daa6c08741c08f74793f97c94764708c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_18_R1",
+  "reference": "ALT_COREKS_B_AX_18_R1",
+  "id": "01HN5TXR4HXGDXSEDR421XHN4H",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/es_ES/32b94fcebe4df4edb4d4f49422f5bb52.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/it_IT/c7ed67561066dfe54de8a1e0376a72b4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/en_US/17dd0be34e8cdf11311471a7899228db.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/fr_FR/4fd0f5b25f26fc95db7de6c104e7e648.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/de_DE/47d0c91db22081dfa4a5f6206babb262.jpg"
+  },
+  "name": "Atenea",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "3",
+    "FOREST_POWER": "3",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "#{H} Si controlas dos hitos o más, gano 2 potenciadores.#  {R} Si controlas dos hitos o más, pierdo [[Fugacidad]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-018-R-ES"
+}

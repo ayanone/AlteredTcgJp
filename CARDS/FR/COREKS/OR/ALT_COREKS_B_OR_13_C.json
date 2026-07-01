@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_13_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB799ND318PTAWXNRKZYA3",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME86ZQHAV7ZJGHPJP7H9FQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME86ZQHAV7ZJGHPJP7H9FQ",
+          "text": "La Sentinelle de l’Aegis ouvrit la porte et fit un pas de côté pour la laisser passer, la saluant d’un hochement de tête."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8711ZPHM35TANPMWBE5G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME8711ZPHM35TANPMWBE5G",
+          "text": "Je m'arrête net devant la salle du Conseil en voyant Maibritt se dresser devant la porte close. Ainsi, ils sont en session... et la présence d'une Templière indique qu'ils ne souhaitent pas être dérangés pendant qu'ils parlementent. Je m'approche de la sentinelle, et elle se met au garde à vous, frappant le sol de l'extrémité de son pavois pour me prévenir que toute négociation est vaine. Je ne passerai pas, le message est on ne peut plus clair. Je me plante devant elle, lorgnant sur la chaîne en or qui symbolise son office et les trois parchemins scellés qui établissent son autorité : un pour son grade de Templière, un pour son appartenance à l'Ordre de Syn... et le troisième et dernier frappé de l'emblème du Libra, tout comme son bouclier. Secours, sécurité et justice : les trois facettes de sa profession de foi. Elle me surclasse sur tous les plans, hormis peut-être sur les affaires des Corps expéditionnaires.\n\nElle soutient mon regard, et finit par se détendre en me voyant me positionner à côté d'elle. Si elle a reçu l'ordre de ne laisser passer personne, rien n'a été stipulé sur le fait de laisser quelqu'un attendre au pas de la porte. Il y a longtemps, j'avais envisagé une carrière similaire à la sienne. Les Templiers faisaient partie des troupes d'élite de l'Aegis, missionnés aux quatre coins de la péninsule. Des troupes de choc, à la solde de la Tétrarchie et mises à disposition des instances de l'Astérion. Mais au fur et à mesure de mon avancement au sein de la hiérarchie militaire, j'en étais venue à comprendre que mon véritable talent était de transmettre mon savoir aux cadets et recrues qui arrivaient chaque année dans la caserne de la capitale. Qui plus est, Maibritt devait désormais me regarder avec un soupçon d'envie. De nous deux, j'étais celle qui allait franchir la porte au lieu de faire le pied de grue sur son seuil..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME870DRPCH32G8CKF946VJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME870DRPCH32G8CKF946VJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86Y9E38A5FFG8K7HMJZC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME86Y9E38A5FFG8K7HMJZC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86Z3Q1A6MJYXNSMK0NT5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME86Z3Q1A6MJYXNSMK0NT5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB799ND318PTAWXNRKZYA3",
+      "reference": "ALT_COREKS_B_OR_13_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/326fb221bbda583a9449",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/87d349866e12e0fd9f51",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/JPG/fr_FR/ff1e8aa8f373bdb18fc0d67842e38b82.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_13/ALT_CORE_B_OR_13_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_13/ALT_CORE_B_OR_13_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_13/ALT_CORE_B_OR_13_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_13_C",
+  "reference": "ALT_COREKS_B_OR_13_C",
+  "id": "01HN5TXRFRVMS0F2F6329VTG97",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/JPG/es_ES/b20871a0c0cde05c327f23d2e48bfca4.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/JPG/de_DE/da3e10d7a7bceafe3fb7466e8a0980e6.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/JPG/fr_FR/ff1e8aa8f373bdb18fc0d67842e38b82.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/JPG/it_IT/6d04ef9f86b6bde6761a9c202626dd64.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/JPG/en_US/a01943fd517f13031d7eda8d654b35cf.jpg"
+  },
+  "name": "Gardienne Ordis",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{J} Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre autre Expédition."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-135-C-FR"
+}

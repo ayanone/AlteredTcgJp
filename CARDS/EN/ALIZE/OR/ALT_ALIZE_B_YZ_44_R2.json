@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_44_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4C9VJGY2YJ87TA0KW7PENET6QZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2C03TXABWCE1F0PDH00Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2C03TXABWCE1F0PDH00Y",
+          "text": "In the tricks of its light, shed your skin to become an illusion."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2C26F9SA53MJ1XY7NAGY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2C26F9SA53MJ1XY7NAGY",
+          "text": "You can't see your hand in front of your face, say the humans accompanying us. There's no denying the facts: Breaking the spelunker's lamp in the midst of exploring a cave was not the best option. We've been groping our way along for some time now, and the rocky outcrops are becoming more and more dangerous, asymmetrical, jagged and sharp. The members of the expedition have cuts and bruises all over their hands and knees. It's impossible to clearly see what kinds of traps await us in this hole. I suggest to Lindiwe that she come up with an enlightening solution. She stops, reflects and searches through her pockets for an object: a bulb of translucent leaded glass with a small chain at one end. It's a perfectly ordinary item with multiple uses: a container for samples, a vial to be opened or smashed on the ground in an emergency… But at the moment, it is empty. The Alterer unscrews its metal top and slips in her Aether shard, as I instruct her.\n\nShe blows softly into the bulb, producing a shimmering mist, then replaces the cover with a quick twist of her hand. The Mana inside the tube makes the jewel rattle. And all of a sudden, a swarm of luminous moths appear, swirling around the bulb, which turns into a makeshift lamp through the mere presence of these fluttering, glowing creatures. Light is finally restored to the cave, revealing the nature of the path ahead. The sight before us is truly magical to behold, and I grant Lindiwe the pleasure of sensing it. The rocky outcrops are in fact magnificent and impressive crystals, and their acute angles cast bright rays onto every surface in the cavern. The moths are flying around the bulb; now it's time to keep them there. Lindiwe concentrates, places her hands on the lantern glass, and with an abrupt movement driven by a fresh spike of Mana, imparts a twist to the bulb, which draws in and captures the moths. The Alterer smiles, mirroring my own satisfaction."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2C1NAE9EQK8MET8NPWV7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2C1NAE9EQK8MET8NPWV7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BYRNV6WRPQP7AQ43HQ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2BYRNV6WRPQP7AQ43HQ5",
+          "text": "MAW"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BZFQN6W32VJBS7SZTY0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2BZFQN6W32VJBS7SZTY0",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "4C9VJGY2YJ87TA0KW7PENET6QZ",
+      "reference": "ALT_ALIZE_B_YZ_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Expedition Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c275e87cc905d553c832",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Gear"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/26f87df47c8b05861a3a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/en_US/58d8501709825cb2e1ef76d31946037d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/WEB_0a4fd398c4378dd9b3f9360220c9c077",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/WEB_0c6ed17d391918cdef31a9f630715cc9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_44_R2",
+  "reference": "ALT_ALIZE_B_YZ_44_R2",
+  "id": "01J1Q4P4SXE7Q45FWVT059K86J",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/it_IT/aa2c29b6c2795d62b6427fb8dc5e9860.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/de_DE/0066f3fdc92a299f540d43764ef92757.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/es_ES/8259588b7db840cddd4d69c8d9e4a03f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/fr_FR/0f9ab6eee47587eebd0fce3978f9a818.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_44/JPG/en_US/58d8501709825cb2e1ef76d31946037d.jpg"
+  },
+  "name": "Moth Lantern",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "When you sacrifice a non-Illusion Character — Create a [MANA_MOTH] Illusion token in my Expedition.  {J} Sacrifice a Character in my Expedition."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-100-F-EN"
+}

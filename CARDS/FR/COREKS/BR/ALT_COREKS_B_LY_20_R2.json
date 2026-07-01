@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_20_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7836XTE4SKJXK90F98SC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME80SY3FGQC4MZMZG6Q9WH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME80SY3FGQC4MZMZG6Q9WH",
+          "text": "« Ça te dit, un petit jeu ? »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80TZE56P0QKPPCWFJS9D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME80TZE56P0QKPPCWFJS9D",
+          "text": "Deux gros gorilles me soulèvent par les dessous de bras et me tirent en direction d'une grande table de blackjack vide. Virulemment, ils... Euh, avec virulité ? Non, c'est pas ça. Avec virulence (bingo !), ils me jettent sur une chaise, avant de poser leurs mains littéralement de la taille d'une roue de vélo sur mes épaules. Nan, je mens pas, de la taille d'une roue de vélo. Je me tourne vers l'un d'entre eux, et il me toise en grimaçant, dévoilant ses dents et ses crocs tandis que ses naseaux soufflent avec menace. Des gorilles, je vous dis. Littéralement, assurément, des gorilles. Mais c'est pas ce qui m'inquiète le plus. Ça, c'est pour planter le décor. Ok, j'avoue que j'ai un peu tenté de tricher. Ok, j'avoue que dans la précipitation, je me suis un peu foirée. Ce qui m'inquiète le plus, c'est la brume rouge sang qui est en train de se dilater dans l'air comme de la ouate devant moi.\n\nSi ç'avait été de la barbe à papa fraise-framboise, j'aurais pas dit non. Mais là, y'a même une odeur de fer et tout. Puis dans une conflagration lugubre, Asmodée apparaît, immense, ses ailes déployées jusqu'au plafond, ses cornes gigantesques comme des défenses d'éléphant, son rire macabre résonnant à travers tout le casino, une couronne enflammée flottant au-dessus de sa tête, où luisent deux rubis étincelants et sanguinaires... Hmmm ? En face de moi, un garçon à la peau rouge me fait des signes, essayant d'attirer mon attention. Il me jette un regard à la fois interrogateur et un peu mâtiné d'ennui. L'un des gorilles lui confie les dés que j'ai pipés. Il les scrute, et finit par exploser de rire. Je me mets à rigoler avec lui, sous le regard impassible des gorilles. Mais une fois son hilarité passée, il joint ses mains devant lui avec un air conspirateur. Ha, voilà la partie où on négocie, et où on passe un marché. Moins fun, mais bon... Qu'est-ce qu'on dit, déjà ? Il faut donner au diable son dû ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80TED52QTBAB2800GSSJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME80TED52QTBAB2800GSSJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80RZGZWNW7METWZ1MAY7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME80RZGZWNW7METWZ1MAY7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80SEJE2N7NM7V5DQ8Y92",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME80SEJE2N7NM7V5DQ8Y92",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB7836XTE4SKJXK90F98SC",
+      "reference": "ALT_COREKS_B_LY_20_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/75be973f2332e35601b8",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f93479259c7f23e285d9",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_20/JPG/fr_FR/219c165f4319041545da8882c0664164.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_20/ALT_CORE_B_LY_20_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_20/ALT_CORE_B_LY_20_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_20/ALT_CORE_B_LY_20_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_20_R2",
+  "reference": "ALT_COREKS_B_LY_20_R2",
+  "id": "01HN5TXRCEACF1CGP00BER0HYQ",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_20/JPG/de_DE/b7bcfa4c2c976bb75208780ca72b79cd.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_20/JPG/it_IT/669aa7e7b20bd6696aa5013352666a0b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_20/JPG/en_US/b3462bf68fdf526ee0db806a5550a4e9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_20/JPG/fr_FR/219c165f4319041545da8882c0664164.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_20/JPG/es_ES/341979830bbf9eaaf99984d0ca84d48f.jpg"
+  },
+  "name": "Asmodée",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MAIN_EFFECT": "{J} Lancez un dé. Sur 4+, je gagne [[Ancré]]. Sur 1-3, je gagne 3 boosts. (Au Repos, je ne vais pas en Réserve et je perds Ancré.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-080-F-FR"
+}

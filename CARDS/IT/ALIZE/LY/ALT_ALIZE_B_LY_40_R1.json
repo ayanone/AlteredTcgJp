@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_40_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7ZFXW1F28Y9GW9BM9NMRDSBWJ2",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25RSXSJ1ET0JW3KY3KR3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25RSXSJ1ET0JW3KY3KR3",
+          "text": "Tutto ciò che è divertente è proibito o totalmente folle."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25SFS0QT4FV8TSW4MFHX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J25SFS0QT4FV8TSW4MFHX",
+          "text": "Woohoo! Più veloce, più veloce! Wow, anche senza renne, questo affare va a tutto gas! Che senso ha avere una renna in carne e idee quando si può dare vita alla polena? Adoro il vento che mi scompiglia i capelli; un po' meno il continuo sbandare a destra e a manca, le frenate e le accelerazioni, che mi fanno venire la nausea. Per fortuna non ci sono molti insetti in questa zona. Odio quando mi si spiaccicano sui denti o mi si incastrano in gola. A ogni curva stretta, scaviamo profondi solchi nel ghiaccio, dove inizia a filtrare la gelida acqua dell'enorme lago. Ops, non faceva parte del piano. Ma respingo subito ogni mio timore (ovviamente immotivato) perché so che in fondo questo finirà per aiutare i pescatori sul ghiaccio. Se non è una buona azione questa! \n\nDavanti a me, legati al sedile, i bambini non riescono a smettere di ridere, come se fossimo sulle montagne russe di un parco divertimenti. Questa sì che è una corsa selvaggia! Dopo un salto mortale, trattengo l'impulso di vomitare. Mmm. A quanto pare, questo giro spericolato non è divertente come avevo pensato. Bene, basta così, ne ho abbastanza. Bisogna capire quando è ora di fermarsi. Finire con lo stomaco sottosopra non era certo quello che volevo. Tiro rapidamente il freno e salto fuori dalla slitta alla prima occasione. Naturalmente scivolo e cado sul sedere, ma non mi importa, perché sto troppo male. All'improvviso, mentre cerco di ricompormi, vedo uno dei marmocchi togliere il freno a mano. La slitta parte a tutta velocità, lasciandomi a piedi a chilometri di distanza dall'accampamento. Questo potrebbe essere un problema."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25S4R8SQR9M7QSVE9K3Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25S4R8SQR9M7QSVE9K3Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25QQ4C6R2C0CEYJEPTQY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25QQ4C6R2C0CEYJEPTQY",
+          "text": "NEVENKA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25RAJ2QT7SYH7X6Z4DG6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25RAJ2QT7SYH7X6Z4DG6",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "7ZFXW1F28Y9GW9BM9NMRDSBWJ2",
+      "reference": "ALT_ALIZE_B_LY_40_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/715943ea7305519ea14e",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Stratagemma"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5fcb10a7d08ca466324b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/it_IT/1689701e9ff1efb0b59135aad842cb90.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_71e54bfd0a9009355db9605e7147973c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_63dd4bd755024bafdf8c34c2099dea3d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_40_R1",
+  "reference": "ALT_ALIZE_B_LY_40_R1",
+  "id": "01J1Q4P4S9JQZW8ANWA2ZKEHD7",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/de_DE/ff9eeddddc4756a28b198f48dadcbf4f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/it_IT/1689701e9ff1efb0b59135aad842cb90.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/en_US/315292e42dfc4a89e5f40108889968d0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/fr_FR/651975ed4d32d3eaad11986ceb91028a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/es_ES/7b6e5b0c1166528877a0b49346af76d6.jpg"
+  },
+  "name": "Guida Spericolata",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "Scarta un'altra carta dalla tua Riserva. Se lo fai, un personaggio bersaglio ottiene 2 rinforzi."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-046-R-IT"
+}

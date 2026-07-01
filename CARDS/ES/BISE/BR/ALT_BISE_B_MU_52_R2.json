@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_52_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/29XA1CA00M8A5V1ST938GGFW03",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A75388WZYEWK5B484KJ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A75388WZYEWK5B484KJ5",
+          "text": "Busca sin piedad chuches y mimitos."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A75PW06TW3MF8Y4SD4XF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A75PW06TW3MF8Y4SD4XF",
+          "text": "393 AC - I place the old girl on the mossy stones, and she looks at me with big eyes and her tongue hanging out. Looking away, she begins to scratch the lichen that has covered the black blocks, and in an overly dramatic display, she falls onto her side, inviting me to scratch her belly, blinking in the most imploring manner. Spike gives me a disappointed pout that says it all. Mainly \"you disturbed me for this?\", but with no words necessary. I pet the Eidolon's rounded belly, and with just that simple contact from my palm, a little Mana is breathed into it. Teija had asked me to escort the Eidolon to the Nilam Spires so it could ask for help from the Yzmir. To go the distance and arrive safely, it needed someone who could regularly give it some energy. But I sensed something else in the tone of Teija's voice, a fear, a confession, as if she was asking me to leave the abyss as soon as possible…\n\nAccording to her, there was something \"not right\" down there, in her own words. I remove my hand from the animal's belly and stroke my beard, lost in thought. The Eidolon suddenly stands up, lively and alert, ready to keep climbing. I grab my walking stick and we continue on our way, with Spike on my shoulder as usual. I know he doesn't like the Muna aspect of the dog, no matter how small she is. She's one of Arawn's hounds, a tracker for his hunts. It's hard to believe when you watch her prancing in front of us, getting distracted by the dragonflies and butterflies, and being so playful. But appearances can be deceiving… Spike starts to pull on my hair to get my attention. I reassure him by passing on a thought. Once we've finished escorting the Eidolon, we'll go and see Flore, I tell him. And he beams at the very thought of it."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A75D2KVS1NFPP0HJKG5H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A75D2KVS1NFPP0HJKG5H",
+          "text": "Poly"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A74GRVKSPZQF69QF87ZA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A74GRVKSPZQF69QF87ZA",
+          "text": "ARJUN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A74T1MECWR58ARBT6Z2X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A74T1MECWR58ARBT6Z2X",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "29XA1CA00M8A5V1ST938GGFW03",
+      "reference": "ALT_BISE_B_MU_52_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d352ab359df88544b11a",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f232c0283514546a91f2",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/es_ES/426d34617278a7ee9495e57309800c67.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/WEB_1e64c77641011fe46ec502c33aba6219",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/WEB_aa72f9a3d61bf7f1bb395cb823bd1184",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/WEB_c185f0b2d04e1ddc74fc72812753a776"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_52_R2",
+  "reference": "ALT_BISE_B_MU_52_R2",
+  "id": "01JB1YGPBNB8J0VP19NC8TN17P",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/it_IT/c95208700a762e7fc36e4e8416d4480f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/es_ES/426d34617278a7ee9495e57309800c67.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/de_DE/2424c5c4ff1f3a22ea30e127e1665078.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/en_US/0e1bcebc2f569e126ec4fe55473ac091.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/fr_FR/911214549adb65936f0cf53e10db070a.jpg"
+  },
+  "name": "Corgi mimosón",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "Cuando un personaje que controles gane #[[Fugacidad]]# — Gano 1 potenciador."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-057-F-ES"
+}

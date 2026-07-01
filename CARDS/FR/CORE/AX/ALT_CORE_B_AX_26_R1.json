@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_26_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z52VNECFHAKK4HB0PKS",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5R309JYMZ9VZDSPX21XH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5R309JYMZ9VZDSPX21XH",
+          "text": "Cette petite pile est la carte maîtresse de l'Axiom. Le Kélon produit une énergie phénoménale, pour laquelle les ingénieurs trouvent chaque jour de nouvelles applications."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R3FGV91E7534PAVK0E2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5R3FGV91E7534PAVK0E2",
+          "text": "Je pousse le chariot le long du couloir de toutes mes forces. Paju s'occupe de le guider, alerte les passants pour me dégager la voie. Notre tâche est simple, mais tellement rébarbative. Récupérer les cylindres de Kélon vides, les transporter du chantier naval jusqu'aux stations de charge... puis remplir le caddie, rapporter le tout et rebelote. Paju pousse les portes de l'atelier, et on s'insinue dans la raffinerie. Des ouvriers sont en train de pelleter des cristaux de Kélon sur le convoyeur métallique. Bientôt, ils seront distillés et versés sous forme liquide dans les Cylindres, qui serviront alors de batteries pour toutes sortes de machines. Paju me fait un signe de la main, et j'approche le chariot de l'aire de déchargement. Des technomanciens burinés saisissent les cylindres pour les insérer dans le circuit de réapprovisionnement.\n\nUne fois le chariot chargé avec de nouvelles batteries pleines, Paju prend ma place et pousse à son tour tandis que je prends position devant le trolley. C'est reparti vers le hangar. Je fais bien attention qu'aucun Cylindre ne bascule et tire pour aider. Ça ferait tâche d'en faire tomber un. Allez, encore un effort. Une fois arrivé à la plate-forme élévatrice, je m'éponge le front avec ma manche et regarde le gigantesque garage où sont alignés des dizaines et des dizaines d'airships, d'aéronefs, de véhicules blindés et de barges de transport. Un jour, Paju et moi, on aura peut-être la chance de prendre place dans l'un d'entre eux, et on mettra les pleins gaz pour voler au-dessus d'Asgartha et percer les nuages... Paju pose son bras autour de mon cou, haletant. Lui et moi, on va devenir des supers pilotes. Le bip retentit quand l'ascenseur arrive au niveau zéro. Mais bon, pour l'instant, on va devoir faire nos preuves en tant qu'Apprentis."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R38YZBJ11S9M7PB5WBZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5R38YZBJ11S9M7PB5WBZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R2GAJJ0A2PF4Q2MKXJK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5R2GAJJ0A2PF4Q2MKXJK",
+          "text": "Treyst"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R2SC9E8M6J0N9APDC5E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5R2SC9E8M6J0N9APDC5E",
+          "text": "370 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY4Z52VNECFHAKK4HB0PKS",
+      "reference": "ALT_CORE_B_AX_26_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f1bce8568ae3c3b2be79",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ffb398be708630c1444a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/407f9061cf9cf48cad17",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:42+00:00",
+      "question": "What happens to the Kelon counters if the card is sent to hand or deck?",
+      "answer": "All counters disappear when a card is sent to discard or to a hidden zone."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/fr_FR/53cd3c5e840abf95284c17436fed3898.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/WEB_41f22c16e590159848fabed7818861a0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/WEB_e716095944d948f0a6a57500549d51b0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_26_R1",
+  "reference": "ALT_CORE_B_AX_26_R1",
+  "id": "01HKAFJNM3VJJJFAG7QP3EDW2M",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/de_DE/cf1948a6f31e726afa7b17f2b7119d79.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/fr_FR/53cd3c5e840abf95284c17436fed3898.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/en_US/f141df0d43ee7a8a6ef4016b194a1314.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/es_ES/ef5fbe5064de7d72aad456a9cd5b3447.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/it_IT/bdcd34079c637d5602259ad7bbe9ede9.jpg"
+  },
+  "name": "Cylindre de Kélon",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "#{J} Un Personnage ciblé gagne 1 boost.#  {T} : Je gagne 2 compteurs Kélon.  {T}, dépensez 1 de mes compteurs Kélon : #un Personnage ciblé gagne 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-024-R-FR"
+}

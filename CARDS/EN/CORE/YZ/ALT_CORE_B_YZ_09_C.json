@@ -1,0 +1,165 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_09_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50CVZ2XY39DWKZ7S701J",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH644FKA7D6VWXKJCPBAMZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH644FKA7D6VWXKJCPBAMZ",
+          "text": "\"One day, I will show you the wonders of Avalon and the true might of the Fae realms.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6461ZPRM2RHRBEW9YEYF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH6461ZPRM2RHRBEW9YEYF",
+          "text": "I open my mouth and let Senka burst out of me in thick mauve plumes. My nighthawk spreads its wings while its alabaster mask solidifies to cover its head. I feel the Mana flowing through me like pure spring water, and I immediately channel it into the Effigy I have placed at my feet. The Megalith is shaking in front of me. The ground trembles, and the Tumult oozes from the floating crystal. I need to send it back to its age-long slumber in a hurry. And for that, I call on one of its guardians. The statuette of Nimue shatters, and I feel her presence burst forth from the microscopic breach I've opened to the Empyrean. The Lady of the Lake speaks into the world, holding in her hand Excalibur, the legendary sword of the sleeping king. The Eidolon turns to me, then to the meteor of Aether.\n\nHer feet brush against the ground and generate idle ripples in the stone as if it were the surface of a calm lake. Her hair floats around her in a downy halo, as though lulled by an imperceptible breeze. The walls of the cavern are now like obsidian mirrors, warping as the sluggish waves hit them. In her hand, Excalibur gently vibrates, and she whispers a few words to calm it down. The sword seems to perceive the threat lurking in the half-light of this untouched sanctuary. The rock sparkles as though adorned with stars and constellations, and comes to life as if being crossed by galaxies and spinning celestial bodies. Then, without saying a word, Nimue plunges the sword into the mass of Aether and leaves it there, buried almost up to the hilt. The tremors suddenly stop, and the spectral glimmers fade away. But I know that this is only a brief respite. Two more guardians will be needed to seal the Tumult Singularity."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64591XQQG81D20X3EJZB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH64591XQQG81D20X3EJZB",
+          "text": "Nimue, also known as Viviane or Ninianne in certain versions of the stories of King Arthur, is a fairy who appears numerous times in the Arthurian legends. She gives Excalibur to the son of Uther Pendragon, raises Lancelot from the lake, and – along with her sisters – guides the dying king to the mythical island of Avalon after he is mortally wounded at the Battle of Camlann. It's also said that she imprisoned the magician Merlin in an underground prison, for reasons that remain unclear."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH642WBQB6XGMRWTWN36AX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH642WBQB6XGMRWTWN36AX",
+          "text": "Afanas"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH643P4GFQ6Z8GP8WB857Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH643P4GFQ6Z8GP8WB857Y",
+          "text": "386 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50CVZ2XY39DWKZ7S701J",
+      "reference": "ALT_CORE_B_YZ_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f3ab95493678bda5f0cf",
+      "reference": "FAIRY",
+      "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+      "name": "Fairy"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ab913051535c40b2d4f7",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Spirit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c4919a04bebb29394075",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/JPG/en_US/02022cad32910efd45cec7e5d0612109.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/ALT_CORE_B_YZ_09_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/ALT_CORE_B_YZ_09_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/ALT_CORE_B_YZ_09_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_09_C",
+  "reference": "ALT_CORE_B_YZ_09_C",
+  "id": "01HKAFJNZSRAS7WV1QVS8PZBDC",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/JPG/es_ES/88f7d3a570461f113ce1ae58be0e9294.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/JPG/it_IT/4f85de1042c9cefdb2726e996f47be5d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/JPG/fr_FR/e1cc26d0c0b200f05825e2d82017d53c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/JPG/en_US/02022cad32910efd45cec7e5d0612109.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/JPG/de_DE/7030d5e32838b93f55cde39e2a71a4b7.jpg"
+  },
+  "name": "Lady of the Lake",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-158-C-EN"
+}

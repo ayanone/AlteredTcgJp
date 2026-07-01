@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_30_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z5FHH5YXQ9G1QFE51R2",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5R8NNRGD0T4J1978W1HB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5R8NNRGD0T4J1978W1HB",
+          "text": "Cosa mai potrebbe andare storto con un piccolo e adorabile robot autonomo autoreplicante?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R948JHS6XW230V8MBPM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5R948JHS6XW230V8MBPM",
+          "text": "My eyes widen as I enter the honeycombed sphere. I had noticed it was larger than the others, and that all the Brassbugs seemed to be converging here. But I wasn't expecting this. An enormous Brassbug is slumped in the middle of the metallic pod, as if in pain. Dozens and dozens of robotic bugs are busy taking turns around it, as though taking care of it. A metallic lament echoes within the cavity, and the bug's rear compartment opens to eject a large load of blue pellets. Er… is that what I think it is? Marmo sniffs the pile of pearls. A few Brassbugs gently push him away to gather up the little balls and check they're in good condition. Others are bringing liquid Kelon to the behemoth and seem to be continuously feeding it.\n\nAnd in a corner of the metallic sphere, another contingent of bugs is busy building casings to keep the precious spheres in. I can't believe what I'm seeing. Am I really witnessing their method of reproduction? I feel like laughing. So, they have a queen. When you see them helping us every day, you get used to thinking of them as machines who are simply there to work for us. But they don't do it because they've been ordered to; they do it because they like helping us. They have a complete social system and needs tied to their nature. They aren't sick. There's no malfunction. All we need to do is wait for the process to finish, and then we'll have more baby Brassbugs on our hands than we'll know what to do with. I sit down in a corner. The good news is that I don't need to do any maintenance. The bad news is that I brought all my tools for nothing."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R8XX4EXBVTAAS6AHX5D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5R8XX4EXBVTAAS6AHX5D",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R86SHD8FD4RZTAEA6ND",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5R86SHD8FD4RZTAEA6ND",
+          "text": "Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R8E3ZKMD2M8KQ6ABF24",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5R8E3ZKMD2M8KQ6ABF24",
+          "text": "378 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY4Z5FHH5YXQ9G1QFE51R2",
+      "reference": "ALT_CORE_B_AX_30_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanente"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5bcd39dab8b45c75d327",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Fulcro"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/78af0c159d4ebe77c833",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_30/JPG/it_IT/25939096081e2ee6d3e751da99f884bb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_30/ALT_CORE_B_AX_30_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_30/ALT_CORE_B_AX_30_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_30_C",
+  "reference": "ALT_CORE_B_AX_30_C",
+  "id": "01HKAFJNMH18X9SA7EZY5YAQR3",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_30/JPG/en_US/a881eda7713c62972c326b479fa5376d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_30/JPG/it_IT/25939096081e2ee6d3e751da99f884bb.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_30/JPG/es_ES/0a92b5f4c9bf002b9096002cf89661e1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_30/JPG/fr_FR/5f7bdf07ba39c3e37d5dc9b40884826f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_30/JPG/de_DE/6808069542600b11359d526a02ca1a85.jpg"
+  },
+  "name": "Alveare delle Ottonblatte",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "MAIN_EFFECT": "{J} Crea una pedina Robot [Ottonblatta 2/2/2] in una spedizione bersaglio.  A mezzogiorno — Crea una pedina Robot [Ottonblatta 2/2/2] in una spedizione bersaglio."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-030-C-IT"
+}

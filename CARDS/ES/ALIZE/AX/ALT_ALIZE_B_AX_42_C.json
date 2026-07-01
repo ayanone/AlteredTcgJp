@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_42_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/37KMYRV36H8RRA8TK9YT1FDKYW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23K70E11AJHC9FCD2D3D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23K70E11AJHC9FCD2D3D",
+          "text": "Ninguno de los copos de nieve se siente personalmente culpable de la avalancha."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23M8WYG47JWRYQ8BXX6H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23M8WYG47JWRYQ8BXX6H",
+          "text": "Miro hacia la cornisa con los ojos como platos. La capa de nieve se ha roto contra las rocas en millones de pedazos, lo que ha provocado una reacción en cadena incontrolable. Aunque el reprocesador y sus conductores ya están fuera de peligro, no ocurre lo mismo con los soldados de Ordis que van a la retaguardia de nuestro convoy. El avance de la nieve por las crestas ha desprendido múltiples bloques de hielo, que ahora caen hacia el fondo del valle. Tengo que hacer algo. Estrambot. Mi quimera ya se ha puesto en marcha antes de que le haga una señal. Lo veo descender a toda velocidad, zigzagueando entre las masas de rocas caídas, la nieve en polvo suspendida en el aire y fragmentos de hielo afilados como el pedernal. Como una niebla mortal, la avalancha sepulta a los reclutas de la Égida, tragándoselos como una ola hambrienta que se desploma sobre la orilla. Aprieto los dientes.\n\nA medida que cada cuerpo va desapareciendo bajo la nieve impetuosa, mi Alter Ego lanza una baliza en un intento desesperado por localizarlos con mayor precisión una vez que se detenga la ola. Ya no puedo verlos desde donde estoy. Todo lo que distingo es una nube llenando el valle. Pero a través de los sensores que ha soltado mi compañero, veo una escena completamente distinta. Las borrascas de nieve siguen moviéndose a cámara lenta y se asientan sobre las estribaciones rocosas. Los soldados, aturdidos, se revuelven para intentar salir de la nieve. Necesitamos ayuda de inmediato si queremos sacarlos de ahí. Respondiendo a mis pensamientos, Estrambot comienza a emitir una señal de socorro en todos los canales oficiales. Con un poco de suerte, los otros equipos no estarán demasiado lejos y podrán responder a nuestra petición de ayuda. Pero, aun así, no puedo permitirme quedarme de brazos cruzados. Usando la Alteración, convierto mis prótesis en unos pequeños esquís y, sin más preámbulos, emprendo la marcha."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23KSSMBCJ3P12W52HBFJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23KSSMBCJ3P12W52HBFJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23GWZA8BV0WVSFXBNNVM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23GWZA8BV0WVSFXBNNVM",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23HS92DDW7AD4A319HQG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23HS92DDW7AD4A319HQG",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "37KMYRV36H8RRA8TK9YT1FDKYW",
+      "reference": "ALT_ALIZE_B_AX_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/57c31705dce223f34b3a",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disrupción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0538af68b39a1310f34e",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/db6b3630cbeb10c0edb0",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:10+00:00",
+      "question": "Do the boosts of a Character count towards the stat limit?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/es_ES/c442e77e0cc183120f7e9266adb79d63.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/WEB_02b429af3e45d982c4fe0993d9c6cb6a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/WEB_acec68849c7cfc7f913a921b046fae49"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_42_C",
+  "reference": "ALT_ALIZE_B_AX_42_C",
+  "id": "01J1Q4P4RV2A0EQ68788JASAZB",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/es_ES/c442e77e0cc183120f7e9266adb79d63.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/fr_FR/c7a3fef975986f53cc2970b3edc9cbe6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/de_DE/4e5d4bc33158f7bfc849bc64c13216f6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/it_IT/f0689a94cfbfeb55e93125c87cf46776.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/en_US/0ffac53be2ea239c964baf6a1311892f.jpg"
+  },
+  "name": "Avalancha",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Fugacidad]]. (Una vez resuelto mi efecto, envíame a la pila de descartes en lugar de a la reserva.)  Envía a la reserva cualquier número de personajes objetivo con {M} total de 4 o menos."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-014-C-ES"
+}

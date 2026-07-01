@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_42_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2YXS7EEVAW96XR2EPJBVY7HE9H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29AVHX5QG82HXZ6JZT07",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29AVHX5QG82HXZ6JZT07",
+          "text": "Senza passare dal via."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29BRK7WF7J8EM1QK4XY4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J29BRK7WF7J8EM1QK4XY4",
+          "text": "Il furioso Jinn ci blocca il cammino, proprio nel mezzo dello stretto passo, un'incantevole area erbosa che intende chiaramente tenere per sé. Scioglie la neve, deciso a combattere l'inverno da solo e visibilmente infastidito dal freddo che assale costantemente il suo territorio. Alle mie spalle, sento lo sguardo dei miei uomini puntato addosso e percepisco un po' di sfida nel loro atteggiamento. Alzo un sopracciglio. Va bene, mostrerò loro di che pasta sono fatto. Ma non ho intenzione di lanciare un assalto frontale a questo hibachi ambulante: non voglio rovinarmi l'uniforme. Incrocio le braccia per mostrare la massima indifferenza, poi mi giro verso i miei soldati, più per scherno che per vera e propria sfida. Indico alla mia nuova aiutante di campo di portarmi le mie cose e lei obbedisce prontamente. Poi, come un matador che entra nell'arena, faccio qualche passo verso la creatura.\n\nScrivo i miei glifi su un pezzo di carta e lo carico di mana con calma, come un assassino che affila le sue lame. Sussurri e mormorii attraversano i ranghi mentre si piazzano le scommesse. Adesso arriva il bello. Getto il foglio a terra con un gesto sprezzante, come se lanciassi un guanto di sfida. Dietro di me si sentono risatine e scherni... Mi volto, sfoggio un sorriso ironico, poi mi giro per gridare al Jinn arrabbiato. Naturalmente, l'eidolon balza immediatamente verso di me, come un toro infuriato che si avventa su un mantello rosso... e cade prontamente nella trappola, proprio come mi aspettavo. In un improvviso turbinio di carta, intorno al Jinn infuocato si forma una gabbia. Dietro di me si sentono incitamenti, applausi e qualche esclamazione di disappunto. I perdenti passano floret ai vincitori mentre saluto la folla. Non vedo l'ora di scoprire il mio punteggio."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29B9PBXK8M1ZWQDGWP2B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J29B9PBXK8M1ZWQDGWP2B",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29968B1472H8FS8DMCW7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J29968B1472H8FS8DMCW7",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29ABE9MZ59DQ0K5QN4AK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J29ABE9MZ59DQ0K5QN4AK",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "2YXS7EEVAW96XR2EPJBVY7HE9H",
+      "reference": "ALT_ALIZE_B_OR_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d0ec5bea649c64e6e711",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c8ff188537e18732d4ee",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/baf0abf16d2682d63fb7",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:20+00:00",
+      "question": "Do the boosts of a Character count towards the stat limit?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/it_IT/b6a6b6adf43f67225c3b626d85281015.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/WEB_11fb440c7d2027197b70c3d6e7d5371d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/WEB_d48f47ad302b9170ae3ef91b889013dd"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_42_C",
+  "reference": "ALT_ALIZE_B_OR_42_C",
+  "id": "01J1Q4P4SN8RYANNFV99ET5V4D",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/de_DE/f473094a0a289a15377d76357ba2ce77.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/en_US/d6c030a493cf94d0ae925620b22d8269.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/it_IT/b6a6b6adf43f67225c3b626d85281015.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/fr_FR/7b2f5d9c8d2f436e1e78fba1a3f13bab.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/es_ES/c7e03d5ca964e625a0a01c885c232f49.jpg"
+  },
+  "name": "Minuscola Prigione",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Fugace]].  Manda nella Riserva un personaggio bersaglio con nessuna statistica superiore a 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-083-C-IT"
+}

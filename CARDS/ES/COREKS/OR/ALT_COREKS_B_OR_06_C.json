@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_06_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79913QPGYDQMK65ZH58H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME865D73BA16QB850WZJWK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME865D73BA16QB850WZJWK",
+          "text": "Juntos aprenden y juntos protegerán."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME866J7B728ZD72N0PE5T8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME866J7B728ZD72N0PE5T8",
+          "text": "Wingspan lands in the courtyard of the Kurung, folding his wings behind his back as I slide out of the saddle and along his blue plumage. I pat his neck, affectionately ruffle his feathers and stroke his beak. That's when I notice that all the cadets are staring at us instead of completing the maneuvers their instructor has ordered them to do. Just before landing, I had seen them doing routines in pairs. It was an important lesson to know how to fight in pairs or in groups, to ensure that no flank is exposed and that any breach in the defenses is immediately sealed. But it seems their curiosity got the better of their discipline. I watch them staring at my griffon, eyes wide like children. Many of them are still quite young, in fact.\n\nI approach them and remove my helmet, bringing Wingspan with me so they can meet him. The cadets immediately abandon their training to meet and pet my Chimaera. And Wingspan lets himself be fussed over, taking care not to make any sudden movements. My Alter Ego has always been very careful around young humans, happily playing with them while making sure he doesn't hurt them. In a few years, maybe some of them will apply to become official Aegis recruits. But for now, they still need to learn the basics. I greet the instructor, who is picking up the wooden weapons that the cadets have left lying on the ground. Maybe he'll reprimand the young soldiers once I've gone. But for now, he lets them bombard me with questions, with just a hint of vindictive pleasure in his eyes. I kneel down to answer them. After all, my duty as an Exalt is also to be a figurehead for the Ordis."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME865Z44CTPWWX1C825C0M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME865Z44CTPWWX1C825C0M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8646CC452ST54N9P6QCX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8646CC452ST54N9P6QCX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME864TYJZ7WKSAFHEE1QJ3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME864TYJZ7WKSAFHEE1QJ3",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79913QPGYDQMK65ZH58H",
+      "reference": "ALT_COREKS_B_OR_06_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/81158b6e4bfcaad4da87",
+      "reference": "APPRENTICE",
+      "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
+      "name": "Aprendiz"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7b1a0b57250a346c8e37",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldado"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/412c172bd769b7c60e42",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/JPG/es_ES/ded5c59b501ac5ca83fc5b2525b170e5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_06_C",
+  "reference": "ALT_COREKS_B_OR_06_C",
+  "id": "01HN5TXREVYVS3P0SEXRQ88X1K",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/JPG/de_DE/cd192831555b0c534ff4b7187c13b8ba.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/JPG/it_IT/e964332cfce811ec143dace9f20e5db7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/JPG/en_US/4479fea72459efafd0350e5cfa7902dd.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/JPG/es_ES/ded5c59b501ac5ca83fc5b2525b170e5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/JPG/fr_FR/84d30ad6d640aadd6d261e60a80cbc75.jpg"
+  },
+  "name": "Cadetes de Ordis",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{J} Crea una ficha de soldado [Recluta de Ordis 1/1/1] en mi expedición."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-129-C-ES"
+}

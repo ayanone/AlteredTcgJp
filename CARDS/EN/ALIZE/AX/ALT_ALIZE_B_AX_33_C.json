@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_33_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3C718R6M4G80BV0BQ93R9Z70PM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J233ZSMTKEYNDGAGPGWCB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J233ZSMTKEYNDGAGPGWCB",
+          "text": "Blasting off at the speed of light!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J234D0Y2Y147EXZ9VFPCJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J234D0Y2Y147EXZ9VFPCJ",
+          "text": "A thick fog has begun to roll in over the lake, and now we can't see a thing. Marmo won't leave the young Lyra alone. He plays with her and ensures she doesn't get into any more trouble. And I don't think the little girl minds. But we'll need to find her little caravan if she's to return to her family. Well, we don't have any choice. I take my Construct out of its case and start to rearrange the buttons. A little puffin appears in front of me, flapping its wings and looking both adorable and helpless. But it has Icarus's jet pack on its back, and I intend to send it far above the clouds so it can tell us what it sees – and more importantly, where to go. It starts hopping on the ice, flapping its wings frantically and somewhat clumsily. It's the rockets that'll really help it take off...\n\nIt picks up a little speed, then suddenly, as its engines power up and blast the ice behind it, the little bird shoots up into the sky and pierces the blanket of fog. It leaves a vapor trail behind it, and I watch it far up in the sky, rising like a rocket. From that height, it should be able to quickly spot a Lyra procession and find the way to the Cais Adarra. I smile. Marmo brings the portable monitor to me before I even ask for it. On the screen, I can see the first topographical readings that the puffin is sending to us from its position. It's a basic map, but I can clearly make out the peaks and troughs. There – a human procession. Probably people from the little girl's Clan. I sigh with relief. But something else immediately catches my attention. It looks like a huge gash crossing the frozen lake like an immense scar. A canyon..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2346P1CCCNMABH5CSDX3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2346P1CCCNMABH5CSDX3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J233HYBGV8XXMYBG626VN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J233HYBGV8XXMYBG626VN",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J233SDGJS0H9YSYKWCTJG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J233SDGJS0H9YSYKWCTJG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "3C718R6M4G80BV0BQ93R9Z70PM",
+      "reference": "ALT_ALIZE_B_AX_33_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8d86192b86d123ea4222",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b7874536b9a89afd1803",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/29bd00fa7691fe077e63",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:18+00:00",
+      "question": "Can the effect of Rocket Puffin ready a card in another player's Reserve?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/en_US/7d1c80bbf2546d931fb5e9adbf2b70eb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/WEB_eed071ded32d9e10882d6c5bf5344b0f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/WEB_5f1bcef6e3f59c90cd503e3724a02868",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/WEB_3e4d7880f08bcd659501480cec544a5f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_33_C",
+  "reference": "ALT_ALIZE_B_AX_33_C",
+  "id": "01J1Q4P4RNYPV5A8A1013CMJT9",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/de_DE/c0857587d60aded27a38eee2c8418348.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/fr_FR/c0c333dbeb2ed1b3361fced9aee2bed6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/en_US/7d1c80bbf2546d931fb5e9adbf2b70eb.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/it_IT/075a63368eb16cbf8205568da1006566.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/es_ES/ae8b4a6dfc408b5bc31978ed6641b022.jpg"
+  },
+  "name": "Rocket Puffin",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "{J} You may ready an exhausted card in Reserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-004-C-EN"
+}

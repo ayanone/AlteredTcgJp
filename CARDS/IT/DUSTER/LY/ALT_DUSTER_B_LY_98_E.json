@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_B_LY_98_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3YVH8Y9JCQ8WKVK9MDPRNBTJ12",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JZ37ZNQN8X22BXB6WB5Y4961",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JZ37ZNQN8X22BXB6WB5Y4961",
+          "text": "\"Non mi sento mai così a mio agio come quando sono sotto i riflettori.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZNS28Q6ASQQQA2KTMZY9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JZ37ZNS28Q6ASQQQA2KTMZY9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZNR32WF2HY5J13S0MVT3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JZ37ZNR32WF2HY5J13S0MVT3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZNPT3EK9K8S4G99QEHB1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JZ37ZNPT3EK9K8S4G99QEHB1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZNQ8A96DN2N2PSF4QY6C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JZ37ZNQ8A96DN2N2PSF4QY6C",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "3YVH8Y9JCQ8WKVK9MDPRNBTJ12",
+      "reference": "ALT_DUSTER_B_LY_98_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/522549d7dafee2c17e84",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artista"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/23b03b9d6467581f7ddf",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Nobile"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Semi di Unità"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ee170e3f70f99e8e00cb",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_98/JPG/it_IT/cfd3dda6d8b9bf5e219705294e9f594c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_98/WEB_0cb7e01293cda465b3da8644e1367895",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_98/WEB_1a1355d6567b4f3227d618cd251caf7f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_LY_98_E",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_B_LY_98_E",
+  "id": "01JYP9SVPXTWN7CSV6RBV03C0H",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_98/JPG/fr_FR/595271095707cb6cae47de93728f2c33.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_98/JPG/en_US/5608f61c83e837f795e8570dd2d16cee.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_98/JPG/it_IT/cfd3dda6d8b9bf5e219705294e9f594c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_98/JPG/es_ES/1371b33decab6e03e0f4b4b3645d5d88.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_98/JPG/de_DE/a6599fc983aa69eb73bb55334dd76457.jpg"
+  },
+  "name": "Phoibos, Esarca Reka",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "6",
+    "FOREST_POWER": "6",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{H} Un avversario bersaglio rivela una carta casuale dalla sua mano. Se sono [In contatto], puoi giocarla immediatamente senza pagarne il costo e farle ottenere [[Fugace]]. Se non lo fai, scartala."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "SDU-050-E-IT"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_33_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/28NK97P9F59NYV14MGJW62JAVX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2579TXM8X0ZJYMP1ZYAN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2579TXM8X0ZJYMP1ZYAN",
+          "text": "Which will melt first: him, or your heart?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J257X20G0PE9SJAVPEM7C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J257X20G0PE9SJAVPEM7C",
+          "text": "Crowbar and I finally finish our snowman at the edge of the woods. I admire our joint work: a charming mound of fresh snow with dead branches from a nearby birch tree as arms, a limp carrot for a nose, and stones for the eyes and mouth. I couldn't resist adding an old red scarf and a weed on the top of his head to make him look like an old man. If only we had a wooden pipe. After coming up with a little welcome song for our new snow friend, we move off to start a snowball fight. Crowbar decides to be a jerk and is relentless, so I find refuge in a nearby thicket. Hidden between two thick bushes, I wait for the pelting to slow down. The Wind carries a rhythm to my ears, a syncopated melody of small crunches, like footsteps on snow.\n\nI take a peek over my makeshift barrier, watching for an ambush from Crowbar while asking him for a ceasefire. Our snowman is still where we left him, arms outstretched to the sky... I should have put gloves and a hat on the poor guy. But there's now another one walking around our homemade one.  He's the size of a small child. He's wearing a large backpack and a trapper's hat with flaps covering his ears. A real explorer! He seems very curious about the replica we made, and looks him up and down carefully. He's probably trying to guess the family connection between him and our creation. I'm reluctant to emerge further from the undergrowth so I can keep watching this little show. Behind me, I can feel Crowbar watching as well. The little snow creature ultimately waves goodbye to the old snowman before continuing on his way. If I threw a snowball at him, would he join our play fight?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J257K9DPXBQ1295G80VSH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J257K9DPXBQ1295G80VSH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J256H1X5HXVJ93GEX49F4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J256H1X5HXVJ93GEX49F4",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J256ZX98CWJBRQ8BKS3D2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J256ZX98CWJBRQ8BKS3D2",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "28NK97P9F59NYV14MGJW62JAVX",
+      "reference": "ALT_ALIZE_B_LY_33_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c6d26b3a62f85c4ca575",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Elemental"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e9f7a54601b23621cb39",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/77fc88f17e8bd33224a1fe6506f80b88.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_bf520d8267baf4533eb5dddc4b6f02ce",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_eb5d8eab445464c60b7cf202df8c5196",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_a1d65e9e3ec766f87c0831df94298836"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_33_C",
+  "reference": "ALT_ALIZE_B_LY_33_C",
+  "id": "01J1Q4P4S72ESJDYMMDMPKH5NE",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/fr_FR/d4dbce3296175f8240c6b828d0b754a0.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/de_DE/0b3f24bc577e7fca545a8f385d8491a9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/it_IT/8be0c210d718175812250880334093a8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/es_ES/cc10b734f761727bf7c73270bf0f98e9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/77fc88f17e8bd33224a1fe6506f80b88.jpg"
+  },
+  "name": "The Snowman",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{J} Unless I'm in {O}, I gain [[Fleeting]]. (If I would be sent to Reserve, discard me instead.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-037-C-EN"
+}

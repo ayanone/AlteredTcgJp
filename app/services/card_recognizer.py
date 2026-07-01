@@ -36,9 +36,14 @@ def _call_gemini(api_key, prompt, image_bytes=None, mime_type="image/jpeg", max_
             return result["candidates"][0]["content"]["parts"][0]["text"]
         except urllib.error.HTTPError as e:
             body = e.read().decode("utf-8")
-            print(f"HTTP {e.code}: {body}")
+            # retry-after の秒数をエラーメッセージから取得
+            retry_after = 60
+            m = re.search(r"retry in (\d+\.?\d*)", body)
+            if m:
+                retry_after = int(float(m.group(1))) + 5
+            print(f"HTTP {e.code}: {body[:200]}")
             if e.code == 429:
-                wait = 2 ** attempt
+                wait = retry_after if attempt == 0 else retry_after + 2 ** attempt
                 print(f"レート制限 (429)。{wait}秒後にリトライ... ({attempt + 1}/{max_retries})")
                 time.sleep(wait)
             else:
@@ -177,9 +182,11 @@ def translate_card(api_key, card_name, card_text, csv_path=None, keywords_path=N
         lines = ["【必ず以下の訳語・表記ルールを使うこと（変更禁止）】", ""]
         lines += [
             "■ 表記ルール",
-            "・状態（Fleeting/asleep/anchored等）: テキスト中では _日本語名_ とアンダースコアで囲む",
+            "・状態キーワード（Fleeting/asleep/anchored等）: テキスト中では _日本語名_ とアンダースコアで囲む。英語テキストにカッコ書きで注釈が続いていても、その注釈は出力しないこと。例: 「Fleeting. (Send me to Discard...)」→「_一過_」",
             "・キーワード能力（Gigantic/Seasoned等）: 「日本語名（注釈文）」の形式で出力する。アンダースコアや句点は不要。例: 巨大（私はあなたの両方の探検隊に存在しているとみなす。）",
-            "・記号（[ウラ]/[表]/[両面]/＜サポート＞/[捨て札]）: 括弧ごと固定表記を使う",
+            "・記号（[ウラ]/[表]/[両面]/＜サポート＞/[捨て札]/[永続]）: 括弧ごと固定表記を使う",
+            "・[永続]はリザーブに置かれている限り効果を発揮し続ける能力を示す固定表記。[永続]の後に能力テキストを続ける。",
+            "・カードタイプ（Character/Permanent/Spell/Hero）: 日本語のみ表記（英語名不要）。例: Character → キャラクター",
             "",
         ]
 

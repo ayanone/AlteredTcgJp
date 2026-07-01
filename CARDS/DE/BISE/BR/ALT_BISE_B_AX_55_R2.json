@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_55_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0TWXAR4RCX8B0AVCH5MDK2QMHE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A48VG2RQXCHCYAGTWDZS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A48VG2RQXCHCYAGTWDZS",
+          "text": "Mit der richtigen Technik nimmt Harz energetische Eigenschaften an, die es zu einer guten Kelon-Alternative machen."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A496QNVCHQ8Q3D562AME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A496QNVCHQ8Q3D562AME",
+          "text": "393 AC - I look around me, wiping my clammy forehead. Inside the refinery, the conveyor belts that transport Kelon to cylinders are moving slowly, and their humming fills the chamber. I wrinkle my nose. It's obvious that production has slowed. In the middle, on a metal platform, a supervisor is holding a ledger and looks visibly concerned. I know he has the heavy burden of managing the distribution of Kelon. I had come to beg for some for the teams currently deployed, but I can tell that it will be pointless. The shortage of Kelon is increasingly worrying, and if it continues, we're going to be out of work. He stares at his abacus, counting and recounting, and he doesn't seem to like the result. I stand next to him to look over his reports and analytical results. He lets me do it, as he's too preoccupied to be offended by my interruption.\n\nI stare at him with an insistent look, and he stares back at me. I've been pestering him for weeks, but he hasn't given me what I want yet. It's too dangerous. Too premature. Too much research and development involved. I can see his forehead creasing as his brain mulls things over. I don't need to say anything more or argue my case. I've already told him everything I know. Backed into a corner, he finally agrees. So I summon the Little Match Girl, who brings me a tube filled with Sap. She places the container on the table, and we start to examine it. We know the Scholars used to use Sap as some type of fuel. We just need to adapt our equipment to harness it. Thanks to the youngsters, we know it requires an injection network. We already have the containers. Once the green light is given, all the engineers need to do is devise a valve and circulation system…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A49055CV7JYJ6JSGAR3D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A49055CV7JYJ6JSGAR3D",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A48GSWJFBB9WV91016RR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A48GSWJFBB9WV91016RR",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A48N5XKNF9FAW55X5AF6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A48N5XKNF9FAW55X5AF6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0TWXAR4RCX8B0AVCH5MDK2QMHE",
+      "reference": "ALT_BISE_B_AX_55_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/64bcbb7652f34e8b0316",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingenieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/077fcc501d18b803d341",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/de_DE/aaf68d6739588cae432e682ae2a08c3d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_e814eaadbca150c856840c94c8a2075b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_d5e5ac4c2017594c41de639a5fa62d15",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_05815bb965acf608a2fb5bef7e7739af"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_55_R2",
+  "reference": "ALT_BISE_B_AX_55_R2",
+  "id": "01JB1YGPB49ZDQ7TT2DXNY3AX1",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/de_DE/aaf68d6739588cae432e682ae2a08c3d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/es_ES/64fc69aef615f23ce5f934859f993f16.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/fr_FR/27495c323029a4f06fc1ff9389ee5863.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/en_US/6a7450b3eb0baabc7ba55c04c619160c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/it_IT/23aa6336d0232bf1d761fa31ca7592d2.jpg"
+  },
+  "name": "Organisationstalent",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "#2#",
+    "MAIN_EFFECT": "{R} Falls deine Hand leer ist, #erhalte ich 2 Verstärkungen, andernfalls erhalte ich 1 Verstärkung.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-008-F-DE"
+}

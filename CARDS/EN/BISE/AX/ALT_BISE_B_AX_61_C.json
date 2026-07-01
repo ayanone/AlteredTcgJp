@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_61_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/183RHKDSYT8T3VKF72SHHVSANT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4F2T4ZMVSHSHARV1NZS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4F2T4ZMVSHSHARV1NZS",
+          "text": "Two's company, three's a crowd."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4FDFNWAWJE4H5GB59HQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4FDFNWAWJE4H5GB59HQ",
+          "text": "393 AC - Unlike many people, I've always found something comforting about laboratories. No matter the location, whether above ground or deep underground, laboratories all have the same ambiance, the same smell… They are a haven for study, filled with measuring and research instruments. When you have a scientific background, you can immediately feel at home in one. And though it's rudimentary, this mobile unit is no exception. I immediately felt at home when I entered. From the outside, the structure obviously looks more like some kind of worksite machinery than a university building: huge wheels, generators, antennas, thick cables and conduits that plunge down into the city's bowels to pump the Sap that we now use as our energy source… It's clearly designed to be practical rather than good-looking with its prefabricated utilitarian appearance. What I particularly like is the whirring of its machines, their constant buzzing. It's a familiar and reassuring sound, like the engines of the airships Paju and I used to fly. \n\nI love seeking refuge here every night after a journey into the depths. I could spend hours or even days here. And that's actually what I do. Come to think of it, I'm a bit like those Sniffers: a creature of the night, at home in the dark. Unlike me, the other researchers set their work schedule to match the outside floodlights, which get brighter when it's meant to be daytime and dim in the supposed off-peak hours. But I'm happy with my mug of coffee and my nocturnal habits. How many of these have the Axiom built already? Six? There's mine, of course. One under old Falani's authority… The door opens suddenly, and a young woman enters. She has a yellow raincoat, waterproof boots and geological gear. Hmm, definitely a prospector. She places a satchel full of Aeroliths on the table, and some of the glowing stones start to float in the air."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4F7H1E1007Y6WBB3CN1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4F7H1E1007Y6WBB3CN1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4EPX8H2R9AEY8MTNSQ0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4EPX8H2R9AEY8MTNSQ0",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4EW0BAZRNGEF676HDZK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4EW0BAZRNGEF676HDZK",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "183RHKDSYT8T3VKF72SHHVSANT",
+      "reference": "ALT_BISE_B_AX_61_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Landmark Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f6a6feda1356be02917e",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/eaf939bb02638e486eac",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_61/JPG/en_US/ea6ad8b6b1c45ca798ea43a29ca79cd5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_61/WEB_024ac2e13f65adbf2ffdfdd4faa29a97",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_61/WEB_44e962747c2c75de8dc2a08ae900e6e4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_61_C",
+  "reference": "ALT_BISE_B_AX_61_C",
+  "id": "01JB1YGPB7A0J24VFD24R13HJM",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_61/JPG/es_ES/d9571d03f82ba503d9dd4690d2615755.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_61/JPG/de_DE/434a4d73047e65071e9e21af0eecbfc9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_61/JPG/it_IT/30c5087174f55431aa08a757ed3c0e85.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_61/JPG/en_US/ea6ad8b6b1c45ca798ea43a29ca79cd5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_61/JPG/fr_FR/b77c707e29a559b66a318cf6498f24a0.jpg"
+  },
+  "name": "Tech Lab Unit",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "{J} [Resupply]. (Put the top card of your deck in Reserve.)  Your Reserve limit is increased by one."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-017-C-EN"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_55_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2XKD6N27H293BB3PD6K9HGC03G",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A9FV62R0DJTFM3A4TGH1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A9FV62R0DJTFM3A4TGH1",
+          "text": "L'utilisation d'ingrédients non testés est la recette du désastre."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9GNNSS4DRX5NSTZXBY7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A9GNNSS4DRX5NSTZXBY7",
+          "text": "393 AC - Consciencieusement, il note tout dans son calepin, coche les cases au fur et à mesure de son enquête. Conception de l'infrastructure : peu satisfaisante, au vu de l'ouverture de la cuisine sur l'extérieur. Salubrité générale des locaux : peu satisfaisante, mais quoi de plus logique, quand des milliers de personnes défilent chaque jour dans l'enceinte de l'établissement. Hygiène du personnel : peut mieux faire, surtout le commis à poils, qui devrait porter des gants. Il passe en revue tous les points : lutte contre les nuisibles, qualité de l'eau, contrôle de la température, formation du personnel... Mahmoud me transmet toutes les informations via le Gestalt. À travers ses yeux, je vois ce qu'il voit. Il me fait part de ses commentaires, et même s'il comprend ma démarche, il est éminemment critique sur ma volonté de faire fermer le Mess. Car s'il est un inspecteur sanitaire des plus inflexibles, il est aussi un amoureux de la bonne chère. \n\nContrôle des denrées alimentaires... Ah, nous y voilà donc. Mahmoud demande à récupérer tous les documents relatifs à la chaîne alimentaire, les fait défiler devant ses yeux. Il me les partage, bien entendu, non sans me lancer de petites piques acerbes au passage. Qu'il le fasse donc, peu me chaut. Ce qui m'importe, c'est que tout soit consigné de façon officielle, pour que je puisse lancer la suite de la procédure. Sans surprise, tous les ingrédients viennent soit de la Ferme, soit des soutes de l'Ouroboros quand il s'agit de choses non périssables. Des gâteaux de Sève... Voilà donc. Là encore, en provenance de la Ferme. Il fait signe à l'Eidolon d'Hestia, qui depuis tout à l'heure lui lance des éclairs avec ses yeux. L'Oneiros n'aime pas qu'on se mêle de ses affaires. Mais Mahmoud n'en a cure. Il a l'habitude de ne pas être aimé. Tout à coup, il remarque qu'une part de pâtisserie meringuée est déposée devant lui, presque en catimini. Tiens donc, ne serait-ce pas une tentative de corruption ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9G8N2B63TKSW9B0TKVX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A9G8N2B63TKSW9B0TKVX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9E4SWGCQYRA7CT4CJNG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A9E4SWGCQYRA7CT4CJNG",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9FGQXC8ZR4H106Q0P3Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A9FGQXC8ZR4H106Q0P3Y",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2XKD6N27H293BB3PD6K9HGC03G",
+      "reference": "ALT_BISE_B_OR_55_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6552b8e9f8da3eda35fd",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrate"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6cc2aafbd43f7e52d596",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/fr_FR/83479d7d5e8f71303d7ff24ff6b71534.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/WEB_4080b184f238cf5a30f7911ddecd666b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/WEB_03add66860e5fbb3e9d95f7138045f13",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/WEB_a241a8e1ad235cb16e813c9b250a2b6e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_55_R2",
+  "reference": "ALT_BISE_B_OR_55_R2",
+  "id": "01JB1YGPBWTPZXT1NTY4H3V3B7",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/es_ES/6e7615856246c8e23254af5989b19cc6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/en_US/93a1b2dc417ea98960c9e4239506e8d0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/fr_FR/83479d7d5e8f71303d7ff24ff6b71534.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/de_DE/a13c3266f680381160d1aad1898ccd7b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/it_IT/c167397844a7eb23747dd1355cdcdb56.jpg"
+  },
+  "name": "Inspecteur Sanitaire",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "Les cartes dans la Réserve de votre adversaire ne peuvent pas gagner de compteurs."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-078-F-FR"
+}

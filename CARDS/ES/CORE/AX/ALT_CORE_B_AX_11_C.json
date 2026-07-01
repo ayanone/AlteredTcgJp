@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_11_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YVFR798VR8JXNW4YDSF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QFP8ECHG706NPA72JCR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QFP8ECHG706NPA72JCR",
+          "text": "«La forma más eficaz de hacer algo es hacerlo»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QG369A9DTPDQGDKS7M2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5QG369A9DTPDQGDKS7M2",
+          "text": "The alarm blares in the cockpit as red lights blink all around. I cough. The whole ship trembles and creaks as it plunges down toward the sea. Damn, this was supposed to be just a simple reconnaissance mission! Paju is unconscious in his seat, blood running down his face. I struggle to keep my eyes open against the wind rushing through the shattered windshield. He looks deathly pale. I grit my teeth and swear repeatedly. The console is severely damaged, smashed by the Kraken's tentacles. There's nothing more that can be done here. I remove my straps and grab my Construct. I rearrange the artifact to start the sequence I need. Out of the corner of my eye, I see the left engine burning in a plume of smoke. The ground is fast approaching. A jolt shakes the surveillance aerodyne.\n\nI hold on as best I can and successfully make Amelia Earhart appear through the Construct. The aviator sits in the pilot's seat while I unstrap Paju and lay him down on the aircraft's floor. The Eidolon is the only one who can get us out of this. I take off my gloves and open my friend's blood-soaked suit. I press my ear to his chest. Good, he's breathing. With commotion all around, I tie him to the nets and attach myself to the railing. I feel the nose of the aerodyne lifting… I look at Amelia, who has managed to stabilize the ship and is now flying over the Rampart. Good, we're saf… The explosion hurls me against the wall. I feel an excruciating pain at the bottom of my back as I collapse. Everything spins. I'm lifted off the ground. My head bangs against something. White noise. A hurricane."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QFWS1QZZ2NNSXKXT7FG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QFWS1QZZ2NNSXKXT7FG",
+          "text": "Amelia Earhart was an American aviator, famous for being the first woman to complete a solo flight across the Atlantic Ocean. Passionate about aviation and associated achievements, she was a strong advocate for equal rights for women. In 1937, while trying to circumnavigate the globe from west to east on her twin-engine Lockheed Electra 10-E, Amelia and her navigator, Fred Noonan, disappeared in the middle of the Pacific Ocean and have never been found."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QF9F08FM76ESA2S37E5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5QF9F08FM76ESA2S37E5",
+          "text": " Treyst"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QFGV861A5AY736YZ466",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QFGV861A5AY736YZ466",
+          "text": "379 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YVFR798VR8JXNW4YDSF",
+      "reference": "ALT_CORE_B_AX_11_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bd0f6654a028b029b766",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d510b6bc914b0aea6298",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/JPG/es_ES/460111054f975c0e5aa0241fac6fc3fc.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_11_C",
+  "reference": "ALT_CORE_B_AX_11_C",
+  "id": "01HKAFJNJAK8M6VPA6ZGFRME93",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/JPG/it_IT/d6df816dc2bbbd95b504aa636a63cabb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/JPG/en_US/57757c194241d10245fe2877fd386070.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/JPG/fr_FR/219fe4f6843b28d466120e8d4f564e5f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/JPG/de_DE/20744927c4324918db7aa01a8570323f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/JPG/es_ES/460111054f975c0e5aa0241fac6fc3fc.jpg"
+  },
+  "name": "Amelia Earhart",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-012-C-ES"
+}

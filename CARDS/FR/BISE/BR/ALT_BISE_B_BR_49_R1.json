@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_49_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0SJXDM2ZCA8889H640D1XR4EDM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4N230KJVVYTFFA8DTZV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4N230KJVVYTFFA8DTZV",
+          "text": "Les Bravos manient la lame comme personne, que ce soit en duel ou en cuisine."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4NEVPAHJJ7CSJH71W76",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A4NEVPAHJJ7CSJH71W76",
+          "text": "393 AC - Le petit chef abat son hachoir de manière experte, coupant de fines lamelles de Sève solidifiée tandis que sa grosse toque dodeline sur sa tête. La Chimère taille, émince, détaille sans s'arrêter, pour tenir la cadence que lui impose le rythme effréné des commandes. Parce que ça se bouscule pas mal au portillon. Depuis que les cuisines du Mess ont incorporé la Sève dans leur panoplie d'ingrédients, tout le monde se presse pour pouvoir goûter les recettes qu'Hestia a concoctées. J'en salive d'avance. Deux semaines que j'attends ! Quand je suis remonté, y'avait déjà la queue, juste pour faire sa résa. Et pour caler ça avec mon emploi du temps, ç'avait pas été une mince affaire. Du coup, tout me faisait envie. Forcément, y'avait la fondue. Mais le bortsch de Sève avec ses œufs au plat me faisait aussi de l'œil... Avec Sunn, on avait décidé que choisir, c'était déjà renoncer, donc on a pris les deux, pour fêter la fin de sa convalescence.\n\nC'était cool de la revoir. Je l'avais croisée vite fait en Caer Oorun, mais on avait pas eu le temps de trop discuter. Du coup, le fait de tomber sur elle dans la file d'attente était l'opportunité parfaite de rattraper un peu le retard et de tailler la bavette, comme on le faisait au centre de formation. Une fois installés, elle m'avait raconté tout son périple dans le Storhvit, et moi mes déboires. À l'écouter parler, je me sentais un peu à la traîne, même si elle m'avait avoué qu'elle avait toujours été un peu jalouse de ma condition d'Exalt. Je la vois gober un œuf au plat de son deuxième bortsch tout entier, avant de s'essuyer la bouche avec sa serviette. Même maintenant, j'arrivais pas à comprendre comment elle pouvait ingurgiter tout ça en une journée. Elle avait toujours un truc à becter dans la poche, sans parler des bonbons qu'elle picorait tout le temps."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4N8Z6XF9STAGJ4MRSBV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4N8Z6XF9STAGJ4MRSBV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4MP00SXVS779B0RJYJZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A4MP00SXVS779B0RJYJZ",
+          "text": "KOJO"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4MWHJ2AMV4NQ0KGH1C0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4MWHJ2AMV4NQ0KGH1C0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0SJXDM2ZCA8889H640D1XR4EDM",
+      "reference": "ALT_BISE_B_BR_49_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9922c39dc115c8bcb60a",
+      "reference": "APPRENTICE",
+      "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
+      "name": "Apprenti"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1bc0ab78476134fe77a2",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9c3e82bd677d19e52c39",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/fr_FR/aa211eee39a0aa545a6c58ae25aba619.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/WEB_2e46dda5c5e39f98db5832840160e5f1",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/WEB_5d50885e0f9da2e3ba0c9ab1dc128ba7",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/WEB_b0f501ca92f33a154b21a74cb6b057d0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_49_R1",
+  "reference": "ALT_BISE_B_BR_49_R1",
+  "id": "01JB1YGPB82STV8A33FYP2YXYD",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/de_DE/d0b1acf62a055132ee43735d2f9c2aa6.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/es_ES/1b31710acdefe0305c4aabd3ae1c7852.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/it_IT/e2941f2032f1803b5bd2e461739d3838.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/en_US/f5d246f2c7253f6b1c3f92b89525b04d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/fr_FR/aa211eee39a0aa545a6c58ae25aba619.jpg"
+  },
+  "name": "Petit Cuistot",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#{R} Si j'ai au moins 2 boosts, [Ravitaillez].#",
+    "ECHO_EFFECT": "{I} Lorsque vous jouez un autre Personnage — Je gagne 1 boost, jusqu'à un max de 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-020-R-FR"
+}

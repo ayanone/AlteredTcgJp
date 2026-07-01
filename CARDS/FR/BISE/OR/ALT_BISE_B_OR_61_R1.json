@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_61_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0AHR1V94A48CPA5DVCWQQB23WW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1AA6RQR6KHA0R36HAW8ZH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1AA6RQR6KHA0R36HAW8ZH",
+          "text": "Le premier Haut-Roi d'Asgartha nous exhorte à partir à l'aventure !"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA8MBVHP2WA7E6HN05GY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1AA8MBVHP2WA7E6HN05GY",
+          "text": "393 AC - Mes doigts se crispent sur les bords du rouleau, alors que je sens mon ventre se nouer. J'entends qu'on me parle, mais je ne peux détourner les yeux du texte, que je lis et relis encore et encore. Tout est flou autour de moi, tandis que le sang bat dans mes tempes avec la délicatesse d'un maillet. Je laisse choir le parchemin...\n\n\"Il n'y a pas d'échappatoire.\nMa couronne est ma cage.\nMa prison, comme le Tumulte, est un serpent qui se mord la queue.\nSans origine, ni fin.\nMais pour expier mes crimes, je me dois de ne pas briser le cercle.\nTelle est ma damnation, et en même temps, ma renaissance.\nNe désespérez pas cependant, et continuez votre route, vous qui le pouvez encore.\nVous avez entre vos mains la clé du renouveau.\nEn Avalon, le roi s'éveillera.\nRUNE\"\n\nJe pose une main sur le mur pour m'empêcher de m'affaisser, essayant de calmer ma respiration. À nouveau, la migraine, bien plus forte cette fois. Comme si on creusait dans mon crâne, comme si quelque chose essayait de sortir, de crier, sans pour autant y parvenir... Mais quand j'essaie de m'appesantir sur cette sensation, tout ce que je trouve, c'est du bruit blanc."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA7431Y4QKJMF7J7H17Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1AA7431Y4QKJMF7J7H17Y",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA5ZDKQ4R83S5MA9Q73Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1AA5ZDKQ4R83S5MA9Q73Q",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA6CKVSCXX3KHQTR1B71",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1AA6CKVSCXX3KHQTR1B71",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "0AHR1V94A48CPA5DVCWQQB23WW",
+      "reference": "ALT_BISE_B_OR_61_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanent d’Expédition"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/86fa606162ace454e2ff",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Matos"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7027ac22b1205ae426b7",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/fr_FR/3a477af77e70de3b064bc4a35375f232.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/WEB_b0c501b3986701957156cef1a58617d9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/WEB_96915b497519efefef25c6da85b0f10f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_61_R1",
+  "reference": "ALT_BISE_B_OR_61_R1",
+  "id": "01JB1YGPBYGVH2ZFZ80GRGCRMR",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/de_DE/f8b8fd3212a75384c69605dad2e491fc.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/es_ES/96a33e82fda305c3cf382220ddc00979.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/it_IT/294367c49adb0928fb63daeb06be2f66.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/fr_FR/3a477af77e70de3b064bc4a35375f232.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/en_US/d0242a6ea4c1dc10e2d645df3ddecc48.jpg"
+  },
+  "name": "Testament de Rune",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Si mon Expédition devait avancer, vous pouvez me défausser à la place pour #regarder les quatre premières cartes de votre deck. Mettez-en une dans votre main et défaussez les autres.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-083-R-FR"
+}

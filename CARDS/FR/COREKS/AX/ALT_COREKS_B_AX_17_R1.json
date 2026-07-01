@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_17_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77WHW7VZWP334MY9TFJP",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7WFY977FT1QT00RW51P1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7WFY977FT1QT00RW51P1",
+          "text": "Nous cherchons parfois un remède à la solitude dans les formes de vie les plus étranges."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WGC9MDDVA5JZD3WF9S4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7WGC9MDDVA5JZD3WF9S4",
+          "text": "L'Eidolon scrute mon expression, attentif à la moindre de mes réactions. Mon premier réflexe aurait été de rire, mais je réprime mon envie. Quelque chose dans le ton de sa voix m'en empêche. Ce qu'il vient de dire est si ridicule, si insensé. En est-il conscient ? Je l'observe à mon tour. Victor a les jambes croisées, ses mains sont immobiles. Il semble d'un calme olympien. En prenant appui sur les Greffes, une jeune ingénieure du Parallax a soi-disant créé des robots. Comment les a-t-elle nommés, déjà ? Ah oui, des Automates. Mais ce que proposait Frankenstein... c'était de la folie. Leur insuffler une conscience pour les rendre réellement sentients ? Était-ce même possible ? Il avait insinué qu'en matérialisant des souvenirs de personnes au sein de ces coquilles de métal, il était peut-être envisageable de les ramener à la vie. Était-ce réalisable ? Était-ce même souhaitable ?\n\nJe sais pertinemment qu'il a lu mon dossier, et qu'il faisait référence à Paju en me faisant cette offre. Ce qu'il me proposait, c'était tout simplement de ramener des morts à la vie. Je claudique en direction de mon cabinet et me sers un verre, l'avalant d'une traite pour m'éclaircir la voix. En puisant dans mes souvenirs, je pouvais ramener Paju à la vie quelques instants. Mais une fois que je ne serai plus, personne ne se souviendra de lui suffisamment pour le matérialiser de nouveau. Je soupire. Cela faisait bientôt six ans que j'étais à la tête de la manufacture de Greffes, avec les moyens logistiques de l'aider dans son entreprise. Je me tourne vers Frankenstein et le toise alors qu'il se permet un sourire. J'ai l'impression d'être un vieillard dans un corps jeune mais brisé. Il se lève et me tend la main. Peut-être est-il temps de me réinventer à nouveau ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WG57FCJD3WCAMZ0MZYS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7WG57FCJD3WCAMZ0MZYS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WFDZXMZYGXVH3GW98KR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7WFDZXMZYGXVH3GW98KR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WFQKDY53WDB8A0KCMV1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7WFQKDY53WDB8A0KCMV1",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77WHW7VZWP334MY9TFJP",
+      "reference": "ALT_COREKS_B_AX_17_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7bf6349d29b80f243bcc",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/946f535461fe554c3854",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/1a8dc0770766cc226fda",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:38+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of this card said: \"You may activate the {j} triggers of target Permanent you control.\"  Future printings will say \"You may activate the {j} abilities of target Permanent you control.\""
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_17/JPG/fr_FR/04ee93dd46a66b31a8b7c51ebddf768b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/ALT_CORE_B_AX_17_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/ALT_CORE_B_AX_17_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/ALT_CORE_B_AX_17_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_17_R1",
+  "reference": "ALT_COREKS_B_AX_17_R1",
+  "id": "01HN5TXR4C6ABBDJ1BFM7BSJGM",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_17/JPG/es_ES/76e67984d4a0b94a08d581b7a192efa8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_17/JPG/it_IT/0d63c171b39dff6fcdc604d281cc32df.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_17/JPG/fr_FR/04ee93dd46a66b31a8b7c51ebddf768b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_17/JPG/en_US/6e9174ab1b4ea2428a95efc12915d9b2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_17/JPG/de_DE/bb265fdca3ad54c099b51106c5ff8ab8.jpg"
+  },
+  "name": "Dr Frankenstein",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{R} Vous pouvez activer les capacités {j} d'un Permanent ciblé que vous contrôlez."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-017-R-FR"
+}

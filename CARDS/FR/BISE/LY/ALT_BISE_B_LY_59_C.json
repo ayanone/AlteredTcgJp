@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_59_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4CPPYCEWAF90RAD1113APV59WQ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A69KX5ME4TFCG6C0NFS0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A69KX5ME4TFCG6C0NFS0",
+          "text": "Vous en voulez une autre ?!"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6A4EDEDGW7NAZEASC3A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A6A4EDEDGW7NAZEASC3A",
+          "text": "393 AC - Métaaaaaaaal ! J'entre sur scène, faisant le signe de cornes et s'embraser ma tête de citrouille. Je harangue les fans déchaînés, afin de nourrir leur énergie, alors que l'aube pointe timidement le bout de son nez. Après l'interruption, et en dépit de l'entracte, le concert a été un marathon presque ininterrompu où on a pu passer en revue presque tout notre catalogue, et y'en avait bien besoin pour faire oublier le couac du début. Il a bien fallu dix bonnes minutes pour que Fen recouvre ses esprits. Orbec était éberlué, Tamati à la fois en rogne et déboussolé. J'avais dû ruer dans les brancards pour qu'ils acceptent la situation et qu'ils lui lâchent la grappe. Parce qu'ils n'avaient pas senti, eux. Ils n'avaient pas vécu ce qu'elle avait vécu. Mais moi, si. C'était comme si une sangsue s'était pointée dans son cerveau, et avait commencé à aspirer à la paille le contenu de sa mémoire.\n\nAlors oui, elle avait pu continuer à chanter le reste des chansons, mais à chaque fois, elle avait eu une peur viscérale d'oublier encore les paroles. Il avait fallu lui remettre les pendules à l'heure, et l'encourager. Mais au final, Fen sait très bien qu'elle n'est pas importante. C'est le public qui est prioritaire sur tout. Et notre rôle, c'est de lui faire vivre une expérience de ouf. Alors ce qu'on va faire, c'est lui offrir un final d'anthologie ! Mes doigts virevoltent sur ma gratte, et je me lâche dans un solo à réveiller les morts ! C'est pas grave si  j'y laisse des plumes. Ce que je dois faire, c'est assurer un max. En plein milieu de mon récital endiablé, je saute dans le public, et me laisse transporter par une mer de mains, sans interrompre mes trilles stridents. C'est parti pour le bouquet final !"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A69WFBQQ5FSKADR581WR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A69WFBQQ5FSKADR581WR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A691SPCVY3Y0HZ0WKK1K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A691SPCVY3Y0HZ0WKK1K",
+          "text": "CROWBAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A69B55HCBPANPXG3AZKJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A69B55HCBPANPXG3AZKJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "4CPPYCEWAF90RAD1113APV59WQ",
+      "reference": "ALT_BISE_B_LY_59_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2291b50188272c59ffd2",
+      "reference": "SONG",
+      "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
+      "name": "Chant"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8fc0fd3e1265847f9d3a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/fr_FR/f2cd25c520c5563547b2b285d98bb1c7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/WEB_5734e9a1916b693864cc0c8ff3e1eef7",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/WEB_af6d97fdf5010dc9a91a3be4eb68976f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_59_C",
+  "reference": "ALT_BISE_B_LY_59_C",
+  "id": "01JB1YGPBJ75ART9E9GCVPSPX4",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/it_IT/46e7a38bb73c9c273c1ad26bd7ae58b7.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/de_DE/3486d73f307797d98b9319533bd1055b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/es_ES/61d75277fcf2bbb99070ba4ed905cd84.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/fr_FR/f2cd25c520c5563547b2b285d98bb1c7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/en_US/9656cd946a19948e8a3354ddeda6c49d.jpg"
+  },
+  "name": "Bis",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "Un Personnage ciblé [[Fugace]] gagne [[Ancré]]. (Au Repos, il ne va pas en Réserve et il perd Ancré.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-048-C-FR"
+}

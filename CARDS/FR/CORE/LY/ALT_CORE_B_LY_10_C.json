@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_10_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZSA4PEY5D3W4AQK2NBY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5TP6TAZ23XRYB93DT58Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5TP6TAZ23XRYB93DT58Q",
+          "text": "Le liquide noir traça des formes sur la pierre, et de ces traits jaillirent d’innombrables créatures de suie."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5TPV98XPS2K1FEXPHK3V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5TPV98XPS2K1FEXPHK3V",
+          "text": "Je m'assieds à côté d'Itoro alors qu'elle trace à l'encre noire les lignes de sa missive. Désormais, je suis une grande, et j'ai le droit de rester éveillée, contrairement aux autres enfants. Le seul problème, c'est que quasiment tous les adultes sont partis — sûrement pour le quartier du Ruzzante, comme à leur habitude le vendredi soir — et malheureusement, je ne suis pas encore autorisée à les accompagner. Pas d'Esme à l'horizon, et Auraq est au Rossignol. Il ne reste donc plus qu'Itoro, vu que je ne veux pas traîner avec Serket et sa bande. C'est la seule obligée de rester ici, en tant que seconde de la Bergère. Alors je prends mon mal en patience, et j'attends que la calligraphe termine sa lettre. En lisant par-dessus son épaule, je découvre qu'elle concerne les travaux que le Basileus demande sur l'Ouroboros. Elle parle de la disparition d'un des deux cirques de la ville flottante, et du fait que pas mal de salles de spectacle vont être converties en habitations.\n\nDans quelques années, quand elle sera prête, notre Sahanka sera noire de monde. Il y aura plein de gens des autres Factions, plein d'inconnus. Et je ne sais pas si c'est quelque chose que je crains ou que j'attends avec impatience. Itoro soupire et pose un point final sur son parchemin. Elle souffle dessus pour faire sécher l'encre, avant d'essuyer ses doigts tachés. Puis elle me tend son pinceau, et déroule pour moi un morceau de papier, sur lequel elle pose des poids pour le garder bien droit. Je regarde les estampes de la calligraphe accrochées aux murs, et je sais que je ne pourrais jamais reproduire son talent. Elle seule a la capacité de faire prendre vie à ses dessins de cette façon. Mais peut-être qu'en me concentrant, je pourrais créer un petit camarade de jeu pour Juju ? Je plonge le pinceau dans l'encrier, le pose sur le papier jusque-là immaculé... Peut-être une corneille ou un merle pour voleter avec mon oiseau jacasseur ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5TPGXRXSPPEKE8PJMPRE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5TPGXRXSPPEKE8PJMPRE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5TNFY5JEJH1T14BPE3V8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5TNFY5JEJH1T14BPE3V8",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5TNTPMB2VX5S7K9QJGD2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5TNTPMB2VX5S7K9QJGD2",
+          "text": "383 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZSA4PEY5D3W4AQK2NBY",
+      "reference": "ALT_CORE_B_LY_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/aabcc33d40641483d87a",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artiste"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b3356eb9c1a05abbd6a5",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/c64be77b01b0c65cc6dc",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-06-20T10:37:50+00:00",
+      "question": "When 2 Ouroboros Inkcaster go to Reserve at the same time, can they send each other back to hand?",
+      "answer": "Yes: their effects are triggered as they leave the Expedition zone (before the —), but the output is resolved once they've arrived in Reserve. You resolve them in the order of your choice, but the effect of the first Inkcaster to return to hand is still pending, despite the card not being in the Expedition at that time."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_10/JPG/fr_FR/f4afeeba1fbfb7380afb8fad7538da5c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_10/ALT_CORE_B_LY_10_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_10/ALT_CORE_B_LY_10_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_10/ALT_CORE_B_LY_10_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_10_C",
+  "reference": "ALT_CORE_B_LY_10_C",
+  "id": "01HKAFJNS2VZX7XXD9K4KMM5BS",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_10/JPG/es_ES/da67726e44230c0c14738ad586d7ee52.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_10/JPG/en_US/51c1b22b5141cc648e0d68929f53729b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_10/JPG/fr_FR/f4afeeba1fbfb7380afb8fad7538da5c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_10/JPG/de_DE/b6413ae145e4680c29bcaf0a0fbf0fa9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_10/JPG/it_IT/f39ca9d593f65933a883b3eeba9d887a.jpg"
+  },
+  "name": "Encrière de l'Ouroboros",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "Lorsque je vais en Réserve depuis la zone d'Expédition — Vous pouvez renvoyer une autre carte de votre Réserve dans votre main."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-074-C-FR"
+}

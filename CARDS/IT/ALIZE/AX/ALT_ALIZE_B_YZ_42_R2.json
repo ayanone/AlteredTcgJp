@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_42_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1MXQBRV86R9JESR1AFZ7YJ57QB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2BPZKJAK7FZYXZ8KM428",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2BPZKJAK7FZYXZ8KM428",
+          "text": "I venti gelidi annientarono l'esercito, nonostante mesi di preparazione."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BRWT0DCGKB5T5R1JXW7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2BRWT0DCGKB5T5R1JXW7",
+          "text": "Nell'occhio del ciclone, Afanas abbatte interi sciami di belisenki come mosche. Osservo la scena con orrore. Quando gli ho parlato del legame tra le falene e queste creature che ci hanno perseguitato senza sosta, ho pensato che avrebbe usato questa conoscenza per respingerle, non per sterminarle così. Ma non importa quanto forte io urli; lui non può o non vuole sentirmi. È come se qualcosa si fosse improvvisamente impossessato di lui, trasformandolo nel proprio burattino. E i nostri nemici non sono le uniche vittime della sua furia. Vedo i soldati Ordis strisciare barcollanti verso un riparo o alzare gli scudi per proteggersi dal vento sferzante. Vedo combattenti Bravos sparpagliati che si ancorano alle rocce come meglio possono. Ma le corde si spezzano velocemente e vengono trascinati nel caos vorticoso della tempesta di neve alimentata dal potere del warlock.\n\nUna cengia innevata crolla e viene spazzata via tra le raffiche ululanti. Vedo tende sollevate da terra e fatte a pezzi. I fuochi si spengono come candeline di compleanno. E la neve inizia a ricoprire ogni cosa. Un ricondizionatore Axiom viene sepolto sotto un enorme cumulo di polvere e un albero evocato con l'alterazione viene sradicato e inghiottito dal vortice di vento. È una catastrofe. Devo fare qualcosa. A questo punto, la cura è peggiore della malattia. È come se qualcuno stesse usando Afanas come un tramite per liberare un'infinità di idee legate a una tempesta. Ma come si può fermare un flusso così torrenziale? Interrompendolo alla fonte? No. Devo prima fermare la minaccia immediata. E conosco solo una persona in tutta la storia di Asgartha che sia riuscita a resistere a questo tipo di devastazione..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BRBVMJE7QEWSP1VJNH5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2BRBVMJE7QEWSP1VJNH5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BNSTMBKJFHFM0VEQXMX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2BNSTMBKJFHFM0VEQXMX",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BPC0ZYTJK3PXVRW6F8V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2BPC0ZYTJK3PXVRW6F8V",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1MXQBRV86R9JESR1AFZ7YJ57QB",
+      "reference": "ALT_ALIZE_B_YZ_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c2c2ca9f640f8c922e23",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1819b3ac93d948394f35",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/it_IT/5294b5b43f5a2027c02c25b4af2c9034.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/WEB_afaf5adb5c8143c362f946f8b4b3b83e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/WEB_301e5d8029ff1fbf4a42e6e263887c80"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_42_R2",
+  "reference": "ALT_ALIZE_B_YZ_42_R2",
+  "id": "01J1Q4P4SWD7ABYG5VK63B8RNJ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/it_IT/5294b5b43f5a2027c02c25b4af2c9034.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/de_DE/06f41a2d39266ad10256e6b8fa75120f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/en_US/bf6bb8c34cd6f1e22a3a013ba439d714.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/fr_FR/58a9e1c0ecfae7dead712ad384f2bda3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/es_ES/70f917759dcfe9a5c0df75b9fe319995.jpg"
+  },
+  "name": "Tormenta",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "MAIN_EFFECT": "[[Fugace]].  Manda nella Riserva tutti i personaggi di una spedizione bersaglio, poi consumali ({T})."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-097-F-IT"
+}

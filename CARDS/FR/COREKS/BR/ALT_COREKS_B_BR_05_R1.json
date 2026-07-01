@@ -1,0 +1,169 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_05_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77YQQKWCV3RHBBQJWTH3",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7XE34HD1X278DNM1FS40",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7XE34HD1X278DNM1FS40",
+          "text": "Petite taille, grand cœur, aventures infinies."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XEPGDSS7AXAE065C3BX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7XEPGDSS7AXAE065C3BX",
+          "text": "Les nouvelles recrues se pressent autour de la table pour se pencher au-dessus d'Issun. Le petit bonhomme, pas plus haut qu'un pouce, les toise fièrement, les poings sur les hanches. Certains se moquent ouvertement de sa taille, étouffant de petits rires pas discrets pour un sou, du minuscule sabre que Clochette a forgé pour lui, pas plus long qu'un cure-dents. Qu'ils se gaussent autant qu'ils veulent, ils en auront pour leur argent. Issun a l'habitude qu'on le prenne de haut, qu'on le raille. Et pour en avoir discuté avec lui, je sais que cela ne lui fait plus ni chaud ni froid. Année après année, les novices le sous-estiment, et année après année, ils se cassent les dents sur ce petit bout d'homme, qui en vaut des dizaines à lui seul. Il monte sur un gobelet en bois et se met à crier dans son porte-voix pour se faire entendre des jeunes élèves, pour la plupart encore des enfants.\n\nCe dont ils ne se rendent pas compte, c'est combien il est difficile de se battre contre un ennemi si petit. Pour eux, ce n'est qu'un lilliputien qu'ils peuvent écraser du plat de la main comme une vulgaire mouche. Mais ils se fourrent le doigt dans l'œil jusqu'au coude. Rapide, il se déplace aussi vite qu'une cicindèle. Puissant, il peut sauter à plusieurs mètres de distance. Et s'il réussit à se faufiler dans vos vêtements ou dans le creux de votre oreille, alors bonjour les dégâts. J'avais vu Issun soumettre des colosses et terrasser des mastodontes. À une occasion, j'avais même servi de véhicule pour qu'il puisse se poser discrètement sur une abomination du Fagn. Il y avait une leçon claire à tirer de tout ça : ne jamais sous-estimer même le plus insignifiant des adversaires. Et ces recrues allaient l'apprendre à leurs dépens."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XEDEE06QV7MYTJAM42J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7XEDEE06QV7MYTJAM42J",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XDEYW8F4ZWFFS499AHQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7XDEYW8F4ZWFFS499AHQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XDS1SF0VHGTS3C9DSMJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7XDS1SF0VHGTS3C9DSMJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77YQQKWCV3RHBBQJWTH3",
+      "reference": "ALT_COREKS_B_BR_05_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/dae1bd7463d9c3d98098",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/db7e7ac4c38c1c6f0380",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/2cfd9871dd6676d0e8a2",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:41+00:00",
+      "question": "If I discard Issun-bōshi for its Support Ability, then play a Character, when is the boost placed on the Character?",
+      "answer": "After the card has joined the Expedition (it can therefore trigger effects such as 'When I gain 1 or more boosts — \")"
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_05/JPG/fr_FR/d2511223fcbde0702d3a53047490c99d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/ALT_CORE_B_BR_05_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/ALT_CORE_B_BR_05_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/ALT_CORE_B_BR_05_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_05_R1",
+  "reference": "ALT_COREKS_B_BR_05_R1",
+  "id": "01HN5TXR6VGQ2MVH6DF8A9NJ9F",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_05/JPG/es_ES/783d25def810dfb0e6977c2fc0868173.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_05/JPG/it_IT/bbd25c56d108351bf443d368469ac5bf.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_05/JPG/en_US/d8708e5a7ae7f05939e7872137a146f3.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_05/JPG/fr_FR/d2511223fcbde0702d3a53047490c99d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_05/JPG/de_DE/9d47894b17874ee7a9ab0fa04bcbabc1.jpg"
+  },
+  "name": "Issun-bōshi",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "#{R} Un Personnage ciblé gagne 1 boost.#",
+    "ECHO_EFFECT": "{D} : Le prochain Personnage que vous jouez ce tour gagne 1 boost. (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-034-R-FR"
+}

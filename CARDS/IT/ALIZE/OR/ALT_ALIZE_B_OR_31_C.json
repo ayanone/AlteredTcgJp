@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_31_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/741K1KEG6P91NRKP1S9EDXPEZY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J283938ZJAESJ3RGQQN1S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J283938ZJAESJ3RGQQN1S",
+          "text": "Proteggere il popolo di Agartha è l'onore più grande."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2854F5TN2CY3K5BJEZN6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2854F5TN2CY3K5BJEZN6",
+          "text": "Mentre camminiamo, lancio un'occhiata dietro di me e vedo la mia sottoufficiale che mi segue diligentemente, con la sua doppia lancia che brilla nel bagliore rosato del tramonto. Sto per fare una battuta quando mi ricordo che non è più Sunisa ad accompagnarmi, ma una recluta completamente nuova. Sun è a chilometri di distanza e si sta preparando a risalire il fianco orientale di Cais Adarra come da miei ordini. Il temperamento di Nina è l'esatto opposto di quello della mia precedente aiutante di campo. Sunisa è sfrontata e non è mai a corto di parole, mentre Nina è molto più discreta, persino deferente, e per me è un cambiamento radicale. Non ho nulla contro di lei, ma devo ammettere che mi manca Sun e la sua lingua tagliente. Ma forse è solo questione di tempo prima che Nina si senta abbastanza a suo agio da esprimere la sua personalità...\n\nIntorno a noi, i tronchi degli alberi sono ricoperti di funghi con cappelli rossi e blu, e le spore si disperdono nell'aria come fiocchi di neve. In effetti è molto bello uscire dal folto delle conifere e trovarsi in una zona del bosco molto più luminosa e spaziosa. Sento un fruscio sospetto poco lontano e alzo il pugno. Nina si ferma immediatamente, con la lancia pronta. Usando il nostro codice di battaglia, le ordino di prendere posizione al mio fianco e di stare indietro mentre io avanzo lentamente verso la fonte del rumore. Se ci imbattiamo nei belisenki qui, le cose potrebbero degenerare rapidamente. Guardo le cime degli alberi, poi i pendii coperti di neve... Non ci vuole molto per identificare la causa del suono, perché non tenta neanche di nascondersi. È un piccolo pupazzo di neve non più alto del mio ginocchio, che trasporta sulla schiena un set completo di attrezzatura da campeggio. Una chimera? Decido di seguirlo..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J284QZ4GT4G5SKZ8T6H9R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J284QZ4GT4G5SKZ8T6H9R",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2823W6C5AB0GEPBE78TZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2823W6C5AB0GEPBE78TZ",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J282Q7DQ8TSA31XX0YWJ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J282Q7DQ8TSA31XX0YWJ7",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "741K1KEG6P91NRKP1S9EDXPEZY",
+      "reference": "ALT_ALIZE_B_OR_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Pedina Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/664724fc5bc5554c99e6",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldato"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2e92e2c3c68b7fbb57e6",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/it_IT/1178b7ba57e655bd7e2aed4ce3282876.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/WEB_5888054282f61268cab7c52ab5b1b876"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_31_C",
+  "reference": "ALT_ALIZE_B_OR_31_C",
+  "id": "01J1Q4P4SQPNA2YQYR2C1KF8ZG",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/es_ES/9222496b20a1bd58240a0ac54d31f41d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/it_IT/1178b7ba57e655bd7e2aed4ce3282876.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/de_DE/ad8fa5aad0e64ce589d7a25904773ec9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/fr_FR/358ad65308918087e2785daa7b1e79b7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/en_US/b97ef478768352d2c7b5a9780a0a45e7.jpg"
+  },
+  "name": "Recluta Ordis",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "(Se lascio l'area delle spedizioni, rimuovimi dalla partita.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-105-T-IT"
+}

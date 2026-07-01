@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_10_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77VXVRQKKZW86SVS2D2S",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7W6PVAMKY7G02TSBPG70",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7W6PVAMKY7G02TSBPG70",
+          "text": "„Dieses Material scheint nicht von der Schwerkraft beeinflusst zu werden. Wenn wir uns die Eigenschaften des Aerolit zunutze machen, könnten wir schwebende Schiffe und Städte bauen und bis in die Wolken fliegen ...“"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W73YM6NEBH7M78Z8R2C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7W73YM6NEBH7M78Z8R2C",
+          "text": "Jian Lam places a hand on the Aerolith core, tapping its surface while he talks to us about its properties. I listen carefully to the Eidolon. Like Kelon, Aerolith is a material that emerged with the Confluence. The Tumult Nomads had already mentioned it during their travels: floating ruins, rocks suspended in the air as if by magic… It wasn't just a simple freak of nature, but a new element that could be exploited. That's what Jian Lam had done over 300 years ago. He had designed levitating barges and platforms, and lots of other unconventional and visionary inventions… In a way, it's even thanks to him that the capital looks the way it does today, with lakeside areas that float above the water without support columns.\n\nLam presses a button, and the Aerolith sphere rises a few inches. He then activates his own dorsal propellor and rises as well. It's not always easy to follow his explanations. Paju describes him as someone who's absent-mindedly passionate and has the temperament of a dreamer. But when he talks about his inventions, his eyes sparkle and his enthusiasm is infectious. Even though he sometimes loses track of time and his lessons never finish when they're supposed to… For us, the Aerolith is what allows our airships to rise up into the sky and fly with the birds. Located in the middle of the ship, just behind the cockpit, this core is a bit like our flotation device. By sending pulses to it, we can adjust our altitude, while the Kelon motors propel us forwards and backwards. I put on my jet pack when the Eidolon tells us to. I love this part of our practical lessons."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W6WJZ5JP5J9P0R1WNB6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7W6WJZ5JP5J9P0R1WNB6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W68AV8KT0F63CB8CZ36",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7W68AV8KT0F63CB8CZ36",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W6G0Y0CSZMHES112NVS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7W6G0Y0CSZMHES112NVS",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77VXVRQKKZW86SVS2D2S",
+      "reference": "ALT_COREKS_B_AX_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8f77504d02ed7e7c3f6a",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingenieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/518672592a50ca537a16",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/de_DE/82953c509bb6566c0788b398b05b8456.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_10/ALT_CORE_B_AX_10_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_10/ALT_CORE_B_AX_10_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_10/ALT_CORE_B_AX_10_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_10_C",
+  "reference": "ALT_COREKS_B_AX_10_C",
+  "id": "01HN5TXR38MQZ2Z5W44ABSMMXX",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/es_ES/9e332e46ad4199a12382914bd73ad564.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/de_DE/82953c509bb6566c0788b398b05b8456.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/en_US/9bdf74669731297379b0c19c59e3160c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/it_IT/9d76f9f555349208884aee6106f35403.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/fr_FR/f1a64e4f2fefef99a035cd4b6f5120b2.jpg"
+  },
+  "name": "Jian, Vorarbeiter der Versammlung",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "3"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-009-C-DE"
+}

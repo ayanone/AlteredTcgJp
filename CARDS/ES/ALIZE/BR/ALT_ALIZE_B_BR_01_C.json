@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/455KVWD8AE8ZKB3VVK5WG8SQ92",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23XQ3HQHFR99QR3YY553",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23XQ3HQHFR99QR3YY553",
+          "text": "¡Más rápido, más! ¡Nuestra llama arde más fuerte cuando corremos!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23Y79GC7CE628X9Q3Y35",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23Y79GC7CE628X9Q3Y35",
+          "text": "392 AC - Subo la empinada cuesta con zancadas cortas. Supongo que «subir» es una interesante elección de palabras. Sí, sé que estoy ascendiendo a la cima de la isla flotante, pero los conceptos de arriba y abajo no se aplican del todo aquí. Desde mi perspectiva, es como si estuviera corriendo por terreno llano. Alzo la vista. Sobre mí veo otra isla flotante bocabajo en el aire. Desde mi posición invertida, avisto manadas de yaks o animales semejantes, que habían estado pastando pacíficamente antes de dispersarse ante mi cercanía. Con un poco de suerte... Usando la Alteración, creo un promontorio rocoso a mis pies. Este sale disparado del suelo hacia la otra isla. Me dejo llevar y adapto mi postura. En cuanto me acerco a la isla invertida, siento que la gravedad cambia de dirección. De repente, tira de mí hacia arriba, que en realidad ahora es abajo.\n\nSalto y giro en el aire, aterrizo al otro lado y ruedo por la hierba alta. Bien, si sigo por este atolón, debería llevarme a mi destino. Antes de continuar con mi carrera busco el espíritu de Booda. Está en una isla similar. Siento el viento soplar junto a sus orejas mientras cruza las escarpadas llanuras de las Estepas Inclinadas. Los yaks se alejan cuando lo ven y él les aúlla para que se aparten de su camino. No está lejos. Nada lejos. Además, lo siento vibrar con el maná que ha robado del Tumulto. Sonrío. Dentro de unas horas, como mucho, nos reuniremos. Usaré todo el maná que ha recogido para estabilizar la zona y pintarla con los colores de Bravos. A menos que otro Exaltado lo logre antes que nosotros. ¡Ja, ni en sueños! Me pongo en marcha de nuevo, a toda velocidad."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23XZE8SG5Y1TYS091WAV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23XZE8SG5Y1TYS091WAV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23X4MJ6M3S3DMG9C0JK2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23X4MJ6M3S3DMG9C0JK2",
+          "text": "KOJO"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23XD6YQ0HRCXBSBCXRSE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23XD6YQ0HRCXBSBCXRSE",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "455KVWD8AE8ZKB3VVK5WG8SQ92",
+      "reference": "ALT_ALIZE_B_BR_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héroe de"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5040aa64afb0d20c4feb",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/es_ES/009b478c5e89e9d3ecbf92d236d29ec2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/WEB_faa330e336098ded20dec8b3b62198e7"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/HERO_THUMB_43f7020c96eea3c12e22c8c4f87301e2"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_01_C",
+  "reference": "ALT_ALIZE_B_BR_01_C",
+  "id": "01J1Q5GPHAMA0GR0E7ZJA88MKD",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/de_DE/4ecec03e1d4e37266f6caee2421ad0dc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/en_US/c8e4186b7999da603b5362409a82138d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/fr_FR/6590cfa1ecc3b11875d9dba6743340a2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/it_IT/633a322d52c8c809e962bbeb12303af4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/es_ES/009b478c5e89e9d3ecbf92d236d29ec2.jpg"
+  },
+  "name": "Kojo y Booda",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "Al mediodía — Si eres el primer jugador, crea una ficha de compañero [Booda 2/2/2] en tu expedición del compañero."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-018-H-ES"
+}

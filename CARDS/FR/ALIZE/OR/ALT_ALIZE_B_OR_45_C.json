@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_45_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4B1TM498QK95RR7HN64WEQ5P5K",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29NHEQ4M9E89421FQ3ES",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29NHEQ4M9E89421FQ3ES",
+          "text": "L'Ordis est toujours prêt."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29Q5XXYXKFCZQ9JJYJYV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J29Q5XXYXKFCZQ9JJYJYV",
+          "text": "Le plus étonnant, c'est l'absence de bruit produit par l'armurerie mobile. Ce coffre-fort haut comme une bicoque lévite à plusieurs mètres du sol dans un silence inquiétant. L'Aérolithe ouvre des perspectives de déploiement vraiment performantes, preuve qu'une bonne coordination entre les Factions peut faire des merveilles. Le génie Axiom et la rigueur Ordis donnent de bons résultats, en fin de compte. La troupe, massée sur la banquise, lève les yeux au ciel. Toujours facile à distraire, ceux-là, en dépit de toutes mes directives de sécurité. Il va falloir revoir les procédures au prochain briefing. Je crie quelques ordres pour qu'ils s'écartent et laissent le champ libre à l'appareil. Il ne manquerait plus que l'un d'entre eux reste sur sa trajectoire lors de l'atterrissage. L'engin se fige dans un vol géostationnaire et entame lentement sa descente, déployant ses différents compartiments de stockage. Je tapote ma cuisse avec mon porte-documents : manifeste de bord, check-list des équipements, bon de sortie... tout est bien là.\n\nL'armurerie est à peine au sol que mes hommes se ruent dessus, excités comme des puces. On dirait Kojo un soir de fête. Je modère leur enthousiasme et commence à dresser l'inventaire : nécessaires médicaux, matériel de campement avancé sur terrain glaciaire, kits d'escalade, de déneigement... de quoi équiper toute mon escouade pour cette expédition. On va pouvoir avancer sereinement. J'avise les petits engins supplémentaires : des autochenilles pour trimballer le plus lourd. Parfait, on ira plus vite en voyageant léger. Le pilote sort de sa cabine, va pour dire quelque chose de drôle, mais il m'aperçoit, me reconnaît, se ravise et me salue très protocolairement. Je fais de même. Je signe le bon de livraison et le lui tends. Une fois tout le barda déchargé, on remplit les compartiments vides de l'armurerie de tout notre matériel usagé ou cassé. Pas question de le laisser rentrer à vide. Je glisse également la mallette avec le courrier de mes hommes à leur famille... Ça aussi, c'est vital."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29PPAQAXE264WP4X2V4W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J29PPAQAXE264WP4X2V4W",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29MGC8QWDER6SYMWXSBG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J29MGC8QWDER6SYMWXSBG",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29N06574YNW909SYRPZX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J29N06574YNW909SYRPZX",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "4B1TM498QK95RR7HN64WEQ5P5K",
+      "reference": "ALT_ALIZE_B_OR_45_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanent d’Expédition"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d2fb279b6efb21af3fe9",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Matos"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/afef047dbb615b9703e2",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/fr_FR/4b39509a651548ccfe82d7e603637e19.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/WEB_45f364184468ac070f5ad3041a9b2bf8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/WEB_3d12ab05366702a94541684860aeb12d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_45_C",
+  "reference": "ALT_ALIZE_B_OR_45_C",
+  "id": "01J1Q4P4SPGZZS4TK0CWMVFXSG",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/de_DE/441f5f45d74348ad82a80504e7277420.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/fr_FR/4b39509a651548ccfe82d7e603637e19.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/it_IT/1e1c7dd2896329c11501f31a1db63874.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/es_ES/25a7889229f2d90aed6c3a8e0a43ee49.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/en_US/26d1a94107edabb8f9c20fd85146973f.jpg"
+  },
+  "name": "Armurerie Mobile",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "{J} Créez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Expédition."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-084-C-FR"
+}

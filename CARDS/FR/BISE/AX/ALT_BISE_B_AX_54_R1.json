@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_54_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/78538J8E3T9X7TGCHQZVXXJR00",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A47W2KJ3FV80G8CVZEPR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A47W2KJ3FV80G8CVZEPR",
+          "text": "Sa monoroue est le fruit de longues heures d'entraînement mécanique."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4862NY6F3GE1VQMGCMM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A4862NY6F3GE1VQMGCMM",
+          "text": "393 AC - Sans crier gare, une jeune femme montée sur un monocycle jaillit devant moi, manquant de me renverser alors que je me dirige vers mon atelier. Je ne dois ma sauvegarde qu'aux réflexes protecteurs de Rossum. Confuse, elle balbutie des excuses et se présente comme étant Aby, ingénieure attachée aux services postaux asgarthi. Cependant, son visage ne m'est pas inconnu... Devant ma mine inquisitrice, l'Eidolon sourit et me dit avoir été envoyée par Sierra pour m'apporter un lot d'échantillons de Sève. Elle m'explique, tout en posant son énorme sac de livraison au sol, ramener des containers remplis de substance ambrée, prélevée au cœur de la Cité des Sages. Elle les a découverts grâce à un renifleur très compétent... qui se prélasse à l'intérieur du sac, s'accaparant les réceptacles comme s'ils lui appartenaient. Aby doit les retirer sans douceur des pattes de l'animal pour les confier ensuite à ma Chimère.\n\nAlors qu'elle me raconte son périple à travers le réseau labyrinthique de l'ancienne ville, j'en profite pour me faire une carte mentale de tous les lieux où elle aurait observé des filons de Sève. Rossum, de son côté, semble plus intéressé par le monocycle. Une postière ? Non, une apprentie de la Fonderie. Aberdeen, l'assistante de Sierra. Toujours aussi prolixe, l'Eidolon m'explique que malgré les dangers qui la guettent à chaque recoin de ce monde souterrain, elle préfère cent fois être là, dans l'action, qu'à la capitale. À l'évocation d'Arkaster, je ne peux m'empêcher de repenser à notre vie d'avant. La jeune femme sort le renifleur du sac de livraison, avant de le refermer et de l'endosser de nouveau. L'animal se positionne sur le couvercle carré de la glacière et pose ses pattes sur la tête de la livreuse. Cette dernière remonte sur son monocycle et repart, non sans nous adresser un au revoir. Les coursiers ont probablement fort à faire ici-bas."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A481NECHEX5SJKXVK13B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A481NECHEX5SJKXVK13B",
+          "text": "The idea of gremlins arose in the early 20th century to explain puzzling malfunctions in aircraft. These mischievous creatures were blamed for equipment breakdowns, piloting errors and technical problems encountered by aviators and aeronautical teams. For pilots of the RAF — the British Royal Air Force — these troublesome tricksters were said to sabotage their aircraft."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A47HG078A87KP7567NBE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A47HG078A87KP7567NBE",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A47Q8G18WRQXFAJ5V6T6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A47Q8G18WRQXFAJ5V6T6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "78538J8E3T9X7TGCHQZVXXJR00",
+      "reference": "ALT_BISE_B_AX_54_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d4d7e544bf653f12ed17",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0cc86d5b2280032ac3b8",
+      "reference": "MESSENGER",
+      "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+      "name": "Émissaire"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8387e4b7a1151622d20e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_54/JPG/fr_FR/45499d1f64e9e2e18699fa8ae2a7d399.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_54/WEB_dcde621b2c4e694c1db0036954f44c0b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_54/WEB_bf32ce54b7b09d5585ab9a5d8e20a965",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_54/WEB_6e48df53becbacf1bb4a63b98b2bc109"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_54_R1",
+  "reference": "ALT_BISE_B_AX_54_R1",
+  "id": "01JB1YGPB3HW2076HJWYCET35W",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_54/JPG/de_DE/27eb6995789bffda3922aadaf41ae193.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_54/JPG/it_IT/488c3128b2c10efe55d3dd34e01fe41d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_54/JPG/es_ES/9f3b481950aedc6621316d9954e587d0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_54/JPG/en_US/4934e2d57893c9455d6dfb5d62d9efc1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_54/JPG/fr_FR/45499d1f64e9e2e18699fa8ae2a7d399.jpg"
+  },
+  "name": "Aby, Livreuse de Sève",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "#[Repérage] {2}.# (Vous pouvez me jouer de votre main pour {2} avec «{h} Envoyez-moi en Réserve ».)  {J} [Amplifiez] #n'importe quel nombre# de cartes ciblées en jeu ou en Réserve. (Si elles ont des compteurs, elles en gagnent 1 de plus. Cet effet ne peut cibler une carte Héros.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-009-R-FR"
+}

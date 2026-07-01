@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_05_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY509130DG2NX15GEWARVH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5ZAG84CJ4M1NWZB1TSPD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5ZAG84CJ4M1NWZB1TSPD",
+          "text": "\"Chin up and stand tall. You’re shieldbearers of the Aegis now!\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5ZBT5VGWP0EX5ZPYED0E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5ZBT5VGWP0EX5ZPYED0E",
+          "text": "I give a discreet nod to Aedyt, and she adjusts her posture, trying to appear as confident as possible. It had always seemed strange to me that the trooper had clung so hard to her desire to join the Aegis infantry. She was always anxious, permanently timid, often last or second to last in obstacle courses... I had offered her a way out on many occasions, a way for her to return to civilian life with her head held high, or even a transfer to the administrative corps. But each time she had stubbornly – almost vehemently – refused. Despite the mockery, she had held firm. When faced with humiliation, she had stood up to it. I could see that the unkind remarks from other recruits were affecting her morale, but she simply put her head down and moved on with gritted teeth.\n\nThe other recruits accused her of undermining their efforts, claiming that her pitiful performances were affecting the overall performance of the entire regiment... and I had almost intervened when the teasing started to border on harassment. But all that changed during one particular exercise. The Alterer in charge of the maneuver lost control of the environment he had created, and a Singularity was about to form right in the middle of the Kurung. Many soldiers started to run for cover, waiting for veterans to put an end to the danger. Aedyt was the only one to throw herself into the Tumult winds to grab the Alterer and drag him out of danger. When the time came to overcome her fear, she had stamped it out without a second thought by rushing in to save her comrade when everyone else had chosen to save their own skin. The regiment's perception of her completely changed after that, when they realized that, despite appearances, she was probably the bravest of them all."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5ZBAVJPN0WESSG910REZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5ZBAVJPN0WESSG910REZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Z99W30BX0FYA6DZ36XS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5Z99W30BX0FYA6DZ36XS",
+          "text": "Gulrang"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Z9R3NF4Q18N66S92DHS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5Z9R3NF4Q18N66S92DHS",
+          "text": "382 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY509130DG2NX15GEWARVH",
+      "reference": "ALT_CORE_B_OR_05_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/90be17db270495b57252",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b2468b6bd85afac13feb",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_05/JPG/en_US/c88fb57a547449906c7feb4304b26351.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_05/ALT_CORE_B_OR_05_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_05/ALT_CORE_B_OR_05_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_05/ALT_CORE_B_OR_05_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_05_C",
+  "reference": "ALT_CORE_B_OR_05_C",
+  "id": "01HKAFJNVV9G8F9NYRHDB7BNBV",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_05/JPG/es_ES/51ff8621e47f5e0cdce7fd4e4e76075c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_05/JPG/it_IT/b6783e5a00382a46bc2eba997a50e288.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_05/JPG/de_DE/7d06f6c423da593789980ca750f35183.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_05/JPG/en_US/c88fb57a547449906c7feb4304b26351.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_05/JPG/fr_FR/18e311312a42582eb3012a5bcae07189.jpg"
+  },
+  "name": "Ordis Trooper",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-124-C-EN"
+}

@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_49_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/67GT9MJNVP8V1A3E6S3N3XC1SA",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A6W5Q6S3FTYYRT5VHXAT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A6W5Q6S3FTYYRT5VHXAT",
+          "text": "It takes years for roots to punch their way through the hardest stone, but for them it only takes a few hours."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6WRSVWYEBGV4Y47ZJTC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A6WRSVWYEBGV4Y47ZJTC",
+          "text": "393 AC - Wait! Darn it! I chase after it so as not to lose sight of it, although that's not easy in this stone maze. I saw it slip through a little gap in the wall, then weave through a forest of stone columns. It's tricky because everything looks the same here. A mass of geometric rocks to the left, and pretty much the same thing on the right… Thankfully, Kiddo has a height advantage. She tells me where to go to catch the creature, which seems to be taking a wicked pleasure in making turn after turn as though it were trying to lose me. The problem with Nooshes is that they can sometimes be very unpredictable. But there's no better tracker of smells, especially for what I want to find. So, all I can do is follow it, hoping it leads me to the right place, and just cross my fingers, I guess.\n\nThe fact that it made it to the Tomb rather than staying in the Undergrowth doesn't fill me with much confidence, but I don't know if I really have a choice, actually. The Tomb… Brrr, just the name gives me chills. I should have kept my padded coat on to come down here because the temperature doesn't get too toasty when you're cut off from the sunlight. I come out into a large chamber. The vault looks to have been built with a kid's building set. And that's where I find it, digging away like a truffle pig. It tears away at the earth and stone with its claws, sending out clouds of dust. I draw closer as it scratches, digs and propels shovelfuls of rubble behind it. And then, finally, it unearths what I have been coveting so much: a golden tuber, said to be extremely rare. I wonder what it tastes like and start salivating at the mere thought…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6WENRQ3MMXQ2ZPCXZTW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A6WENRQ3MMXQ2ZPCXZTW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6VJQ7G1M7XK9ERQMQEN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A6VJQ7G1M7XK9ERQMQEN",
+          "text": "RIN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6VV15QTFFCBKTDW5DC4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A6VV15QTFFCBKTDW5DC4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "67GT9MJNVP8V1A3E6S3N3XC1SA",
+      "reference": "ALT_BISE_B_MU_49_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b554c2ff2f5c850f0f04",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3a113eb6959045fd23da",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plant"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b94a60d4e9c6d3c478bb",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_49/JPG/en_US/6199bc0debe5e451d1906072328ea378.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_49/WEB_858d8a0e9e6af0cb8653baac76b96237",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_49/WEB_d961579b7bc61197a5e015cdec2efe31",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_49/WEB_76408a28a7e76b9a77c6d90a518d0478"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_49_R1",
+  "reference": "ALT_BISE_B_MU_49_R1",
+  "id": "01JB1YGPBM3H3H5HMMM96R3X3K",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_49/JPG/es_ES/3c67f79427e55baae060a5c875cdb85d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_49/JPG/de_DE/616a960e6fe5f830eadae48fb29e5f64.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_49/JPG/fr_FR/de2717ec1cf1941484ce4762c45118b6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_49/JPG/en_US/6199bc0debe5e451d1906072328ea378.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_49/JPG/it_IT/4ef4d860eb4b7aa74720f402a131fb3f.jpg"
+  },
+  "name": "Burrowing Noosh",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "#1#",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "#When an opponent draws one or more cards or [Resupplies] — I gain 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-054-R-EN"
+}

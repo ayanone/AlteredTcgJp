@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_43_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1XADGA9CAP87BBMB0QV7AVMAK3",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2BVH2EBMTCAG9AM06QED",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2BVH2EBMTCAG9AM06QED",
+          "text": "Non correre dietro alle farfalle!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BWHV8TYG2BR2TFZZTYQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2BWHV8TYG2BR2TFZZTYQ",
+          "text": "La biologia sarà anche la specialità di Saskia, ma la mia è gestire le sfere di Naali. Anche se Taru non ha mai smesso di dirmi che era una perdita di tempo, ho continuato ad accendere le mie iris ogni volta che mi trovavo vicino a una falena di mana, sezionandola con gli occhi a ogni occasione. L'oromanzia è una disciplina versatile, soprattutto se combinata con i principi dell'eidomanzia che mi ha insegnato Kuwat. Sapevo di potercela fare. Lo sapevo. Naturalmente avevo iniziato usando un'effige, ma dopo alcuni tentativi falliti avevo capito che usare una statua fisica non si adattava alla natura delle falene di mana. È molto meglio materializzarle facendo appello a qualcosa che evochi la loro natura fugace... E cosa c'è di meglio dell'arte effimera della danza? Sei pronto per un balletto, Taru?\n\nSenza aspettare la sua risposta, eseguo un rapido ballonné, seguito da una serie di piroette. Nel frattempo, Taru sfrutta tutti i suoi arti per esibirsi in alcune mosse incantevoli. Lo vedo girare come un sole mentre alterno pas de bourrée e arabesque. Le nostre abilità combinate di cinemanzia manifestano rapidamente uno sciame di falene nel mondo. Studiandole giorno dopo giorno, ho imparato a memoria i loro modelli comportamentali, la loro anatomia traslucida, le caratteristiche linguistiche del loro volo... tutto per avere la possibilità di evocarle un giorno. E mentre mi lancio in un grand jeté, ringrazio silenziosamente Bogna per la sua severità come insegnante di danza. A ogni piroetta compaiono sempre più falene, che si riuniscono in sciami compatti. Creare creature con una così tenue presa sulla vita a partire da idee e mana non è affatto difficile. Ma basterà questo piccolo trucco per ingannare i belisenki?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BW1QYM5BE77AH8B0PQ0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2BW1QYM5BE77AH8B0PQ0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BSSZPDE80JE2HARHKJ6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2BSSZPDE80JE2HARHKJ6",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BTARJSQNAHS3ZSZC71W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2BTARJSQNAHS3ZSZC71W",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1XADGA9CAP87BBMB0QV7AVMAK3",
+      "reference": "ALT_ALIZE_B_YZ_43_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f803341c9bbe7d7f93a8",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Stratagemma"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/72c6ec4a845d97c7c075",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/it_IT/54b5b20c124d8d983b728e4d25d8fa81.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/WEB_b995d00add82d8bc2911c8c23bc042f8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/WEB_8ce07f9b731738d85aec22d6246f173d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_43_R1",
+  "reference": "ALT_ALIZE_B_YZ_43_R1",
+  "id": "01J1Q4P4SWD7ABYG5VK63B8RNR",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/de_DE/8e3c766d7ed79fd8d00d6cc934a14f2f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/it_IT/54b5b20c124d8d983b728e4d25d8fa81.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/es_ES/28b87f848a2165146c46cf6ffa3ae875.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/en_US/365a413f3e44e89b0b46586a8c3573bc.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/fr_FR/92470c58b3b80068964849236e6d70d2.jpg"
+  },
+  "name": "Battito d'Ali di Falene",
+  "elements": {
+    "MAIN_COST": "#7#",
+    "RECALL_COST": "#7#",
+    "MAIN_EFFECT": "Costo {1} in meno #per ogni carta consumata nella Riserva.#  Crea tre pedine Illusione [Falena di Mana 2/2/2], distribuite a tua scelta tra un numero qualsiasi di spedizioni bersaglio."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-098-R-IT"
+}

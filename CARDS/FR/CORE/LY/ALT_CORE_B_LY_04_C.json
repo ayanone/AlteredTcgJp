@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_04_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZRDFCG3ZDWMSYS3VTT7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5T8N2SJ8Q87V3GMVCZFH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5T8N2SJ8Q87V3GMVCZFH",
+          "text": "Voir passer une martengale est toujours un bon présage."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T9CX5M7Z9RNHTSK9BZ8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5T9CX5M7Z9RNHTSK9BZ8",
+          "text": "Onzième signe du Nouveau Zodiaque : la Martengale\n23 octobre - 22 novembre\n\nReprésenté par une martre ailée aux longues oreilles, on dit du signe de la Martengale qu'il symbolise l'inconstance, l'impermanence des choses. Il a pour élément l'air.\n\nL'individu Martengale est par nature insaisissable et pétri de paradoxes : indépendant, il n'aime pourtant pas être seul ; avide de nouveauté, il a cependant un grand sens des traditions. Tout comme son animal totem, il aime sortir des sentiers battus, mais revient toujours à son point d'origine. On dit souvent qu'un individu Martengale est chanceux, mais c'est généralement qu'il préfère rebondir plutôt que de s'apitoyer sur son sort. Adaptable, il sait pourtant faire preuve d'une grande détermination, et peut parfois s'entêter lorsque la situation l'y contraint. Affublé d'une peur panique de l'ennui, il manifeste un besoin implacable de liberté, quitte à faire des paris osés qui défient tous les pronostics."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T92BQKYQRS42BB3601E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5T92BQKYQRS42BB3601E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T813PFZ5T6526742011",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5T813PFZ5T6526742011",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T8BD9SBEP0Q2RWW53G8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5T8BD9SBEP0Q2RWW53G8",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZRDFCG3ZDWMSYS3VTT7",
+      "reference": "ALT_CORE_B_LY_04_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a0bebb51f116a7d2b277",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bbd810700ce627c5b250",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Esprit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7a77fc311aacf39f4363",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/JPG/fr_FR/740c5e11b52a55b1067c043a2ec02643.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_04_C",
+  "reference": "ALT_CORE_B_LY_04_C",
+  "id": "01HKAFJNRB9YWXJQ7RRB8C1TJN",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/JPG/fr_FR/740c5e11b52a55b1067c043a2ec02643.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/JPG/en_US/422b72ca5067a45c4f88a92c6da3fc13.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/JPG/de_DE/ed00583e7619a2e2a2d2f84ba6a97b64.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/JPG/it_IT/17d49d52618a3902eed5f01680992331.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/JPG/es_ES/ee5272d31ea7cc98f0ba238632720488.jpg"
+  },
+  "name": "Martengale",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1",
+    "ECHO_EFFECT": "{D} : La prochaine carte que vous jouez ce tour coûte {1} de moins."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-064-C-FR"
+}

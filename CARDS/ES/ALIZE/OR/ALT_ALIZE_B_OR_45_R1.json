@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_45_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4B1TM498QK95RR7HN64WEQ5P5K",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29NHEQ4M9E89421FQ3ES",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29NHEQ4M9E89421FQ3ES",
+          "text": "Los Ordis siempre vienen preparados."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29Q5XXYXKFCZQ9JJYJYV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J29Q5XXYXKFCZQ9JJYJYV",
+          "text": "Lo más sorprendente de la armería móvil es el poco ruido que hace. Se asemeja a una pesada caja fuerte del tamaño de un catamarán que flota a gran altura sobre el suelo, inquietante de lo silenciosa que es. El Aerolito ha propiciado algunas oportunidades de despliegue increíbles, prueba de que la coordinación entre las facciones puede obrar milagros. Resulta que el genio de los Axiom y la disciplina de los Ordis pueden producir resultados impresionantes. Reunidas sobre el hielo, todas las tropas miran hacia las alturas; siguen distrayéndose tan fácilmente como siempre, a pesar de todas mis directivas de seguridad. Tendremos que revisar los procedimientos en la próxima reunión informativa. Grito algunas órdenes para que se muevan y despejen la zona para la máquina. Lo último que necesitamos es que haya alguien debajo durante el aterrizaje. La nave adopta un patrón geoestacionario y comienza a descender despacio al tiempo que despliega sus diversos compartimentos de almacenamiento. Palpo la bolsa de documentos que llevo en la cadera: manifiesto de carga, lista de comprobación del equipo, documento de expedición de mercancías… lo tengo todo.\n\nEn cuanto aterriza la armería, mis hombres se abalanzan hacia ella como un enjambre de insectos ansiosos... o como Kojo en la cantina cuando hay una fiesta. Freno su entusiasmo y empiezo a hacer inventario: material médico, equipo de acampada de alto rendimiento para terrenos helados, kits de escalada, equipo para quitar la nieve... Lo suficiente para pertrechar a todo mi equipo para esta expedición. Estaremos preparados para todo. Tomo nota de otras máquinas pequeñas: orugas automáticas para transportar el equipo más pesado. Perfecto, iremos más rápido si cargamos con poco. El piloto sale de la cabina con pintas de querer hacer un comentario ingenioso, pero entonces me ve, me reconoce y cambia de parecer. Me dirige un saludo militar en condiciones y yo hago lo propio. Luego, firmo el albarán y se lo devuelvo. Una vez descargado todo, llenamos los compartimentos vacíos de la armería con todo nuestro equipo usado o roto. No puede volver vacía. También meto el maletín que contiene las cartas de mis tropas a sus familias; eso también es esencial."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29PPAQAXE264WP4X2V4W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J29PPAQAXE264WP4X2V4W",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29MGC8QWDER6SYMWXSBG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J29MGC8QWDER6SYMWXSBG",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29N06574YNW909SYRPZX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J29N06574YNW909SYRPZX",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "4B1TM498QK95RR7HN64WEQ5P5K",
+      "reference": "ALT_ALIZE_B_OR_45_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanente de expedición"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d61be14183dd7e3020f5",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Accesorio"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/226538cb5bf9c7ca7a2f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/es_ES/e24517e81cf21c24fccb6f23918c447e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/WEB_45f364184468ac070f5ad3041a9b2bf8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/WEB_3d12ab05366702a94541684860aeb12d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_45_R1",
+  "reference": "ALT_ALIZE_B_OR_45_R1",
+  "id": "01J1Q4P4SPGZZS4TK0CWMVFXSK",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/it_IT/4fb9849501edf139aeb44fda6d76587a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/es_ES/e24517e81cf21c24fccb6f23918c447e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/de_DE/ec58b02ff1237d086623d27e913e0b4f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/en_US/35c4f70f5790bd51f5c40b6850440bde.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/fr_FR/358dbfcec9b713af04da18e3c40f8c5d.jpg"
+  },
+  "name": "Armería móvil",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "{J} Crea una ficha de soldado [Recluta de Ordis 1/1/1] en mi expedición.  #Los personajes con [Defensores] no evitan que mi expedición avance.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-084-R-ES"
+}

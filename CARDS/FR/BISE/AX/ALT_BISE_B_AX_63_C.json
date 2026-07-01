@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_63_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4N83E775ST953TQCCXNZZRM797",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4HDQP9PWKHDFAA1CS45",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4HDQP9PWKHDFAA1CS45",
+          "text": "L'utilisation de la Sève modifiera le cours de la science telle que nous la connaissons."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4HSSBGFV8V97TPV5C1A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A4HSSBGFV8V97TPV5C1A",
+          "text": "393 AC - Rossum, prostré, se faufile dans les allées étroites de la raffinerie, cette citadelle laborieuse, toute d'acier vêtue, vibrante de sirènes, illuminée de gyrophares, embrumée de vapeurs industrielles... Je le suis dans mon fauteuil, alors que nous longeons les gros conduits et les tuyaux de câbles vers la salle de commande. Les portes à vérins s'entrouvrent pour nous laisser passer, et je retrouve Subhash, tout barbouillé d'huile et de crasse. Comme bon nombre d'autres mécanos, il a été réquisitionné pour l'opération de maintenance. Je caresse la tête de Marmo, qui vient me saluer, la langue pendante, avant d'aller mordiller la cheville de mon Alter Ego pour jouer. Bash se tient un peu en marge des ingénieurs qui s'agglutinent autour des plans, l'air soucieux ou concentré. Sûrement une ultime vérification, avant d'appuyer sur le bouton... Ça fait cinq semaines que la raffinerie est au point mort, le temps que la reconfiguration puisse avoir lieu, avec pour objectif la transformation de cette raffinerie de Kélon en exploitation de Sève.\n\nTout ce que la communauté Axiom compte de cerveaux s'agite autour de la table. On vérifie, on recalcule, on pondère, on recalcule encore. Suivant les consignes, les ouvriers en contrebas relient, dérivent, débranchent, raccordent... Bash se permet un bâillement, et je le comprends. Mais alors que je me décide à aller le retrouver, le collège relève la tête. Un consensus semble avoir été trouvé. Il leur suffit d'un signal. Anxieux, les techniciens aux manettes abaissent les leviers d'aiguillage. Le changement s'effectue, lentement. Les pompes entrent en action, Les fluides s'échangent. Les conduits qui proviennent de la Cité des Sages produisent un son étrange, une aspiration bizarre, comme une sorte de gargouillis. Dans une éruption pâteuse, la Sève déboule dans les cuves, crachotant par à-coups. Puis les borborygmes laissent la place à un ronronnement régulier. Au bout des quelques minutes qui paraissent des heures, les artisans de ce miracle technologique se tombent dans les bras les uns des autres, se congratulent, s'embrassent, tandis que les applaudissements fusent."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4HK1ZAEX0ZKHQ4RGN6E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4HK1ZAEX0ZKHQ4RGN6E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4H1FVWSYMV7VDMVG9C5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A4H1FVWSYMV7VDMVG9C5",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4H76DC3K2ESZKDY5DSG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4H76DC3K2ESZKDY5DSG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "4N83E775ST953TQCCXNZZRM797",
+      "reference": "ALT_BISE_B_AX_63_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Repère Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/83ff487df948e0854824",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/dacf03c6c3822e9aeb1f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/fr_FR/d2cb593d35bb425c7bcf9293cf44431f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/WEB_a624c77d71597e3b4f75387d82ab2fd0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/WEB_86673627b1cca3df653102bc093b5e25"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_63_C",
+  "reference": "ALT_BISE_B_AX_63_C",
+  "id": "01JB1YGPB7A0J24VFD24R13HK6",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/de_DE/be5517560614296ab2726bc68549288d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/en_US/30efc94ef7c1e34b9a4472a661a47f92.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/fr_FR/d2cb593d35bb425c7bcf9293cf44431f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/es_ES/5323793270922e311bc130a546f0ced0.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/it_IT/8a8e2aae3b3745f7aac2af915557a985.jpg"
+  },
+  "name": "La Raffinerie",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Lorsqu'une carte quitte votre Réserve pendant l'Après-midi — Je gagne 1 compteur Sève.  {T}, Dépensez 3 de mes compteurs Sève : les Personnages dans votre Réserve gagnent 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-016-C-FR"
+}

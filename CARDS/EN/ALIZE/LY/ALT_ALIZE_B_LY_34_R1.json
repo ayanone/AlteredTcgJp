@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_34_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1FFFFG6HHZ83FT4NAYG2XXA9X1",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25976BBJRP2D5W4BM3T5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25976BBJRP2D5W4BM3T5",
+          "text": "\"Of course I'm cheating. That's what magic is all about.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J259VCYCM11DX4CM12ZZA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J259VCYCM11DX4CM12ZZA",
+          "text": "Nyala shoots me a dark look. No, we definitely won't be patching anything up today. Swaddled in her survival blanket, soaked to the skin and shivering, the beautiful Nyala isn't looking her best by the campfire. Was it my fault the kids had to be taken to safety rather than stopping her from taking a dip? And anyway, isn't she an expert at appearing and disappearing? I try to suppress the smile forming on my lips. Oh, come on. You need to live up to your reputation, right? So I'm going to be true to myself and let my amazing indifference do the rest. I turn around and walk away gracefully and with purpose, crossing my legs slowly to attract attention. Yep, it's disdain. Come on, you don't put wet rags like Nyala and embroidered fabric like me together.\n\nAs I walk away from this sad scene, I let my thoughts wander to the unfortunate woman's performance before she sank below the ice. I'll admit that Nyala had put on a good show earlier. I think back to her confident magic tricks. You could feel all the sensuality of the sleight-of-hand specialist. Her hands traced twists and arabesques in time with her loops on the ice. And in that wonderful ballet, I could see the Mana rippling at her fingertips, generating entrances to who knows where. She seemed to have at her fingertips the relocation abilities that the Yzmir sometimes exhibit, splitting reality apart to reduce distances. Yes, her expertise is spectacular, but poor Nyala uses it to perform the kind of conjuring tricks you'd see at a country fair. She's just replaced the rabbit in the hat with a martengale or a spindle harvester. A sneeze jolts me out of my daydreaming, and I smile. Bless you, Nyala!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J259HGC29VB69K7AVPP41",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J259HGC29VB69K7AVPP41",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J258GRZEDWR7DMQDBMTR9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J258GRZEDWR7DMQDBMTR9",
+          "text": "AURAQ"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J258W6P5WW73QPGAQAC7H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J258W6P5WW73QPGAQAC7H",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1FFFFG6HHZ83FT4NAYG2XXA9X1",
+      "reference": "ALT_ALIZE_B_LY_34_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d3f9a0db03b771cee304",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mage"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/78afe785886a97767760",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b52cd4d8bbfff95f3071",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:18+00:00",
+      "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
+      "answer": "Yes, an Exhausted Resupply counts as a Resupply."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/en_US/2b1d3450cd96eb9aef705dfd9901d34b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_15e18972de3fed635c40f9d8ccbd3e41",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_5cb65cb01922f3544f60445e91bc376f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_f6e417ebecbd0cae5f44791d4a9a3402"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_34_R1",
+  "reference": "ALT_ALIZE_B_LY_34_R1",
+  "id": "01J1Q4P4S72ESJDYMMDMPKH5NT",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/de_DE/38e8576b92d55d1708271485e893250e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/es_ES/eb914284bf5dea5b2d861d15976c4f45.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/fr_FR/2d46eb21464a0fde22c43872a0e16855.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/it_IT/c3ec001a42f5b2ba0651d521f5e42492.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/en_US/2b1d3450cd96eb9aef705dfd9901d34b.jpg"
+  },
+  "name": "Nyala, Gifted Conjurer",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "#{H} [Exhausted Resupply]#. (Put the top card of your deck in Reserve, then exhaust it {T}.)  {J} Exchange target card from your Reserve with a card from your hand."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-041-R-EN"
+}

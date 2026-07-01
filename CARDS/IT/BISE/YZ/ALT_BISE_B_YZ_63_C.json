@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_63_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5NE3MK9E3W9M5R6NSC67BQKSJR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1AD0H8PZ9CK5BY84EGHY8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1AD0H8PZ9CK5BY84EGHY8",
+          "text": "Nelle sue correnti nuotano conoscenze antiche e ricordi dimenticati."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AD1D99JTAMR9V1X8DD5E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1AD1D99JTAMR9V1X8DD5E",
+          "text": "393 AC - Although Atsadi and his opponent left deep gashes on the surfaces of these black monoliths, their contents don't seem to have been damaged by their violent desecration. And neither the one-armed swordsman nor the feisty swashbuckler seem to have discovered the truth about this place. Unfortunately, the same can't be said of Waru. He immediately discerned the true nature of this place. I take my place in Senka's mind as it starts to fly above the gigantic stones. There's something attractive about this place, but not in the sense of interest or fascination; it's more like a pressure, as if there were a force of gravity pointing towards it. Some blocks, engraved and striated with gold veins, float in the air above a sort of bluish, shifting mist. I detect currents in it, and it's only because I have my Irises that I can understand what they're made of: They are flows of information, memories, fossilized thoughts from another time.\n\nSenka soars high, with me in tow, until it lands on a floating promontory. Ah yes, it's much more obvious from up here. The room is a kind of gravity well, but pulling in ideas rather than matter. The density of concepts here is incredible. It's as if these monoliths are strongboxes, crammed with thoughts, dreams, hopes, prayers… They swarm yet are imprisoned, the remnants of the souls of the City's inhabitants, a posthumous account of what once existed. Senka watches them as if they were worms ready to be gulped down. If I gave permission, it would greedily devour them with blissful relish. I realize I'm also salivating, influenced by my Chimaera. But I must resist the temptation of this feast. My mission is simple: I must find out why the veinstones of Sap belonging to the Axiom were impregnated with a protective barrier. Just as I had done to make my way into the warehouse, they had been wrapped in layers of ordinariness, blandness, dullness… as if to hide them from the hunger of some powerful entity."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AD0ZEVQ505ESMYE20VKB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1AD0ZEVQ505ESMYE20VKB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACYDW3NZ5WCDMYCW5CG8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1ACYDW3NZ5WCDMYCW5CG8",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AD02H98D379TJZC10Y1H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1AD02H98D379TJZC10Y1H",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "5NE3MK9E3W9M5R6NSC67BQKSJR",
+      "reference": "ALT_BISE_B_YZ_63_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente Fulcro"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/38c386d1ecbf69af67fe",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Sito"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8071cc1724de564c6a95",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_63/JPG/it_IT/2728cef12e96a5e77f3e59685cbefe08.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_63/WEB_dd850a4ffeea2bbb4b9ba74771ad1341",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_63/WEB_76c19d97f6e83e9f4b1eef8c900a0ee4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_63_C",
+  "reference": "ALT_BISE_B_YZ_63_C",
+  "id": "01JB1YGPC5Y0TSAQ9KDH8A2BD9",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_63/JPG/it_IT/2728cef12e96a5e77f3e59685cbefe08.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_63/JPG/de_DE/d7ec5ad8142f0c4238a98dc8e9ea986c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_63/JPG/en_US/c5c379f2edf808d1aa01a5ef2f966c5a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_63/JPG/fr_FR/194db5f36ec28ce2a6fabe5a179d41ec.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_63/JPG/es_ES/4086023258b61488c0d7214c501dae71.jpg"
+  },
+  "name": "Sala degli Studiosi",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "{J} [Rifornisci].  Se ci sono uno o più incantesimi nella tua Riserva, il limite della tua Riserva è aumentato di uno."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-102-C-IT"
+}

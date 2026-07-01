@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_29_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZBN0WKEXGWKDQGS489P",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5SWQNH151Z3R64NM45EQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5SWQNH151Z3R64NM45EQ",
+          "text": "Le fiamme volano dalla sua mano mentre scende verso il mostro, lasciandosi dietro una scia di fuoco incandescente..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SXBX23899CEVCREWFMG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5SXBX23899CEVCREWFMG",
+          "text": "My eyes widen when I see the portal open up in front of me. Through the opening, I can see the raging waters, the Kraken shaking itself and sending mighty waves soaring onto the shore and the reef. As if I were directly above, overlooking it all. In the palm of my hand, all the Mana I've concentrated is crackling, and I struggle to maintain it. Kind of like how gravity pulls everything down, the Mana draws in a thousand ideas trying to materialize and exist in the world. I grit my teeth. I'm not going to last much longer. I scream, harnessing all of my willpower to keep the ball of Mana devoid of any ideas for as long as possible. And I start running toward the magic portal that I-dunno-who opened for me. Obviously I don't have time to worry about it. I run, brace myself, then leap.\n\nSuddenly I'm above the Kraken, and I'm falling. My clothes flap in the wind hitting my face. For one millisecond, I see myself crashing into the surface of the sea. But I don't have time to even think about it. For now, I've got a huge beast to slay! I release the ball of Mana from my control. At the same time, I instill in Booda the idea of fire, of burning, of the warmth of a star, and my companion charges toward the wild Mana sphere. There's a bright flash, and then it blazes like a thousand suns, first turning blue, then red and yellow, until it becomes incandescent. Take that, Kraken—go back to the abyss! But I can't tell if my energy discharge has had the desired effect. I'm still tumbling down, falling at incredible speed. The surface of the sea gets closer and closer. Impact in three, two, one…"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SX1K93J1PQ2M3SE56JA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5SX1K93J1PQ2M3SE56JA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SW37HKCHX47GQQCR0A3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5SW37HKCHX47GQQCR0A3",
+          "text": "Kojo"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SWDD5JY4FP53ARB2DZA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5SWDD5JY4FP53ARB2DZA",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY4ZBN0WKEXGWKDQGS489P",
+      "reference": "ALT_CORE_B_BR_29_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/be78172075a2da08da22",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/20e170c6b97cb24a0055",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/it_IT/3213c86dec581efeb9d99b5cdaefabc2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/ALT_CORE_B_BR_29_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/ALT_CORE_B_BR_29_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_29_R1",
+  "reference": "ALT_CORE_B_BR_29_R1",
+  "id": "01HKAFJNR0JB8MAYYY1HX4QRAS",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/de_DE/8fb516b67dbd753fad43b4c5eaee2d61.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/it_IT/3213c86dec581efeb9d99b5cdaefabc2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/es_ES/338050be5a259c4b6d643d595caa7501.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/fr_FR/de1057fde3b69de62dde43ba592cb7aa.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/en_US/a14d708c591de67014dd7f6de26c31f2.jpg"
+  },
+  "name": "Eruzione di Mana",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]]. (Mandami negli Scarti invece che nella Riserva dopo che il mio effetto si è risolto.)  Scarta una delle tue sfere di mana. Se lo fai, scarta un personaggio o un permanente bersaglio."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-059-R-IT"
+}

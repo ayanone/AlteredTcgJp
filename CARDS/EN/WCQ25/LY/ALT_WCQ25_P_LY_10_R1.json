@@ -1,0 +1,161 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCQ25_P_LY_10_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/61ZXN1MN7B90PVKNG16T5TWBM8",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JV4TAW9PVYRRV7QJAFWH261P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JV4TAW9PVYRRV7QJAFWH261P",
+          "text": "The black liquid traced shapes on the stone, and from these lines sprang innumerable creatures of soot."
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4TAWA56V78SN76S9N3G5V5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JV4TAWA56V78SN76S9N3G5V5",
+          "text": "I sit beside Itoro while she writes the lines of her missive in black ink. I'm older now, so I'm allowed to stay up, unlike the other kids. The only problem is that almost all the adults have left — probably for the Ruzzante district, where they usually go on Friday nights — and unfortunately, I'm still not allowed to go with them. Esme is nowhere to be seen, and Auraq is at the Nightingale. So that just leaves Itoro, since I don't want to hang out with Serket and his gang. She's the only one required to stay here as the Shepherdess's second-in-command. So, I suffer in silence while I wait for the inkcaster to finish her letter. Reading over her shoulder, I see that it's about the work on the Ouroboros that the Basileus is requesting. It mentions the loss of one of the floating city's two circuses, and that quite a few performance halls will be converted into housing.\n\nIn a few years, when it's ready, our Sahanka will be crammed full. There will be lots of people from other Factions, lots of strangers. And I don't know if this is something I'm worried about or looking forward to. Itoro sighs and puts a final point on her parchment. She blows on it to dry the ink, then wipes her stained fingers. She then hands her brush to me and unfurls a sheet of paper, placing weights on it to keep it flat. I look at the inkcaster's prints hanging on the walls, and I know I could never replicate her talent. She's the only one I know who can make her art come to life like that. But if I concentrate, maybe I can create a little playmate for Juju? I dip the brush into the ink, then touch it to the pristine paper. Maybe a crow or blackbird to fly around with my twittering bird?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4TAW9XTXWHDVGP5SHRHVFJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JV4TAW9XTXWHDVGP5SHRHVFJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4TAW96TA9J33AEYRCJBDAD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JV4TAW96TA9J33AEYRCJBDAD",
+          "text": "Fen"
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4TAW9EMMAXV47RRCJJPM13",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JV4TAW9EMMAXV47RRCJJPM13",
+          "text": "383 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "61ZXN1MN7B90PVKNG16T5TWBM8",
+      "reference": "ALT_WCQ25_P_LY_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/39c1dd7e436694bbf381",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artist"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/WCQ25",
+    "@type": "CardSet",
+    "id": "01JTJS33NQTY6A4RPTM11ARJTX",
+    "reference": "WCQ25",
+    "name": "World Championship Qualifier 2025 - FACTION CHAMPIONS CARDS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f5a1e60eb220fd67c05a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/en_US/2d998a5d59511c76480f7dcd12ab9757.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/WEB_f861ecd5c85f0d675188c5116567c5a7",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/WEB_f32dce40ce435137d9d042a1e93bd525",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/WEB_494055edf8234c06367e553550b03f30"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_LY_10_R1",
+  "isOwnerless": false,
+  "reference": "ALT_WCQ25_P_LY_10_R1",
+  "id": "01JTJSYASFMA9CQSVNETJBPBA9",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/fr_FR/937cf8a4d13d461ec59641c59dff37ef.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/en_US/2d998a5d59511c76480f7dcd12ab9757.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/it_IT/57ad68bd2fd9ce31566830f8c35ef997.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/es_ES/a22b2eb5962e75458cfd25163ecc2546.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/de_DE/9f66318118c2fe42b8bfa134a570f155.jpg"
+  },
+  "name": "Ouroboros Inkcaster",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "#2#",
+    "MOUNTAIN_POWER": "#2#",
+    "MAIN_EFFECT": "When I go to Reserve from the Expedition zone — You may return another card from your Reserve to your hand.",
+    "ECHO_EFFECT": "#{D} : The next card you play this turn costs {1} less.# (Discard me from Reserve to do this.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "WCQ25-03-R-EN"
+}

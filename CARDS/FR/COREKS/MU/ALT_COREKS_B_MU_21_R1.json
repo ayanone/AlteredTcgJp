@@ -1,0 +1,169 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_21_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB797M6XAB9DYCRRVQ4N9V",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME843KPTEC7N8A0AGQNDVV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME843KPTEC7N8A0AGQNDVV",
+          "text": "Les arbres-mondes tels que le Fuseau sont peut-être issus des graines du Frêne Cosmique."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME845BQM64GWX1VEMJ40V4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME845BQM64GWX1VEMJ40V4",
+          "text": "Je monte sur la main noueuse que me tend le Fils d'Yggdrasil, me cramponnant à sa peau d'écorce tandis qu'il me hisse jusqu'à son épaule. Alors que le vent fouette mon visage, je retiens ma respiration et m'agrippe aux quelques branches qui couvrent son épiderme, évitant de regarder le sol en contrebas. Et quand il se met à avancer, l'Eidolon fait trembler la terre ; les secousses remontant le long de ses membres jusqu'à mon promontoire. Le géant enjambe une colline, s'appuie sur la crête d'une montagne pour gravir un contrefort escarpé. J'ose à peine ouvrir les yeux tant les bourrasques sont violentes, tout là-haut. Et Kiddo est loin d'être à l'aise, elle aussi. Ses ailes moirées frémissent à chacun de ses pas, vrombissant frénétiquement comme un colibri, pour lui permettre de garder un soupçon d'équilibre.\n\nMais lorsque j'aperçois l'horizon, mon effroi se dissipe tout à coup. À la lisière entre le ciel et la terre, je peux voir les effluves irisés du Tumulte luire comme un mirage. C'est donc de là-bas que je viens. Quelque part au loin. Même si Orchid n'a pas su me dire avec exactitude où elle m'avait retrouvée, je sais que ce n'est pas en Asgartha, mais dans un lieu où d'immenses fleurs jaillissent du sol. Cela voulait dire qu'il y avait d'autres Oasis où la vie humaine était possible, et que d'autres peuples résidaient dans ce que nous appelions la Terra Incognita. Gagnant en confiance, je me risque à jeter un coup d'œil vers le bas. D'un simple pas, le Fils d'Yggdrasil couvre des kilomètres, traversant la forêt comme s'il s'agissait d'une jardinière. Il prend soin d'éviter de piétiner les arbres, laissant de lourdes empreintes dans des clairières ou des tourbières. Sans lui, il m'aurait fallu des jours pour traverser toutes ces étendues boisées... Je sens l'excitation me gagner. Prochaine destination, Amorgand, pour retrouver mon père !"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME844EY6F1F3MG0FBPP98S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME844EY6F1F3MG0FBPP98S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME841RD57HFCEEPHER0WR5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME841RD57HFCEEPHER0WR5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME842KEN6CQBB0EVZ9FVDE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME842KEN6CQBB0EVZ9FVDE",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB797M6XAB9DYCRRVQ4N9V",
+      "reference": "ALT_COREKS_B_MU_21_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3b549498a8b746167036",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plante"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c4e7802dd79b1451fe51",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/5c069e6e01a19d1fdad4",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-28T10:37:56+00:00",
+      "question": "If my opponent uses a Spell or ability talking about \"target Character\" and all my Characters are Tough, what happens? ",
+      "answer": "When your opponent casts a Spell or resolve an ability that can target one of your Tough Characters, they decide if they want to pay the extra mana to make one of your Tough Character a valid target. If they choose not to (because they don't have enough mana, or because they don't want to), the effect resolves as if your Characters were untargettable.  Depending on the effect, it might mean the effect may simply do nothing, or it might mean they must target one of their own Characters."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_21/JPG/fr_FR/ef32a05260d52a3bbdfb0542532b7d02.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_21/ALT_CORE_B_MU_21_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_21/ALT_CORE_B_MU_21_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_21/ALT_CORE_B_MU_21_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_21_R1",
+  "reference": "ALT_COREKS_B_MU_21_R1",
+  "id": "01HN5TXRRRN2HXCJZSQGN8CEWY",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_21/JPG/it_IT/8170c3fad99b2d6e93ed35c72cac25e8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_21/JPG/de_DE/960025a6ae4f6630a0502a2f9f46c096.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_21/JPG/en_US/70147451a01dabed071b75241315871b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_21/JPG/es_ES/ff1d32311a29e02997f279d742b471bd.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_21/JPG/fr_FR/ef32a05260d52a3bbdfb0542532b7d02.jpg"
+  },
+  "name": "Fils d'Yggdrasil",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "6",
+    "MAIN_EFFECT": "[Gigantesque]. (Je suis considéré présent dans chacune de vos Expéditions.)  #[Coriace 1].# (Vos adversaires doivent payer {1} pour me cibler.)",
+    "ECHO_EFFECT": "#{D} : Un Personnage ciblé de Coût de Main {3} ou moins gagne [[Ancré]].# (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-112-R-FR"
+}

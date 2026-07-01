@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_A_BR_63_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0YZ905F9759YFT2MPXKBB6W7D0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K477YYSKNGN0N3MZEDVYXCDS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K477YYSKNGN0N3MZEDVYXCDS",
+          "text": "Tous les soirs, le mess résonne des cris et des rires des explorateurs partageant leurs exploits quotidiens."
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YYWP9AVDD211THNVX8JP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01K477YYWP9AVDD211THNVX8JP",
+          "text": "393 AC - Y'a pas à dire, ça fait du bien de se retrouver à l'air libre. Juste de voir les nuages et le ciel au-dessus de sa tête, ben ça change tout... Et faut dire que le Mess a bien évolué depuis qu'il a été installé. Je regarde les fanions, les guirlandes lumineuses. Quelque part, un Lyra est en train de jouer de l'accordéon. Ça donne un air de fête foraine. Alors que j'avance dans la queue, je peux pas m'empêcher de humer les fumets de bouffe qui viennent des stands. Et le moins qu'on puisse dire, c'est que j'ai une dalle de malade. Non loin, un corgi est en train de quémander à une table. J'aperçois Basira en train de trinquer avec Treyst, après avoir entendu son rire bourru noyer toutes les discussions à la ronde. Je soupire, tandis que le souvenir de son refus de me coacher me revient. Et j'ai refait chou blanc du côté d'Atsadi aussi.\n\nBoo pose sa truffe dans la paume de ma main, et je me tourne vers lui. Ouais, il a raison. Autant chasser les idées noires. On est là pour se bâfrer, et je vais pas me faire prier. Mon estomac se met à gargouiller. Rien de mieux que l'appétit pour mettre de côté tous ses tracas. Et c'est pareil du côté de Boo. Manger. Manger. Manger. Son esprit tourne en boucle autour de cette idée fixe. T'inquiète, t'auras ta dose, poto. Mais je te préviens, tu réclames pas chez les autres, hein ? Bon, ça va durer encore longtemps ? Même si j'ai réservé y'a des semaines, le Mess semble victime de son succès, avec des files à rallonge. Alors que le soleil est en train de se coucher derrière les falaises de la Chape, je vois quelqu'un me faire des signes depuis le pupitre de l'accueil. Hé ! Mais c'est..."
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YYTCX633GE3BYYXDNJBY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K477YYTCX633GE3BYYXDNJBY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YYMEYWZ8K4G8QS332K01",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01K477YYMEYWZ8K4G8QS332K01",
+          "text": "KOJO"
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YYQ4TE8S2YYD3RQCE34X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K477YYQ4TE8S2YYD3RQCE34X",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "0YZ905F9759YFT2MPXKBB6W7D0",
+      "reference": "ALT_BISE_A_BR_63_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Repère Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/90698c5b072a5e6c4885",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e9fb621c7df99514a29a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/fr_FR/4123118a3702dcb606438fcf1ce7c6de.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/WEB_813afa6793422a00a509e82b67ed5d18",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/WEB_4cd2898721e1c9a515f4793a18ea7f2e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_BR_63_C",
+  "reference": "ALT_BISE_A_BR_63_C",
+  "id": "01K42WSMN6SY9CCH926SJ2DKJV",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/it_IT/3d0fbb4e4107ed6f8c4d9bf18cfc9361.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/fr_FR/4123118a3702dcb606438fcf1ce7c6de.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/de_DE/41faecd7c93ea85ddddc93ac966d11ff.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/es_ES/a8f990103e21d7914d687f9729cfe64b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/en_US/803776e80c9ed0f54316d35835500c36.jpg"
+  },
+  "name": "Le Mess",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Lorsqu'un Personnage quitte vos Expéditions — Je gagne 1 compteur Nourriture.  {T}, Dépensez 3 de mes compteurs Nourriture : [Ravitaillez]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-034-C-FR"
+}

@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_60_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7AAC76RFX19MT86Y1A4HEV47GD",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A56WFSFJFYPET164ES49",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A56WFSFJFYPET164ES49",
+          "text": "Les boissons à base de Sève ne sont pas au goût de tout le monde, mais elles donnent un sacré coup de fouet !"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A57AYVZ48N48PBP8TJVE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A57AYVZ48N48PBP8TJVE",
+          "text": "393 AC - Il y a un temps pour l'effort, et un temps pour le réconfort. C'est ce que disait Filiki quand il revenait des rizières, presque à la nuit tombée. Il prenait une lampée d'alcool de riz, celui qu'il distillait lui-même — soi-disant pour s'aiguiser l'appétit. Mais il faut avouer que sa conception de l'effort était bien différente de la mienne. Le bougre me manquait, même si de son vivant, je n'arrêtais pas de dire que je ne le comprendrais jamais... Jubal me sert une autre rasade, et nous trinquons à nouveau, entrechoquant nos chopes avec fracas. En face de moi, Aoife a les joues rosies, même si elle tente de cacher son ébriété. Je ne sais pas si elle réalise vraiment la portée de sa consécration. Tout ce que je peux faire, c'est de faire de cette soirée un souvenir inoubliable, au point qu'elle ne se souvienne de rien au matin. Ha ! Elle a bien mérité de lâcher un peu de pression.\n\nJe prends une nouvelle lampée de bière de Sève, et m'essuie le menton d'un revers de la main. De l'autre côté de la table, un gars se lève en titubant pour porter un toast, lui aussi éméché. À ceux qui sont partis, à ceux qui sont revenus, aux exploits des plus preux, aux mésaventures des plus hardis... Je renifle. Oui, à ceux qui sont partis, et à ceux qui sont restés... Nul doute que certains, ceux qui seront les plus frais, iront se faire tatouer la saga de leur dernier périple cette nuit ou au petit matin. Ils graveront le fait d'avoir survécu aux ombres, et d'être toujours en vie après avoir regardé la mort dans les yeux. D'autres finiront ici, sous la table, ou bien en cellule de dégrisement si l'Aegis se prend à faire du zèle. Je ricane. Même si la tentation est grande, je sais que je saurai faire preuve de tempérance. Tout est une question de modération, disait sans cesse Filiki. Et le bougre avait semble-t-il commencé à déteindre sur moi..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A573VHNW3T6B9GKESRZP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A573VHNW3T6B9GKESRZP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A56EXFJGPDGY4BTKFB8G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A56EXFJGPDGY4BTKFB8G",
+          "text": "BASIRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A56MPA38M3KYZB9AWPA2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A56MPA38M3KYZB9AWPA2",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "7AAC76RFX19MT86Y1A4HEV47GD",
+      "reference": "ALT_BISE_B_BR_60_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/182f703c9f6812ffd759",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Bénédiction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6a3901ed810c6970f773",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/fr_FR/3d23352be3535d619c9b1610ab9e269e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/WEB_d8d3dd35fa93fd6f0a7bff6768ddc1af",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/WEB_7eb4539f0c33088ec70ad4dead1a798b"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_60_C",
+  "reference": "ALT_BISE_B_BR_60_C",
+  "id": "01JB1YGPBCMXTAYG3FZV3BEC8T",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/de_DE/8284d8c2425452699e4677ac63be6f5e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/it_IT/698c95b767d5edc5a6ea09b9fa2ec118.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/es_ES/ffd8fd1ad5a279bf954e75cb9c74d9e7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/en_US/2fb9e7ca03ca8b7e020ee17c1e641634.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/fr_FR/3d23352be3535d619c9b1610ab9e269e.jpg"
+  },
+  "name": "Tasse de Sève",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Un Personnage ciblé en Réserve gagne 2 boosts."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-031-C-FR"
+}

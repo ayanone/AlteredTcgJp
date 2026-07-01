@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_55_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6ZCJ89VBSK9K0T4XKV766H06SC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A7E6B0Y56AT1115T6DAZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A7E6B0Y56AT1115T6DAZ",
+          "text": "Zumban por la noche y esparcen su néctar cuando el sol está en lo más alto."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7ETF5RGX99PQPH9BMSW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A7ETF5RGX99PQPH9BMSW",
+          "text": "393 AC — \"Nothing better than a cloud of Libellumines to bring light to the night\", Bokang used to say when he was feeling poetic. And watching them teem in the darkness like dancing stars, it's hard not to agree with him. They fly in harmony, and their murmurations seem to create constellations in the air with meanings only they know. I sink into a daydream. When I was stationed in Arkaster, I would often go to the park in Libellumine season. It was finally time for Ryukkōsai, when they would suddenly take flight in an ephemeral mating dance on the only night of their short existence. As soon as the shadows grew long on the paths of Vasanti Park bordering Calle Amsterdam, they would leave their nymph stage and embark on their bizarre yet vital quest. It was still a mystery to me. Knowing that the only key to their survival depended on this unique moment. A fleeting odyssey…\n\nAll around, the Midori Matsuri ceremony was often in full swing to accompany their wedding dances. Ladies and gentlemen strolled under the trees, while chefs in their hats offered them treats to eat on the go. There was always a buzz in the air, from both the insects and the crowds of people. Everything seemed to hum with life, like a wondrous ballet. While researching the origins of the celebrations, I had a revelation: Ryukkōsai signified acceptance of the brevity of all existence, and the journey of life had to be shared to find meaning. Ryukkōsai was a rebellion against the Tumult, which came to attack us like a swarm of harpies. It was an appropriate metaphor because this night attracted many winged predators, who came from all over the peninsula to join in the festivities. Last time, I even saw Kesh's Chimaera catch a few Libellumines. The attack of the jelly monster was quite a sight to behold…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7EGGDTG9QQZF3KYT85Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A7EGGDTG9QQZF3KYT85Y",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7CFQ8R95K169XJK5R8X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A7CFQ8R95K169XJK5R8X",
+          "text": "TEIJA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7DWHAXS5768T50A2FNT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A7DWHAXS5768T50A2FNT",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "6ZCJ89VBSK9K0T4XKV766H06SC",
+      "reference": "ALT_BISE_B_MU_55_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e66f9e5f735ca2b435db",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1d67db938376a45d26b5",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Planta"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/433deabd6c5ce4511b2a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/es_ES/6ebe6483eeb60b3ef6a9967c9d67f0b5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/WEB_519d2be92c6095f8f1d7faff38300314",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/WEB_e51deb3ac137c23447ccc74a14abc652",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/WEB_80f41c28379552deab30de421447a967"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_55_R2",
+  "reference": "ALT_BISE_B_MU_55_R2",
+  "id": "01JB1YGPBPADMTYDQAXKW1DEPE",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/fr_FR/56e182bf7c710e00cd706208e95fa61e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/de_DE/dc9c0bdaedd44025a97eb88ebdaa9fb2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/it_IT/e393f603cb9e5d15a88d41ead2514c2f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/es_ES/6ebe6483eeb60b3ef6a9967c9d67f0b5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/en_US/70906c55f006883e4bb378cb3123b1f9.jpg"
+  },
+  "name": "Enjambre luminoso",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{J} Gano [[Anclaje]].  Al mediodía — Un personaje objetivo en juego o en reserva gana 1 potenciador."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-060-F-ES"
+}

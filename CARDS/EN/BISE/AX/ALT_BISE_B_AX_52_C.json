@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_52_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/444H0RYXG98D7RAH2RR6XKQ8B7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A460ZEBZFTE1QWKN7P89",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A460ZEBZFTE1QWKN7P89",
+          "text": "Not my cabbages!"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A46AFM3NQNAMVMCXY191",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A46AFM3NQNAMVMCXY191",
+          "text": "393 AC - Testing inventions and putting theory into practice is always a big moment, for better or worse. Because no matter how sure we are of something, reality has a habit of really putting facts to the test. Science is the domain of accuracy and precision. One nose out of joint, and it can all turn to chaos. The last drill model is a good example. Up until now, conventional equipment was designed without prioritizing mobility. We knew where we needed to drill, and we would dig in that specific location. It was as simple as that. But in the Swiss cheese of the City of Scholars, it was a) impossible to install huge static installations, and b) risky to drill without really knowing what was on the other side, even with probes. In these conditions, a mobile drill was the obvious solution. It was an excellent idea… at least on paper. An all-terrain vehicle, fitted with tracks and a huge auger for a nose, and remote-controlled, no less…\n\nAnd then the day arrived for actually testing it. The engineers thought of everything, even installing a platform to observe everything from a safe distance. In front of a select group of scientists, the official gave his pompous speech before activating the machine. With utmost pride, he watched the machine drill into the rock, shooting rubble and mud everywhere in its wake. And that's when things took a turn for the worse. It started with hushed chattering, little remarks like \"Why isn't it coming back out?\" I watched the face of Eugen, the manager, go through the whole range of expressions, from a reassuring stiff upper lip to concern, then to outright fear. It cycled through an impressive spectrum of colors too, from bright red to pasty white. He kept pressing the remote control in the vain hope it would change something. We found out much later that the Drillmole had emerged from the ground in the middle of a Muna field, in front of a group of horrified gardeners. A problem with the antenna, they said…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A465ECBFXD0JQVVFSXJ4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A465ECBFXD0JQVVFSXJ4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A45Q451Q76BJHAGK707M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A45Q451Q76BJHAGK707M",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A45WM7JVJNY0PE0JSR49",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A45WM7JVJNY0PE0JSR49",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "444H0RYXG98D7RAH2RR6XKQ8B7",
+      "reference": "ALT_BISE_B_AX_52_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1806244f66dfd4f6246b",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c750416dc13d9c04e3a3",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/en_US/b4d1927c45e2998409f6972e932f4518.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/WEB_8c071b1d59499ea72aa486c429121e54",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/WEB_a30c3831c2a37b0a8c82ffb1b24e1b8a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/WEB_2e9184b93c46e667e40e6ad72621ed6e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_52_C",
+  "reference": "ALT_BISE_B_AX_52_C",
+  "id": "01JB1YGPB21B646E7PKMP22XFM",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/it_IT/66ed883828de817d2fc6f6217a2f163e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/es_ES/918787c23d196522794ea62a625f6d47.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/de_DE/4d0f0593d4b49ef7e84e0b283448f8c6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/en_US/b4d1927c45e2998409f6972e932f4518.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/fr_FR/a3d2e4aca9d747c0b3b65f1fe40e6311.jpg"
+  },
+  "name": "Drillmole",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{R} You may spend 1 of my boosts to [Sabotage]. (Discard up to one target card from a Reserve.)",
+    "ECHO_EFFECT": "{I} At Noon — Choose one:  • I gain 1 boost, up to a max of 3.  • {T} : I gain 2 boosts, up to a max of 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-007-C-EN"
+}

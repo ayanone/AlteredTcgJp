@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_62_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6VE493W5PE993R6JQNNH2EB26J",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1AABMBP06VZ06YNVQ1K20",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1AABMBP06VZ06YNVQ1K20",
+          "text": "ÉgidaReparada por los Axiom, el orgullo de la Égida reemprende el vuelo."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AACGNXNKTP5HMVH5R436",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1AACGNXNKTP5HMVH5R436",
+          "text": "393 AC - I need Mana, Tocs. Somewhere far off, I feel him respond, and a new influx reaches me. How deep did he go this time? I grit my teeth and concentrate on the Mesektet. I can't let myself get distracted. I try to push what I've discovered from my mind so I can focus on the ship's appearance, on what it would be once all the repairs have been done, as if it were brand new. It would be damaging to everyone onboard if its reality were to alter against my will. And to prevent that, I need to control my imagination so that the idea of the ship remains as stable as possible. That damned Templar! She gave me the perfect posting to leave me on the sidelines. Under the guise of creating a remote headquarters to help with expeditions, she made sure I couldn't get in her way.\n\nIts dark shape, barely visible against the labyrinth's dark stone; the lighting on its pontoon, which highlights the golden reflections of its hull… I imagine it repaired, updated, improved; one of the flagships of the Ordis fleet restored to its former glory. A vision to take your breath away and bring hope. But I also need to conjure in my mind everything it contains, or at least everything needed to house our troops. Dorms, a mess, an armory… I don't overburden myself with creating an engine room or Aerolith core, but rather simulate their existence: a door that leads to them but is only an illusion; a vibration to replicate the sound of an engine… It would be a shame to have to fight against the doubts of those living there. For a fraction of a second, I remember what I saw in its wreckage, the memory records of which have been sealed by the admiralty."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAC14SP52KQVVYZ56BAR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1AAC14SP52KQVVYZ56BAR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA9MYW7R9Q8VNVK9HHZZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1AA9MYW7R9Q8VNVK9HHZZ",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAA1FR02XM4SETPZGNEM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1AAA1FR02XM4SETPZGNEM",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "6VE493W5PE993R6JQNNH2EB26J",
+      "reference": "ALT_BISE_B_OR_62_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/923eee9a0248c44f3c6c",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construcción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e74b5c0e740a802f1efe",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_62/JPG/es_ES/dfcd294a4317f03dadc389c5c3585980.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_62/WEB_4d8db804ef62dc350bae6f5e459eaf37",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_62/WEB_4a4fe1b308a5b549298d29646b802300"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_62_C",
+  "reference": "ALT_BISE_B_OR_62_C",
+  "id": "01JB1YGPBYGVH2ZFZ80GRGCRMY",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_62/JPG/es_ES/dfcd294a4317f03dadc389c5c3585980.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_62/JPG/it_IT/68d44551d9aac5549f155804462c4b35.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_62/JPG/de_DE/6c429a4bd9afca241fd9b34d81d7754f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_62/JPG/en_US/38bfa5c7a173e9c14aa1798df65557f3.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_62/JPG/fr_FR/73418132644fbc90b3af0aac28550986.jpg"
+  },
+  "name": "Mesektet",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Al mediodía — Crea una ficha de soldado [Recluta de Ordis 1/1/1] en cada una de tus expediciones que vaya por detrás o esté empatada."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-085-C-ES"
+}

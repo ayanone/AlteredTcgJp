@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_A_BR_58_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6ZYG53VX2Z9RCSATE7SS7X7J6H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A3X8054667P70K9AQGSE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A3X8054667P70K9AQGSE",
+          "text": "Welch Überraschung: Er hat ein Ass im Ärmel."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3XGH9YV6H54WBKW54S8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A3XGH9YV6H54WBKW54S8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3XCKG9G5N782GDAX6TY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A3XCKG9G5N782GDAX6TY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3X03VFPVP9TMGW1G6RS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A3X03VFPVP9TMGW1G6RS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A3X42VY4AY7WXK5EZHDP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A3X42VY4AY7WXK5EZHDP",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "6ZYG53VX2Z9RCSATE7SS7X7J6H",
+      "reference": "ALT_BISE_A_BR_58_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0fc0450c9ae6cbd051a2",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Abenteurer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d5158680d7800fe2c616",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/de_DE/33a0d906aff9000289de895e7b2b892c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/WEB_7ac81c75f76a8d06c740f9aa025b1240",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/WEB_e13a1b458419fc998aca91c2c2b492bf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/WEB_b61e9225995f059476ac0ac0a6051416"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_BR_58_C",
+  "reference": "ALT_BISE_A_BR_58_C",
+  "id": "01JB20DP778E55Z8A7YNVWART2",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/en_US/8f41b720b162f5e9f966bb7ac4aa21f7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/es_ES/e3b221b62222ccba235741084448f199.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/it_IT/5ddc9bec7535b848b5daeb594bc80818.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/de_DE/33a0d906aff9000289de895e7b2b892c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/fr_FR/94d022fb3b39cfa643935228a6e49dcb.jpg"
+  },
+  "name": "Theseus",
+  "elements": {
+    "MAIN_COST": "8",
+    "RECALL_COST": "8",
+    "OCEAN_POWER": "6",
+    "FOREST_POWER": "6",
+    "MOUNTAIN_POWER": "6",
+    "MAIN_EFFECT": "[Spähen] {3}. (Du darfst mich für {3} mit „{h} Schicke mich in die Reserve“ aus der Hand spielen.)  {J} Schicke einen Charakter deiner Wahl in die Hand seines Besitzers zurück.  {R} Ich erhalte 2 Verstärkungen."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-030-C-DE"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_33_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7AZTSXD2DA880T8E95G6FVMXQJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J286YYW8X5QHK7XT1FSMN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J286YYW8X5QHK7XT1FSMN",
+          "text": "Un mastard qui a du chien."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J287ZRWQEXN2D32BZM0XZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J287ZRWQEXN2D32BZM0XZ",
+          "text": "Viens donc là, toi ! Si tu crois que tu vas m'échapper, petit filou, c'est vraiment mal me connaître. La créature palmée file à travers les troncs d'arbre, sautillant et glissant parfois sur le ventre pour profiter des pentes neigeuses. Elle a dans sa besace pas mal de bibelots qu'elle a dérobés au sein du camp, dont la bague que m'avait rendue Hasret. Cette dernière était bien trop chargée de souvenirs doux-amers : le jour où elle avait accepté ce présent, essayant de cacher son émotion derrière une barrière de sarcasme et d'indifférence ; la nuit où elle me l'avait rendue, sachant que nos jours ensemble avant mon départ étaient comptés... Il n'y avait aucune chance que je laisse ce volatile me la subtiliser. En usant du Heka, j'imprime un Glyphe sur le tronc d'un vieux bouleau et une meute de limiers en bondit, jappant et aboyant allègrement.\n\nQue la chasse à courre commence. Les chiens se mettent immédiatement à renifler la piste et partent sans tarder à sa poursuite. Si cet oiseau de malheur pourrait me semer, ce ne sera pas le cas de ma petite horde personnelle. Fen avait bien fait de solliciter mon aide. Elle m'avait confié la localisation de son nid rempli du fruit de ses maraudes. Mes limiers sont en train de le rattraper. Dans la panique, il laisse choir quelques objets, qui tombent mollement dans la poudreuse. Mais qu'importe son rythme effréné, rien ne pourra l'empêcher de finir acculé. Soudain, des cris et des grognements me parviennent. Je m'interromps dans ma course, pour voir les Trois Petits Cochons cavaler dans ma direction. Ils semblent poursuivis, talonnés par un danger indicible. Je peste intérieurement, sachant pertinemment que je ne peux les laisser là sans assistance. Je siffle en direction de mes chiens, pour qu'ils filent vers le camp. Puis je hurle aux Eidolons — qu'importe qui les a invoqués — de suivre mes toutous sans tarder."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J287C3YZ75RDJXP1KFDEH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J287C3YZ75RDJXP1KFDEH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J285XNE7JV0BSS2JX2E45",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J285XNE7JV0BSS2JX2E45",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J286BFR72R38KP0K6RWY3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J286BFR72R38KP0K6RWY3",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7AZTSXD2DA880T8E95G6FVMXQJ",
+      "reference": "ALT_ALIZE_B_OR_33_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f108400369ba26a4b197",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7a43be85e27fc5a2b2bd",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/fr_FR/247f1f3290bcd4874aed5115addce6a8.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/WEB_6a25159b76166c05336d62ad4ec67d52",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/WEB_97ca6e54d7799911c27da02da3155f40",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/WEB_191193460a7c1e2dff0483e89baeeea0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_33_C",
+  "reference": "ALT_ALIZE_B_OR_33_C",
+  "id": "01J1Q4P4SJNQDBVQBECG6BEXAQ",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/it_IT/c3eb926a8cb584439239e7b6d022a5d2.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/fr_FR/247f1f3290bcd4874aed5115addce6a8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/de_DE/a76bcc54cbbd288e7ef6a34d60ea6c3d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/es_ES/b0042c0ce6ac6bb8ac9b9725300459fd.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/en_US/08da003a9297de3eab07cd1dac994bae.jpg"
+  },
+  "name": "Limier",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{J} Si mon Expédition est en retard, je gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-071-C-FR"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_04_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB784KXGPKVRC3EWX5SXDM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME820RE3P36M56HV7PJTT8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME820RE3P36M56HV7PJTT8",
+          "text": "\"Non ereditiamo la terra dai nostri antenati, la prendiamo in prestito dai nostri figli.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME821V88MMJRFYZM41PR8K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME821V88MMJRFYZM41PR8K",
+          "text": "Her movements are cautious and precise. Slowly, she moves the dragon's eggs. One by one, she feels them, examines them, being careful not to rush the wyvern. I watch, fascinated by how gentle she is and how much the scaly creature trusts her. It could devour us with one snap of its jaw, but it does nothing. It seems soothed, even happy about the Alterer's healing. Concentrating, I can see that the healer has woven the idea of \"Warmth\" into her hands, and that she's incubating the rough-shelled eggs as she examines them. As for me, I dare not move for fear of disturbing her, not to mention the mama dragon who is, at best, merely tolerating my presence for now. I'd rather not end up barbecued, or with my clothes singed...\n\nA sudden cracking sound. The wyvern's eye opens slightly, its gold-edged pupil narrowing to a thin slit. The healer doesn't flinch. In fact, she exudes an astounding kindness, a wave of warmth, comfort, serenity and gentleness that puts me at ease as well. I go wide-eyed upon seeing that the shell of the egg in her hands is splitting open. Something is pushing from the inside, making a web of tiny cracks on the cocoon's outer wall. Enthralled, I see a little snout emerge from its scaly casing and let out a hoarse groan tinged with surprise and confusion. A little wyrmling appears, its eyes still closed. Under its mother's watchful gaze, the healer cradles it tenderly, removing each little bit of shell stuck to its still-soft scales. She tugs on the membrane, and the albumen drips onto her toga. Then she gets to her feet and presents the newborn to the dragon. Another crack, another egg hatching. She waves me over..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME821CP24AWS4NHF2Y27FA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME821CP24AWS4NHF2Y27FA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81ZRAAB9JASHMHAJN6D1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME81ZRAAB9JASHMHAJN6D1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82091GA40X0FKSD7ZKD6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME82091GA40X0FKSD7ZKD6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB784KXGPKVRC3EWX5SXDM",
+      "reference": "ALT_COREKS_B_MU_04_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0954fb435508a6cf6329",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druido"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/fa340a7fd201d89b2637",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_04/JPG/it_IT/7ccfb90cc7eca2043a4495c86d9ad1e1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/ALT_CORE_B_MU_04_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/ALT_CORE_B_MU_04_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/ALT_CORE_B_MU_04_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_04_C",
+  "reference": "ALT_COREKS_B_MU_04_C",
+  "id": "01HN5TXRP92BVWWQCFNCDS2PMR",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_04/JPG/it_IT/7ccfb90cc7eca2043a4495c86d9ad1e1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_04/JPG/de_DE/c397aa42ddcfd330937c9d8ca0c2fde5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_04/JPG/en_US/6f7083d5e71d5be004d7ef89371078e5.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_04/JPG/es_ES/17caf6b7ccb36c3554ab74ec4fe33dc8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_04/JPG/fr_FR/f5be046058b501221abb5e551af3a8dd.jpg"
+  },
+  "name": "Levatrice Muna",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "0",
+    "ECHO_EFFECT": "{D}: Un personaggio bersaglio con costo dalla mano pari o inferiore a {3} ottiene [[Ancorato]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-094-C-IT"
+}

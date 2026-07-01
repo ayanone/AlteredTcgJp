@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_26_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50B86QF0XFHRMNZ9AYFN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH6207GNYYB8Q0WHG36F3S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH6207GNYYB8Q0WHG36F3S",
+          "text": "La Porte du Solstice est ouverte. Pour la première fois depuis des temps immémoriaux, l'humanité va découvrir ce qui se trouve au-delà des portes."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH621H0DT45TSGEN9FAQBP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH621H0DT45TSGEN9FAQBP",
+          "text": "Les lourds battants de la Porte du Solstice s'entrouvrent avec fracas. Je ne parviens pas à détourner les yeux du spectacle, comme paralysée par la portée historique de l'événement. À côté de moi, Tocsin s'assied en tailleur et contemple l'envolée soudaine de centaines de colombes. J'ai les mains moites, la gorge nouée. En contrebas, les bataillons de l'Aegis se mettent en branle. C'est l'heure de vérité. Après plus de vingt ans à attendre ce moment, j'y suis enfin. Les premiers à passer sont les fyrds Bravos, puis les soldats du Général Sekifu, talonnés par les troupes du Général de Graaf. Les transports aériens ne sont pas en reste, dérivant au-dessus de notre tête sous l'autorité conjointe des Commodores Jeanty et Nagaya. Et bien entendu, il y a aussi l'Ouroboros, placé sous la supervision de l'Amiral Singh. La main de Tocs se pose soudain sur mon épaule, m'ancrant de nouveau dans le présent.\n\nJe me tourne vers lui et acquiesce. Ce n'est ni le moment, ni le lieu pour courber l'échine devant l'ampleur de la tâche. Je souffle longuement et frappe du poing mon bouclier, tandis que mon Alter Ego brandit son clairon. Il en tire une note puissante, qui se réverbère au-dessus des toits. Après avoir retrouvé mon aplomb, j'en appelle à la Coalescence. Les portes du Gestalt s'entrouvrent, comme se sont ouvertes celles d'Asgartha il y a peu. J'effleure de mon esprit toutes les recrues que j'ai pu entraîner durant toutes ces années. Je leur témoigne de la gratitude, de la camaraderie, leur communique du courage, de la fierté. Comme une plaine qui se couvre de feux de camp, je sens leurs esprits répondre un à un à mon appel. Tout comme pour moi, je ressens en eux de la peur, bien entendu, mais aussi de la liesse et de l'excitation."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH620Y6GV228GG79ACJH4X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH620Y6GV228GG79ACJH4X",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61YS61H9AZ52CT4V0TER",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH61YS61H9AZ52CT4V0TER",
+          "text": "Gulrang"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61ZEJBK78DEKP3XH3E2Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH61ZEJBK78DEKP3XH3E2Y",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50B86QF0XFHRMNZ9AYFN",
+      "reference": "ALT_CORE_B_OR_26_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/14e12b2c02adb8f8d962",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manœuvre"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e5843e4b9e7457fb5807",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/fr_FR/91f0431258c602ff4a7f2acd61276d9c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/ALT_CORE_B_OR_26_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/ALT_CORE_B_OR_26_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_26_R1",
+  "reference": "ALT_CORE_B_OR_26_R1",
+  "id": "01HKAFJNYEXXTRBEBPXMBP6RQN",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/de_DE/70db3d828488f66d17a5e071a00cdeed.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/it_IT/30794a8610213b0d867811bb226462a8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/es_ES/4ca54c8005cf2eea5c6db31358850b5f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/fr_FR/91f0431258c602ff4a7f2acd61276d9c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/en_US/14c68538efdec8cf0a0ef40662db1ff2.jpg"
+  },
+  "name": "Ouvrez les Portes",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "#5#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Créez #quatre# jetons Soldat [1/1/1 Recrue Ordis], #distribués comme vous le souhaitez dans n'importe quel nombre d'Expéditions ciblées#."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-147-R-FR"
+}

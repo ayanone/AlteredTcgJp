@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_43_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3A0V4GC8Z08EEVGG83WJ0VM35D",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24PDZA0ZS998QG7F0D8T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24PDZA0ZS998QG7F0D8T",
+          "text": "Nessuno sa da dove viene quel \"latte\"."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24Q0K7QG17HBFP18KM8D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24Q0K7QG17HBFP18KM8D",
+          "text": "Questa è la via, la Via Lattea!\n\nRaccolto a mano nell'Ipogeo, il misterioso mondo sotterraneo che si estende sotto il deserto di Sarkans, il Latte di Arcolano™ è una delle meraviglie di Asgartha. Estratto fresco dalle aziende agricole di Caecaster, il Latte di Arcolano purifica la mente e aiuta a dormire bene. Bere Latte di Arcolano ogni giorno alimenta l'immaginazione e favorisce una creatività senza limiti.\n\nUn consumo eccessivo di Latte di Arcolano comporta un rischio per la salute. Bevilo responsabilmente."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24PQN4KQAGF0S0AXXJ4Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24PQN4KQAGF0S0AXXJ4Q",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24NS6YHQZZPYEB1M9ZZC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24NS6YHQZZPYEB1M9ZZC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24P48DR9B4H2XM96M1B6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24P48DR9B4H2XM96M1B6",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "3A0V4GC8Z08EEVGG83WJ0VM35D",
+      "reference": "ALT_ALIZE_B_BR_43_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanente Spedizione"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/58d1606f5767ce1dd481",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Dotazione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/57b11f798b2d98f30a8c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/it_IT/5409f24e9f536323a7637fdfc3c7b089.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_45f8342b1460275baf5510f97cf3d031",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_88dc4094659aabdee36cdce5e6c6ce0f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_43_R2",
+  "reference": "ALT_ALIZE_B_BR_43_R2",
+  "id": "01J1Q4P4S494FQQRQ8V7F8JMWK",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/it_IT/5409f24e9f536323a7637fdfc3c7b089.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/de_DE/a9c12e208e34c9e765a2165b3d7092b0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/es_ES/333e3c99f6821035b1dcbe1f0814c05a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/en_US/8bbdc885d7931c16ed361b32fe376be7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/fr_FR/c31783680b86e4808e65b71368c1e581.jpg"
+  },
+  "name": "Latte di Arcolano",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "Quando un personaggio si unisce alla mia spedizione — Ottiene 1 rinforzo e [[Fugace]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-032-F-IT"
+}

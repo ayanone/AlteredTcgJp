@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_35_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6FHMPS87058P788X52X7NKE8JS",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J28D6WTRZPY9RFB87QM9J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J28D6WTRZPY9RFB87QM9J",
+          "text": "Gerechtigkeit ist ein Gericht, das am besten kalt serviert wird."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28F4TG3NTGPDQKG5QB09",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J28F4TG3NTGPDQKG5QB09",
+          "text": "Ich kann die Schmerzen in meinen Gelenken und das Stechen in meiner Seite nicht mehr ignorieren. Wir rennen atemlos zum Rand des Waldes, die Belisenki dicht auf unseren Fersen. Es ist kräftezehrend. Laufen ist nicht meine Stärke, vor allem im Schnee, und ich bezweifle, dass unsere Verfolger Interesse an diplomatischen Verhandlungen hätten. Ich kann das nicht mehr lange durchhalten. Und der Rest meiner Kameraden, die in einer höchst verunglückten Zurschaustellung militärischer Disziplin in alle Richtungen davonstoben, scheinen nicht bereit, einen Gegenangriff zu starten. Wir müssen uns unseren Angreifern entgegenstellen und aus dieser Lage irgendwie herauskommen. Wir müssen uns etwas einfallen lassen. Ein Staatsbeamter wie ich weiß, dass die beste Methode darin besteht, bei einem Feind Angst und Schrecken zu verbreiten. Wenn ich mich nur besser mit militärischen Fehlschlägen und strategischen Rückzügen auskennen würde, könnte ich uns vielleicht aus diesem Schlamassel befreien!\n\nWeiter vorne ist der Schneesturm noch heftiger. Das wird uns bestimmt nicht helfen. Es sei denn … Das Heka lässt meine Hände aufleuchten, während ich die entsprechenden Symbole in den Wind zeichne. Von den wirbelnden Böen getragen, entrollt sich eine riesige Papierrolle kreisförmig vor uns. In der Mitte liegt Dong Da Shen auf einem Schneeklumpen, sein prächtiger blauer Umhang flattert im Wind. Ich hoffe, dass seine Anwesenheit unseren Feinden Angst einjagen und unseren eigenen Leuten Sicherheit geben wird. Die Ideogramme der Schriftrolle lodern in azurblauen Flammen. Ich erinnere mich, dass das Dokument, das Dong Da Shen in den Händen hält, eine Anklageschrift ist. Als er sein Zepter wie ein Inquisitor auf den winterlichen Mob richtet, spricht er mit donnernder Stimme. Er ist die perfekte Wahl, da er der Gott der Kälte ist und seine bemalte Maske das Gesicht des Winters darstellt. Und tatsächlich beugen sich die Belisenki seiner Autorität, zerstreuen sich und ziehen sich in den Schutz der Bäume zurück. Ich werde meine Gelenkschmerzen noch eine Weile spüren, aber angesichts der Alternative, die wir gerade abgewendet haben, erscheinen sie nicht mehr so schlimm."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28EF6FZYNK512XE7M247",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J28EF6FZYNK512XE7M247",
+          "text": "Dong Da Shen ist der taiwanesische Gott des Winters und ruft bei seinen Gegnern Angst und Panik hervor. Er ist mitleidslos und verlangt den Respekt seiner Feinde. Sein Gesicht ist mit den Symbolen eines Tigers und einer Chrysantheme verziert. Bewaffnet ist er mit einer Schlange oder einer Art schlangenförmigem Stab, mit denen er gegnerische Gefangene einschüchtert."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28C4BTXWPTQ3R3W2AQH0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J28C4BTXWPTQ3R3W2AQH0",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28CM33HQA00AE7RTK5B7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J28CM33HQA00AE7RTK5B7",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "6FHMPS87058P788X52X7NKE8JS",
+      "reference": "ALT_ALIZE_B_OR_35_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8b658da3baa639fddfa1",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bürokrat"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b0858b6c77ec16a30db4",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Gottheit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1195422eb246e226bdb2",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/de_DE/6f8e916f28bf9de5f35af7e0e9c44b13.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_ecf931302bf5c83597e3fdca7252cd5d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_e1dcde14e0c6599e5cb23377398f2e25",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_c741a0f8a9ba8b8195551804a4859c19"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_35_R1",
+  "reference": "ALT_ALIZE_B_OR_35_R1",
+  "id": "01J1Q4P4SKAF9A6PP6VDW6X2PC",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/it_IT/236ee04a31ac68d2c1cabafce97c93f0.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/de_DE/6f8e916f28bf9de5f35af7e0e9c44b13.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/en_US/9bab3a4a3bfcd1a5928f3ad81af9e8a9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/fr_FR/84e7e1ecfa7b7377de5a4ef43b29b6a7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/es_ES/5301b27d23368db295a128047a98dc43.jpg"
+  },
+  "name": "Dong Da Shen",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "#3#",
+    "MAIN_EFFECT": "#Zum Mittag — #Du darfst eine Karte deiner Wahl in der Reserve erschöpfen ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-076-R-DE"
+}

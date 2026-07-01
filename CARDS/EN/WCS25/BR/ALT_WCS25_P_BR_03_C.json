@@ -1,0 +1,143 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCS25_P_BR_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0R2VARCX6589QAFPXAABJQNHVK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JYRGVWS3HEXF4CADQFJC0YZS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JYRGVWS3HEXF4CADQFJC0YZS",
+          "text": "Only the worthy shall achieve true transcendence under my guidance."
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWSJV2ZT4P08YK9K2QJY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JYRGVWSJV2ZT4P08YK9K2QJY",
+          "text": "392 AC - I watch the seething water as the surf drenches me with its spray. The water swishes against my skin as Kaizaimon meanders back and forth, patiently waiting for the right time to come out of hiding. In the spectral darkness, the roaring waves crash against the cliff as a lightning bolt streaks across the raging sky. Around me, the other Bravos soldiers lie on their stomachs, hidden and on the look-out. I see them cursing the cold and water as it penetrates deep into their clothes, but none of them complain. I smile. A few drops of water won't make them waver or shiver. Suddenly, Kai pours out of my skin in a red cloud like a bloody mist. My oni gradually solidifies and regains his original appearance. He starts to float above the bluff where we have taken refuge, waiting to tighten the noose of our ambush.\n\nHe looks at the sky, and I do the same, just as a griffon breaks through the clouds. The griffon flies toward the beach with Sigismar on his back. That means it's not far behind. I crack my neck and knuckles. Around me, the other warriors slowly spread out. Some roll their shoulders, while others unsheathe their swords. I turn toward them and give them a smile. They return it. But not with smiles of kindness – more like predatory grins. Good thing that's exactly what I need. Today, I need them to be demons. I scream at them, pumping my fist in the air as the hurricane rages. They roar in return, and some beat their weapons against their shields. The enemy will be formidable, and the challenge immense. But that's what the Bravos have always feasted on. Come on, then, Kraken! We are ready!"
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWSB5TFGDKNEB5JG1NZH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JYRGVWSB5TFGDKNEB5JG1NZH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWRFS9H9YV683RECCDGP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JYRGVWRFS9H9YV683RECCDGP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWRVCJ5TBR399S1SAK95",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JYRGVWRVCJ5TBR399S1SAK95",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "0R2VARCX6589QAFPXAABJQNHVK",
+      "reference": "ALT_WCS25_P_BR_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Hero"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/WCS25",
+    "@type": "CardSet",
+    "id": "01JTJV0RDYYPKJ3EH4M68H4RKT",
+    "reference": "WCS25",
+    "name": "World Championship Series 2025"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e9d636068bf9b7206ec4",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/en_US/56c785563879de29564b144adc393bf7.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCS25_P_BR_03_C",
+  "isOwnerless": false,
+  "reference": "ALT_WCS25_P_BR_03_C",
+  "id": "01JTJV5PKWS9B60M8F1GN4P3H2",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/fr_FR/3b158398013ae510b30a5084a88c77a1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/en_US/56c785563879de29564b144adc393bf7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/it_IT/c7e8ce1877f9813b44a9b33240e61ab7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/es_ES/3535732018e2e235f167b5e158264797.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/de_DE/54fda18fa2b9a9810bb32864cc394318.jpg"
+  },
+  "name": "Basira & Kaizaimon",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "MAIN_EFFECT": "When a Character you control gains 1 or more boosts — You may exhaust me ({T}) to give target Character 1 boost.[]. (A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "WCS25-BR-03-C-EN"
+}

@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_22_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB797Q4WE615438J4DSDSN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8493WE79VFKQQ8Q4M5KS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8493WE79VFKQQ8Q4M5KS",
+          "text": "Quand on voit un dracaena de taille adulte, on se dit que végéter lui a réussi."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84AZ6MDRBX1CBS9GDJBT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME84AZ6MDRBX1CBS9GDJBT",
+          "text": "Je gravis la colline, m'appuyant de plus en plus sur mon bâton au fur et à mesure que j'approche du sommet. Les lanières de mon sac frottent sur mes épaules, et à chacun de mes pas, j'ai l'impression qu'il se fait de plus en plus lourd. Peut-être est-ce moi qui y appose sans faire exprès une idée de \"Lourdeur\", ou alors —hypothèse bien plus probable — je suis exténué·e, voilà tout. Je pose mon paquetage sur le sol herbeux et entrouvre ma chemise. Même si, après trois semaines sur les routes, mon corps commence à s'habituer à ce nouveau rythme, je suppose que j'ai un peu trop tiré sur la corde. Je m'adosse à un rocher couvert de lichen et ouvre mon pochon pour y saisir un biscuit. La vieille femme que j'ai aidée à creuser son puits m'a offert pas mal de vivres en récompense, mais ces derniers commencent à s'épuiser.\n\nAllez, en route. Je bois une gorgée d'eau et hisse de nouveau mon barda sur mon dos. Peut-être est-il temps de faire un tour par une enclave humaine pour me ravitailler ? Tout à mes réflexions, je ne manque pas de laisser un bout de gâteau sec à l'intention de la petite Chimère qui continue sûrement de me suivre. Mais alors que je m'apprête à partir, une ombre tombe depuis le ciel. La créature se juche sur le rocher que je viens d'abandonner, déployant ses ailes végétales. J'écarquille les yeux en reconnaissant un dracaena, mais dont la taille est si imposante qu'un simple battement d'ailes fait flageoler mes jambes. Il a tellement grandi qu'il a développé plusieurs têtes, et toutes sont tournées vers moi, avec un soupçon de gourmandise. Je sais que je ne crains rien vu qu'ils préfèrent de loin les fruits à la viande. Il a probablement humé ma dernière pomme. Eh bien... la vie sur les routes réserve décidément bien des surprises..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84A32ZEDF00JRY4PAX1T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME84A32ZEDF00JRY4PAX1T",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8473C2N83S3SJT6BF8QH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME8473C2N83S3SJT6BF8QH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8483R5YENR0BY3DGCDK2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8483R5YENR0BY3DGCDK2",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB797Q4WE615438J4DSDSN",
+      "reference": "ALT_COREKS_B_MU_22_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/185978caa99d8fa43db1",
+      "reference": "DRAGON",
+      "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+      "name": "Dragon"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/58d7c7f21be801a25f19",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plante"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d64b49019c14927c612a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_22/JPG/fr_FR/b18bad697fc0d018ea1361534d5c7470.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/ALT_CORE_B_MU_22_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/ALT_CORE_B_MU_22_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/ALT_CORE_B_MU_22_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_22_C",
+  "reference": "ALT_COREKS_B_MU_22_C",
+  "id": "01HN5TXRRTASZ03YN61SG36VWK",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_22/JPG/fr_FR/b18bad697fc0d018ea1361534d5c7470.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_22/JPG/it_IT/51368e1d3a52c87057742db60d776a77.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_22/JPG/de_DE/c5402e56ee6476732301730101967dc6.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_22/JPG/es_ES/7ecaaa24f72e13f3e2ac25edf42fe59c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_22/JPG/en_US/db3db2e21d6aa51a91a9bf02e1d41536.jpg"
+  },
+  "name": "Hydracaena",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "[Éternel]. (Au Repos, je ne vais pas en Réserve.)  {J} Je gagne 4 boosts.  À Midi — Je gagne 4 boosts."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-113-C-FR"
+}

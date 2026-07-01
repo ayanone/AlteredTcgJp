@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_B_YZ_65_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/044FGQ1EAT9N49QB17QPBVY1NN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGC4MYQ3QNS0S0DJ2P9502",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGC4MYQ3QNS0S0DJ2P9502",
+          "text": "L'idée du papillon se trouve déjà dans la chenille."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGC4NZ0DVN1XM30XQC2SFF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JNRGC4NZ0DVN1XM30XQC2SFF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGC4NF5HKP8QXKS75CHMP4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGC4NF5HKP8QXKS75CHMP4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGC4K08Z723Z1Z4EAXDHRR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JNRGC4K08Z723Z1Z4EAXDHRR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGC4KG4RVF8NSPKDDMD6ZB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGC4KG4RVF8NSPKDDMD6ZB",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "044FGQ1EAT9N49QB17QPBVY1NN",
+      "reference": "ALT_CYCLONE_B_YZ_65_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Odyssée des cieux"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d76dea1515b3041936eb",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/JPG/fr_FR/ae6e015b084a96d2fcf5ad71a264a6b5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/WEB_a781b95e511aae868a9ff2b8dcdac7c6"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/HERO_THUMB_fd33d29efb99b887faf25e45a2fc406e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_YZ_65_C",
+  "reference": "ALT_CYCLONE_B_YZ_65_C",
+  "id": "01JN9HNDYHP5AYER5YSMR6TTW3",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/JPG/en_US/6e8cca215deb735be56177a1cfd09ca8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/JPG/es_ES/473641dec6a850558b3f86180a4599ab.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/JPG/de_DE/dca790ce8686399bbe3ef31c34ee32f0.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/JPG/it_IT/85b420beac0185501433935c19a923ae.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/JPG/fr_FR/ae6e015b084a96d2fcf5ad71a264a6b5.jpg"
+  },
+  "name": "Moyo & Silk",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Lorsque vous jouez un Sort de Coût de Base {4} ou plus — Vous pouvez m'épuiser ({T}) pour créer un jeton Illusion [2/2/2 Phalène de Mana] dans votre Expédition Héros. Si le Coût de Base était d'au moins {7}, piochez aussi une carte. (Coût de Main, ou Coût de Réserve si joué depuis la Réserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "SKY-91-H-FR"
+}

@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_25_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50B43RZ0K3S1QGZ26304",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH61W2JSKRAZNVK8BF1CY2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH61W2JSKRAZNVK8BF1CY2",
+          "text": "Certaines leçons collent plus à la peau que d'autres."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61X3PM7B76D83GAPMDZJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH61X3PM7B76D83GAPMDZJ",
+          "text": "Devant moi, la lumière du feu de camp est à peine perceptible. Je me faufile entre les buissons, essayant de faire le moins de bruit possible. À mesure que j'approche, je peux entendre le bruit ouaté d'une discussion, quelques éclats de voix et des rires feutrés. En arrivant à la lisière de la clairière, au terme d'une avancée fastidieuse, je distingue clairement les trois silhouettes qui se sont réfugiées près du feu. Et ma cible est bien l'une d'entre elles. Le moment me paraît propice. Je ne sais pas si elle va m'opposer de la résistance, donc autant ne pas lésiner sur les moyens. Je sors de ma poche intérieure quelques sceaux de papier, tire ma lame au clair. En manifestant mon Altération, j'étouffe les flammes pour provoquer l'obscurité. Profitant du bref instant où ils sont aveuglés par la soudaine noirceur, je m'élance.\n\nJe lance les sceaux de papier sur le sol, et les Glyphes d'emprisonnement qu'ils contiennent se mettent à crépiter et à luire autour de ma cible. De chacun des billets, des liasses de papier jaillissent, façonnant autour du jeune Bravos une prison de feuillets et de bulletins adhésifs. Il écarquille les yeux, mais la cellule énergétique forme maintenant une gangue épaisse. Et plus il tentera de se libérer, plus sa geôle deviendra collante. Le danger ne vient pas de lui, mais de ses compagnons. Lame tendue dans une main, je brandis de l'autre mon insigne de limier de l'Aegis, et celui-ci a l'effet dissuasif escompté : les deux hommes lâchent le pommeau de leur épée. Pour couper court à toute conversation, je sors de mon veston le mandat d'arrêt que j'ai en ma possession. Ce document a été signé par les plus hautes instances du Tribunal. Nul n'oserait de toute façon aller à l'encontre de son autorité. Du moins en théorie..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61WJYZ3P2TX80C1HJ7CJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH61WJYZ3P2TX80C1HJ7CJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61V012J5C95ZXQE1WHA4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH61V012J5C95ZXQE1WHA4",
+          "text": "???"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61VHMTVBWF531H8Z0QKA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH61VHMTVBWF531H8Z0QKA",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50B43RZ0K3S1QGZ26304",
+      "reference": "ALT_CORE_B_OR_25_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/636260c0ec36f770e57a",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/09ba305d0c136e6e037c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/fr_FR/4af28e27e66a7cd469ddb250f7de6379.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/ALT_CORE_B_OR_25_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/ALT_CORE_B_OR_25_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_25_C",
+  "reference": "ALT_CORE_B_OR_25_C",
+  "id": "01HKAFJNY9D5NDM96EZTV7DXWC",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/en_US/65c9141bf54953f101b2fa3c13e09947.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/fr_FR/4af28e27e66a7cd469ddb250f7de6379.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/it_IT/f9c77a3f0e050425cace72f6efd9da7a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/de_DE/156bac883d66cfc7b48560edf2a1ebb1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/es_ES/83691dca6b46d0e31e02d6cf86819a7f.jpg"
+  },
+  "name": "Sceaux Adhésifs",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Choisissez l'un :  • Envoyez en Réserve un Personnage ciblé avec un Coût de Main {4} ou plus.  • Défaussez un Permanent ciblé avec un Coût de Main {4} ou plus."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-145-C-FR"
+}

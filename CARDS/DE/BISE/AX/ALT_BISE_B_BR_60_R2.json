@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_60_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7AAC76RFX19MT86Y1A4HEV47GD",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A56WFSFJFYPET164ES49",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A56WFSFJFYPET164ES49",
+          "text": "Harztränke sind vielleicht nicht jedermanns Sache, aber sie machen munter!"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A57AYVZ48N48PBP8TJVE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A57AYVZ48N48PBP8TJVE",
+          "text": "393 AC - There's a time to get your head down and a time to put your feet up. That's what Filiki used to say when he came back from the rice fields just before nightfall. He would knock back some rice spirit, which he distilled himself, to supposedly whet the appetite. But it must be said that his definition of getting your head down was very different than mine. I missed the old bugger, even though when he was alive I always thought I'd never understand him… Jubal pours me another drink, and we clink our tankards together firmly again. Across from me, Aoife's cheeks are flushed despite her efforts to hide the fact she's drunk. I don't know if she truly realizes the significance of her inauguration. All I can do is ensure this evening is unforgettable, so much so that she doesn't remember a thing in the morning. Ha ha! She definitely deserves to let off some steam.\n\nI take another swig of Sap beer and wipe my chin with the back of my hand. On the other side of the table, someone else who has had too many drinks stumbles to their feet to make a toast. To those who have left, to those who have returned, to the feats of the bravest, to the misadventures of the most adventurous… I sniff. Yes, to those who have left and those who are still here… No doubt tonight or in the small hours the rookies will get a tattoo telling the story of their latest adventure. They'll get a permanent reminder of the fact they faced the shadows and survived after looking death in the eye. Others will end up here, under the table, or in a sobering-up cell if the Aegis get too carried away. I snicker. Even if I'm sorely tempted to join in, I know I can show restraint. It's all a matter of moderation, as Filiki would say all the time. It seems the old bugger's influence was starting to rub off on me…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A573VHNW3T6B9GKESRZP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A573VHNW3T6B9GKESRZP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A56EXFJGPDGY4BTKFB8G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A56EXFJGPDGY4BTKFB8G",
+          "text": "BASIRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A56MPA38M3KYZB9AWPA2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A56MPA38M3KYZB9AWPA2",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "7AAC76RFX19MT86Y1A4HEV47GD",
+      "reference": "ALT_BISE_B_BR_60_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8546e82c5fe44571eaf5",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Segen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7441cf515fe20f6bb650",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/de_DE/66707585cb2723b5447d512dacac08a1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/WEB_d8d3dd35fa93fd6f0a7bff6768ddc1af",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/WEB_7eb4539f0c33088ec70ad4dead1a798b"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_60_R2",
+  "reference": "ALT_BISE_B_BR_60_R2",
+  "id": "01JB1YGPBDCEY90RGJK5R7NZNB",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/es_ES/e49bccdb1f04d0d47e515b426e5805be.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/it_IT/65becaff60b4ff51207d6578b80235ad.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/en_US/a48974cf0b382e40c2db13ecbdbf9c81.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/de_DE/66707585cb2723b5447d512dacac08a1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_60/JPG/fr_FR/25ad74f0a508cbe6b9474158458a0504.jpg"
+  },
+  "name": "Harztrunk",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Ein Charakter deiner Wahl in der Reserve erhält 2 Verstärkungen."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-031-F-DE"
+}

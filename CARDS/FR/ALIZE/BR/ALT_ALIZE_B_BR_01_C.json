@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/455KVWD8AE8ZKB3VVK5WG8SQ92",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23XQ3HQHFR99QR3YY553",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23XQ3HQHFR99QR3YY553",
+          "text": "Plus vite, encore plus vite ! C'est dans la course que notre feu s'exprime !"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23Y79GC7CE628X9Q3Y35",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J23Y79GC7CE628X9Q3Y35",
+          "text": "392 AC - À petites foulées, je gravis la pente escarpée. Enfin, gravir est un bien grand mot. Je sais que je suis en train de monter le long de l'îlot flottant, mais le concept du haut et du bas, ça n'a aucun sens ici. De là où je suis, c'est comme si j'étais en train de courir sur du plat. Je lève les yeux. Au-dessus de ma tête, une autre île est suspendue dans les airs, à l'envers. J'y vois, tête-bêche, des troupeaux de yaks, ou quelque chose qui ressemble à des yaks, paître innocemment, avant que mon approche les fasse détaler. Avec un peu de chance... Grâce à l'Altération, je façonne à mes pieds un promontoire de roche. Il jaillit du sol et se projette vers l'autre île. Je me laisse emmener, ajustant mes appuis. Mais alors que j'approche de l'île inversée, je sens la gravité tournebouler, et m'attirer soudain vers le haut, qui devient en fait le bas.\n\nJe saute et pirouette dans les airs, retombe sur l'autre versant en roulant dans les hautes herbes. Ok, si je continue le long de cet atoll, je devrais pouvoir atteindre ma destination. Mais avant de reprendre ma course, je toque à la porte de l'esprit de Booda. Lui aussi est sur une île similaire. Je sens le vent siffler à ses oreilles alors qu'il trace à travers les plaines drues du Pays Penché. Des yaks s'enfuient sur son passage, et il feule dans leur direction pour qu'ils s'écartent de sa route. Il est pas loin. Pas loin du tout. Et il est vibrant de Mana, celui qu'il a dérobé au Tumulte. Je souris. Dans quelques heures tout au plus, on va se retrouver. Je vais utiliser tout le Mana qu'il a collecté pour stabiliser la zone et la teinter des couleurs bravos. À moins qu'un autre Exalt y parvienne avant nous. Même pas en rêve. Je me remets à sprinter."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23XZE8SG5Y1TYS091WAV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23XZE8SG5Y1TYS091WAV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23X4MJ6M3S3DMG9C0JK2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J23X4MJ6M3S3DMG9C0JK2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23XD6YQ0HRCXBSBCXRSE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23XD6YQ0HRCXBSBCXRSE",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "455KVWD8AE8ZKB3VVK5WG8SQ92",
+      "reference": "ALT_ALIZE_B_BR_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a5f071aaf4f3fe2c7590",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/fr_FR/6590cfa1ecc3b11875d9dba6743340a2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/WEB_faa330e336098ded20dec8b3b62198e7"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/HERO_THUMB_43f7020c96eea3c12e22c8c4f87301e2"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_01_C",
+  "reference": "ALT_ALIZE_B_BR_01_C",
+  "id": "01J1Q5GPHAMA0GR0E7ZJA88MKD",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/de_DE/4ecec03e1d4e37266f6caee2421ad0dc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/en_US/c8e4186b7999da603b5362409a82138d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/fr_FR/6590cfa1ecc3b11875d9dba6743340a2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/it_IT/633a322d52c8c809e962bbeb12303af4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/es_ES/009b478c5e89e9d3ecbf92d236d29ec2.jpg"
+  },
+  "name": "Kojo & Booda",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "À Midi — Si vous êtes le premier joueur, créez un jeton Compagnon [2/2/2 Booda] dans votre Expédition Compagnon."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-018-H-FR"
+}

@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_59_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1NBW9JM3GP99WVR9EJF5M3CF35",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A7TM3HDNJ3GW20S3XF8G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A7TM3HDNJ3GW20S3XF8G",
+          "text": "20% linfa, 40% acqua, 40% amore e... 100% naturale."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7V90X738CDY46T8ZKG0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A7V90X738CDY46T8ZKG0",
+          "text": "393 AC - I stretch out my whole body to bring some relief to my neck and back, which are achingly stiff from all the trekking and work I've been doing at the Farm when I'm not out on an expedition. All around me, the other gardeners are spraying Sap on the plants, including over the bumblebeets, which will help us to propagate it to all the crops. I shake my spray bottle and realize that it's almost empty. Pshhh, pshhh. A bit here, a bit there. It's like magic. When you spray in the evening, by morning the next day you can already see that the shoots have grown and the vegetables have become bigger and heavier. Not to mention the flavors… Even my most basic recipes have been completely transformed in terms of flavor. My tomato, zucchini and eggplant ratatouille is really something else! My stuffed portobello mushrooms are incredible! They're simply divine when grilled on the barbecue!\n\nIt's strange that Sap has this effect on food. It's a bit like miraculin. It's like it changes your palate. It amplifies the taste and the scent. And it works the same on texture. It's as if the ingredients are somehow more full of life or vitality. Just yesterday, Kiddo and I were enjoying a trout ceviche with herbs. The bouquet of aromatic scents, with slices of fig and just the right amount of citrus, was out of this world! I spray the last drops of Sap on the base of a cauliflower and put my bottle away. I need to refill it. But before that, I think I deserve a little break! I signal to Aja that I'm taking a few minutes off, and start to climb the hill. Maybe Arjun is around, and maybe they'll join me for a snack…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7TYJ5GZ7M6TKQZA18G4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A7TYJ5GZ7M6TKQZA18G4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7RY0DE7BXJ903RSEN3Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A7RY0DE7BXJ903RSEN3Q",
+          "text": "RIN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7T99WG8Y3H35T3V503S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A7T99WG8Y3H35T3V503S",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1NBW9JM3GP99WVR9EJF5M3CF35",
+      "reference": "ALT_BISE_B_MU_59_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f5aa1bcfd93ee733333f",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Vantaggio"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0ea6a573d0502826d0aa",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/it_IT/34431e42ecc1213bbf55bd4c163b4e8e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/WEB_5d6cb1574708ea66b0d73047e2f4035a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/WEB_8cdfa1be3bddaca33447d86528857032"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_59_R1",
+  "reference": "ALT_BISE_B_MU_59_R1",
+  "id": "01JB1YGPBRF2KJ5JP3F6R3P39Y",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/en_US/e243b7de7b23d40e6954b67428677bbb.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/de_DE/d3fce02788e7485c1ea457dd7e2de727.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/it_IT/34431e42ecc1213bbf55bd4c163b4e8e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/es_ES/20f0ac8658e201f6e5f1896e3dd58f4a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/fr_FR/ae9133ce6d16bcc268efdfa4d7557add.jpg"
+  },
+  "name": "Spargimento di Linfa",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "#[[Fugace]].#  #Raddoppia il numero di rinforzi# di ogni personaggio #che controlli# e di quelli nella tua Riserva."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-064-R-IT"
+}

@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_63_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/79JKKQ880S8Y4RDAMB7PVKN826",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1AAFS8P1SVVPWV5BSWEAV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1AAFS8P1SVVPWV5BSWEAV",
+          "text": "Alla luce della ben nota superiorità organizzativa degli Ordis, le fazioni hanno affidato loro la logistica degli avamposti."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAGQK0FNB6T03QKT9MBJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1AAGQK0FNB6T03QKT9MBJ",
+          "text": "393 AC - I leave City Hall after dropping off my report. One month of involuntary demobilization and dealing with administrative requests that really aren't my strong suit… I'd much prefer to be getting down and dirty in the field. But after an avalanche and taking the full force of the old Mage's tornado, they thought — perhaps rightly so — that I needed to put my feet up for a few weeks. OK, it wasn't all terrible. It was fun hanging out at the Mess with Sunniva, and with Cat and her gang, but it was like living their adventures vicariously. The only consolation was that Sig was also having the same run of bad luck with his fair share of boring missions. And that had given me the opportunity to make fun of him on more than one occasion. Last I heard, after having royally screwed up his recruitment speech, he had been assigned to watch over herds of Woollybacks.\n\nLet's be honest, that's definitely a punishment that fits the crime. Also, note to self, go and tease him at the first opportunity. Smiling, I make my way through the crowded square. This is where all the complaints are handled, and by extension, where camp life in general is managed. A bureaucrat's paradise, basically. As I pass by the crier's desk, I see that he's reading the new edicts that were announced the day before. I sit down on an old collapsed column to rest my leg, which is still a bit stiff, then take out my newly acquired certificate of fitness from my pocket. With this, I can see a clerk to get a posting that would be a bit more active than simple pen pushing. Supply logistics, or maybe protective detail? Who knows?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAGAEYA1GCNPDYPJ966G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1AAGAEYA1GCNPDYPJ966G",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAEMQC92DC9V4ZDPT478",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1AAEMQC92DC9V4ZDPT478",
+          "text": "SUNISA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAF3S50QTRNRYD1KQRXS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1AAF3S50QTRNRYD1KQRXS",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "79JKKQ880S8Y4RDAMB7PVKN826",
+      "reference": "ALT_BISE_B_OR_63_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente Fulcro"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bada07306c040abd1694",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Sito"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7d7013b9a2d39aee305c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_63/JPG/it_IT/81227253df7feb2ceea17287f1bffac3.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_63/WEB_70ea6ead73c09f3dce3ed5b2a89b53c9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_63/WEB_0964b76d291f6ef6c41487cbcc1f79d0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_63_C",
+  "reference": "ALT_BISE_B_OR_63_C",
+  "id": "01JB1YGPBZ8N8PYXB3T4Q7KCS9",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_63/JPG/es_ES/719fc936ac2e77af8a09cea2d2b8d5bc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_63/JPG/en_US/5dfe7aa0a64341a2d641820f14f9cb7d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_63/JPG/it_IT/81227253df7feb2ceea17287f1bffac3.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_63/JPG/de_DE/da02112b16bb7c7383bf8c4a69513c63.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_63/JPG/fr_FR/b7492ad73113abd6b727a5cd8ab9f8e7.jpg"
+  },
+  "name": "La Piazza Cittadina",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Al crepuscolo — Ottengo 1 segnalino Morale per ogni personaggio che controlli.  {T}, spendi 6 dei miei segnalini Morale: i personaggi in una spedizione bersaglio ottengono 1 rinforzo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-084-C-IT"
+}

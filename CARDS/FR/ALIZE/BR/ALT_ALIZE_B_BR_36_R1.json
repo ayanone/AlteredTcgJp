@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_36_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1NZP9BGM828ZETT3GEP08KDS0B",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24A9NF16W9D7J7B79RY0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24A9NF16W9D7J7B79RY0",
+          "text": "« Leurs rangs seront composés d'argonautes émérites, prêts à se confronter aux périls de l'inconnu ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24AV782J9SY805Q2FETZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J24AV782J9SY805Q2FETZ",
+          "text": "Même si je ne réduis pas l'allure, je remarque avec soulagement que de plus en plus de victimes de l'avalanche sont tirées de la neige par notre équipe d'intervention. Non loin de moi, Catriona est en train de faire appel à l'idée même de chaleur pour réchauffer une recrue Ordis. Je sens un courant d'air doux caresser mon visage, et me mets à rêver d'un lieu chaud où délasser mes muscles, comme j'ai vu ces satanés Lyra le faire pas plus tard qu'hier. Ha ! Je me sens soudain fourbue des efforts supplémentaires qu'on a dû fournir, à peine quelques heures après être revenus d'expédition. On n'a même pas eu le temps de se reposer ou de finir notre godet de soupe... Mais je ne regrette pas d'avoir répondu à l'appel, à la vue de toutes les personnes qu'on est en train de sauver. Clairement, ça mérite les quelques courbatures additionnelles qu'on va hériter de ce calvaire.\n\nEn observant la secouriste Bravos, je me demande où peut bien être sa petite sœur, Aoife. Peut-être a-t-elle été déployée sur le flanc ouest, pour assister ou guider la petite armée de Scarabots qui a été larguée depuis l'Ouroboros ? Ou est-elle restée à bord ? Là où Aoife est une aventurière aguerrie qui peut parfois se montrer un brin trop téméraire, Cat irradie quant à elle la douceur et la générosité. Et avec la tendance d'Aoife à foncer dans le tas, avoir une personne pour soigner les petits bobos une fois la tâche accomplie n'est pas du luxe. Aux antipodes l'une de l'autre, elles le sont certainement. Complémentaires ? Elles le sont indubitablement aussi. C'était déjà clair au début de leur formation, et c'est encore le cas maintenant. Je souris malgré moi. Avec Chagha, solide et taiseux comme un roc, et Cat, dévouée et toujours calme, on peut dire que ma petite protégée est bien entourée."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24AJ43EZ11J9RND5KAZE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24AJ43EZ11J9RND5KAZE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J249KD1TSFSB0TGHRYCAP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J249KD1TSFSB0TGHRYCAP",
+          "text": "BASIRA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J249ZBQYF8SJA1QN5D1M6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J249ZBQYF8SJA1QN5D1M6",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1NZP9BGM828ZETT3GEP08KDS0B",
+      "reference": "ALT_ALIZE_B_BR_36_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/dbc8ec1d890f9580a27a",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/97406d999bb85456b76c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/fr_FR/402711750ea09dbd0208ac8daee12c3b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_7d12689d4a40063df30beb0bf9ece902",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_939ef3ed4617f3cd30dca7093809cd4e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_160a421ab9230aae2d52bc2d8422ef17"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_36_R1",
+  "reference": "ALT_ALIZE_B_BR_36_R1",
+  "id": "01J1Q4P4S1E6BR3CRG4TVW2HF2",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/it_IT/859dd85b2507cdca423acd02440de8a1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/de_DE/42872a491127600e57345c87c26073db.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/es_ES/df35c443144c42b2b8469f977690979d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/fr_FR/402711750ea09dbd0208ac8daee12c3b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/en_US/492704a7834866604a86eba1be13f57f.jpg"
+  },
+  "name": "Secouriste Bravos",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "#3#",
+    "MAIN_EFFECT": "#{J} Vous pouvez cibler un autre Personnage [[Fugace]]. Il gagne 2 boosts.#",
+    "ECHO_EFFECT": "{D} : Un Personnage ciblé perd [[Fugace]]. (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-024-R-FR"
+}

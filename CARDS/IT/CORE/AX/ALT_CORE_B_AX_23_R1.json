@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_23_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z2BX7YSJ9JDPR1K8D6N",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QYRE839KE7SHVHHVW9E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QYRE839KE7SHVHHVW9E",
+          "text": "Si narra un'antica leggenda nelle cave di Suspira: l'esistenza di un altro tipo di Kelon."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QZ654J2Z96B5BJW08J2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5QZ654J2Z96B5BJW08J2",
+          "text": "The Operator faces me, juggling with his Construct, as I grip my own module tightly in my hand. This duel tests our ability to manipulate our artifacts, to combine and create things quickly enough to counter our opponent's attacks. But most importantly, I need to sense what he is creating so I can react accordingly. My heart is beating so hard it feels like it will burst, even though my mind is trying to calm it down. I know the khyalo symbols, the shortcuts to use to create objects and Eidolons faster. Everything should go smoothly… But I know I'm outclassed by my opponent. What will matter most is how long I can hold on. The Operator activates his Construct, and I do the same. I'm as ready as I'll ever be…\n\nHis fingers dance around the Construct, and I try to guess what he's planning. The air becomes charged with ions. I feel a storm brewing. Instinctively, I create a lightning rod. Lightning suddenly strikes the rod and is deflected away, crackling. But he's already creating something new. This time he's constructing a net-thrower. The device materializes and launches its ropes. I manipulate my own Construct. I know I'm supposed to wait until he's summoned something and then react, but he's stronger than me. Gaining the upper hand might be the best defense… The circular saw that I create slices through the pile of ropes. The Operator's eyes suddenly widen when he sees the rail I've created on the ground. The saw advances in his direction, spitting sparks. He quickly unseals his Construct and expels a Kelon burst. The wave dematerializes my saw, and I stagger as the shockwave hits me. I see the Operator smile. I can't tell if that's a good or bad sign…"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QYZCYW5MJ8Y39DST8FH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QYZCYW5MJ8Y39DST8FH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QYAYHCMHZTAK98DFZGH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5QYAYHCMHZTAK98DFZGH",
+          "text": "Sierra"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QYH9ZS1RHBW23VNAXCH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QYH9ZS1RHBW23VNAXCH",
+          "text": "385 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY4Z2BX7YSJ9JDPR1K8D6N",
+      "reference": "ALT_CORE_B_AX_23_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b3a6bda992cbd1e7f61f",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9d62bde205840e3c84f2",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/JPG/it_IT/5b124f8abd42415da71c6e6ecaa1d8aa.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/ALT_CORE_B_AX_23_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/ALT_CORE_B_AX_23_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/ALT_CORE_B_AX_23_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_23_R1",
+  "reference": "ALT_CORE_B_AX_23_R1",
+  "id": "01HKAFJNKRVMT163CEQ2DV63RT",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/JPG/es_ES/edcd5f52aed41e57469397b7ad28d5bc.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/JPG/de_DE/16b233eb315611d80344e27af4b96340.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/JPG/en_US/86f8fb8f2e00afdf3ab27fafbaea7174.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/JPG/fr_FR/c6f156aa06d9d6a2002fb88a0dd7fe4e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/JPG/it_IT/5b124f8abd42415da71c6e6ecaa1d8aa.jpg"
+  },
+  "name": "Esplosione di Kelon",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]].  Scegli uno:  • Manda un personaggio bersaglio con costo dalla mano pari o inferiore a {4} nella Riserva.  • Scarta un permanente bersaglio con costo dalla mano pari o inferiore a {4}.  #Se controlli due o più fulcri, crea una pedina Robot [Ottonblatta 2/2/2] in una spedizione bersaglio.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-023-R-IT"
+}

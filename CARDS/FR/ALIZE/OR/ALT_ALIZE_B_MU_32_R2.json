@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_32_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2PXEAR7BA590F8J02GFXJ15WX5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26DZKVYSYA7FERJGTVM9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26DZKVYSYA7FERJGTVM9",
+          "text": "« Zzzz... »"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26EP943JJR313BTDRQ2J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J26EP943JJR313BTDRQ2J",
+          "text": "J'ai appris à aimer la quiétude des forêts enneigées. Cette douceur silencieuse, ouatée, est propice à l'introspection. Chaque pas dans la neige me permet de lâcher prise et de laisser mon inconscient vaquer à la réflexion, à la recherche de possibilités et de solutions potentielles pour le Fuseau. Je n'entends que le craquement feutré de mes pieds qui s'enfoncent dans la neige, mais un son incongru à proximité me sort soudain de mes pensées. Je me tourne vers Spike, mais non, ce n'est pas lui qui est à l'origine de ce bruit. Je me fige, tendant l'oreille. La source est proche, et chaque pas qui m'en rapproche me permet d'affiner sa nature : un léger vibrato, un... ronflement. Qui peut donc dormir ici ? Derrière un tronc, je découvre une jeune recrue Ordis, allongée de tout son long, dormant du sommeil du juste. Cela ne me semble pas très prudent de piquer un roupillon dans la neige...\n\nJe tends la main vers son épaule pour la secouer afin qu'elle se réveille, quand je remarque sur son torse un mush en train de contempler le visage de la dormeuse. Un champignon exténueur, pour être précis. Je remarque rapidement qu'un bout de son chapeau a été grignoté. Voilà donc l'explication de la sieste inopinée de la soldate. Ah, encore une novice qui n'a pas écouté durant sa formation sur les dangers des forêts. Le chapeau rouge à écailles bleues du mush est pourtant un avertissement évident. Je récupère les gants étanches de la recrue, et saisis le champignon qui me propose un bout de son chapeau. Non, petit, très peu pour moi. Je connais tes propriétés soporifiques. Mais cela me permettra de concocter une soupe pour offrir un sommeil réparateur, comme le font certaines mamans pour leurs enfants agités. Mais il faudra aussi que je prépare une petite tisane pour la recrue, car elle va sans doute se réveiller avec un bon rhume... Que faisait-elle toute seule dans les parages, au juste ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26EAJKX4KGFPWYB9KZ1C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J26EAJKX4KGFPWYB9KZ1C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26D7WQP8446VDZ3XGZ1G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J26D7WQP8446VDZ3XGZ1G",
+          "text": "ARJUN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26DKFW748BEPKNZDYSNY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J26DKFW748BEPKNZDYSNY",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2PXEAR7BA590F8J02GFXJ15WX5",
+      "reference": "ALT_ALIZE_B_MU_32_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/50bf97379e036700996d",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plante"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e7a55cf60cd13e4e8fa9",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/fr_FR/eb256a9e65416ddefd12fb5c9c1cfe03.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_77d2e7b25d10fd6be4ec8fef331363d6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_7b406ab8ec42cd3a8c5810eb583f5ce9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_94b168a5810a5498fc6a84b06a0389ce"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_32_R2",
+  "reference": "ALT_ALIZE_B_MU_32_R2",
+  "id": "01J1Q4P4SDA8SPK4V8SP1KVFBB",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/de_DE/860d001e722c612f5255675e27a630f3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/es_ES/a107d4ab526d199f6b0d593d1f633c24.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/en_US/0abfb643bf0b86317bd1178389c6aa51.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/fr_FR/eb256a9e65416ddefd12fb5c9c1cfe03.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/it_IT/1d15e6a957adc2bc90e96dcb62b15266.jpg"
+  },
+  "name": "Champignon Exténueur",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "#{H} Vous pouvez payer {2}. Si vous le faites, un Personnage ciblé dans l'Expédition qui me fait face gagne [[Endormi]].#",
+    "ECHO_EFFECT": "{D} : Un Personnage ciblé que vous contrôlez de Coût de Main {4} ou moins gagne [[Endormi]]. (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-054-F-FR"
+}

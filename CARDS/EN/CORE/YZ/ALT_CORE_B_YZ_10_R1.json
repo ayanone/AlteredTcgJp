@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_10_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50CYVG8DBKA9MM5MT137",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH648SF8R8F3CCDJF01N9J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH648SF8R8F3CCDJF01N9J",
+          "text": "\"I’ve seen it myself! ‘Baku! Baku!’, it says, eating up ghosts as though they were candies.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64A47KKBSAH8J04HXGRQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH64A47KKBSAH8J04HXGRQ",
+          "text": "The young Initiate leaves the room, her eyes filled with tears. On the bed, her younger sister's breathing is labored, and beads of sweat dot her forehead. I place the bowl of cold water on the bedside table and start to dab her temples and cheeks... She's been bedridden for months, and even though the crisis had passed, it had left her exhausted. These bags of bones are so frail, so delicate, so fragile... It was surprising that those with the gift of Alteration were so absorbent to the ideas they could manipulate. It was ironic in a way. The young girl had leaked and regurgitated ideas with no ability to control herself. That was the Yzmir curse. But seeing someone so young – pretty much still a child – suffering this fate was unusual, almost tragic. And there was little chance she would pull through...\n\nFloating above the little girl, Baku continues to use its trunk to suck up the stream of ideas flowing endlessly from her body. The Eidolon is ingesting these concepts to stop them from grafting onto our reality, slowly digesting them to purge the patient's psyche. The relief will only be temporary, of course. She is suffering from Remanence, an affliction that overwhelms all those who flirt too much with the imaginary. No cure exists for this ailment. Her only reprieve comes from this draining process, which cleanses her soul to a certain extent. But the flow is already drying up. What was a torrent is now just a trickle flowing from the pores of her skin, mouth and nostrils. And that's just as well, because I get the sense that Baku is approaching the limit of how much he can ingest. If necessary, I'll take over if he's forced to leave me some leftovers..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH649E0DZCJQK46BN5BVFJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH649E0DZCJQK46BN5BVFJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH647KZXNNN137FJFP2A33",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH647KZXNNN137FJFP2A33",
+          "text": "Lindiwe"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6486RG2EG750YY5T2CWJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH6486RG2EG750YY5T2CWJ",
+          "text": "385 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50CYVG8DBKA9MM5MT137",
+      "reference": "ALT_CORE_B_YZ_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d7759a3902831030c69b",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Spirit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/bda99ecade4814e52ac3",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_10/JPG/en_US/605b16d8c9656a941a47f88549c43ea4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_10/ALT_CORE_B_YZ_10_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_10/ALT_CORE_B_YZ_10_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_10/ALT_CORE_B_YZ_10_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_10_R1",
+  "reference": "ALT_CORE_B_YZ_10_R1",
+  "id": "01HKAFJNZY5FG4R3DAW00NJB4V",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_10/JPG/de_DE/45695ba75a522ba9bb819261e089272b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_10/JPG/it_IT/331308cb4035ce6c9b37eab8fac93787.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_10/JPG/es_ES/187bf3a81e0c0b10fe1731953d5782a1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_10/JPG/en_US/605b16d8c9656a941a47f88549c43ea4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_10/JPG/fr_FR/d98356470c4692c51103d99238b68f5f.jpg"
+  },
+  "name": "Baku",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "#{J}# Target opponent discards a card from their hand."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-163-R-EN"
+}

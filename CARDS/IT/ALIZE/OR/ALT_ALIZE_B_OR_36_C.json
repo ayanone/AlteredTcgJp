@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_36_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3ZQGQWJ7WG85P9YTN8KGW9A9N6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J28JCEK8SC8WV58PJJ75B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J28JCEK8SC8WV58PJJ75B",
+          "text": "Il lavoro non si ferma quando tramonta il sole."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28KX4ZCMX0P2C09H5YD5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J28KX4ZCMX0P2C09H5YD5",
+          "text": "Dall'ingresso della tenda filtra la luce di una candela. Ho sempre trovato rassicurante sapere di poter fare visita alla custode notturna, a prescindere dall'ora tarda. Il suo alloggio è angusto, traboccante di carte e libri, ed è sempre pieno di scartoffie burocratiche. Seduta alla sua scrivania, stracolma di documenti, e infagottata in vestiti caldi ma poco pratici, inventaria, indicizza, calcola, rimborsa e ordina tutto ciò di cui avremo bisogno per il successo della nostra spedizione nei prossimi giorni. Oltre a gestire le provviste mentre dormiamo sonni tranquilli, lavora senza sosta dietro le quinte per proteggerci: cambia gli orari delle pattuglie, ottimizza i turni delle sentinelle, si assicura che i fuochi restino accesi. In pratica si occupa di tutti i piccoli ma essenziali dettagli che sono completamente invisibili al resto della squadra.\n\nSollevo un lembo all'ingresso della sua tenda e la fiamma della candela tremola nella brezza improvvisa. E, come al solito, la trovo alacremente al lavoro. La saluto con cortesia e lei risponde istintivamente con un abbozzo di sorriso, anche se so che la sua attenzione è rivolta ad altro. Poi torna al lavoro, raccogliendo fogli e scarabocchiando appunti. Aspetto che finisca per poterle chiedere informazioni sul mio attuale argomento di studio. Di recente ho sentito molte voci sulla comparsa casuale di eidolon prima sconosciuti. Essendo molto più abituato a costruire il mio arsenale di invocazioni attraverso la lettura che l'osservazione diretta, sono incuriosito da questo fenomeno. È possibile che il solo fatto di affrontare questo rigido inverno stia risvegliando in noi dei ricordi, forse in qualche modo legati al nostro inconscio collettivo? C'è qualche eredità profonda sepolta nella nostra psiche comune? Non vedevo l'ora di discuterne con la custode notturna. Alla fine posa il calamo e si gira verso di me, offrendomi una gradita tazza di tè in questa notte gelida."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28K1BFE7XB5K30SFH2QM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J28K1BFE7XB5K30SFH2QM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28GPMV7Z7BK5P90PZW3P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J28GPMV7Z7BK5P90PZW3P",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28HP24PMJX6DP4XF9VA5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J28HP24PMJX6DP4XF9VA5",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "3ZQGQWJ7WG85P9YTN8KGW9A9N6",
+      "reference": "ALT_ALIZE_B_OR_36_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0baae24b4adb17a2c365",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Burocrate"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/55bb4b0980a3c7efb88d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/it_IT/78f7ca0cae900f498f65570a972741a7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/WEB_478ef76550d920c591cd79ba35020c81",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/WEB_02bf54b82cf138d58a92cf2e9b6c3dc1",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/WEB_4e116fd9cbd2b735a7cebc1e624832a7"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_36_C",
+  "reference": "ALT_ALIZE_B_OR_36_C",
+  "id": "01J1Q4P4SKAF9A6PP6VDW6X2PJ",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/es_ES/f3e08bc3520a855e414e34584f694a3a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/it_IT/78f7ca0cae900f498f65570a972741a7.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/de_DE/c988ea65a8e914c90d1677f4be25ce91.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/en_US/3d407d36cc439064b452bed6d36fb6e7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/fr_FR/d8bbe23f2f0eb2900ceb0a8f6911af15.jpg"
+  },
+  "name": "Custode Notturna Ordis",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "Quando ottengo [[Dormiente]] — Ottengo 1 rinforzo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-073-C-IT"
+}

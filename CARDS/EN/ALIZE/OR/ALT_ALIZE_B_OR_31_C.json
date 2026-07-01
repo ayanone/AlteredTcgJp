@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_31_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/741K1KEG6P91NRKP1S9EDXPEZY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J283938ZJAESJ3RGQQN1S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J283938ZJAESJ3RGQQN1S",
+          "text": "Protecting the people of Asgartha is the greatest honor."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2854F5TN2CY3K5BJEZN6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2854F5TN2CY3K5BJEZN6",
+          "text": "I glance behind me as we walk and see my warrant officer diligently following me, her dual lance shining in the pinkish glow of the sunset. I'm just about to make a wisecrack when I remember that it's no longer Sunisa accompanying me but a completely new recruit. Sun is miles away, preparing to ascend the eastern flank of the Cais Adarra as per my orders. Nina's temperament is the exact opposite of my previous aide-de-camp's. Sunisa is cheeky and never at a loss for words, whereas Nina is much more discreet, even deferential, and it's a radical change for me. I've got nothing against her, but I have to admit that I miss Sun and her sharp tongue. But maybe it's just a matter of time until Nina feels comfortable enough to express her personality…\n\nAround us, the tree trunks are covered in mushrooms with red and blue caps, and spores drift through the air like snowflakes. It's actually pretty nice to be out of the dense thickets of conifers and in a much brighter and more spacious part of the woods. I hear a suspicious rustling a little way off, and I raise my fist. Nina stops immediately, her lance at the ready. Using our battle code, I instruct her to take up position on my flank and stay back as I slowly advance towards the source of the noise. If we run into Belisenki here, things could quickly turn ugly. I look at the tops of the trees, then the snow-covered embankments… It doesn't take long to identify the cause of the sound because it's making no effort to hide. It's a little snowman no higher than my knee, carrying a full set of camping gear on its back. A Chimaera? I decide to follow it…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J284QZ4GT4G5SKZ8T6H9R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J284QZ4GT4G5SKZ8T6H9R",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2823W6C5AB0GEPBE78TZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2823W6C5AB0GEPBE78TZ",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J282Q7DQ8TSA31XX0YWJ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J282Q7DQ8TSA31XX0YWJ7",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "741K1KEG6P91NRKP1S9EDXPEZY",
+      "reference": "ALT_ALIZE_B_OR_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Token Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d28e8be2ab163159b52e",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/44399d16c718c23c64f5",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/en_US/b97ef478768352d2c7b5a9780a0a45e7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/WEB_5888054282f61268cab7c52ab5b1b876"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_31_C",
+  "reference": "ALT_ALIZE_B_OR_31_C",
+  "id": "01J1Q4P4SQPNA2YQYR2C1KF8ZG",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/es_ES/9222496b20a1bd58240a0ac54d31f41d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/it_IT/1178b7ba57e655bd7e2aed4ce3282876.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/de_DE/ad8fa5aad0e64ce589d7a25904773ec9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/fr_FR/358ad65308918087e2785daa7b1e79b7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/en_US/b97ef478768352d2c7b5a9780a0a45e7.jpg"
+  },
+  "name": "Ordis Recruit",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "(If I leave the Expedition zone, remove me from the game.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-105-T-EN"
+}

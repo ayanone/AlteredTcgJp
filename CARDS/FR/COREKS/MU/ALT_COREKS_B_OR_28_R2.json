@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_28_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79B2QEP2G64PTVYDF3R2",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME88R29CFYFF1090Q9YYT7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME88R29CFYFF1090Q9YYT7",
+          "text": "Un flambeau de connaissance et de civilisation. Un phare qui surplombe le monde."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88SBW4A5ZS4D0KH4080H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME88SBW4A5ZS4D0KH4080H",
+          "text": "La calèche bringuebale sur les pavés. En face de moi, Mère est en train de lire une lettre, tout occupée à déchiffrer son contenu. Je me tiens bien assis, comme elle me l'a appris, et même si mon veston et ma fraise sont légèrement trop serrés, je m'évertue à faire bonne figure. Mais l'ennui finit par avoir raison de ma contenance. Je me risque à lever le rideau et à regarder par la vitre, observant les rues d'Arkaster défiler lentement. Au-delà de la vitre, il y a un dédale de canaux et de rues qui me sont inconnus, des visages d'étrangers qui sont libres d'aller et venir librement, contrairement à moi. Que dirait Mère si j'ouvrais la portière au prochain ralentissement et descendais en catimini ? Elle s'inquiéterait, bien entendu. Et Père me ferait cloîtrer dans ma chambre pour au moins une semaine...\n\nJe lève soudain les yeux alors que nous traversons une place animée. Au-dessus de la ville trône le Monolithe, diamant d'albâtre, d'or et de verre. C'est là-bas que devait être Père, en ce moment. Il m'avait promis de m'y emmener un jour, pour regarder le monde de tout là-haut : les îlots des districts lacustres, les passants minuscules, l'horizon infini... Mais c'est surtout la bibliothèque du Sanctum qui m'intéressait. Il pouvait très bien passer toute la journée dans ses bureaux, je ne pensais pas pouvoir me sentir seul, ainsi entouré de milliers de livres. Mais à chaque fois qu'il était disposé, Mère l'avait convaincu de remettre son dessein à plus tard, probablement dans l'optique de me protéger plus que de raison. Pourtant, j'étais sûr que je n'avais rien à craindre dans ce temple de la justice et de la connaissance, loin des vicissitudes du monde, entouré d'ouvrages et de recueils pour seuls amis."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88RP1WH9QGA8J3RWJJFA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME88RP1WH9QGA8J3RWJJFA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88PRGX9768YG6H0HYW5S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME88PRGX9768YG6H0HYW5S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88QETA8CSGZVPHZGNP8M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME88QETA8CSGZVPHZGNP8M",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HPMB79B2QEP2G64PTVYDF3R2",
+      "reference": "ALT_COREKS_B_OR_28_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5d650d1acbb800ef2a0b",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/48585da6fd3f7c330446",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/407e6a5431eacec65696",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-01T10:38:03+00:00",
+      "question": "What happens if a Character moves from Hero expedition to Companion Expedition, or vice-versa?",
+      "answer": "Nothing special, since it was already in your Expeditions."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_28/JPG/fr_FR/bc9f98035f50c1094537defae73dc036.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_28/ALT_CORE_B_OR_28_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_28/ALT_CORE_B_OR_28_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_28_R2",
+  "reference": "ALT_COREKS_B_OR_28_R2",
+  "id": "01HN5TXRHQYSXF1J1YJ0Q3J3HY",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_28/JPG/fr_FR/bc9f98035f50c1094537defae73dc036.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_28/JPG/es_ES/278e2a0df3f1506ff25ab1090af3897c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_28/JPG/it_IT/5e85747e230717a842a63067056bdde9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_28/JPG/de_DE/f7fc19bca161d6244d1ef86aad4f5ed6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_28/JPG/en_US/bf91b43c96d475c3debc53fa5d83285f.jpg"
+  },
+  "name": "Le Monolithe, Bastion Ordis",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Lorsqu'un Personnage #non-jeton# rejoint vos Expéditions — Il gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-149-F-FR"
+}

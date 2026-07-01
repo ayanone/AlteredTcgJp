@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_59_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3F5504JHSX96YV3YDXCK5NE7FJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1ACDMD8DRJWCVNX4VXX6H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1ACDMD8DRJWCVNX4VXX6H",
+          "text": "¿Has oído hablar del efecto mariposa?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACEGYADXMW3QA3J0SY93",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1ACEGYADXMW3QA3J0SY93",
+          "text": "393 AC - He rests his gnarled staff on his shoulder, holding a Moth lantern in his other hand to bring light to the underground shadows. Under his wide hat and on the lapel of his cloak hang countless bluish cocoons: diaphanous, glowing Moth chrysalids. Some hatched on the journey, and flew around him before disappearing in collisions of dust. Many believe Moyo is an expert when it comes to insects and parasites. My heart beats furiously when I consider telling him about Maw. But I know Maw won't let me do it. Even if it's silent and speechless for now, the worm eating away at me is always watchful, and always keeps me on a tight leash. No, it won't let me talk. My voice will die in my throat, and I won't be able to pronounce or communicate anything.\n\nDespite all his talents, Moyo's weakness is his youth and the naivety that comes with it. It had been easy to approach him and ask him about his career. Specializing in xenobiology, he had recently been taken under Saskia Averina's wing as an assistant. I had asked him about his mentor as discreetly as possible, and he had answered openly. He had benefited a lot from the Muna's expertise. Through her experiments, she had become an authority on Moths and their essential role in the Storhvit. Her instincts had been inspired. Finding a peaceful solution to the Belisenki problem after just a few months should have been a major challenge, but she managed it quickly and easily. Sounds like Maw would need to watch out for her. I smile inwardly, and in response, I feel its grip on my psyche tighten."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACE2YDMCT3RFTXAM8KTG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1ACE2YDMCT3RFTXAM8KTG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACBDC3Q2Z2BAWRB5QFT4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1ACBDC3Q2Z2BAWRB5QFT4",
+          "text": "LINDIWE"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACD664B9BH5ZB376M2YY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1ACD664B9BH5ZB376M2YY",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "3F5504JHSX96YV3YDXCK5NE7FJ",
+      "reference": "ALT_BISE_B_YZ_59_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9a57f151b79e31e48716",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mago"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/674a2f73f6aa6d66e6b9",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/es_ES/89655bc08d48e7e9d68a4e74865ff32f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/WEB_41985d45371a54730a952f91d90493d0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/WEB_08b080f09a5a8b614d1b98166be336d3",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/WEB_42e33205939cb467605735ee0dd2e751"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_59_R2",
+  "reference": "ALT_BISE_B_YZ_59_R2",
+  "id": "01JB1YGPC3BBYBGD2CHXATDXB3",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/es_ES/89655bc08d48e7e9d68a4e74865ff32f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/fr_FR/7e4d0fa4435127e16a423343f4014f90.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/en_US/cebaac66676b1ed834daf2706ce54861.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/it_IT/caa7a8f5e7b930834033e8584c32d1fc.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/de_DE/3563e555caf7aa5e310441ee8448e0a9.jpg"
+  },
+  "name": "Criapolillas de Yzmir",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "[Explorar] {2}. (Puedes jugarme desde la mano por {2} con «{h} Envíame a la reserva».)  {H} Crea una ficha de ilusión [Polilla de maná 2/2/2] en una expedición objetivo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-093-F-ES"
+}

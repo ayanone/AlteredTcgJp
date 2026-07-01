@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/63G9TQEKXZ9CX9HKZV41QSS5KR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2A0YVMXQ6VXHSN5X7FPB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2A0YVMXQ6VXHSN5X7FPB",
+          "text": "Por grandes que sean las tribulaciones, nunca debemos olvidar las buenas costumbres y la educación."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2A21183YBFWDHRZ82Z8S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2A21183YBFWDHRZ82Z8S",
+          "text": "392 AC - Me inclino sobre Itoro y le pongo un paño húmedo en la frente. La calígrafa de Lyra esboza una sonrisa a pesar del dolor y yo se la devuelvo mientras le aprieto la mano. Por un momento, siento que estoy de vuelta en el Claustro, cuidando a mi hermana. Espero que Kumari esté bien... Mañana, si hay tiempo, le enviaré una carta y le contaré todas mis aventuras. Incluiré algunos bocetos que he hecho de los paisajes que he visto y quizá le añada algunas emociones para que se haga una idea de lo que sentí. Taru interrumpe mi ensoñación colocando un tentáculo pegajoso en mi antebrazo. Lo sé, no es momento para ensimismarme. La oleada del Tumulto que azotó el Uroboros causó grandes daños, además de una plaga menor.\n\nColoco mis manos sobre el pecho de la artista e invoco un sigilo para estimular su metabolismo. A través de mis iris, realizo unos diagnósticos y la examino para dirimir la naturaleza y la ubicación de las ideas que tristemente le han sido injertadas. «Cinta» y «Goma». En efecto, su pierna está flácida y elástica. Es como si todos sus huesos se hubieran convertido en líquido y sus músculos en goma. Y su mano izquierda... Donde deberían estar sus dedos, tiene cordones de carne sedosa que cuelgan laxos. A mi lado, Esmeralda cruza los brazos sobre el pecho, preocupada por el estado de su amiga. Sin embargo, si logro introducirme en los pensamientos de la eidolon, seguramente podré crear una imagen mental exacta de cómo era Itoro antes de estas desafortunadas modificaciones. Invocando sus recuerdos, podré restaurar su apariencia original. ¡Manos a la obra! Me vuelvo hacia Taru, que agita sus tentáculos. Necesitaré su destreza para aislar y eliminar las ideas invasoras..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2A1JXAW68P13J070MY56",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2A1JXAW68P13J070MY56",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29YY706CA1MSMS7YXDSM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J29YY706CA1MSMS7YXDSM",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2A0949KNFC1VTEA09RP6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2A0949KNFC1VTEA09RP6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "63G9TQEKXZ9CX9HKZV41QSS5KR",
+      "reference": "ALT_ALIZE_B_YZ_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héroe de"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b15c7e25f90dd30eb922",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/JPG/es_ES/b4e913a7d8ef426232ce6772edf8d2d9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/WEB_538be2fb22663a60d4a511729682cbdc"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/HERO_THUMB_8a56f6c682cade303a0fb417c151b79a"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_01_C",
+  "reference": "ALT_ALIZE_B_YZ_01_C",
+  "id": "01J1Q715PFFQEV32QY570SXGWD",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/JPG/de_DE/599ffafaf94f5e7daf540a7c7b28bfea.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/JPG/fr_FR/c6c26c76ea67a2bd95de0e0b9495d169.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/JPG/en_US/b636f42a423dc436139a531b10773836.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/JPG/it_IT/16ec1055b355a4aea3f42000f600220f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/JPG/es_ES/b4e913a7d8ef426232ce6772edf8d2d9.jpg"
+  },
+  "name": "Akesha y Taru",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "{T}: [Después de ti]. Solo puedes activar esto si eres el primer jugador."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-086-H-ES"
+}

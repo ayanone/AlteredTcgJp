@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_04_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YTNWFS2PNQ3GRAPTE2J",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q8BBJJVVE6RCAFWNZRJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5Q8BBJJVVE6RCAFWNZRJ",
+          "text": "In true Axiom fashion, Kelon Elementals like to put everything to the taste."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q8PQY2DS9ZRHDVGJKF4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5Q8PQY2DS9ZRHDVGJKF4",
+          "text": "The inside of my helmet is already fogging up as I exit the elevator. I want to scratch, but it's not easy while wearing my full suit. Inside the mine, the air is sticky and saturated with sulfur vapors. The other miners are waiting in their suits, weighed down with bulky gear like jackhammers, shovels and pickaxes. Only the light of our lamps pierces through the darkness, a thousand feet underground. I instinctively try to wipe my forehead, but my hand bangs into my visor. I grumble to myself. Might as well try and get this over with as quickly as possible. I open the cage I brought with me, and the Kelon Elemental shoots out, attracted to the energizing ore. In the darkness of the mine, its skin is almost phosphorescent. All right, little one, get to work. Find us a nice juicy vein.\n\nAfter sniffing the toxic air, it starts to scurry off, and I follow as quickly as I can. It turns left, then right, without stopping for a second. Its chubby legs waddle somewhat awkwardly as it moves. The creature is irresistibly drawn to Kelon, like a moth to a flame. I examine its smooth, pink back with crystalline scales jutting out. Just like the axolotl, it has external gills in the form of antennae on either side of its head. It uses these appendages to guide itself because its bulging eyes can only see a few inches in front of it. But it doesn't need them to sense the proximity of its favorite treat. It's a bit like Marmo in that way. They both think with their stomachs. It suddenly stops and starts to scratch the ground. I signal to the others to come over. Don't worry, little one. If we find Kelon, we'll save you a little nugget…"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q8H76M7PH9NDJ003KRF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5Q8H76M7PH9NDJ003KRF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q805Y5KQ947RBZJHCXD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5Q805Y5KQ947RBZJHCXD",
+          "text": " Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q865AZM2YJNPS3WMZVW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5Q865AZM2YJNPS3WMZVW",
+          "text": "370 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YTNWFS2PNQ3GRAPTE2J",
+      "reference": "ALT_CORE_B_AX_04_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4581d5ed7d2c060e9dba",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Elemental"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/45748b418df8046d03a2",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/e2f033277af6a4227237",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:42+00:00",
+      "question": "Can I play Kelon Elemental if I have no other card in hand?",
+      "answer": "Yes. You always resolve the effects \"as much as you can\"."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/en_US/fca50447c3db9ed73203afbacdd8cabf.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_04_C",
+  "reference": "ALT_CORE_B_AX_04_C",
+  "id": "01HKAFJNHECG82PAA2SXSTBKQ1",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/en_US/fca50447c3db9ed73203afbacdd8cabf.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/it_IT/3ddeaf3cda4a0a71bf7cf35c8278d527.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/es_ES/47602c1297e32f69b516f587b30d3cbc.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/de_DE/461577b87e84b8e3db04af4caa3d9290.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/fr_FR/d1ab7926496554e968bf3609d0a2cdb9.jpg"
+  },
+  "name": "Kelon Elemental",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{H} Put a card from your hand in Reserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-010-C-EN"
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_24_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZVEJ4C7YV5T9YGQ2YQ6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5VQ255TP2Q23J29M04XG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5VQ255TP2Q23J29M04XG",
+          "text": "Il est dans de beaux draps."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VQT1XAMEDTDG1B289KX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5VQT1XAMEDTDG1B289KX",
+          "text": "Agrippé à la corde lisse, Ehuang fait mine de marcher dans les airs. Puis, les jambes tendues, elle enroule le cordage à sa taille et se permet de lâcher les mains, décrivant de longs cercles au-dessus des gradins. Son expression est sereine, concentrée ; celle du public partagée entre crainte et émerveillement. Mais même si le numéro est empreint de poésie, il est temps de dynamiser un peu le spectacle. Posant malicieusement une main sur ma bouche, j'invoque en haut d'un mât le petit Tanuki qui me sert toujours de comparse lors de mes one-woman-shows. Faisons d'Ehuang une héroïne, et de Tanuki et moi les méchants de l'histoire. Tandis que les projecteurs soulignent la présence du yōkai, ce dernier sort de derrière son dos une énorme paire de ciseaux. Il se met à ricaner théâtralement, en menaçant de couper les bandelettes de soie de la jeune voltigeuse sous les huées du public.\n\nMais avant qu'il ne puisse commettre son malicieux méfait, Ehuang propulse ses tissus aériens vers la petite créature, comme s'il s'agissait de fouets. Les bandes d'étoffe enveloppent le Tanuki, le transformant peu à peu en momie de soie. Désarçonné, il tombe à la renverse et finit suspendu la tête en bas, grimaçant d'effroi et d'irritation dans son cocon de tissu. Et alors que les acclamations et les ovations tonnent sous le chapiteau, l'acrobate glisse le long de ses rubans, jusqu'à toucher le sol du bout des pieds. C'est le signal. De toutes parts, des jongleurs, des saltimbanques et des cascadeurs surgissent dans une joyeuse cacophonie. Ils entourent Ehuang, qui quatre fois s'incline face au public. Et alors qu'elle regagne les coulisses, je jette un coup d'œil vers mon cher Tanuki, toujours suspendu dans le vide. D'un claquement de doigts, je le congédie, ainsi que les rubans de soie que je fais pleuvoir en myriades de pétales sur l'assistance."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VQEZP1Q03FXF32C3QZ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5VQEZP1Q03FXF32C3QZ5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VPBJ33V9A1J1R6X2B2J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5VPBJ33V9A1J1R6X2B2J",
+          "text": "AURAQ"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VPP5EHX0ZQ7M1RBPM35",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5VPP5EHX0ZQ7M1RBPM35",
+          "text": "385 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY4ZVEJ4C7YV5T9YGQ2YQ6",
+      "reference": "ALT_CORE_B_LY_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/71a480f09255e0caef06",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c42ec2dbc1d78ef9e09c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/fr_FR/1be39d37a70f5e98d4eeb110ba30a096.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/ALT_CORE_B_LY_24_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/ALT_CORE_B_LY_24_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_24_R2",
+  "reference": "ALT_CORE_B_LY_24_R2",
+  "id": "01HKAFJNTTBVTNWCS37AN7GMKG",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/en_US/ed52f6f55ea9a1baf4f10a6379837bc1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/de_DE/d78672f531b7a8ed145bc2c481da606d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/fr_FR/1be39d37a70f5e98d4eeb110ba30a096.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/it_IT/228f374e9486e94e1411677b3064f609.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/es_ES/35ab985df5b59d05c352d5f0cb55c408.jpg"
+  },
+  "name": "Cocon d'Étoffe",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Choisissez l'un :  • Défaussez un Personnage [[Fugace]], [[Ancré]] ou [[Endormi]] ciblé.  • Défaussez un Permanent ciblé."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-086-F-FR"
+}

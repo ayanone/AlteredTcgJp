@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_24_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79AP3SFG0SGAXKV54M5E",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8887CNEK6AHVWVE506WV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8887CNEK6AHVWVE506WV",
+          "text": "Durch ihr kollektives Bewusstsein verwandeln die Ordis die Gedanken der Menge in einen vereinten Willen."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME889FBJ2A9V4SYMAB6ZYY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME889FBJ2A9V4SYMAB6ZYY",
+          "text": "The sun's rays filter through the bay window, warming the morning air. There are four of them around the table: Kakoba, Legion Commander of the Aegis; the Frog Prince to represent Libra; Cestimir, Chief Curator of the Sanctum; and Nassefa of the Armarius. I stand as straight as a pole in the large empty room, with Tocsin standing behind me like a marble statue. To my right, Sigismar looks somewhat puzzled as he pets his griffon's neck with one hand. To my left, Waru is looking through the window and watching the clouds drift idly by, while his Alter Ego sleeps in one of his sleeves. I had been woken well before dawn by a cadet to learn that I had been invited to the Monolith along with my Chimaera. And on the barge that took me to the Bastion, I had seen the Captain of the Ordis headed from the Rampart to the flying fortress on griffonback.\n\nThe six of us had been together in an antechamber for a few hours. To Sig, this could only mean one thing: Of all the potential Exalts, we were the three duos who had been chosen to start the Rediscovery Endeavor ahead of the Expeditionary Corps. And the longer time went on, through endless deliberations, the more I felt he was right. Now, with the four representatives of the Ordis in front of us, there was no longer any doubt. Watching them pass around the wax bottles and inkwells to scribble on long parchments in turn, it was increasingly clear that our role was being confirmed. The Aegis, Libra, Sanctum and Armarius... The four branches of the Ordis – military, judiciary, cultural and political – together under the same roof, under the delegation of eminent representatives. Despite the muted atmosphere, I had the impression that something epic was unfolding before my very eyes."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME888TJ3HTAK3ZGA9HHYEX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME888TJ3HTAK3ZGA9HHYEX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME886XWTHTN95QWSJ65SNP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME886XWTHTN95QWSJ65SNP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME887K3S167JC6FVEXV6SV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME887K3S167JC6FVEXV6SV",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB79AP3SFG0SGAXKV54M5E",
+      "reference": "ALT_COREKS_B_OR_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/70cadaf28c575250f090",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Unterbrechung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9524b55af87c831d1926",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/de_DE/026b7a2c6510cfb49e9573a259f179f1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_24/ALT_CORE_B_OR_24_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_24/ALT_CORE_B_OR_24_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_24_R2",
+  "reference": "ALT_COREKS_B_OR_24_R2",
+  "id": "01HN5TXRH78SH14FHVFR1CA9XY",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/de_DE/026b7a2c6510cfb49e9573a259f179f1.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/it_IT/7a9beb98df049a236c7bf9f7c1ba2988.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/es_ES/fe465daec7717c24d9e6d01a1a80a7cb.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/fr_FR/64b11637357b5fee7397eef5df1d317e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/en_US/ee16ffab9e543f21d7755f2033295b10.jpg"
+  },
+  "name": "Teamwork-Training",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Vergänglich]]. (Lege mich auf die Ablage statt in die Reserve, nachdem mein Effekt abgeklungen ist.)  Schicke einen Charakter deiner Wahl mit Handkosten {X} oder weniger in die Reserve, wobei X die Anzahl der Charaktere ist, die du kontrollierst."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-144-F-DE"
+}

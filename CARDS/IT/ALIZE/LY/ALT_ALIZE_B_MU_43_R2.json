@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_43_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/66B9S88WN39669QGN1C7DN6ZXJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J27C8GEHZJWAREFQHYB1M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J27C8GEHZJWAREFQHYB1M",
+          "text": "Capitano proprio a fagiolo!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27D217QEHYSH2XDC4W4X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J27D217QEHYSH2XDC4W4X",
+          "text": "Prendo il pacchetto di fagioli magici che Arjun mi ha dato prima di partire e lo infilo in tasca. Mi ha detto che basta infondere in loro un'idea per farla germogliare nel mondo, e io gli credo. Se voglio far crescere un'idea complessa come una scala di edera o un ponte fatto di canne, immagino che avrò bisogno di un po' di pratica per ottenere i risultati desiderati. In ogni caso, sono grata ad Arjun per questo prezioso aiuto. Soprattutto perché, se funziona, potrò lasciarmi dietro molta della mia attrezzatura e viaggiare leggera. Allontanandomi dal fuoco, trovo una piccola radura dove poter condurre i miei esperimenti. Meglio iniziare con qualcosa di semplice... Magari una piccola bacinella da usare per lavarsi il viso vicino al ruscello. Mi concentro e formulo un'idea chiara nella mia testa, poi la ancoro a uno dei fagioli.\n\nAll'improvviso, il fagiolo inizia a germogliare a una velocità incredibile. Poi gli steli e le foglie a crescita rapida si intrecciano, formando una sorta di brocca di materiale vegetale. Forse non ho trasmesso bene l'idea originale? Immergo il contenitore nel torrente, rompendo il sottile strato di ghiaccio per raggiungere l'acqua sottostante. Vedo che trattiene l'acqua abbastanza bene, anche se alcuni sottili rivoli fuoriescono dalla trama di steli che ne compongono la superficie. È accettabile, ma imperfetto. Vediamo come me la cavo con il secondo tentativo. Mentre esamino la mia attrezzatura, mi rendo conto che la tenda è l'oggetto più voluminoso e pesante del mio zaino. Funzionerà? Getto il secondo fagiolo, immaginando come potrebbe essere una tenda fatta di foglie e petali. Se questo tentativo andrà a buon fine, non mancherò di far vedere ad Arjun i risultati dei miei esperimenti; sarà un modo per dimostrare la mia gratitudine per questo regalo."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27CNHJJZF25BC3GJCQDS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J27CNHJJZF25BC3GJCQDS",
+          "text": "Nel racconto popolare inglese \"Giacomino e il fagiolo magico\", il protagonista incontra un vecchio sulla strada per il mercato che lo convince a scambiare la mucca che avrebbe dovuto vendere con una manciata di fagioli apparentemente magici. Una volta piantati, sostiene il vecchio, cresceranno così velocemente e così in alto che la pianta di fagioli raggiungerà il cielo. Il mattino dopo, con grande stupore, Giacomino scopre che il vecchio diceva la verità. Un'immensa pianta di fagioli è cresciuta fino alle nuvole, dove l'avventura di Giacomino continuerà..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27B1VNK0GGQ0Y6Z9X7FP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J27B1VNK0GGQ0Y6Z9X7FP",
+          "text": "TEIJA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27BWDXBX04X9J9KG427A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J27BWDXBX04X9J9KG427A",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "66B9S88WN39669QGN1C7DN6ZXJ",
+      "reference": "ALT_ALIZE_B_MU_43_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanente Spedizione"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2109de5b1597f62b6db3",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Dotazione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/875d4a5fb882a5137d26",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/it_IT/7a704edd8432afc55a309f9f92d538ca.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/WEB_cc91157330dda52e83400129a47071f2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/WEB_78ae7ad6a907d483e0b0cfe8c6b55366"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_43_R2",
+  "reference": "ALT_ALIZE_B_MU_43_R2",
+  "id": "01J1Q4P4SGG6TEVFRSKNDKQK6W",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/it_IT/7a704edd8432afc55a309f9f92d538ca.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/es_ES/240f4189c11958e7fb5ed10668906230.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/de_DE/ea89cdd783441b87c4215a463e92a439.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/fr_FR/aa3c5b944597f78d17671dc0b8f2df99.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/en_US/539a08460463f025e403f4f408955ea5.jpg"
+  },
+  "name": "Fagioli Magici",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "{J} Un personaggio bersaglio nella mia spedizione ottiene 1 rinforzo.  La mia regione #e la regione della spedizione che mi affronta# sono {V} #e perdono gli altri loro terreni.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-066-F-IT"
+}

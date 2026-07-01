@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_B_BR_83_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/033ZX563RQ92TVMBE1NWR617MF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBXWR5RNB4QM0W13VXSG9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBXWR5RNB4QM0W13VXSG9",
+          "text": "So close to the enemy that they become your friend..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBXXMQ7D48G12PDTX7NQQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JNRGBXXMQ7D48G12PDTX7NQQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBXXAPMMQFBN5KGKJX3ZP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBXXAPMMQFBN5KGKJX3ZP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBXW3E6066E2R76EXJ3AP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JNRGBXW3E6066E2R76EXJ3AP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBXWEFXTPRCESQ049C7RV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBXWEFXTPRCESQ049C7RV",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "033ZX563RQ92TVMBE1NWR617MF",
+      "reference": "ALT_CYCLONE_B_BR_83_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Token Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d49c27dbe4f76566d1eb",
+      "reference": "COMPANION",
+      "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
+      "name": "Companion"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d701142fa70200c72d78",
+      "reference": "LEVIATHAN",
+      "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+      "name": "Leviathan"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Skybound Odyssey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9e3c5d77911eda54d494",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/en_US/1d401ae74f6b615bdd7747543a735c31.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/WEB_58f7bf25b55d6ec811137d428b74b79b"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_83_C",
+  "reference": "ALT_CYCLONE_B_BR_83_C",
+  "id": "2V1ZDXGG9Z875TRYK77WCZPT4F",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/fr_FR/ecdf8d6b467bcaec743143e1d610a451.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/de_DE/9135bbb469300902a69b5461eef130a3.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/en_US/1d401ae74f6b615bdd7747543a735c31.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/es_ES/c25ee0eccd44f962a99856f52b2971b4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/it_IT/3872b5f9ec47fdae51721571229e1c81.jpg"
+  },
+  "name": "Halua",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "If your Hero has 5 or more Quest counters, I am [Gigantic]. (A Gigantic Character is considered present in both Expeditions. When I leave the Expedition zone, remove me from the game.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "SKY-110-T-EN"
+}

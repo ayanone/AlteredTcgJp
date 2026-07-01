@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_28_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7841RPTXX47EMRBE71S1",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME81G2QMYKJPVG6G03T533",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME81G2QMYKJPVG6G03T533",
+          "text": "Les Lyra refusent de se laisser contraindre par les règles."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81H1DBPK8QC8S2GDK51R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME81H1DBPK8QC8S2GDK51R",
+          "text": "Mince, Blotch est dans la panade. Je peux le sentir galérer de son côté, genre empêtré dans une brume dans laquelle ses couleurs sont en train de baver. Bon, de mon côté ça va aller, je vais pouvoir me démerder, donc autant faire en sorte que ça se passe bien pour lui. Je me concentre, et ferme les yeux pour appeler à moi l'esprit du Bifröst. Faut que je fasse gaffe à pas me mélanger les pinceaux avec l'arc-en-ciel du Leprechaun et son pot d'or, son chaudron rempli de Fleurons. Avec toute cette thune, je pourrais acheter plein de... non, non, non. J'ouvre les yeux, et fatalement, ça manque pas. Un pot avec de la thunasse, pas du tout ce dont j'ai besoin maintenant... Bien entendu, suffit de se dire de pas penser à une chose pour y penser. Typique.\n\nDonc je me reconcentre, me focalisant sur une route irisée, un ruban ardent dont les couleurs s'entrelacent pour former un pont dans le ciel... Et cette fois, ça marche. Pas de petit bonhomme vert, pas de barbe rousse ni de trèfle à quatre feuilles, mais à la place, un arc-en-ciel zigzaguant entre les nuages. Allez zou, et que ça saute ! Je fais signe à mes Eidolons de se jeter dessus, pour que ses courants les emportent vers mon petit Alter Ego. Tour à tour, je les vois se faire entraîner dans les flux roses et bleus, glissant sur cette rivière aérienne comme si c'était un toboggan, slalomant entre les étoiles et les éclairs. Juchée sur son crocendule, l'Eidolon d'Aru, la copine de Fen, attrape un Mush sous son bras et saute à son tour dans le torrent. J'espère qu'ils arriveront sains et saufs de l'autre côté, parce que je vais avoir du mal à les repêcher s'ils passent par-dessus bord."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81GHJYA7ASNFAQMM2B10",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME81GHJYA7ASNFAQMM2B10",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81EZZ5EAN2TPEK0YYPSV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME81EZZ5EAN2TPEK0YYPSV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81FKCYNTMMCM1MS3QR29",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME81FKCYNTMMCM1MS3QR29",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB7841RPTXX47EMRBE71S1",
+      "reference": "ALT_COREKS_B_LY_28_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/cca260498984e954d8e8",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manœuvre"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/54d9aa3cd72f56ad1f3d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_28/JPG/fr_FR/f5c826286dea25a4ddccb11c14b3769a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_28/ALT_CORE_B_LY_28_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_28/ALT_CORE_B_LY_28_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_28_R2",
+  "reference": "ALT_COREKS_B_LY_28_R2",
+  "id": "01HN5TXRDYDB1P3BJK0RXXTRNN",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_28/JPG/it_IT/b127748db81eb42620f35ae343fb59bc.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_28/JPG/es_ES/21a7e89af94ed5f0cb695796b2bcb4ce.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_28/JPG/en_US/97b3f7e829689bdd1c0ddb84bb185217.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_28/JPG/de_DE/b0c6a24af41cfabb34ea1197f0910cbb.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_28/JPG/fr_FR/f5c826286dea25a4ddccb11c14b3769a.jpg"
+  },
+  "name": "Franchir le Bifröst",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Chaque Personnage que vous contrôlez change d'Expédition. (Il quitte son Expédition et rejoint l'autre Expédition de son contrôleur.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-083-F-FR"
+}

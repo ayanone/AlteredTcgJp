@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_55_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6ZCJ89VBSK9K0T4XKV766H06SC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A7E6B0Y56AT1115T6DAZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A7E6B0Y56AT1115T6DAZ",
+          "text": "Nachts fliegen sie umher und verbreiten ihren Nektar, wenn die Sonne am höchsten steht."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7ETF5RGX99PQPH9BMSW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A7ETF5RGX99PQPH9BMSW",
+          "text": "393 AC — \"Nothing better than a cloud of Libellumines to bring light to the night\", Bokang used to say when he was feeling poetic. And watching them teem in the darkness like dancing stars, it's hard not to agree with him. They fly in harmony, and their murmurations seem to create constellations in the air with meanings only they know. I sink into a daydream. When I was stationed in Arkaster, I would often go to the park in Libellumine season. It was finally time for Ryukkōsai, when they would suddenly take flight in an ephemeral mating dance on the only night of their short existence. As soon as the shadows grew long on the paths of Vasanti Park bordering Calle Amsterdam, they would leave their nymph stage and embark on their bizarre yet vital quest. It was still a mystery to me. Knowing that the only key to their survival depended on this unique moment. A fleeting odyssey…\n\nAll around, the Midori Matsuri ceremony was often in full swing to accompany their wedding dances. Ladies and gentlemen strolled under the trees, while chefs in their hats offered them treats to eat on the go. There was always a buzz in the air, from both the insects and the crowds of people. Everything seemed to hum with life, like a wondrous ballet. While researching the origins of the celebrations, I had a revelation: Ryukkōsai signified acceptance of the brevity of all existence, and the journey of life had to be shared to find meaning. Ryukkōsai was a rebellion against the Tumult, which came to attack us like a swarm of harpies. It was an appropriate metaphor because this night attracted many winged predators, who came from all over the peninsula to join in the festivities. Last time, I even saw Kesh's Chimaera catch a few Libellumines. The attack of the jelly monster was quite a sight to behold…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7EGGDTG9QQZF3KYT85Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A7EGGDTG9QQZF3KYT85Y",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7CFQ8R95K169XJK5R8X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A7CFQ8R95K169XJK5R8X",
+          "text": "TEIJA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7DWHAXS5768T50A2FNT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A7DWHAXS5768T50A2FNT",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "6ZCJ89VBSK9K0T4XKV766H06SC",
+      "reference": "ALT_BISE_B_MU_55_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b204ea88a81b8a504f77",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Tier"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7fae8de5acfbaa61637b",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Pflanze"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f06f9e6a34cd22e9808c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/de_DE/c6da0104c63a0027f16c8f74068ef45e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/WEB_519d2be92c6095f8f1d7faff38300314",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/WEB_e51deb3ac137c23447ccc74a14abc652",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/WEB_80f41c28379552deab30de421447a967"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_55_C",
+  "reference": "ALT_BISE_B_MU_55_C",
+  "id": "01JB1YGPBPADMTYDQAXKW1DEP8",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/es_ES/c333ee8e2ee55aa421f8f0ddc56b853f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/it_IT/b6a5e857d737336eeb40b902650344dd.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/de_DE/c6da0104c63a0027f16c8f74068ef45e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/en_US/4eb417ee304fc91a6df386e60093dbc5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_55/JPG/fr_FR/c73b4294cb7bc7a557ef8aecb3d84edf.jpg"
+  },
+  "name": "Leuchtender Schwarm",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{J} Ich erhalte [[Verankert]]. (Während der Ruhepause gehe ich nicht in die Reserve und verliere Verankert.)  Zum Mittag — Ein Charakter deiner Wahl im Spiel oder in der Reserve erhält 1 Verstärkung."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-060-C-DE"
+}

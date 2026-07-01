@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_27_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z55JR4GB9EKA1M92YW9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5R4GV5ZE04QEXYTJEJBN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5R4GV5ZE04QEXYTJEJBN",
+          "text": "„Die Minen von Suspira werden bald erschöpft sein. Dann wird euer kostbares Kelon versiegen.“"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R4ZQZC0Y720EP6N7YNP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5R4ZQZC0Y720EP6N7YNP",
+          "text": "My hands grip the armrests of my wheelchair. Opposite me, the Grems are activating the machine while giggling mischievously. I feel anger welling up inside me. Even though I know they aren't laughing at me, I feel like they are making fun of my disability. What the Generator is charging is probably my only chance of walking again… I grit my teeth as I think about the accident. We managed to cross the Rampart, but the second engine exploded mid-flight. Although Amelia managed to crash land on the beach, my body had been crushed by the impact. My spinal column had fractured as well as both legs and an arm… I was lucky, they said. Paju hadn't survived. But maybe he was the lucky one. He didn't have to live with the suffering, the depression, the convalescence…\n\nThe energy tank hums, while inside, the Kelon crystal of my mechanical vertebra charges. I think back to those long months, lying in bed without being able to feel my legs. I think back to the pained and pitying looks. I look at the artifact's gauge filling up bar by bar, like a countdown timer. Even if the operation is a success, for the rest of my life I'll be dependent on this piece of metal and a supply of Kelon if I want to move anywhere. My mind is racing. I think of Paju's grave and his mother's blank stare. Just one day was all it had taken for our dreams to be shattered and my best friend to be taken away from me. I feel the tears running down my face. We had been naive, barely more than children. I hang my head down and cry in the soft light of the workshop."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R4QVBHZB4V1WVVYRXWA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5R4QVBHZB4V1WVVYRXWA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R3Y073EXQVX0X5KB18X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5R3Y073EXQVX0X5KB18X",
+          "text": " Treyst"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R455KJX336JXZTTG301",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5R455KJX336JXZTTG301",
+          "text": "380 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY4Z55JR4GB9EKA1M92YW9",
+      "reference": "ALT_CORE_B_AX_27_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Bleibende Karte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/cafb84e28360439ec299",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Wahrzeichen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b0777784e8c692e804e4",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/de_DE/cc374542ed16490a69d4a75de771341f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/ALT_CORE_B_AX_27_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/ALT_CORE_B_AX_27_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_27_C",
+  "reference": "ALT_CORE_B_AX_27_C",
+  "id": "01HKAFJNM6JWG74TFFYYHJ0KB1",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/de_DE/cc374542ed16490a69d4a75de771341f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/it_IT/1f9d93248857d3a936a47986df028414.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/fr_FR/d79b8d33898bb8852efe9c24ce443e62.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/en_US/ea759aa0efcf6595d085a114a6b2b6b8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/es_ES/7eb80e39d0a251eeba995973d429542c.jpg"
+  },
+  "name": "Kelon-Generator",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "{2}, {T} : Ziehe eine Karte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-027-C-DE"
+}

@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_43_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5JAWYZZ0Z4867S1T7N5NCTQY1K",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25Z31Q3QFWQQDSJ55C0N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25Z31Q3QFWQQDSJ55C0N",
+          "text": "Non esiste il cattivo tempo, ma solo vestiti inadeguati."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2602FNYZ8RA6PS4G593S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2602FNYZ8RA6PS4G593S",
+          "text": "Giacca impermeabile e piumino MATRYOSHKA, rosa/blu\n\nTestata nelle difficili condizioni del Silg, ai piedi della penisola di Enosha, la linea Storfit di The West Ridge® comprende una gamma di capi idrorepellenti e isolanti ideati dalla stilista Venera Ritz. L'abbigliamento Storfit è traspirante e impermeabile, ed è adatto sia alle escursioni occasionali che alle lunghe spedizioni in montagna e nelle regioni polari. Regola la traspirazione e protegge efficacemente dagli agenti atmosferici. Imbottito in piuma e ultra resistente per proteggere sia gli esploratori esperti che gli alpinisti alle prime armi, l'abbigliamento Storfit è leggero, comprimibile e può resistere a temperature fino a -45° C.\n\nCi sono numerosi accessori compatibili con la collezione Storfit, dai cappelli più spessi alle speciali sciarpe in maglia per il freddo più intenso. Per la massima protezione, abbinate la giacca o il piumino Matryoshka allo strato base compatto Matryona e al pile Matryosha, disponibili anche in colorazione rosa/blu.\n\nSconto immediato del 20% per tutti gli esploratori dello Storhvit."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25ZEK7GYHN74BH6BC1Y0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25ZEK7GYHN74BH6BC1Y0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25YCV6JEY83M9FPMB4NP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25YCV6JEY83M9FPMB4NP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25YRT68WW461K0T5KK1V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25YRT68WW461K0T5KK1V",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "5JAWYZZ0Z4867S1T7N5NCTQY1K",
+      "reference": "ALT_ALIZE_B_LY_43_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanente Spedizione"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4e7f2b32b124d7b22dce",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Dotazione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/27fe4c77d24a7f38adb0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/it_IT/63e270d04439e452ca6e76fcb7fc441e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_7770bce90f20095343d5a5cc7056564a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_ded96dd95ea45267682cb63009777587"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_43_R2",
+  "reference": "ALT_ALIZE_B_LY_43_R2",
+  "id": "01J1Q4P4SA983VFNNBWVRZT9TE",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/it_IT/63e270d04439e452ca6e76fcb7fc441e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/es_ES/0639169b776b7adc1b0e12a7d8caedc4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/fr_FR/2f01558cf8eb87426dd60fce5bdd4f74.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/de_DE/1512145a0e5a6d40cab8e3f457c5f8d4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/en_US/7a21de839e5b2228641219ae7b0d1494.jpg"
+  },
+  "name": "Abbigliamento Invernale",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "#{R} Perdo [[Fugace]].#  I personaggi nella mia spedizione hanno {V}, {M} e {O} pari alla loro statistica più alta."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-049-F-IT"
+}

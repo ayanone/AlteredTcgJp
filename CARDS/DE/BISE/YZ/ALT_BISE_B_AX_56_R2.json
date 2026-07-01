@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_56_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/10NN6DMK3H9YTB99EG6PZ7F5VW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A49VGEVTBC5QBRVV3H51",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A49VGEVTBC5QBRVV3H51",
+          "text": "Ich hoffe, dieses Mal wird das Harzwachs halten."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4A6GP3EWKXZZQY3Z4SE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4A6GP3EWKXZZQY3Z4SE",
+          "text": "393 AC - I check the straps and adjust the young man's harness. And judging by the look of delight on my tester's face, I'm the only one feeling anxious here. Icarus seems very relaxed — too relaxed, even, which makes me nervous. He keeps looking up and commenting on the sky. It's a bit annoying. I go behind him — which at least gives me a break from that blissful look on his face — to check the motors that power the two propellers that will make the Eidolon fly. Everything looks perfect. I wonder why it always falls to me to help test new inventions.  Sure, I'm definitely very interested in testing Sap as a fuel. I guess it's kind of a privilege to able to do that… But dealing with guinea pigs isn't really my thing, to be honest. For once, I'm happy to be the one in charge rather than the one testing. Anyway, time to get going. I shoot him a smile and pat him on the shoulder, reminding him of the safety instructions. I don't think he's listening to me as he puts on his goggles and zips up his suit to protect him from the cold air high up in the sky.\n\nI'm still talking as he starts to push the power button. There's just enough time for me to step to the side to avoid being sliced to bits by the propellors. Icarus hoots with joy, while I utter a string of curses. He sets off at a dizzying speed, and I'm stunned to see how quickly his form shrinks as he rockets away. Well, no doubt about it, Sap works very well as a fuel. Incredibly well, actually. Icarus is soon nothing more than a dot in the sky. I turn to Marmo, sitting at my feet, and he gives me a questioning look. Yeah, I'm not too confident either, boy. Was Icarus the right person for this test? I hear a sound and look up. Is there a problem? Nope, just a long howl of joy. I see the dot rapidly growing larger. He's coming back down. I let out a sigh, then wince as I realize how fast he's going. He's coming down very quickly… too quickly! I throw myself to the ground, narrowly avoiding being hit by an Icarus-shaped cannonball. Well, the good news is that it works. The bad news is that I'll need to review the safety instructions with Icarus… We're not out of the woods yet. And that's often the case with him."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4A13NRNZREE7SAQRD1S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4A13NRNZREE7SAQRD1S",
+          "text": "Icarus is a character from Greek mythology. He is the son of Daedalus, the architect of the Labyrinth where the Minotaur was held. Daedalus and Icarus are thrown into the Labyrinth by Minos for being disloyal and helping Theseus. To escape, Daedalus crafts some wings for Icarus using feathers and wax so he can fly away. He tells his son to stay far from the sun, but Icarus gets too close, which melts the wax holding the feathers in place. Icarus falls from the sky and disappears forever into the sea."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A49GSGMZ5A5APWB6ASCP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A49GSGMZ5A5APWB6ASCP",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A49PQK0MKH4HBZP630E2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A49PQK0MKH4HBZP630E2",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "10NN6DMK3H9YTB99EG6PZ7F5VW",
+      "reference": "ALT_BISE_B_AX_56_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/42fb580a11dcfeaa5e80",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Abenteurer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6a0e45c5abce936c23cd",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/de_DE/f566bbca0c827a4be8826fd1363067f3.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/WEB_a33b89322493e217e8334fdd0b537581",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/WEB_59061f76b844203cdd4f85db3b8df610",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/WEB_c41f9e1f566d39588ec274c0f0c3a470"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_56_R2",
+  "reference": "ALT_BISE_B_AX_56_R2",
+  "id": "01JB1YGPB49ZDQ7TT2DXNY3AXA",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/es_ES/61efac8bd47e38e2bb55e1df79af39c6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/de_DE/f566bbca0c827a4be8826fd1363067f3.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/it_IT/1bfd9a8a4dbfdb28ce25e77dc8ea88ec.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/en_US/97c7e5cf4fc77c177896f41be34384d7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/fr_FR/da9f77e391d647238427edaa37224318.jpg"
+  },
+  "name": "Ikarus",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "[Spähen] {1}. (Du darfst mich für {1} mit „{h} Schicke mich in die Reserve“ aus der Hand spielen.)  {J} Stelle alle Karten in deiner Reserve bereit."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-010-F-DE"
+}

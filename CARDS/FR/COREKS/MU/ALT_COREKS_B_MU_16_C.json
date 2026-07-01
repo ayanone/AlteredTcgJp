@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_16_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79761CBJEHG8T2MK4DZT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME83AK60BSHNZZ1ATE51W2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME83AK60BSHNZZ1ATE51W2",
+          "text": "C'est très important de bien s'hydrater."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME83CFNHDX5617X1VSB76M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME83CFNHDX5617X1VSB76M",
+          "text": "T'as gagné, Spike ! Je puise dans les bribes de Mana qu'il a collecté sur le chemin. Oui, oui, je sais, petit père. En scrutant les environs, j'aperçois un lieu dont la topographie pourrait correspondre. C'est une petite cuvette, nichée entre de gros rochers et idéalement placée pour nous abriter du vent. Je me mets à imaginer une piscine naturelle encerclée de petites cascades, une eau soufrée et à la bonne température — ni trop froide, ni trop chaude. En m'appuyant sur le Mana, je matérialise ma vue de l'esprit, la surimpose sur le monde. Grâce au Skein, je l'enchâsse au sein de la réalité, afin que l'onsen reste suffisamment longtemps pour que nous puissions en profiter. J'exhale longuement. Déjà, Spike est en train de courir dans la direction des sources chaudes, prenant bien soin d'éviter les parterres de neige. Il plonge et fait une bombe dans l'eau, avant de remonter à la surface en barbotant.\n\nJe le sens tirer sur notre lien et sur ma faculté d'Altération. Quel gamin. Bien entendu, il manque quelque chose. J'appelle la petite Vera depuis mon esprit, et la plante gracile apparaît non loin de l'étang. Toute heureuse de retrouver son camarade de jeu, elle plonge ses longues jambes effilées dans l'eau fumante, alors que Spike lui fait signe encore et encore de venir le rejoindre. Je les regarde jouer dans l'eau comme des enfants, tandis qu'une brume commence à nous entourer à cause du choc des températures. J'observe tout de même les environs, vigilant·e. Le terrain rocailleux pouvait abriter de nombreux dangers insoupçonnés. Puis je remarque que Spike s'est rapproché de moi. En faisant la moue, il se met à me regarder avec des yeux implorants. Ah, vraiment, une nécessité ? Il hoche vigoureusement la tête, et je finis par céder à son caprice. Deux thés glacés pour les deux garnements !"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME83BFMD0F8AD85X70K7F8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME83BFMD0F8AD85X70K7F8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME838K26FKS7JJC86BPP33",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME838K26FKS7JJC86BPP33",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME839Q8PM9C2YT2F0WMBVM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME839Q8PM9C2YT2F0WMBVM",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79761CBJEHG8T2MK4DZT",
+      "reference": "ALT_COREKS_B_MU_16_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e285028dc717d2875c30",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plante"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/73b15f08ffebe5f4086d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_16/JPG/fr_FR/de1e540740494b2115d39c671fcdd779.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/WEB_ba91240970e64f5891560414c28ab941",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/WEB_a31862e1bff5629ffe1d030dc306d91a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/WEB_156d0e3b1d980202a0c839c3b4eb39d1"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_16_C",
+  "reference": "ALT_COREKS_B_MU_16_C",
+  "id": "01HN5TXRQZEKGE9Z471CRFASQR",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_16/JPG/fr_FR/de1e540740494b2115d39c671fcdd779.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_16/JPG/de_DE/5c3763baaa2352ef2b3db63d7583fe19.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_16/JPG/it_IT/db1e54bd2b2d6e28ee0f7eba1e0f1462.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_16/JPG/es_ES/c7fbf5d36585851a793469466d17533d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_16/JPG/en_US/f2ca4a6ef8cae31891e157c48f3f4db1.jpg"
+  },
+  "name": "Aloe Vera",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "À Midi — [Ravitaillez]. (Mettez la première carte de votre deck en Réserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-103-C-FR"
+}

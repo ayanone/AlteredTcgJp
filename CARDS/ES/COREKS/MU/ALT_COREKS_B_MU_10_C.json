@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_10_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB796M2P7F3EKRSHC5JKKB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME82JFB0CE93GK2Q46CYGE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME82JFB0CE93GK2Q46CYGE",
+          "text": "Verde que te quiero verde."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82KDDCAPF2ZBD1CAXXM0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME82KDDCAPF2ZBD1CAXXM0",
+          "text": "Next to me, a weasel slinks up the railing and comes to perch on a little promontory of lacquered wood. I bend down slightly so it can climb on my shoulder, and it doesn't need to be coaxed. After a mad dash along the nape of my neck, gliding from shoulder to shoulder beneath my hair and eliciting a few laughs from me, it positions itself on my head, watching. The wood of the landing creaks under my feet as I follow the languid procession. But despite the time it takes to cross the Mugen, it's a celebratory occasion. Robins dance with avocets; foxes and badgers play between the pilgrims' legs. During Ryukkôsai, they are no longer predators and prey. All species respect the truce decreed by the Muna.\n\nI finally arrive at the sixth island, where hundreds of frenzied fireflies are fluttering around. I bow down before the altar devoted to Yong-Su, clapping my hands three times as a sign of respect. When the capital was cut off from the world by a Tumult singularity and condemned to famine, it was he who created the Mugen, the bridge with 19 sections connecting the Katkera to Arkaster. The Alterer had managed to convince all the sentient species of Kirighai to gather offerings and bring them to the crowded metropolis. Thanks to him, and thanks to that miraculous bridge, the capital managed to survive. Nearby, a blueback orangutan begins to holler, and is then imitated by many other animals. Upon the calm water, Yong-Su's Eidolon has manifested, floating in the air, while at his feet, rippling circles lazily glide over the surface. Lotus flowers begin to bloom beneath each of his steps. I bow once more, tears in my eyes at his appearance."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82JY3ASF19KYZYK1VA9H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME82JY3ASF19KYZYK1VA9H",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82HFYEATE5V9QSBYPX9M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME82HFYEATE5V9QSBYPX9M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82HZ16WBFNK0T5F6HC67",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME82HZ16WBFNK0T5F6HC67",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB796M2P7F3EKRSHC5JKKB",
+      "reference": "ALT_COREKS_B_MU_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/abd11f84d29428ba1658",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druida"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c5b83fb41dcbec5b2057",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/es_ES/d889d6941cc1998a60adaea52674d71c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/ALT_CORE_B_MU_10_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/ALT_CORE_B_MU_10_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/ALT_CORE_B_MU_10_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_10_C",
+  "reference": "ALT_COREKS_B_MU_10_C",
+  "id": "01HN5TXRQ57T6SCQQSZFC2XK8T",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/de_DE/294f1b21c0538fb81d994523d150ccfa.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/it_IT/a90483a0e0a76763708bbb83cea23cb2.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/en_US/94cac870357f91a03ab4c3f232f19f56.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/es_ES/d889d6941cc1998a60adaea52674d71c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/fr_FR/819578cfff8e2544f9ab034feacea497.jpg"
+  },
+  "name": "Yong-Su, tejedor de plantas",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{J} Si controlas dos plantas o más, gano 2 potenciadores[]. (Las cartas de la reserva no las controla nadie. Un potenciador es un contador +1/+1/+1. Retíralo cuando abandone la zona de expedición.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-106-C-ES"
+}

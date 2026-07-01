@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_11_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50D1S6DCAYT8GN4NH0S9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH64DCNDXZ3ZD6VF8TW5NP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH64DCNDXZ3ZD6VF8TW5NP",
+          "text": "Schutz oder Schaden? Das kann nur die Karte zeigen."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64F40AEZ5YCSN2HBVFNS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH64F40AEZ5YCSN2HBVFNS",
+          "text": "I blow strongly on the heady herbal tea that Baba has given me, warming my freezing hands on the steaming cup. I'm sitting on a rocking chair on the terrace of her isba, wrapped up in a wool blanket to protect me at least a little from the cold. Even though I'm sorely tempted to take refuge inside the hut, I know it's not a good idea. I'm the one assigned to monitor the Black Wave today, alongside the old witch. I hear the front door open, and Baba Yaga comes out with a tray in her hands. On it are some small porcelain plates loaded with sugar-coated cookies, little pastries and preserves. And another steaming teapot, of course. Her friendly manner makes her seem more like a grandmother than a frightening old shrew. Taru emerges timidly from under the covers after seeing these new treats.\n\nBaba sits down next to me and starts to knit her woolen scarf again. I watch her at work as I inhale the scent of spices: cloves, cinnamon, star anise, cardamom... The Gora grove could have been quite a relaxing place in the Kadigir if it weren't for this Tumult Singularity. Suddenly, the isba starts to move on its chicken legs. I spill a little of my tea and curse, then notice that Baba has stood up. She scans the fleecy plain with its grass as black as night. I feel a sudden uneasiness, which heightens when I see the witch grab her pestle and summon her mortar. I feel a churning in my stomach as the Black Wave quivers. The mood in the obsidian clearing turns grim. I too stand up and begin to cover myself with Sigils. And when I turn towards Baba again, I see that the friendly old woman is now a harpy with a terrifying face..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64E4H31DE707QQ2Y3MQB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH64E4H31DE707QQ2Y3MQB",
+          "text": "Baba Yaga is a supernatural character from Slavic folklore who takes on various forms, from a primitive witch to a hunter ogress to an ambiguous benefactor. She can sometimes be an antagonist, and sometimes offer timely help to heroes. These many faces, passed on through numerous stories and legends, have ensured she plays a major role in the traditions of Eastern Europe."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64BT7DGBBWWPQFYR3KPH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH64BT7DGBBWWPQFYR3KPH",
+          "text": "Akesha"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64CEJZW8A8YRKD9XGGX5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH64CEJZW8A8YRKD9XGGX5",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50D1S6DCAYT8GN4NH0S9",
+      "reference": "ALT_CORE_B_YZ_11_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1182b4c606f991171192",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Magier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/689e1d66bc10e316bddd",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/JPG/de_DE/541b3d95448e9a22001ab4e925f6a942.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/ALT_CORE_B_YZ_11_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/ALT_CORE_B_YZ_11_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/ALT_CORE_B_YZ_11_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_11_R1",
+  "reference": "ALT_CORE_B_YZ_11_R1",
+  "id": "01HKAFJP04Z195GVEGW9XHXE43",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/JPG/de_DE/541b3d95448e9a22001ab4e925f6a942.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/JPG/es_ES/1e05df937ce5f1b2d1fdbb3825ffd287.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/JPG/it_IT/dcb26000723ca9348d7b766bbef7914f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/JPG/en_US/c67c2f31f3cc08a97923458ac88b41d0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/JPG/fr_FR/2e960f954fe92a902a32a5e1ec25aa94.jpg"
+  },
+  "name": "Baba Jaga",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "#2#",
+    "FOREST_POWER": "#3#",
+    "MAIN_EFFECT": "{H} Ziehe eine Karte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-161-R-DE"
+}

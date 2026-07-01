@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_25_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB797Z0H49NTW2AJK864BH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME84NZBP1936V9M8ZMK5GP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME84NZBP1936V9M8ZMK5GP",
+          "text": "Don't think you are, know you are."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84Q1VK93H319P4K3Y4WR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME84Q1VK93H319P4K3Y4WR",
+          "text": "I take my place on the soft ground, trying to slow my breathing. For a moment I picture myself in the Katkera, beneath the foliage of the trees swaying above my head, while the Sun's rays pierce the canopy. But we're far from Asgartha, under unknown skies, and the trees here are foreign to me. This forest is ancient as well. But its soaring trunks are the color of marble, its flickering leaves the shade of honey. I take a deep breath and sit on the mossy ground. Will these venerable trees answer my call? I immediately feel the strands of Mana crackle under my fingers as if to signal their agreement. They don't seem to reject my presence. On the contrary, they invite me to start resonating with them. I extend my consciousness. My mind goes up along energetic veins that stretch out like mycelium.\n\nI enter the Skein, the network of energy connecting all things and all beings. I could tap into it, but that's not what I'm doing right now. Instead I infuse my own Mana into it, stabilizing my environment, along with everything unfolding in it. Nearby, I sense the Eidolon I materialized suddenly shuddering slightly. His Mana is weak, and he is dematerializing. I harness my energy and that of the world around me, make it flow toward him. The channels become streams, which become a river... Gulp after gulp, I nourish his being, restoring some of his substance, until he vibrates with energy once again. Then I open my eyes, thanking the trees all around me. After a short meditation, I stand up and get going again. Above my head, the branches flutter and the leaves rustle, pulsating with reality."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84PGQN90B8D6RXRHBJBM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME84PGQN90B8D6RXRHBJBM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84MV12KA2HPKKV7RP931",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME84MV12KA2HPKKV7RP931",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84NE93RNY1245C1T43MC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME84NE93RNY1245C1T43MC",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB797Z0H49NTW2AJK864BH",
+      "reference": "ALT_COREKS_B_MU_25_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b3c80d8cdb9d260c36db",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Boon"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/93a74886d6d36b1da590",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/en_US/37b5b52aa3edd70f8b6d958c8873b023.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_25/WEB_1f403da3e74c3f88f8b8a326bc466cf5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_25/WEB_5792395d161b0dfa902f1255b1f07b46"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_25_R2",
+  "reference": "ALT_COREKS_B_MU_25_R2",
+  "id": "01HN5TXRSDWPAPMSVWSKYSRKP3",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/it_IT/706f053a493401bb1ed04b1689296c42.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/fr_FR/14a2b438eaefd3192764ca96b296adac.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/en_US/37b5b52aa3edd70f8b6d958c8873b023.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/de_DE/7ff85547df29b8323332ccefc297e0ad.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/es_ES/1530f4f7930025ed7322d30d9c11e37c.jpg"
+  },
+  "name": "Meditation Training",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Target Character with Hand Cost {3} or less gains [[Anchored]]. (During Rest, it doesn't go to Reserve and it loses Anchored.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-117-F-EN"
+}

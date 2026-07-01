@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_18_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZAGDT14Q0TJ0VJDDQF0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5S7QT33R8RHZE3A6075M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5S7QT33R8RHZE3A6075M",
+          "text": "Ever the trickster, always the rebel."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S8CKP2BBMJP5B6XY9DG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5S8CKP2BBMJP5B6XY9DG",
+          "text": "He taunts me, grinning. I get back up, holding my ribs, unable to tell if he's genuinely smiling or simply provoking me. He stands slumped on his staff, yawning while picking his ear, in a balancing act that would upstage any Lyra acrobat. When we fought, I saw him transform into different animals—boar, buffalo, scarab—to catch me off guard, jump improbable distances, or merely to mock me. I can't find an opening in his posture, nor the slightest ounce of fatigue in his movements. From one moment to the next, he proved to be as elusive as a fish, as perceptive as an eagle, and as agile as a cat. It's as though he had absorbed all the traits of the animals whose appearance he took on: the elephant's strength, the cheetah's speed, the dragonfly's explosiveness…\n\nPanting, I face him again and pick up the glaive I dropped. As there doesn't seem to be an opening in his armor, I'll have to create one. But how? He jumps to the foot of his golden staff, then grabs it as I get back into position, on my guard. But instead of attacking me, he shrinks it down to the size of a cotton swab and sticks it in his ear. Then he pulls out some of his own hair and blows it in my direction. As the hair scatters in the wind, each strand starts to transform into a little simian figure. I step back, encircled by an army of armored capuchins, miniature versions of my opponent. He bursts out laughing at my crestfallen face, then sits on a rock and opens a flask, intent on enjoying the show."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S82HFJVQ0YGSRAZZ6N6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5S82HFJVQ0YGSRAZZ6N6",
+          "text": "The hero of the novel \"Journey to the West\" by Wu Cheng'en, Sun Wukong—also known as the Monkey King—is an indomitable fighter responsible for many misdeeds. Wielding incredible strength and speed, along with amazing magical abilities, Sun Wukong defied celestial authority to seize magical objects worthy of him. He constantly provoked the Jade Emperor, incurring his ire. After multiple failed attempts, Sun Wukong was finally captured and sealed in a stone chest, awaiting his sentence."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S71Q6VX0RSJR8MZESDH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5S71Q6VX0RSJR8MZESDH",
+          "text": "Atsadi"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S7DFM2N7WZ97NNHVWJD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5S7DFM2N7WZ97NNHVWJD",
+          "text": "385 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZAGDT14Q0TJ0VJDDQF0",
+      "reference": "ALT_CORE_B_BR_18_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/471c55db41e75886881e",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deity"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6d0a399a3b80fdfdb44b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/JPG/en_US/7c1219fc9e3e29456d0fd8fcebc5034b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/ALT_CORE_B_BR_18_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/ALT_CORE_B_BR_18_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/ALT_CORE_B_BR_18_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_18_R2",
+  "reference": "ALT_CORE_B_BR_18_R2",
+  "id": "01HKAFJNPNA30HVXM6XM52FNB4",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/JPG/fr_FR/c9cee4c3fb1510ab784c43d8cbb33ce2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/JPG/it_IT/cde5ede8563d7f1b23f9120e5eba4bd8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/JPG/en_US/7c1219fc9e3e29456d0fd8fcebc5034b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/JPG/de_DE/144b854d32712b8c0fe0704fd4580364.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/JPG/es_ES/5756cc9275797ee3e4612302afc04c8a.jpg"
+  },
+  "name": "Sun Wukong",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{R} #Target Character# gains 2 boosts."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-048-F-EN"
+}

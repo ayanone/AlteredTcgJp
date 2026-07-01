@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_58_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4NNFMNDH838FZ9XYBY8P5GRK00",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A53AN0FYYE7WFGKEM7DM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A53AN0FYYE7WFGKEM7DM",
+          "text": "For the brave souls exploring the labyrinthine depths of the city, life often hangs by the thinnest of threads."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A53RMWG4Z6SGM2VQZ79W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A53RMWG4Z6SGM2VQZ79W",
+          "text": "393 AC - This was much more than a labyrinth. If the black blocks were each a grain of sand, this entire place would actually be a sheet of shifting sand that would engulf any who dared to set foot there. Because the topography was constantly rearranging itself, it was useless to try and find your bearings. The only constant was its verticality: You had to descend, further and further into the depths. It was the only certainty I could truly rely on. I feel Surge getting impatient, in his cicada form, filling the air with ozone. He's my only source of light, like a crackling torch in an ocean of darkness. He and I both know we're being followed, and by someone with no particular knack for discretion. We need to shake off this busybody. As I sift through my mind, it gradually becomes clear which Eidolon I need to summon. With a defiant air, I command him to appear.\n\nI hear the snap of a rope, and I slowly turn around. He stands in front of me, arrogance written all over his face. Like all powerful Eidolons, he only responds to those he deems worthy — to warriors, like him, who aren't afraid to stand up to him. I notice with satisfaction that he's holding Ariadne's Thread. That's what I was counting on. I see him smile as he understands the mundane use I have in mind for it. Then he roars with laughter at my insolence. He throws the thread into the darkness of the abyss, like dropping an ordinary piece of rope. Then, as the thread unfurls into the depths, he wraps it around his huge hands to secure it. Yes, I'm using Theseus to support me as I descend. And thanks to its properties, the thread will take me to where my destiny awaits."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A53H6VPA0SG1NQ407X7F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A53H6VPA0SG1NQ407X7F",
+          "text": "Theseus is a hero from Greek mythology who travels to Crete to defeat the Minotaur, a monster who is given seven young men and seven young girls from Athens every year as a sacrifice. Theseus takes the place of one of those chosen for the offering and enters the Labyrinth. He is helped by Ariadne, who has fallen in love with him and whom he has promised to marry. She gives him a ball of thread, which he unwinds as he walks to help him find his way back out of the maze, and a sword to kill the monster."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A52WAX3600YQFF8CP46S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A52WAX3600YQFF8CP46S",
+          "text": "ATSADI"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A53305Y4Q0PRW2NX054G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A53305Y4Q0PRW2NX054G",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "4NNFMNDH838FZ9XYBY8P5GRK00",
+      "reference": "ALT_BISE_B_BR_58_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/238eef164d65bc32016b",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Adventurer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/066e001c6dc4d6fd0422",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/en_US/cf407c44e056766f1b2ac0c4bd014fc6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/WEB_7890705a9fd4f088d232fe4c024dfb0b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/WEB_9b13ab0b7596755d5dc8e8c6cdc2b814",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/WEB_f694634461ffb22055e076011ac363ed"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_58_R2",
+  "reference": "ALT_BISE_B_BR_58_R2",
+  "id": "01JB1YGPBCMXTAYG3FZV3BEC8E",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/de_DE/ac8690797837f5f1110e76d608ce19ff.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/it_IT/cd8217caa45b058d41327611a9ace7b6.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/fr_FR/1a43a1c124c4701a081dc23fc5663d5c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/es_ES/e29a221f6696bdf26b90f9d74a4e8e93.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/en_US/cf407c44e056766f1b2ac0c4bd014fc6.jpg"
+  },
+  "name": "Theseus",
+  "elements": {
+    "MAIN_COST": "8",
+    "RECALL_COST": "8",
+    "OCEAN_POWER": "6",
+    "FOREST_POWER": "6",
+    "MOUNTAIN_POWER": "6",
+    "MAIN_EFFECT": "[Scout] {3}. (You may play me from hand for {3} with \"{h} Send me to Reserve\".)  {J} Return target Character to its owner's hand.  {R} I gain 2 boosts."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-030-F-EN"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_11_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79CDJFXR5HBQB8EC6N5E",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8ANB7G2QC9A84888QQJ4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8ANB7G2QC9A84888QQJ4",
+          "text": "Schutz oder Schaden? Das kann nur die Karte zeigen."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8APSQ99KBQBYJZKT1GV4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8APSQ99KBQBYJZKT1GV4",
+          "text": "I blow strongly on the heady herbal tea that Baba has given me, warming my freezing hands on the steaming cup. I'm sitting on a rocking chair on the terrace of her isba, wrapped up in a wool blanket to protect me at least a little from the cold. Even though I'm sorely tempted to take refuge inside the hut, I know it's not a good idea. I'm the one assigned to monitor the Black Wave today, alongside the old witch. I hear the front door open, and Baba Yaga comes out with a tray in her hands. On it are some small porcelain plates loaded with sugar-coated cookies, little pastries and preserves. And another steaming teapot, of course. Her friendly manner makes her seem more like a grandmother than a frightening old shrew. Taru emerges timidly from under the covers after seeing these new treats.\n\nBaba sits down next to me and starts to knit her woolen scarf again. I watch her at work as I inhale the scent of spices: cloves, cinnamon, star anise, cardamom... The Gora grove could have been quite a relaxing place in the Kadigir if it weren't for this Tumult Singularity. Suddenly, the isba starts to move on its chicken legs. I spill a little of my tea and curse, then notice that Baba has stood up. She scans the fleecy plain with its grass as black as night. I feel a sudden uneasiness, which heightens when I see the witch grab her pestle and summon her mortar. I feel a churning in my stomach as the Black Wave quivers. The mood in the obsidian clearing turns grim. I too stand up and begin to cover myself with Sigils. And when I turn towards Baba again, I see that the friendly old woman is now a harpy with a terrifying face..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8AP1A4A5BP2V776D9SPK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8AP1A4A5BP2V776D9SPK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8AKYY9RM8C857SSSCFCH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8AKYY9RM8C857SSSCFCH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8AMNX5W7GXYZMA5Y9HVK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8AMNX5W7GXYZMA5Y9HVK",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79CDJFXR5HBQB8EC6N5E",
+      "reference": "ALT_COREKS_B_YZ_11_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7164920491cc72934049",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Magier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1d8c16d4e626f8a55702",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/JPG/de_DE/4033cebff27c3ec109b9d1e7df2b0dbd.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/WEB_536e85193617153cada9849433e5a352",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/WEB_6378dcaffe7293bcfbb6b4dca45d93c7",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/WEB_3165b2f65a9a9cf0c265eed69094317c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_11_R2",
+  "reference": "ALT_COREKS_B_YZ_11_R2",
+  "id": "01HN5TXRK33ZPJ2XJSV4Y8G7FM",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/JPG/de_DE/4033cebff27c3ec109b9d1e7df2b0dbd.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/JPG/en_US/7cbeb6ba38313060ff58b4dce791bdbc.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/JPG/fr_FR/6b109ac013bb336f8ab6ddc1ade22b08.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/JPG/es_ES/d72f640be035d2d70ed9c1fe02befd3b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/JPG/it_IT/45360fe378ef073c213722b8580543be.jpg"
+  },
+  "name": "Baba Jaga",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "#2#",
+    "FOREST_POWER": "#3#",
+    "OCEAN_POWER": "2",
+    "MAIN_EFFECT": "{H} Ziehe eine Karte."
+  },
+  "isSuspended": true,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-161-F-DE"
+}

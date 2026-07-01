@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_38_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1VY1NR2EF491F8HKYVXQT99BNF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J28S1988N6AGG73RC006P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J28S1988N6AGG73RC006P",
+          "text": "Progresser ou tenir, mais ne jamais reculer."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28TXAYQRF5CPWXQ8VAZP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J28TXAYQRF5CPWXQ8VAZP",
+          "text": "Serrer les dents et avancer, un pas après l'autre. Concentre-toi sur ça, Sun. Uniquement sur ça. La douleur, aux oubliettes ; le froid, c'est que dans la tête. Bouclier brandi devant moi pour m'abriter du vent glacial, je remonte la pente avec une pénible lenteur, tandis que mes bottes s'enfoncent profondément dans la poudreuse. Et ce blizzard... Il ne cesse de souffler et de gagner en intensité, et plus on monte, plus ses flocons cinglants nous lacèrent le visage, comme si on se frottait les joues avec du papier de verre. Pendant quelques instants, je m'autorise à pester à l'encontre de Sigismar, qui est resté derrière pour accompagner les derniers explorateurs et couvrir leurs arrières. Oh, je sais qu'il voulait bien faire et me donner des responsabilités, mais j'en ai plein les bottes, à l'heure qu'il est, de ces soi-disant responsabilités. Et je déteste, mais alors je déteste, avoir les pieds mouillés.\n\nMais je ne vais pas abandonner pour autant. On viendra à bout du Cais Adarra, et tout ce dont on a besoin pour y arriver, c'est de volonté. Une volonté intransigeante et militaire. Sig plaisantait régulièrement en me demandant ce que je faisais là, alors que j'aurais très bien pu postuler chez les Bravos, vu mon attitude bourrue. Il se plantait dans les grandes largeurs, bien entendu. Ce qui importait à mes yeux, c'était l'effort commun ; dédier mon énergie aux autres, pas à moi-même. Et il le savait, au fond. Mais ça n'allait pas m'empêcher de dire ce que j'avais à dire, ni de me plaindre quand ça n'allait pas. Je sais que je ne dois ma position qu'aux caprices de mon supérieur. Si d'autres avaient jugé de mon cas, ils auraient sûrement écarté mon dossier à cause de mon insolence notoire. Le pire, c'est que je ne sais toujours pas pourquoi Sig m'a choisie pour être son adjudante. Tout ce que je sais, c'est que je ne vais pas gâcher la chance qu'il m'a offerte."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28SMP882F35MEGFFW68X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J28SMP882F35MEGFFW68X",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28QYEY3FQR86JNDKV0PB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J28QYEY3FQR86JNDKV0PB",
+          "text": "SUNISA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28RE1JWVZ6GW13QJ0ZYZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J28RE1JWVZ6GW13QJ0ZYZ",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1VY1NR2EF491F8HKYVXQT99BNF",
+      "reference": "ALT_ALIZE_B_OR_38_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d90251023b6bc638945b",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ad804f914f8b2402fa95",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/fr_FR/ee0a233017114ab689352d5d1797c5ff.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/WEB_f77d77e02e3eae1b8de74ef8532f2092",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/WEB_9c0e0e7ed15787e3b9e23615cb5db49c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/WEB_b6cb2ed73b46c78b4b4a5a2b53692313"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_38_C",
+  "reference": "ALT_ALIZE_B_OR_38_C",
+  "id": "01J1Q4P4SMDNZ8MWZ3GHV20JS5",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/es_ES/09ec9c3abde966aa310e8079a3555811.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/de_DE/6307f8c1cf6768c8bc373c9ebf5df3d5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/it_IT/2bfbad8eb9a9e41701e50fa1fca766b7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/fr_FR/ee0a233017114ab689352d5d1797c5ff.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/en_US/b63c95998198d62c059fd28016b46ac6.jpg"
+  },
+  "name": "Sunisa, Enseigne Dévouée",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "[Défenseuse]. (Mon Expédition ne peut pas avancer pendant le Crépuscule.)  Si mon Expédition est en retard, les Personnages [Défenseurs] ne l'empêchent pas d'avancer."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-074-C-FR"
+}

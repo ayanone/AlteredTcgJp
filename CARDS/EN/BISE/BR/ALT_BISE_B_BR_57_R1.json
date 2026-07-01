@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_57_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/11JQGCSBMN9HY9A1T7WSYNRTBH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A518MYRZT41DKQ0E68SG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A518MYRZT41DKQ0E68SG",
+          "text": "The quickest solution when you need extra firepower."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A51TYGEXR1SXEDEZHXKA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A51TYGEXR1SXEDEZHXKA",
+          "text": "393 AC - Sometimes strength is useless. And sometimes even speed is pointless. My blade cleaves and slashes, but it's like cutting through the flow of a river. In the middle of the cave, jet-black phantoms like roving shadows glide like trails of ink, eager to mix in the red of my blood. They peel away or seep from the walls, and even though I twirl my blade in every direction to cover as much area as possible, I have an annoying feeling that I'm just stirring air — like a windmill trying to push back the night. By trying to hold them off, there's a risk I'll become exhausted. I choose each of my steps with care to navigate the rocky ground. The cavern's many irregular surfaces make it impossible to maintain a continuous path or to identify openings and routes for escape. When each pool of darkness could be hiding one of these spirits, it's not easy to use the full range of my art.\n\nBut I must hold off the siege, like a dam restraining the water's constant push. Fleeing is not an option… And thankfully, that was never my intention. I smile as I approach the well. It's surrounded by those damned engraved stones, stacked in a haphazard pattern like an amphitheater designed by a deranged architect. The shadows approach, hoping to corner me, but unaware of the ambush I've set for them. I breathe out. The Jinn drops from the ceiling like a streak of fire and metal. It descends from above, screeching like a bird of prey with a wordless shriek from a mouth filled with steel fangs and blue flames. What's better than light to banish shade? The detonation is jaw-dropping when the Jinn explodes. The brightness takes the shape of a wave that rolls into the smallest nooks and fissures, and as it flows past, the black smoke unravels, sizzles and disperses. Mana fills the cavern like a fog, and I inhale it to engorge myself with power…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A51JZGC0Q5PTXERVR5S6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A51JZGC0Q5PTXERVR5S6",
+          "text": "Originating in pre-Islamic mythology, Jinn are fantastical creatures shaped from smokeless fire. With the ability to shapeshift at will, it's said that they live in desolate places, near waterways or in forests and deserts. While some can be malicious, it's also said that philosophers, poets and soothsayers were sometimes inspired by Jinn. They also appear in many stories, from \"One Thousand and One Nights\" to Victor Hugo's poem \"Les Djinns\"."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A50T3WXQATHVCZW0RJG9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A50T3WXQATHVCZW0RJG9",
+          "text": "ATSADI"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A511TM2R8Q7SPK3M9XD8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A511TM2R8Q7SPK3M9XD8",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "11JQGCSBMN9HY9A1T7WSYNRTBH",
+      "reference": "ALT_BISE_B_BR_57_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2eb20e547d2edb403b05",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Elemental"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0dadee47aecbef61c50b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/en_US/f46dae3fc70c2fe324cae0f2052bf088.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/WEB_744a0643b4d03350982638cc87d0f374",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/WEB_592491a8f6e376543894379a556ba0ea",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/WEB_9c1cb541d3684fb8bf01076b36aa3c16"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_57_R1",
+  "reference": "ALT_BISE_B_BR_57_R1",
+  "id": "01JB1YGPBBZWWPFJGWZ68G4WY5",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/de_DE/f629ab8d0b5c597200a088e29752f14a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/it_IT/f191b20396ba1802535cb7d5647455e9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/es_ES/e4cc814c3d68ffedea45dd656414322c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/en_US/f46dae3fc70c2fe324cae0f2052bf088.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/fr_FR/a98514d6d4c86d4e9904243dcd404773.jpg"
+  },
+  "name": "Swift Jinn",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "#5#",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "[Scout] {3}. (You may play me from hand for {3} with \"{h} Send me to Reserve\".)  {J} You may put a card from your Reserve in your Mana zone as a #ready# Mana Orb."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-029-R-EN"
+}

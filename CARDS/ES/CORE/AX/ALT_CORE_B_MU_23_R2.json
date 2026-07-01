@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_23_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY507PAJ3A6P1H2XDRMW2G",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y4ES4XMR4JWZPAVZ23B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5Y4ES4XMR4JWZPAVZ23B",
+          "text": "«¿Qué necesitas?»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y5A8DFN4DJRHGX3QJHR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5Y5A8DFN4DJRHGX3QJHR",
+          "text": "I push with all my might, my feet slipping in the mud. On the other side of the carriage, the merchant pulls on the bridle of his giant raccoon as best he can. Slowly but surely, the cart's wheel gets unstuck and begins rolling down the sodden road once more. I exhale deeply as the traveling grocer waves me over. Going up the muddy slope, I notice Spike discreetly poking his head between a wooden barrel and a stack of wrapped crates. I smile at him, and he starts doing his happy dance. The slightest win on our part has always made him euphoric, almost intoxicated. The peddler from the Cornucoopia franchise hands me a canteen, and I quickly take a few swigs. I must say, Kimo has been pleasant company the past few days.\n\nIn exchange for a little help loading his wagon, he offered to drop me off at the next hub. For a place at his fire and some of his rations, I agreed to sell his goods at the various markets we came across, while he would trade and barter some other wares of his own. Then that night, he would tell me what he'd seen throughout his career, and what it meant to be part of the Muna. He wasn't fooled. He could tell I'd been awakened too. Though he couldn't believe no one had explained to me what it meant, and everything that spark entailed. While cooking up the contents of his cans and jars, he suggested I go to the Spindle Tree, so that officiants there could train me further. And maybe I would go there. But for the time being, I was quite content with that small stretch of road by his side."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y4WRTMDEK7SSAMNR1PR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5Y4WRTMDEK7SSAMNR1PR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y3FKKJVVNNDY5GDNG00",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5Y3FKKJVVNNDY5GDNG00",
+          "text": "Arjun"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y3X97PSE49J9QSBP015",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5Y3X97PSE49J9QSBP015",
+          "text": "384 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY507PAJ3A6P1H2XDRMW2G",
+      "reference": "ALT_CORE_B_MU_23_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1c6c475ddabb9500f0db",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Ciudadano"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/37fd91ec21c33e192fa9",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/es_ES/708ce1976bfb7b534221483f3b4ba340.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/ALT_CORE_B_MU_23_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/ALT_CORE_B_MU_23_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/ALT_CORE_B_MU_23_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_23_R2",
+  "reference": "ALT_CORE_B_MU_23_R2",
+  "id": "01HKAFJP8N2NXARSX8YCZN87WZ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/fr_FR/33e5a4f5de155a33a4693b7a7b53cac2.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/en_US/28c056e97844b81d638168f3a62233c4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/it_IT/950959b063f08014e94dced47d78fa12.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/de_DE/caf35765e2b00601d479fffcd565e016.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/es_ES/708ce1976bfb7b534221483f3b4ba340.jpg"
+  },
+  "name": "Mercader de Muna",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{R} [Reabastece]. (Coloca la primera carta de tu mazo en la reserva.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-100-F-ES"
+}

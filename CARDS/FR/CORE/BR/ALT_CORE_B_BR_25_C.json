@@ -1,0 +1,173 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_25_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZB7DBV760K79WPWX8FB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5SMR5G2R8SDWQF1ZHR1C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5SMR5G2R8SDWQF1ZHR1C",
+          "text": "Ne la laisse pas tomber."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SNFATGQ5HHC2X9J3S7R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5SNFATGQ5HHC2X9J3S7R",
+          "text": "Je saisis un brin d'herbe et me mets à le mâchonner en massant mon cou endolori. Au loin, quelques nappes de Tumulte sont en train d'osciller comme une mer de brume, mais il va de soi que des Exalts se dirigent déjà vers cette destination. Bon sang, les premières courbatures. Il y a longtemps, cette expédition aurait été une promenade de santé pour moi, mais l'âge est en train de me rattraper, on dirait. \"Ha, depuis déjà un bail, Baz\". Je lance un regard noir en direction de Kai, dont les yeux apparaissent sur mon avant-bras. Ha, dit celui qui se laisse porter sans fournir le moindre effort. Mais quoi qu'on en dise, il a raison. Je suis aux dernières pages de mon histoire, et il est grand temps que je passe la main aux plus jeunes. Ceux qui ont encore la vie devant eux.\n\nAoife vient me trouver alors que je suis encore perdue dans mes pensées. Elle me tend la main pour m'aider à me relever. Je l'accepte en maugréant, et elle me hisse sans effort malgré ma carrure beaucoup plus robuste que la sienne. Je fais craquer mon cou et joue des omoplates pour étirer mes muscles refroidis. Sans un mot, elle frappe mon épaule d'un geste complice avant d'aller donner ses directives aux autres membres de l'équipée. Ne t'emballe pas, Aoife. Il me reste quelques pages pour terminer mon histoire, et je ne compte pas partir sans un dernier coup d'éclat. Je saisis mon sac et le remets sur mon dos. Kaizaimon me sourit furtivement avant de disparaître sous mes vêtements, glissant sur ma peau comme le tatouage vivant qu'il se plaît à être parfois. Je fais craquer mes phalanges. Quoi qu'on en dise, j'ai encore mon rôle à jouer, ici et maintenant, et il faut avouer que j'ai encore de beaux restes."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SN56K1B7VVGJSECNVMV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5SN56K1B7VVGJSECNVMV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SM5P7MVQRE0MK3N8Q0J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5SM5P7MVQRE0MK3N8Q0J",
+          "text": "Basira"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SMEA41WQ6FG792SQGRT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5SMEA41WQ6FG792SQGRT",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY4ZB7DBV760K79WPWX8FB",
+      "reference": "ALT_CORE_B_BR_25_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/cbf4bfc7bdfff400ebae",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Bénédiction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/725297fd012ebb954a12",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/24acbe9e0592456f3ea3",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:40+00:00",
+      "question": "Can I play Helping Hand on a non-Fleeting Character?",
+      "answer": "Yes. "
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/eeb4d891bcbccf919787",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:40+00:00",
+      "question": "Can I play a Spell if there's no valid target?",
+      "answer": "Yes. Note that your opponent Characters are valid targets for this Spell."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_25/JPG/fr_FR/6c3033c0000304bf2f7f506f9aad02fe.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_25/ALT_CORE_B_BR_25_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_25/ALT_CORE_B_BR_25_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_25/ALT_CORE_B_BR_25_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_25_C",
+  "reference": "ALT_CORE_B_BR_25_C",
+  "id": "01HKAFJNQFCNYSFZT0ET0ETBXX",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_25/JPG/de_DE/39e9e0671c5dc2a657fb9a656175971d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_25/JPG/es_ES/cacacb12d3a9621511a38c7e3447b49d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_25/JPG/en_US/8ed5fc7b37d2ee088ea35197bfc954b0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_25/JPG/fr_FR/6c3033c0000304bf2f7f506f9aad02fe.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_25/JPG/it_IT/6703d1e3f5290d2a1b0e1f04bb70f784.jpg"
+  },
+  "name": "Main Tendue",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Un Personnage ciblé gagne 1 boost[] et perd [[Fugace]]. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-055-C-FR"
+}

@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_49_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4JWZH750HR8NHT36Y2HJJMJ02C",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A5JY6R3DKP942Q6J7ZHR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A5JY6R3DKP942Q6J7ZHR",
+          "text": "\"This one's for all the explorers out there and all the hard work they do. They're not just monkeyin' around!\" — Boona"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5KERHEE97DQ8SR4KBW3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A5KERHEE97DQ8SR4KBW3",
+          "text": "393 AC - His agile fingers dance easily over the strings as he chews on a root that no one else finds appetizing at all. He and Crowbar jab and curse at one another, but I know it's just a game, just for show. I had some misgivings at first about bringing another Chimaera into the group, especially one with a habit of picking lice off himself in public, but seeing them interact convinced me it was the right move. Obviously, that meant we had to deal with his moods and whims going forward, but what I learned was that if the group started to play, Boona wasn't the type to miss out on the action. No matter how he was feeling, whether he had a profound lack of motivation or was on some eccentric flight of fancy, he always ended up grabbing his bass and joining in. The temptation was always too strong. We just had to adapt the set list to his erratic behavior and always leave ourselves a little margin for error.\n\nVery few Chimaeras were permitted to roam free, and among those who were allowed to move around Asgartha, many of them wound up with the Lyra. And Boona had found work with a circus. Even now, I don't know exactly when and how he appeared, or whether his punk chimpanzee look really reflects who he is, but it's in a Chimaera's nature to be extremely variable. Ultimately, I don't think his current appearance really bothers him — or in any case, he's never gotten mad about the simian look we keep giving him through our combined memories. That's true for my Chimaera too, actually. Crowbar is just a stage outfit that she puts on when she feels like it, and maybe one day she'll ask to change it. Boona turns to me and gives me a big toothy smile to let me know he's ready to continue. All right, break over."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5K6Q6DJ946VFSFCD2DD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A5K6Q6DJ946VFSFCD2DD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5JDK8DKJ41AAPE9ZRP7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A5JDK8DKJ41AAPE9ZRP7",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5JPYY11T40YCHBB0JWG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A5JPYY11T40YCHBB0JWG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "4JWZH750HR8NHT36Y2HJJMJ02C",
+      "reference": "ALT_BISE_B_LY_49_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b4df834ccfa711d62a08",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artist"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/442bc62e6166693170c2",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/en_US/15b6c98eff0bde5083a8ebab739ea4f3.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/WEB_1b3c4b648e4d043d79d1fe63f53a54cd",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/WEB_08e299bccd3ffaf358192c01144d7304",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/WEB_ece1ae03166aa024772b63d1abddc80c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_49_R2",
+  "reference": "ALT_BISE_B_LY_49_R2",
+  "id": "01JB1YGPBE2G9WR1SEPZ40VP8J",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/es_ES/86c3bc5b671d1150e93f7bfb15784514.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/it_IT/08effd4f31d968895ee96fbca3737666.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/de_DE/fbc88a63fe6ecca7ed44ffe916f554b4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/en_US/15b6c98eff0bde5083a8ebab739ea4f3.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/fr_FR/bfc300586550101df2a5c0eeef4c4f1b.jpg"
+  },
+  "name": "BLISS Bassist",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "#If I'm [[Boosted]], the {V}, {M}, and {O} of other Characters you control are equal to their highest statistic.#",
+    "ECHO_EFFECT": "{I} When you play a #Spell# — I gain 1 boost, up to a max of 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-037-F-EN"
+}

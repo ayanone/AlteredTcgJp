@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_38_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2GZ7G5WFB39ASTFG8M0BYZZ3KH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23BH6ZGDMD304ZP34X28",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23BH6ZGDMD304ZP34X28",
+          "text": "« Si on pouvait remplacer les pièces manquantes, on pourrait le faire fonctionner... »"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23C28KQJY02PPG3JS1XK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J23C28KQJY02PPG3JS1XK",
+          "text": "Humpf. Je dépose la lourde caisse, remplie de bric et de broc, et secoue les mains pour en chasser la douleur de l'effort. Puis je me redresse et souffle longuement, massant mon cou endolori. Pas facile de travailler avec le froid ambiant, et seule, qui plus est... Autour de moi, les Scarabots vont et viennent, escaladant la carcasse de mon malchanceux Automate. J'y ai mis toute mon âme, mais j'aurais dû anticiper qu'il ne serait pas dans son élément dans les étendues enneigées. Après un malheureux faux pas, je l'ai vu dégringoler dans le défilé comme un pantin désarticulé, avant de se fracasser plusieurs dizaines de mètres en contrebas. Je n'ai pas osé l'abandonner là, même si ça veut dire perdre un temps précieux. Et il est aussi hors de question de taper dans les stocks pour le réparer. Alors tout ce que je peux faire, c'est rassembler tous les bouts de ferraille mis au rebut pour essayer d'en tirer quelque chose.\n\nAllez, encore quelques efforts. Des gerbes d'étincelles grésillent alors qu'un Scarabot soude le nouveau plastron de mon prototype robotique. On l'a récupéré sur un vieux Brouilleur blindé, tout comme son épaulette. Mais le plus compliqué sera de lui fabriquer une nouvelle jambe. Certes, il n'aura pas une démarche gracieuse, mais une claudication inélégante suffira si ça veut dire parvenir à lui faire regagner le campement. Je soupire et passe une main sur sa carlingue abîmée. Allez vieux père, je te promets de te perfectionner dès que je le pourrai, mais pour ça, il va falloir que tu m'aides un peu en retour. L'Automate se met à faire bouger ses orteils, levant soudain la tête. Je me permets un sourire et tapote son exosquelette comme pour l'encourager. Je m'écarte alors qu'il tente maladroitement de se relever. C'est bien. Et quand on aura fini tes réparations, je te promets de te trouver un nom qui te convient.."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23BS0199353ZQG9JQ3F8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23BS0199353ZQG9JQ3F8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23APM2P5JSQG1VZEKRH7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J23APM2P5JSQG1VZEKRH7",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23B2K64MHMSQ312D1D64",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23B2K64MHMSQ312D1D64",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2GZ7G5WFB39ASTFG8M0BYZZ3KH",
+      "reference": "ALT_ALIZE_B_AX_38_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b4affbd6a6cc13ad334e",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9acf39027968628e8661",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/fr_FR/f545b18263e554dad506c04c074125c1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_176e74e3b9c2ebcabed125990a5f0d37",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_512573fbe1e878d1febadf43de6496e4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_4a2ca4fe0db64cb1b28dd73669ba2931"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_38_C",
+  "reference": "ALT_ALIZE_B_AX_38_C",
+  "id": "01J1Q4P4RTGYQGABCPS4EW548A",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/de_DE/79f7b3f0ee6570f931eed416fec98860.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/it_IT/1fdc608cea61f61287f86c7e5026edf5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/fr_FR/f545b18263e554dad506c04c074125c1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/es_ES/f713b0d77bc0c698b92fb548499de868.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/en_US/f644a32facc0521aa34eb59dd8dfe339.jpg"
+  },
+  "name": "Prototype Défectueux",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{J} Sacrifiez un autre Robot ou Permanent. Si vous ne pouvez pas le faire, sacrifiez-moi."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-010-C-FR"
+}

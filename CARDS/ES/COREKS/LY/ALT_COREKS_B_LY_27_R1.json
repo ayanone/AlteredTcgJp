@@ -1,0 +1,175 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_27_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB783VPW2C7657BXWCMKPM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME81DAMAQEHG9A9D939F5H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME81DAMAQEHG9A9D939F5H",
+          "text": "Quien mira hacia fuera sueña, quien mira hacia adentro despierta."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81E63AQFQ51QV3479FZA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME81E63AQFQ51QV3479FZA",
+          "text": "There are thousands of ways to reach one's personal zenith. Some people just need to follow their inner flow... while others dive into Cerridwen's Cauldron. But the process is the same each time: You need to free yourself from your limitations. I know what you're thinking: How is that any different from what the Bravos do? Well, there is a slight difference... a nuance that changes everything! The Bravos seek self-improvement and to surpass their own limits, while the Lyra look for change, metamorphosis, a transition from one state to another. There's also a difference in philosophy: The Lyra like to absorb experiences like a sponge, whereas the Bravos see them as challenges to overcome and draw strength from. They build themselves a shell, while we create a heart of steel, as hard as diamond.\n\nBut in reality, the end goal is the same: What we seek is obviously transcendence. That's why I'm here, drawing from my Ignescence. And at the same time, I'm quieting my own ego. That's always been the best way for me to absorb and take in all the ideas in the world. They are out there, volatile, floating in the air, and I welcome them all. Firstly, because hospitality has always been one of the Lyra's core values, and secondly, because I like to make them collide like marbles with all the other ideas I've collected in the past. Ideas bump into and bounce off each other. Sometimes the combination doesn't work. But other times, the impact creates a little marble that's never been seen before. And sometimes, deep within myself, I witness the birth of a pearl... what some might call inspiration. And that fire becomes fuel for my show!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81DRGKWZM8N20B9D8CHR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME81DRGKWZM8N20B9D8CHR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81CBVZ8WZJQ8S8DN9ZQF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME81CBVZ8WZJQ8S8DN9ZQF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81CVVFGFRSHNE5J3WCXJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME81CVVFGFRSHNE5J3WCXJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB783VPW2C7657BXWCMKPM",
+      "reference": "ALT_COREKS_B_LY_27_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bf72f9580df0aeb5c0e5",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuro"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/62ed22e4cf055d51bfd4",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/849e8b306616d7f85dc4",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:46+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Mind Apotheosis said \"(Don't activate any {h} triggers.)\". Future printings will say \"(Don't activate any {h} abilities.)\""
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/f8aae7d6045c30337e29",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-06-20T10:37:46+00:00",
+      "question": "Do the {j) and {r} abilities of the Characters put in play by Mind Apotheosis activate? ",
+      "answer": "The arrow {j} means \"when I enter the Expedition zone or Landmark zone\" (the player aids in starter decks simplify this into \"When I'm played from anywhere\"). In the case of Mind Apotheosis, cards are not played but put in the Expedition, but they do trigger their {j} abilities."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/es_ES/6d7306b42df3e51a46eb07787d9be231.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_27/WEB_a6787636f8137557d249a869b101642f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_27/WEB_bd3eb48dd6309b94472c47a97213cd8d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_27_R1",
+  "reference": "ALT_COREKS_B_LY_27_R1",
+  "id": "01HN5TXRDRWXS9T3ETRJ0GAATN",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/fr_FR/629c7e7048f974b7531323e0c8a04130.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/de_DE/9349539f04d812e0bf53104e1c10c30f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/es_ES/6d7306b42df3e51a46eb07787d9be231.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/en_US/b6be7134bb6b3a330b19815f925ced73.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/it_IT/c68cebe8154f9fe3bf8bd1b7ccaa048c.jpg"
+  },
+  "name": "Apoteosis mental",
+  "elements": {
+    "MAIN_COST": "#8#",
+    "RECALL_COST": "#8#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugacidad]].  Revela las cuatro primeras cartas de tu mazo. Elige hasta dos personajes entre estas cartas y colócalos en tus expediciones. Ganan [[Fugacidad]]. Descarta las otras cartas. (No actives ninguna habilidad {h}.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-088-R-ES"
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_07_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY505Z4RS2MG5QMVXAP859",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5WQNWSWX0MQMJYGZPR73",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5WQNWSWX0MQMJYGZPR73",
+          "text": "„Wach auf, du faules Pelzknäuel!“"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WRF6J6JE514VVATCW68",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5WRF6J6JE514VVATCW68",
+          "text": "I set down the basket of offerings at the threshold of the old forest, as required by tradition. This is how things have been done for centuries, since the day this village was established. I know the other villagers are still afraid of the forest, and I too might have been reticent to venture so far into the woods just a few months ago. But ever since I had that dream, it's as if a veil has been lifted, taking all my unwarranted fears with it. For even the old forest is part of me. I don't entirely know what that means yet. But ever since then, Alteration has come naturally to me. And Eidolons will often manifest around me, sometimes even when I don't want them to. But at this particular moment, I know full well who I wish to call forth.\n\nIn my mind, there's a snap amongst the branches. A figure drops down from the foliage of the old oak tree. It's in my imagination, of course, but with the Mana I'm breathing into them, the scene and the character I've conjured come alive. The child straightens up, gazing at me intensely from behind jet-black curls. He's wearing a headdress of twigs and leaves, a belt, and a loincloth of feathers and flax. His dark skin, smeared with dried mud, is adorned with ceremonial paints. And as I stare back at him, I feel I can identify with him. Mowgli can move freely on either side of the border, both in the world of humans and off in the feral expanses. Did he belong to both, or was he in fact rootless? He approaches the basket and checks its contents. And wordlessly, we exchange a smile. Perhaps it was a positive thing, to live on both sides of the threshold like this..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WR20WE3C4178S9GSXSP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5WR20WE3C4178S9GSXSP",
+          "text": "Created by Rudyard Kipling in 1893, Mowgli is the protagonist of the collection of stories entitled The Jungle Book. After his parents lose track of him, he is welcomed by a pack of wolves when he is just an infant. Raised by Raksha and Father Wolf, he befriends other wild animals: Bagheera the black panther, Kaa the python, and the bear Baloo, who goes on to tutor him all about the laws of the jungle. At the end of his adventures, Mowgli finally makes peace with his humanity, becoming a bridge between the jungle and human communities."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WPW70BR3P7H25XDTH9H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5WPW70BR3P7H25XDTH9H",
+          "text": "Arjun"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WQ9NE7QWJEM935C9R2N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5WQ9NE7QWJEM935C9R2N",
+          "text": "379 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY505Z4RS2MG5QMVXAP859",
+      "reference": "ALT_CORE_B_MU_07_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bbf7196debef0fc52d1e",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druide"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/fd2ce58e44d8598a5229",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/JPG/de_DE/5720985c71c69d1c87d232e2316acbd2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/ALT_CORE_B_MU_07_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/ALT_CORE_B_MU_07_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/ALT_CORE_B_MU_07_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_07_R2",
+  "reference": "ALT_CORE_B_MU_07_R2",
+  "id": "01HKAFJP6JEEJA2V548R4H5S2B",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/JPG/de_DE/5720985c71c69d1c87d232e2316acbd2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/JPG/es_ES/565f7469db9036dd889eb614fcc4913b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/JPG/fr_FR/545216c06d134edf908204232cd3056c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/JPG/en_US/afce7a2bab53c8c622731023a46aaba1.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/JPG/it_IT/dc6a19b2eba2e16b8884c3314427ae11.jpg"
+  },
+  "name": "Mogli",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "3"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-096-F-DE"
+}

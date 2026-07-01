@@ -1,0 +1,148 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_02_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7DT37QSKFX9YVS95VMNSCZNZ76",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A8EFV34R38R1P8B7PC8C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A8EFV34R38R1P8B7PC8C",
+          "text": "La bureaucratie est un art qui exige une grande planification."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8GACNH90DJANVKF6RTA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A8GACNH90DJANVKF6RTA",
+          "text": "392 AC - Caer Oorun, la Province Perdue. Deux cent soixante-dix-sept ans après l'abandon de ce territoire aux... tentacules du Kraken, cette contrée était de nouveau foulée par les Asgarthi... Presque trois cents ans, et que de choses oubliées, que de mystères à éclaircir ou redécouvrir. Que de temps perdu. Je soupire et inspecte la ruine, recouverte de mousses, de lichen et de lierre. Un corps de ferme, probablement, dont les murs se sont effondrés à cause de l'érosion et du manque d'entretien. Il devait y avoir là une grande étable, ici un puits... Mack est posé sur un muret, se curant nonchalamment les griffes. Il avait sûrement hâte de regagner l'Ouroboros, pour replonger dans les intrigues fascinantes qui s'y jouaient en permanence. Entre les opposants à l'Effort de Redécouverte, et les officiers qui se comportaient comme des sycophantes tout en briguant plus de pouvoir, il y avait certainement de quoi faire, là-bas.\n\nMais nous étions désormais un Exalt, et notre mission première était d'explorer le vaste monde, tout en gardant bien sûr un œil attentif sur les autres champions d'Asgartha. Et de toute façon, il fallait bien que mon Alter Ego cède parfois aux caprices de sa vieille moitié. Mack secoue la tête, exprimant sans fard son ennui. Lui n'était clairement pas aussi intéressé par les vieilles pierres. Et malgré toutes mes tentatives de l'initier à l'histoire, à l'archéologie ou à l'étude des temps passés, rien n'avait capturé longuement son attention. Je lui souris, tandis qu'il se laisse tomber à la renverse dans l'herbe drue et se met à gesticuler comme un impatient garnement. Patience, mon ami. Une porte vermoulue gît sur le sol, ensevelie sous des gravats et un tapis de mauvaises herbes. En faisant appel à mon imaginaire, je recompose ce que la bâtisse devait être à l'origine. Des images-fantômes se mettent à se mouvoir devant moi, comme une saynète vestigiale, un fantasme de ce que pouvait être le passé. Tel un voyeur, je les contemple."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8EVFJTPWW7S047NJZSS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A8EVFJTPWW7S047NJZSS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8DR08H9JWD3RXP8F7K4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A8DR08H9JWD3RXP8F7K4",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8E4YWEEE33967J09G41",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A8E4YWEEE33967J09G41",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "7DT37QSKFX9YVS95VMNSCZNZ76",
+      "reference": "ALT_BISE_B_OR_02_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/09587d56e0a307a46dc7",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_02/JPG/fr_FR/0724d52e85436d96516cf9c6ff26cf90.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_02/WEB_94104d5262fb14a80c4d6ad30b9b4932"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_02_C",
+  "reference": "ALT_BISE_B_OR_02_C",
+  "id": "01JB1Z46FVWWW17FWJ6SVCZTCW",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_02/JPG/es_ES/94140060067c3b04a18b8cdeecc4bd83.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_02/JPG/it_IT/8d2955bac0db411639ab480b05f9c8af.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_02/JPG/de_DE/13013b206074878afd501c5d1dc29983.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_02/JPG/en_US/debaf2dc9405d43c3b5b2802fce82642.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_02/JPG/fr_FR/0724d52e85436d96516cf9c6ff26cf90.jpg"
+  },
+  "name": "Waru & Mack",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Lorsque vous jouez un Bureaucrate — Il gagne [[Endormi]]. (Durant le Crépuscule, ignorez ses statistiques. Au Repos, il ne va pas en Réserve et il perd Endormi.)"
+  },
+  "isSuspended": false,
+  "isErrated": true,
+  "isBanned": false,
+  "collectorNumber": "WFM-070-H-FR"
+}

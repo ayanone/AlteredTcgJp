@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_25_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB783MMJ97DHXKY8NQK5T5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME817ZRE5W6CTX20RXZF6N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME817ZRE5W6CTX20RXZF6N",
+          "text": "C'è un momento per essere cauti e un momento per scommettere tutto!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME818W2N0EQ4ZRBP263SCX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME818W2N0EQ4ZRBP263SCX",
+          "text": "Fen shakes her head vigorously, her eyes bulging and cheeks flushed. I feel the blood throbbing in my temples, and my eyelid twitches nervously. Nada at the slot machines, cleaned out at blackjack, zero at roulette... All my savings are vanishing before my eyes. OK, yes, Fen tried to stop me from playing a bunch of times, but hope keeps you going, right? So, here I am at the craps table, dice in hand. I could play it safe and take it easy with my chips, but it would take me ages to win my money back. Might as well go all in and leave with my head held high. There'll be plenty of time after that to drown my sorrows with a drink or three. You're either a player or you're not, right?\n\nOK, the die is cast. Actually, no, not just yet. Bam, I push all my chips in, while Fen covers her eyes and bites her lip. I just need to go all in. I blow on the dice; materialize a rabbit's paw, horseshoe and four-leaf clover; and then swirl my tongue in my mouth 13 times. And then whatever happens will happen. 7, 7, 7, 7... I throw the dice hard, and they bounce off the felt. 7, 7, 7, 7... I watch them roll, hit the edge of the table, slow down and stop. All around me, the excited onlookers who had been cheering me on suddenly stop yelling. Even the croupier stops in his tracks when he sees the dice. The two dice show that I did actually roll a \"7\". There's a \"6\" on one and \"1\" on the other. Except all the sides of the first die have a \"6\" on them, and all the sides on the second have a \"1\". Oops, in all the excitement, it's possible that I might have lost control of my Alteration a little bit..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME818E431SXK2W0770GVE3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME818E431SXK2W0770GVE3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81709KTH72ZDM9KDQRJ2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME81709KTH72ZDM9KDQRJ2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME817F5FFHYWWHMV84X65M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME817F5FFHYWWHMV84X65M",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB783MMJ97DHXKY8NQK5T5",
+      "reference": "ALT_COREKS_B_LY_25_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5fc7da4a6aae8da8ca6d",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Vantaggio"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/dd4e584112bea052f334",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/89a44f9558666d497b9d",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-26T10:37:35+00:00",
+      "question": "Can I first check the result of the die, then pick a target?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_25/JPG/it_IT/e651adb2982d32c7f5c6d23cc10ae5ed.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_25/ALT_CORE_B_LY_25_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_25/ALT_CORE_B_LY_25_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_25_R1",
+  "reference": "ALT_COREKS_B_LY_25_R1",
+  "id": "01HN5TXRDG2J02W1S1TSFAK8NM",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_25/JPG/it_IT/e651adb2982d32c7f5c6d23cc10ae5ed.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_25/JPG/en_US/fc646eb483115c876636e5d924c6d55a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_25/JPG/de_DE/4c17a6d53eee26c19c08f7ea7732cd1b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_25/JPG/es_ES/42ea1fe6da1010e9c57134eeed02b7cc.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_25/JPG/fr_FR/cac7c03489c998000f3887fc56d0205e.jpg"
+  },
+  "name": "Rischia Tutto!",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Tira un dado. #Puoi scartare una carta dalla tua Riserva per aumentare il risultato di 2.# Un personaggio bersaglio ottiene X rinforzi, dove X è il risultato finale."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-085-R-IT"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_09_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YV8H0SHS8XCHA4GK36T",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QDF8D8T1QWAKHSMQTHN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QDF8D8T1QWAKHSMQTHN",
+          "text": "Din! Din! Din! C'è qualcosa di magico nel combinare qualche marachella..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QDW19PKWXK3PQ3TG5BW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5QDW19PKWXK3PQ3TG5BW",
+          "text": "I close the door to my workshop and remove my smoking gauntlet. I drop it on the table as I pour myself a little pick-me-up. Oof, what a day! I drilled and excavated non-stop, and what was my reward? Equipment that just breaks in my hands. That's a lot of overtime I could have done without. I'm not sure whether to take a shower first, but I might as well get it over with right away. I know how I am: If I leave it too long, I'll still be in the same situation a week later. I sigh and get to work. I can handle the routine stuff myself, but I'll need help with the precision work. The only problem is, I can't think of anyone who can help me other than Tinker Bell. But if I'm to get help from her magical touch, I'll also have to put up with her dragon-like temper.\n\nI pull my Construct out of my bag and rearrange the glyphs on its surface as though it were a three-dimensional puzzle. The Eidolon of Tinker Bell immediately appears, followed by the tinkling sounds she constantly emits as she flits around the room. She finally alights on my workbench, staring with horror at the gauntlet I destroyed. She crosses her arms with an air of disapproval, tinkling as loud as possible to show her displeasure. I'm sure she'll make me suffer before the night is through. I mumble an apology, but it does nothing to calm her down. She haughtily points at my toolbox. I use Alteration to shrink it, then hand it to her. Geez, how can something so small be so ill-tempered?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QDN8FYFXFPKK5CM34KR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QDN8FYFXFPKK5CM34KR",
+          "text": "Tinker Bell is a jealous and ill-tempered character created by J. M. Barrie for his play Peter Pan. She communicates through the sounds of a tinkling bell, which are only understandable to those who know the language of the fairies. Obsessively in love with Peter, she plays tricks on his romantic interests but doesn't hesitate to put herself in harm's way to ensure his safety. She sprinkles her fairy dust on others to allow them to fly."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QD43TE6WF72J406M9W2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5QD43TE6WF72J406M9W2",
+          "text": " Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QD95TRZ3V85Y71GZ0Y4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QD95TRZ3V85Y71GZ0Y4",
+          "text": "371 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YV8H0SHS8XCHA4GK36T",
+      "reference": "ALT_CORE_B_AX_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/782b0d2d00af138eb6cc",
+      "reference": "FAIRY",
+      "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+      "name": "Folletto"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1cc2f9b771f5bf8102bd",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_09/JPG/it_IT/eee40aac65c74cf9def40e253f733778.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_09/ALT_CORE_B_AX_09_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_09/ALT_CORE_B_AX_09_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_09/ALT_CORE_B_AX_09_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_09_R2",
+  "reference": "ALT_CORE_B_AX_09_R2",
+  "id": "01HKAFJNJ40YM40JSR0NKNRJFX",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_09/JPG/en_US/e2b04440c60c024c61711b663fcec904.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_09/JPG/fr_FR/f7387147e8ed17e0c6524be9d3571efd.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_09/JPG/de_DE/4c702f84043a3b79ec04cb47d1d7c2b7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_09/JPG/it_IT/eee40aac65c74cf9def40e253f733778.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_09/JPG/es_ES/ae42eac59f11704ae8286b832bb82035.jpg"
+  },
+  "name": "Campanellino",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{R} [Sabota]. (Scarta fino a una carta bersaglio da una Riserva.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-015-F-IT"
+}

@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_37_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3PT0P4B0K28X4BTYNY6N69Y0DR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24BXW4QYS583XK8H6PVE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24BXW4QYS583XK8H6PVE",
+          "text": "«Lo que no te mata te hace más fuerte»."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24CFWRQHJETMERD6N35Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24CFWRQHJETMERD6N35Y",
+          "text": "El eidolon trata de evaluarme en su lento vaivén de izquierda a derecha, mostrándome solo su perfil. En cuanto a mí, ni siquiera estoy en guardia. Mi espada reposa pegada a mi cuerpo. Todo esto forma parte del ritual, del juego al que nos entregamos. Como me dijo Tomoe: «La lucha siempre empieza en la cabeza del oponente». Tras vencer a todos los campeones de las escuelas de esgrima, Gericht se convirtió en el maestro de su disciplina. Desenvaina lentamente dos de sus sables y permanece inmóvil. Intento leer su mente, observando cada uno de sus músculos en tensión para averiguar cómo atacará. De repente, sin llegar a entender cómo ha sido posible, se me echa encima trazando círculos con sus armas. ¡Es su ataque insignia! ¡Ascuas! Salto hacia atrás en el último momento, pero ya está listo para interceptarme cuando aterrizo. Sobrevivo solo gracias a un reflejo que me hace saltar a un lado.\n\nNo puedo dejarme avasallar. Aprovechando el desequilibrio natural de mi cuerpo, me vuelvo y contraataco inmediatamente, preparándome para clavarle el filo. Pero mi espada solo se topa con la suya. Hay otro choque de metales, luego una finta. Estoy leyendo sus movimientos, y él lee los míos. Entramos en una fase en la que tratamos de intercambiar golpes. Parece que dura una eternidad. Me enfrento a algunas combinaciones inesperadas que apenas consigo contrarrestar. Gericht es un virtuoso, un maestro de la danza del acero. ¿Cómo puedo aprovecho la ventaja? Por un momento, me planteo utilizar mi golpe secreto, pero resisto la tentación y descarto la idea. Todavía no lo necesito. Quiero saber cuánto puedo aguantar. Me enfrento a un ataque tras otro. De repente veo un hueco en su guardia. ¿Será lo que parece?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24C606TTY49RM0B7WCXM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24C606TTY49RM0B7WCXM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24BA5Y8BQ899YPNM4P4W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24BA5Y8BQ899YPNM4P4W",
+          "text": "ATSADI\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24BMC42S7W7PMPA0KJRY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24BMC42S7W7PMPA0KJRY",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "3PT0P4B0K28X4BTYNY6N69Y0DR",
+      "reference": "ALT_ALIZE_B_BR_37_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/30287ada9cbd169afb3a",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/44e1c153b0fcb68cad12",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/a0f21d6370a1b1cbe859",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:12+00:00",
+      "question": "What happens if Gericht, Revered Duelist is already Fleeting and should gain Fleeting due to another effect?",
+      "answer": "It gains Fleeting again (which in general doesn't change anything, but gives him a boost). The power of the Common version of Gericht is an exception to the general rule that a Character cannot gain Fleeting if it's already Fleeting."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/es_ES/723e0c8a7a62af88385ce2970dd24f00.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_a477e8714effca6d21e0e4352d77c88c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_3a1fa859f2bc4925d6dfef9e5547b0a1",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_b4d1091b60e80de4e02a43fbac01437c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_37_C",
+  "reference": "ALT_ALIZE_B_BR_37_C",
+  "id": "01J1Q4P4S1E6BR3CRG4TVW2HF8",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/de_DE/df67fa0ad833503490ed03c4be8fcba9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/it_IT/528946981f2210830ce9747eb20157c1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/fr_FR/0b5dad69e0d26ed7e7de2a6d0b1429e8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/es_ES/723e0c8a7a62af88385ce2970dd24f00.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/en_US/985f6fa391304a3e8ab95ee43b6a9ef7.jpg"
+  },
+  "name": "Gericht, duelista venerado",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "Cuando gane [[Fugacidad]] — Gano 1 potenciador.  Puedo ganar [[Fugacidad]] aunque ya tuviera [[Fugacidad]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-025-C-ES"
+}

@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_32_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5HCMS511CH9GNBF1YD9J320A5X",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2A9QHHEFRCY9GRF0CVD3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2A9QHHEFRCY9GRF0CVD3",
+          "text": "Al comienzo de su corta vida, las larvas son corpóreas."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AAZX4XRWGBRW682ZBW3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2AAZX4XRWGBRW682ZBW3",
+          "text": "La oruga se arrastra por la rama y se detiene en una ramita protuberante, tanteando su entorno con pequeños movimientos circulares. Mira, Taru, parece que está en posición de firmes. Mi Alter Ego se inclina para observar la larva anillada, no muy impresionado. Incluso percibo reproches silenciosos que brotan en los bordes de mi mente y se manifiestan en su comportamiento malhumorado: hace frío, aún queda un largo camino por delante y él es el único que vigila nuestro entorno mientras yo me paso el tiempo contemplando hojas cristalinas y la belleza irreal de la taiga. Vale, mensaje recibido alto y claro, colega. Le recuerdo que lo que hago no es una pérdida de tiempo, ya que parte de nuestra misión consiste en registrar cualquier cosa interesante que veamos para informar de ello al cuerpo de exploración. Levanta los tentáculos en respuesta: «que sí, que sí», parece decirme.\n\nSuspiro resignada y con cierta irritación, para ser sincera. Cuando se pone así, sé que es inútil intentar animarle. Al mirar más de cerca a la oruga, veo que teje una bolita de maná, como si ella misma la hubiera segregado. Mientras lo hace, su cuerpo se vuelve translúcido, casi transparente. ¿Podría estar iniciando su transformación en crisálida? Vuelvo a pensar en Saskia y en todo lo que me explicó aquel día, incluido el ciclo vital de estas polillas de maná desde el estado larvario hasta su forma final. Cuando me enseñó las características únicas de estos pequeños insectos, me pregunté si la solución residiría no solo en la magia, sino quizá también en la biología. Tras escuchar mi historia con una taza de té —o varias, en realidad—, me dijo que me ayudaría a encontrar una cura para mi hermana. Me sentó genial compartirlo al fin con alguien."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AABAM7T5HZ0QY9GGEQQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2AABAM7T5HZ0QY9GGEQQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2A7ANR0HWJP25Q91GMY2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2A7ANR0HWJP25Q91GMY2",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2A80970GYB36XHTA8RC6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2A80970GYB36XHTA8RC6",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "5HCMS511CH9GNBF1YD9J320A5X",
+      "reference": "ALT_ALIZE_B_YZ_32_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/01d6c047a34aba2c27ed",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0b4bd2e46dbcfdd65856",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/es_ES/4ab3cd290c8f0d772cb55456844c9181.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_cbc5f7c37d558c0887887c9cc7ee3841",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_1634df5fb3ac2d716b10d538b747e43c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_4cd72a4f90eaea49e74b44445bbbc457"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_32_R1",
+  "reference": "ALT_ALIZE_B_YZ_32_R1",
+  "id": "01J1Q4P4SS1510DW0H3674JC86",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/en_US/6bc3d1804b9f68bf84b697dcc948da31.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/de_DE/2f646942fc8233c0eb0780ca1d551a0b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/it_IT/c45d673dcd92e6d64a561f2a16e85293.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/es_ES/4ab3cd290c8f0d772cb55456844c9181.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/fr_FR/a16abfaa7aa1e2ad037f22969d2333b9.jpg"
+  },
+  "name": "Larva de polilla",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "#{J}# Si hay dos o más cartas agotadas en reserva, gano 1 potenciador.",
+    "ECHO_EFFECT": "#{D}: Agota una carta objetivo en reserva.# (Descártame de la reserva para hacer esto)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-088-R-ES"
+}

@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_NE_02_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4JQX6TJ0XB88KATR342ERN82D0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J27SDPWSQ5ZMGJM2R562K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J27SDPWSQ5ZMGJM2R562K",
+          "text": "È un'ombra, uno spettro, che non cessa di sibilare e mormorare. Vuole essere trovato. Vuole essere liberato."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27T8MCQPCPZ037CBJZNV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J27T8MCQPCPZ037CBJZNV",
+          "text": "Il vento mi sferza il corpo, così pianto i piedi nella neve per stabilizzarmi. Tutt'intorno, la neve sollevata dal suolo viene scaraventata in ogni direzione e ci punge il volto mentre turbina nell'aria. Accanto a me, una portatrice si copre le orecchie sentendo il boato dell'onda d'urto. Io, invece, ascolto con attenzione. È come un ruggito, come un lamento che riverbera nella valle innevata. Quando risuona l'urlo, il lamento straziante, pezzi di neve e di ghiaccio si staccano e cadono dalle cime. E allo stesso tempo sento crescere l'eccitazione. Che tipo di creatura è in grado di provocare una tale attività sismica con un semplice ruggito? Quale colosso potrebbe scatenare queste gigantesche esplosioni? Potrebbe esserci un leviatano dietro i segni e i presagi di cui siamo stati testimoni? O si tratta di qualcosa di completamente diverso?\n\nNelle ultime settimane, la sua presenza è stata avvertita costantemente. Nel modo in cui la neve cade dai rami, nel modo in cui le stalattiti si staccano... o anche nello scorrere di un ruscello. Segni e presagi sono ovunque, anche nelle situazioni più banali. Si poteva sentire il suo ruggito fluttuare nell'aria come un rumore di fondo, senza rendersene conto. O forse nessuno osava davvero ascoltare. Ma più ci avvicinavamo alla vetta, più era difficile da ignorare... Ora esigeva che l'ascoltassimo. Alcuni dicono che il ruggito ci sta dicendo di fuggire il più velocemente possibile. Ma io non la penso così. Al contrario. Per me, ci sta chiamando... è una richiesta di aiuto o una sfida. C'è sicuramente un'ombra sulla montagna, una bestia formidabile che ci esorta a trovarla. Ed è esattamente quello che intendo fare."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27ST0FNKF6B5WP2R0S7S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J27ST0FNKF6B5WP2R0S7S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27RBAADPQXWQJE8PJ29K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J27RBAADPQXWQJE8PJ29K",
+          "text": "BASIRA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27RYD3E1Y90BMPRTV1YG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J27RYD3E1Y90BMPRTV1YG",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "4JQX6TJ0XB88KATR342ERN82D0",
+      "reference": "ALT_ALIZE_B_NE_02_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Pedina Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4debe8f3f6069e730df8",
+      "reference": "ILLUSION",
+      "id": "01J1QBG2268GSN3G0S560XZGZY",
+      "name": "Illusione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2589a835c283f967f77f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/it_IT/20b2bfd106cd14ee79cf63815d8779d6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/WEB_aa64f44da7d0825f6aeec54ebb970d4d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_NE_02_C",
+  "reference": "ALT_ALIZE_B_NE_02_C",
+  "id": "01J1QCG337Q8CP02VDR4N8YQ7T",
+  "mainFaction": {
+    "@id": "/factions/NE",
+    "@type": "Faction",
+    "reference": "NE",
+    "color": "#8f95b2",
+    "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+    "name": "Neutral"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/es_ES/fa8dfde4b5d6228340bd3e74a7b6c6ec.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/fr_FR/81af2699c4db1ec7f117caf270be2bee.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/en_US/1ace63e78bc5e83728b385c439002c3a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/de_DE/94d443c4fedbc4723719739e297f5e81.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/it_IT/20b2bfd106cd14ee79cf63815d8779d6.jpg"
+  },
+  "name": "Spirito del Drago",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "(Se lascio l'area delle spedizioni, rimuovimi dalla partita.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-107-T-IT"
+}

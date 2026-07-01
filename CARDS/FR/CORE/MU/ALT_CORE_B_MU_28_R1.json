@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_28_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY5086RCHJBY92CDJGQ7FD",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5YK7MRB0AS5AANSC6W26",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5YK7MRB0AS5AANSC6W26",
+          "text": "Prenez tout de même garde aux échardes de lin."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YM34PEC8D7DH5H1J63M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5YM34PEC8D7DH5H1J63M",
+          "text": "C'est une sensation étrange. Je sais que je dors. Je suis là où j'ai fermé les yeux, adossé au grand ginkgo biloba qui surplombe la vallée. Ses feuilles jaunes tournoient en tombant, telle une pluie d'or autour de moi. Je les sens percuter ma peau, plus que je ne les vois. Il en va de même pour les chèvres qui paissent non loin de là. J'entends le bruit feutré de leur mastication, celui de leurs sabots effleurant la terre alors qu'elles cheminent à flanc de colline. Je suis assoupi, mais en même temps, je suis là, présent dans le monde comme je ne l'ai jamais été auparavant. Et quel est ce martèlement sourd que je perçois ? À travers la fine membrane qu'est devenue ma peau, je sens qu'il se diffuse dans mon être, comme un écho à la sève qui monte dans l'arbre. C'est comme si je sentais le sang battre dans mes veines.\n\nMais ce n'est pas mon sang, ni même ma lente respiration. C'est quelque chose de plus diffus, comme profondément enseveli sous une couche de matière. Comme des racines de lumière qui s'insinuent en moi et m'abreuvent de chaleur. Non, pas de lumière, d'existence. Oui. Je me sens exister et faire corps avec tout ce qui m'entoure. Je ressens mon être, enchâssé dans une volubile tapisserie qui ne finit pas à la frontière de mon épiderme. Je me sens en paix, avec le monde et avec moi-même. Je me réveille soudain, et ouvre brusquement les yeux. La sensation de plénitude est en train de refluer. C'est comme une douce étreinte qui se desserre, et que je ne veux pas laisser partir. De nouveau dans mon corps, une détresse m'envahit alors, comme une vague qui  me submerge. Mais en même temps, je sens qu'une étincelle s'est allumée en moi."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YKN3ZDPD5EW7HCENV95",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5YKN3ZDPD5EW7HCENV95",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YJA28GAM7Z36H640B4M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5YJA28GAM7Z36H640B4M",
+          "text": "Arjun"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YJRA4ZWSVET0KP9KG0M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5YJRA4ZWSVET0KP9KG0M",
+          "text": "378 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY5086RCHJBY92CDJGQ7FD",
+      "reference": "ALT_CORE_B_MU_28_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2ddba14adbb78814b94d",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/df5d8ac5d144132eaa20",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/JPG/fr_FR/6394f2ab29d08d9e873fd8ed1300ac84.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/WEB_bdfdeecfbbcc364b68b6b21c7e300409",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/WEB_8b29f05b33e391760a3d8f0828ecb327"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_28_R1",
+  "reference": "ALT_CORE_B_MU_28_R1",
+  "id": "01HKAFJP9D5CGGY199RT46Q33K",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/JPG/it_IT/ff8f6173b36f29f2c6edd9b72447c9a9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/JPG/de_DE/10c80b3ebae4105a10ad7461bb031b85.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/JPG/en_US/1284fa97b4ed8fafc3b0de5ac2717271.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/JPG/fr_FR/6394f2ab29d08d9e873fd8ed1300ac84.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/JPG/es_ES/26eb5f0e467a443427173a23b490595e.jpg"
+  },
+  "name": "Sommeil Réparateur",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Un Personnage ciblé gagne [[Endormi]]. #Vous pouvez lui faire gagner 2 boosts.# (Au Crépuscule, ignorez ses statistiques. Au Repos, il ne va pas en Réserve et il perd Endormi.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-115-R-FR"
+}

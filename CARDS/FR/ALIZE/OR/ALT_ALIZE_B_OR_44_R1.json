@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_44_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/14FJKSX93H9W3VYV552V5CDK4Z",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29J3SS15YBMEYKNFMYEA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29J3SS15YBMEYKNFMYEA",
+          "text": "Le son du cor les sortit de leur sommeil, tandis que les ombres blanches émergèrent des bois."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29KPZQP9QX6PJZWZ14GK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J29KPZQP9QX6PJZWZ14GK",
+          "text": "Boooooooooooo ! Boooooooooooo ! Je fais résonner mon cor de toutes mes forces.\nAu combat, à vos postes, vaillants combattants !\nParez-vous de votre fierté, militants !\nTout autour de nous, la résistance s'amorce.\nAu combat, à vos postes, vaillants combattants !\nComme un hardi arbre se recouvre d'écorce.\nTout autour de nous, la résistance s'amorce.\nFaites donc un mur de vos boucliers brillants !\nComme un hardi arbre se recouvre d'écorce.\nLevez au ciel vos épieux scintillants.\nFaites donc un mur de vos boucliers brillants !\nQu'importe si les coups avec le temps se corsent.\nLevez au ciel vos épieux scintillants.\nConvoquez de votre âme la fougueuse force.\nQu'importe si les coups avec le temps se corsent.\nJusqu'à ce que l'aurore abatte son tranchant.\nBoooooooooooo ! Boooooooooooo ! Rien de tel que quelques rimes pour se mettre en jambe et se dérider un peu, surtout quand on voit ce qui arrive dans notre direction, porté par la brume.\n\nGulrang se positionne à côté de moi, emmitouflée dans un manteau bordé de fourrure, ses longues dreads fouettant l'air. Elle frappe mon torse de sa main gantée, comme pour me rappeler au moment présent, mais avec le blizzard, le bruit du métal contre la pierre peine à se faire entendre. Je suis là, Gul, lui dis-je simplement. Je replace mon cor dans mon compartiment de marbre, enroulé autour de mon épaule, et je regarde les défenses. Le fort que nous avons fait pousser de terre grâce à l'Altération nous donne un certain avantage, mais il ne résistera pas éternellement aux assauts des Belisenki. Les remparts de la bastide se couvrent de troupiers, et les officiers commencent à transmettre leurs ordres. Le krak concentre une cinquantaine de soldats, qui accourent suite à l'alarme que je viens de sonner. Je suppose qu'il n'est plus l'heure de s'adonner à la poésie, mais de faire chanter l'acier."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29JMXX8D0WD0C89VXS6S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J29JMXX8D0WD0C89VXS6S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29H4HSTE7ZMGYX9T4NYT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J29H4HSTE7ZMGYX9T4NYT",
+          "text": "TOCSIN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29HMBCDEYVXQF7F82W29",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J29HMBCDEYVXQF7F82W29",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "14FJKSX93H9W3VYV552V5CDK4Z",
+      "reference": "ALT_ALIZE_B_OR_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b0176e81691648162e71",
+      "reference": "SONG",
+      "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
+      "name": "Chant"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4b08382ba7fd6a40a8ff",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/fr_FR/065b0b8f3af4524cea507456c01079b0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/WEB_c5b9a8fbf48006e6e38ab438cc616076",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/WEB_8920b25e0c956255d684794a38c0f34a"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_44_R1",
+  "reference": "ALT_ALIZE_B_OR_44_R1",
+  "id": "01J1Q4P4SPGZZS4TK0CWMVFXSA",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/it_IT/2668f9ec37a8a79cbe8ff995417772ac.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/en_US/36aff37558bf8ecd72463236b20fe3a3.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/de_DE/45b0756910b21f66503492bc023af8c5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/fr_FR/065b0b8f3af4524cea507456c01079b0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/es_ES/c0ba5ff51c506f65080eef6c21bc0f3b.jpg"
+  },
+  "name": "Cri de Ralliement",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Un Personnage ciblé gagne 1 boost. S'il est [[Endormi]], #il gagne [[Ancré]]# et perd [[Endormi]]. (Au Repos, il ne va pas en Réserve et il perd Ancré.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-080-R-FR"
+}

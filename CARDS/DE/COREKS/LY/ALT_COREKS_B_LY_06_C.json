@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_06_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB781XFC8NPRTTX5VVQ4Z0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7ZFFZCW38WFYSYNZQD1M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7ZFFZCW38WFYSYNZQD1M",
+          "text": "Wenn das Glück mitspielt, punktet Klugheit doppelt. "
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZG8H9EVPM7H7MGAHFNV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7ZG8H9EVPM7H7MGAHFNV",
+          "text": "I emerge from the Sköll & Skál early in the morning, squinting in the bright sunlight. OK, strike that. It's actually closer to noon. I wander the streets of the capital, stumbling every other step. The show went well, but the evening and night that followed were... well, let's just say they were eventful. A tram passes in front of me, and I wait for the barriers to be raised so I can go over the railroad crossing, making sure not to get my shoes caught between the rails. My tight sequined jacket sparkles in the sun – a pretty unusual fashion choice at this time of day. As I slip into an alley, I feel something bump into me. I turn around to see a young girl running the other way with something shiny in her hand. Correction: MY something shiny.\n\nMy first thought is that it's too early in the day for this kind of thing. My second thought is that I'm not gonna let her get away with it so easily. I'll teach her to try stealing from an Alterer! She's certainly lithe and talented, I'll give her that. She navigates the streets with ease. But I don't need to do that. All I need to do is walk through walls. I ultimately corner her in a dead-end, cutting her off as I emerge from a house that could have done with a little cleaning. She stares at me with wide eyes, surprised but without the slightest trace of fear. I'm not one to go all soft in situations like this, but I admit I'm tempted to give her a second chance. I take out a cup and die from my bag. I'm in a playful mood. Let's see who'll get to keep this trinket..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZFTBWV9S0KNG67B66TJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7ZFTBWV9S0KNG67B66TJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZEN4K15YETFZ539C7H7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7ZEN4K15YETFZ539C7H7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZF2TBDPXHFWKWPFHTZZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7ZF2TBDPXHFWKWPFHTZZ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB781XFC8NPRTTX5VVQ4Z0",
+      "reference": "ALT_COREKS_B_LY_06_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f47db1c06b6ebb687028",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Bürger"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a75c67a7a24ded803606",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/JPG/de_DE/d8d5657ea87946b2df1f8977497fe9ce.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_06/ALT_CORE_B_LY_06_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_06/ALT_CORE_B_LY_06_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_06/ALT_CORE_B_LY_06_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_06_C",
+  "reference": "ALT_COREKS_B_LY_06_C",
+  "id": "01HN5TXRACADVVKTDCP7MS54KF",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/JPG/es_ES/feebd52ce61f28bd41ed7776f7429ccb.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/JPG/it_IT/5779f37451285b648ca3beb63fcc8220.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/JPG/de_DE/d8d5657ea87946b2df1f8977497fe9ce.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/JPG/en_US/ece6ecf9cb3887f862fb5a79098bdb43.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/JPG/fr_FR/42165800b22e34622364ab2e8c851ae3.jpg"
+  },
+  "name": "Ouroboros-Schwindlerin",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "{J} Würfle einmal. Bei 4+ erhalte ich 2 Verstärkungen. Bei 1–3 erhalte ich 1 Verstärkung[]. (Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-065-C-DE"
+}

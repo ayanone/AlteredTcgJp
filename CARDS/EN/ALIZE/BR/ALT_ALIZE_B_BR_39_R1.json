@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_39_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1GYMPGXG2R81F9BNH4KP079T7V",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24FJSS4Y9VRWB5Z94EQ9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24FJSS4Y9VRWB5Z94EQ9",
+          "text": "The lone wolf guards its territory jealously."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24G49JH9K2989GDWHCSR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24G49JH9K2989GDWHCSR",
+          "text": "It starts with a sort of fog, a mist that shimmers and takes shape as the air begins to vibrate. The quaking becomes a rumble as the figure grows larger and larger and takes on the shape of a wolf. Then a huge fang-filled maw opens as the Amarok materializes in all its glory and voracious hunger. It could swallow me whole, in a single mouthful. It looks a bit like the Big Bad Wolf. I glance at the Altrunner's side. I had told Kojo not to call on her, but he just did as he pleased. Now she must not flinch. If we want the Amarok to focus on the Belisenki, she must not even blink. Just then I hear the brazen one give the order to this Cathal to run away. I clench my teeth. Might as well have painted a target on her back!\n\nLosing interest in our enemies, the Amarok starts charging through the pines, flattening them like stalks of wheat. As it runs, the wolf assumes gigantic proportions while its fur becomes covered with a thin layer of frost. Its stare is opalescent, its canine teeth are the size of a grown human. Kojo's Eidolon speeds up as much as she can in the snow, using the trees for support and Alteration to push her forward. But all her efforts are in vain. The beast with its oversized legs catches up to her in a single stride, lips curled up in a carnivorous grin. There's a snap of teeth chomping down, and I have to force myself not to look away. The tracer had dashed to a tree trunk then leapt into the air, luckily landing on the wolf's fur. I shake my head. Besides failing to eliminate the Belasenka threat, now I also had to prevent Kojo's Eidolon from winding up as a light snack."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24FTHHTDZK9NB3BV0046",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24FTHHTDZK9NB3BV0046",
+          "text": "The Amarok is a giant creature that features in Inuit mythology. Amarok means \"wolf spirit\". Although it stalks people foolish enough to hunt alone, it also works to maintain balance in the environment: Its wolf brothers keep caribou herds healthy, which is essential for human survival, by eliminating the weaker animals. Legend says that the first woman asked the god of the sky, Kaila, for a way to stop the caribou herds from getting weaker. The god asked the Amarok to tell its wolf brothers to eat the weak or sick caribous to ensure that the species would be strong and healthy.\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24EWF719HKBTQ67P4XM6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24EWF719HKBTQ67P4XM6",
+          "text": "ATSADI\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24F7SBJXZ4DN7H7H8XT6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24F7SBJXZ4DN7H7H8XT6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1GYMPGXG2R81F9BNH4KP079T7V",
+      "reference": "ALT_ALIZE_B_BR_39_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3caa40ff1749a5f46c53",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1ad5dfd89f09c40e806b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/220aa2277fe0b6cf4a0e",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:09+00:00",
+      "question": "What happens if a Gigantic Character is played in the other Expedition (the one Amarok is not in)?",
+      "answer": "It gets sacrificed."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/2faa860fe811a943208c",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:10+00:00",
+      "question": "What happens if Amarok is Gigantic, for example thanks to Eat Me Energy Bars?",
+      "answer": "For a Gigantic Character, \"my Expedition\" means \"the Expeditions I'm in\".  Any Character played in either Expedition of a Gigantic Amarok will be sacrificed. Note that when you play Amarok, you check \"the Expedition it's played in\" as you pay its cost, before it's Gigantic."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/en_US/737750ad33a01f8d720825dc84a790c5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/WEB_81ecdeb6e09211ea482c7ea1718052a8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/WEB_19c84c0c5be4956b6966563f12605d81",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/WEB_8d1d7c0793a51888666687472aa27522"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_39_R1",
+  "reference": "ALT_ALIZE_B_BR_39_R1",
+  "id": "01J1Q4P4S252NTDGDSJ5AV5V5T",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/de_DE/7e8a7d9f622de3ba905dde5483e99625.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/en_US/737750ad33a01f8d720825dc84a790c5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/it_IT/664d6f0d28fb35edb779e67560ccd62c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/es_ES/5308901bb268fb71ea8405501761cc21.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/fr_FR/c38b9d5d7bb69c2ad2aca8911438931a.jpg"
+  },
+  "name": "Amarok",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "I cost {2} less to play in an Expedition with no Characters.  When another Character joins my Expedition — Sacrifice it #and I gain 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-027-R-EN"
+}

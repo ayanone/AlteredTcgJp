@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_44_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1T4SBR2ZWV8QRR1QPAK2XD1EFJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24R54084YYNF27X2TN89",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24R54084YYNF27X2TN89",
+          "text": "Glück gibt es nicht. Vorbereitung ist alles."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24RRTMHRAMV2VN12R43W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24RRTMHRAMV2VN12R43W",
+          "text": "Ich bin neugierig, das gebe ich zu. Sehr neugierig … vielleicht sogar zu neugierig! Aber hey, wer kann schon aus seiner Haut, oder? Als ich bemerkte, wie Skadi ihre Ausrüstungstasche achtlos neben dem Lager abstellte und sich die Beine vertrat, kam mir das wie eine perfekte Gelegenheit vor. Ein schneller Blick nach links, dann nach rechts. Niemand in der Nähe. Und dann beginne ich, ihre Sachen zu durchwühlen. Ich finde vieles, das man zum Jagen und für das Leben in den Bergen braucht. Ein Seil, Karabiner, Schleifsteine … Doch etwas anderes fällt mir sofort ins Auge: ein Paar Stiefel. Sie sind leuchtend rot, haben ein merkwürdiges Design und betteln geradezu darum, anprobiert zu werden. Und weil ich so höflich bin, kann ich einfach nicht nein sagen. Was kann schon schiefgehen? Und ich muss einfach herausfinden, ob sie mir passen würden. Ohne zu zögern schlüpfe ich in einen Stiefel. Er scheint sich meinem Fuß anzupassen, dehnt sich in alle Richtungen aus und umhüllt dann meinen Fuß wie ein Strumpf. Toll, die sind so bequem!\n\nEin seltsamer Knopf am Knöchel schaltet sich ein und blinkt rot auf. Stimmt, Kojo, man sollte immer blinkende rote Knöpfe drücken. Vielleicht ändert er die Temperatur? Ein geheizter Stiefel: Das wäre so cool! Und auch richtig „heiß“. Ich drehe den Knopf, um zu sehen, was passiert. Unter der Sohle schießen Sporen hervor. Ähm, soll das so sein? Also keine Fußheizung, aber trotzdem cool: Diese Klettereisen fürs Bergsteigen könnten wirklich nützlich sein. Und weil ich nicht anders kann, suche ich nach weiteren versteckten Tricks. Ich drehe den Knopf noch eine Stufe weiter. Wusch! Aus einer hervorstehenden Kante in der Mitte der Sohle schießt eine klingenförmige Flamme hervor. Überrascht weiche ich leicht zurück. Wow, ist das ein Schlittschuh? Plötzlich tippt mir jemand auf die Schulter und sofort wird mir klar, dass ich erwischt wurde. Diese Spaßverderberin Skadi hat ihre Arme vor der Brust verschränkt und sieht mich ziemlich streng an."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24RE24SQKGSV6ARKSQN9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24RE24SQKGSV6ARKSQN9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24QHV218S11SYSWARZAZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24QHV218S11SYSWARZAZ",
+          "text": "KOJO\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24QWMVAZAX11FVDY9JG4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24QWMVAZAX11FVDY9JG4",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "1T4SBR2ZWV8QRR1QPAK2XD1EFJ",
+      "reference": "ALT_ALIZE_B_BR_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Bleibende Expeditionskarte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1e83d6d873fe9a40ccac",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Ausrüstung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/53e69edc6e6691f3e6f5",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/de_DE/202bd21e8e58b179a5f7a5ad2014aef6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_279571b768bb272a3ff12c59a0520f95",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_7035156d55cac81037a43930cb962eb4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_44_C",
+  "reference": "ALT_ALIZE_B_BR_44_C",
+  "id": "01J1Q4P4S494FQQRQ8V7F8JMWP",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/it_IT/f90a2489dccf431ac2a8de549b924a42.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/es_ES/aa0cc6acf9c041f0e366b5521e84ad43.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/fr_FR/bad321016bf955bab9a9b8d64b7bc084.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/de_DE/202bd21e8e58b179a5f7a5ad2014aef6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/603157aad263bee871665bb973e40fd1.jpg"
+  },
+  "name": "Hightech-Stiefel",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "Wenn sich meine Expedition vorwärts bewegt — Ein Charakter deiner Wahl in meiner Expedition verliert [[Vergänglich]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-031-C-DE"
+}

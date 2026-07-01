@@ -1,0 +1,161 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_09_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY5066B2DF4H4PF69KG0ZS",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5WWW2D4NFYN8HED4NR19",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5WWW2D4NFYN8HED4NR19",
+          "text": "Il n'y a pas de plus grande bénédiction pour un arbre que de devenir la maison d'un Kodama."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WXPHRQDCCPNW3WCM1JM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5WXPHRQDCCPNW3WCM1JM",
+          "text": "On peut parfois les voir en train de somnoler dans leur bulle charnue. Souvent, on les trouve non loin d'une branche de gui, se dissimulant par mimétisme au sein de ses fruits pulpeux et translucides le temps qu'ils éclosent. Et quand le cocon se perce, ils s'étirent et se mettent à arpenter les branches des vénérables arbres, parfois sans fouler le sol, qu'ils préfèrent moussu quand ils osent le faire. Il y en avait déjà beaucoup dans les forêts bleutées de Nutsuwa. Mais là, au sein de la Katkera, il était facile d'en distinguer à tout moment au moins un ou deux sous la canopée, si ce n'était pas toute une ribambelle de petites silhouettes blanchâtres en train de nous observer, curieuses de savoir ce que nous étions ou ce que nous venions faire ici. D'après Turuun, les Kodama sont les esprits des arbres, et en voir à profusion est le signe de leur bonne santé.\n\nNous cheminons sous la voûte végétale, Turuun à dos de yak, et moi à dos de mule. Kiddo ne doit pas être loin, mais nulle trace d'elle dans les environs. Peut-être est-elle en train de chasser, ou de repousser d'éventuels prédateurs un peu trop ambitieux. Mais je ne m'en fais pas tant que ça, au final. La route jusqu'ici, depuis les rives de Kirighai jusqu'au cœur de la forêt, a été plutôt reposante. Hormis bien sûr mes courbatures aux cuisses et mon postérieur douloureux... Au-dessus de ma tête, des Kodama gambadent le long d'une branche, et se penchent pour me regarder de leurs grands yeux innocents. Je m'adosse sur les paquetages que la mule transporte, et les salue d'un joyeux \"ohé !\". Et alors que je passe sous leur petit belvédère de bois, ils me répondent tout en me gratifiant d'un petit signe de main."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WX9CAWGXVEVC2JZW5JA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5WX9CAWGXVEVC2JZW5JA",
+          "text": "Petits yōkais du folklore japonais, les Kodama sont des esprits sylvains qui vivent dans les arbres. Il est interdit de couper un arbre dans lequel résident ces petites créatures, sous peine d'endurer une terrible malédiction. C'est pourquoi à travers les âges, certains d'entre eux étaient protégés par les communautés humaines, qui veillaient à ce que personne ne les blesse ou même ne les coupe. Une autre légende raconte qu'au sein des montagnes, l'écho — ou yamabiko — est un phénomène imputable aux Kodama."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WW2JE8GEFBV22S1679B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5WW2JE8GEFBV22S1679B",
+          "text": "Rin"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WWF23DNY2VCF3K41R66",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5WWF23DNY2VCF3K41R66",
+          "text": "387 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY5066B2DF4H4PF69KG0ZS",
+      "reference": "ALT_CORE_B_MU_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5d2fb00e29e32df0615f",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plante"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a41a6bfb8f407aba0527",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Esprit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5654e875f2bb4f3e17f6",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/JPG/fr_FR/96b1c9abd287e388fa922b0da5e94ed5.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_09_R1",
+  "reference": "ALT_CORE_B_MU_09_R1",
+  "id": "01HKAFJP6RYYJMTZ4C0PYSVZG3",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/JPG/es_ES/21e35eea15eff7e9c779a481b4bf479f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/JPG/de_DE/70b7618cf070e0715583546c148166d7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/JPG/fr_FR/96b1c9abd287e388fa922b0da5e94ed5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/JPG/it_IT/4d260786f5bea198e71df8c1bc9d7d6f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/JPG/en_US/ce827db244715c1c05c9fb61dc50c1de.jpg"
+  },
+  "name": "Kodama",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{H} Je gagne [[Endormi]]. (Ignorez mes statistiques pendant le Crépuscule. Au Repos, je ne vais pas en Réserve et je perds Endormi.)",
+    "ECHO_EFFECT": "#{D} : Un Personnage ciblé de Coût de Main {3} ou moins gagne [[Ancré]].# (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-098-R-FR"
+}

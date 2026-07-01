@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_34_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4B4MT6ZSA2903VHD673JCK1VAM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26KBG1GAW5Q4XTW85CCC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26KBG1GAW5Q4XTW85CCC",
+          "text": "\"Ah, sì. La nostra nuova... celebrità.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26M3H518WGVSVKJ2NBCF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J26M3H518WGVSVKJ2NBCF",
+          "text": "Dalla finestra della serra si vede solo un impenetrabile velo bianco. Metto Spina sulle mie ginocchia e gli tolgo il termometro dalla bocca. Ha la febbre alta... Non c'è da stupirsi che si senta così debole da ieri. Mi agito leggermente sullo sgabello, aspettando che il giardiniere finisca di occuparsi dei suoi pazienti. La lontra prende un vaso e lo riempie con palline di argilla, un po' di corteccia e della terra umida. Poi afferra la prima pianta senziente e la pone delicatamente nel contenitore per la riabilitazione. La lontra ripianta teneramente il paziente come se stesse preparando un letto e lo posiziona vicino a una fonte di luce per assicurarsi che riceva abbastanza luce per avviare il processo di fotosintesi. Fa lo stesso con il piccolo uomopigna, poi si occupa del piccolo funghetto dello starnuto, che non riesce a smettere di sputare nuvole di spore semi-filtrate.\n\nOra è il turno di Spina. La lontra giardiniera lo mette in un vaso e preme la terra intorno ai suoi piedini, poi avvolge il fagottino al caldo. Quindi, rimuove i fiori appassiti che coprono la testa di Spina, in modo che le nuove gemme possano sbocciare più facilmente. Quando Spina si sentirà meglio, sul suo bel musetto si apriranno nuove corolle rosso vivo e sarà sicuramente ansioso di rimettersi in movimento. Non ha mai molta pazienza se si ritrova bloccato da qualche parte senza nulla da fare. Ma fino ad allora, ha bisogno di riposare. Per quanto mi riguarda, devo ammettere che un po' di tempo libero mi farà bene. Mi manca disperatamente immergere le mani nella terra fresca e c'è ancora molto da fare nella serra. Accarezzo delicatamente la testa della mia chimera, che già si piega per la stanchezza. Odio vederlo costretto a letto in questo modo e spero che si rimetta presto..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26KQW4F678QJGE9ZF9S9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J26KQW4F678QJGE9ZF9S9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26HX6XJ37NK18YS05W4R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26HX6XJ37NK18YS05W4R",
+          "text": "ARJUN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26JWWR2MXCPWQSG7Q6N8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J26JWWR2MXCPWQSG7Q6N8",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "4B4MT6ZSA2903VHD673JCK1VAM",
+      "reference": "ALT_ALIZE_B_MU_34_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a54305600df6aa6cd807",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0cf0608d83209c774545",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/it_IT/9973614e8f9ea796381fc30795516ddb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/WEB_04ad7ecd5d8d0f52e1c22e533185c237",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/WEB_7b7453c56e1b667c8e1adf736c664496",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/WEB_f11aa1ab763fd9551ad376aea1c224f7"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_34_R1",
+  "reference": "ALT_ALIZE_B_MU_34_R1",
+  "id": "01J1Q4P4SDA8SPK4V8SP1KVFBT",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/es_ES/48fbd76b034e925f27625259bf833dcd.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/it_IT/9973614e8f9ea796381fc30795516ddb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/en_US/7cd0350acead1ec278b00812a44d2b33.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/de_DE/1faa3d1482b47e68e27688facb247cec.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/fr_FR/f79c9eb393c4d57eb4dc76ac22114281.jpg"
+  },
+  "name": "Lontra Giardiniera",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "{J} Ogni giocatore può mettere una carta dalla sua mano nella Riserva #per pescare una carta.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-057-R-IT"
+}

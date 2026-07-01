@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_29_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY508AY8608VMYS7PW7294",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5YP4BJ4V47BTB92HGH52",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5YP4BJ4V47BTB92HGH52",
+          "text": "Chi è riconoscente di ciò che riceve porta con sé un abbondante raccolto."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YQ2KH7XM5QGVFVV6SH0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5YQ2KH7XM5QGVFVV6SH0",
+          "text": "I take off my blue torcs and give them to Spike, taking the chance to give him a little cuddle. Sitting on the embankment, I remove my furisode and carefully fold it before setting it down next to the little Chimaera, who already has his hands full with the apatite and gold hoops of my bracelets. Around us, the cicadas sing loudly, filling the valley with a deafening clamor. Once I'm ready, I join my auncle in the dried-up rice field. Arjun is already busy cutting the rice stalks, their back bent and their forehead beaded with sweat. I pull out my own sickle and begin copying them, the whole time watching their stocky figure grabbing bundles and laying them on the edge of the field. I can't believe they'll be gone in a few days... Once the harvest is complete, they'll take their backpack, and they and Spike will set off for Arkaster.\n\nI sigh. I was just getting used to having them around. They had been away during my entire childhood. Of course, Mom always talked about them. But apart from the handful of times they visited us, I'd never had a chance to get to know them. And now, here they were going away again, this time maybe for good... I set down a bundle in front of Qaaje, who takes it to Astana and Celestino. I watch them thresh the stalks over a wooden tub to extract the paddy rice, which will be dried and then moved to the manual huller for husking... But no matter what I do, my attention keeps going back to Arjun. They're the one who taught me the basics of Alteration. When they're gone, I'll have to keep up with it on my own... They turn around then, wiping their sweat-covered forehead. I notice the tangerine-colored cord I gave them hanging around their neck, and my eyes well up with tears."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YPK70Q842YEAE2YT93E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5YPK70Q842YEAE2YT93E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YN7D8R2PN2SXRH9DD3C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5YN7D8R2PN2SXRH9DD3C",
+          "text": "Flore"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YNPMB1A64645GCD0DMX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5YNPMB1A64645GCD0DMX",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY508AY8608VMYS7PW7294",
+      "reference": "ALT_CORE_B_MU_29_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9d59ec1988c9a383d7e5",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Evocazione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/85e085892bfa2f15ca68",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_29/JPG/it_IT/0c4205b73e07d486ec73886ef42df8c6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_29/ALT_CORE_B_MU_29_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_29/ALT_CORE_B_MU_29_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_29_R1",
+  "reference": "ALT_CORE_B_MU_29_R1",
+  "id": "01HKAFJP9K2HF4CATX65999NKN",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_29/JPG/de_DE/5e6803a5a6f7d82fc1b27dfc8bb6d04e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_29/JPG/en_US/72f9921538bb3efd3540cfb4678b0287.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_29/JPG/it_IT/0c4205b73e07d486ec73886ef42df8c6.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_29/JPG/fr_FR/cd79d68360de50404605fb0c33a783a1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_29/JPG/es_ES/0b1c99bc19d55c5edc362ec86d2dc1ca.jpg"
+  },
+  "name": "Raccolto",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[Rifornisci], #poi [Rifornisci] di nuovo#. (Metti la prima carta del tuo mazzo nella Riserva.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-114-R-IT"
+}

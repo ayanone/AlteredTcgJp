@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_63_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4BCTSGJNW083HTMH5GFR715JEE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A87M28BSG5BW21AHBRRT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A87M28BSG5BW21AHBRRT",
+          "text": "La nature reprend toujours ses droits."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A88AHV5CBCVGZE6P579H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A88AHV5CBCVGZE6P579H",
+          "text": "393 AC - C'est quand même dingue que tout un écosystème ait pu se développer ici, quasiment sans la lumière du soleil. Bien sûr, à cette profondeur, les rayons du jour filtrent encore un peu à travers la canopée et les énormes réseaux de racines, mais le mieux qu'on puisse avoir, c'est ce genre de luminosité diffuse et tamisée. Au-dessus de ma tête, une arche végétale abrite des blocs bleutés veinés d'or. C'est bizarre qu'ils aient pu arriver jusque-là. Possible qu'ils aient poussé directement ici, d'ailleurs. Bon, peut-être que je vais devoir faire un peu d'escalade, histoire de les regarder de plus près. En dessous, en l'absence de lumière, les pierres apparaissent presque noires, alors qu'en vérité, elles sont plus bleu nuit. Mais le problème, c'est que je vais devoir passer sur un parterre de moisissures roses, qui m'ont fait éternuer pendant toute une après-midi la dernière fois que j'ai tenté de les traverser.\n\nBon, c'est pas tout ça, mais quand faut y aller, faut y aller. Je prends le châle de soie qui pend à ma ceinture et le noue autour de mon visage, pour éviter de respirer le pollen que chacun de mes pas va soulever. Ce serait un comble de déclarer une allergie à ces trucs, surtout qu'il y en a quasi partout. Mais avant ça, j'ai une expérimentation à faire. Je m'ouvre au Skein de ce lieu, et cherche son contact. Immédiatement, les masses de feuilles au-dessus de ma tête se colorent de rose, comme en mimétisme à l'idée du Fuseau qui existe dans ma tête. Les racines et les troncs se veinent d'or, comme les blocs sombres. Et soudain, je comprends la réalité de ce biotope. Je comprends que cet habitat n'a pas été colonisé par des plantes invasives venant de la surface. C'est comme une extension de la Cité, qui a pris possession de cet endroit. Et tout au fond du réseau de conscience, il y a une présence qui ouvre les yeux."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A87ZNA6EZG6NPWG6BW5J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A87ZNA6EZG6NPWG6BW5J",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A86YGFMX41VZE7HF9E5H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A86YGFMX41VZE7HF9E5H",
+          "text": "RIN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A879933RQSN14WFK2KC7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A879933RQSN14WFK2KC7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "4BCTSGJNW083HTMH5GFR715JEE",
+      "reference": "ALT_BISE_B_MU_63_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Repère Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e000e67a7b0292b80e1e",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Lieu"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d595b6c0380e58e4463b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/fr_FR/5649817f6c4f11b813ab120b33c1de52.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/WEB_034a9ae15c116800f0f4bb0645375a48",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/WEB_6228e26bfecac34d5e7f8dffd55b7a57"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_63_C",
+  "reference": "ALT_BISE_B_MU_63_C",
+  "id": "01JB1YGPBSVNFH1P9D1KPG3828",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/de_DE/9813034989a5bd5750e1191e3cbbede9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/es_ES/0f94bfab27b036b4c2161cb5f81ab581.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/it_IT/5284aa8dd2b3b4d54876c99fde0cde0c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/fr_FR/5649817f6c4f11b813ab120b33c1de52.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/en_US/eff3b11ec510ffae4efdfdcb026a80b6.jpg"
+  },
+  "name": "Le Sous-Bois",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "{T} : Le prochain Personnage que vous jouez en {V} ce tour gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-067-C-FR"
+}

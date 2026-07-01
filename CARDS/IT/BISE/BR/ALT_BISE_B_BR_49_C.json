@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_49_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0SJXDM2ZCA8889H640D1XR4EDM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4N230KJVVYTFFA8DTZV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4N230KJVVYTFFA8DTZV",
+          "text": "I Bravos sono sempre i migliori con una lama, che sia in un duello o in cucina."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4NEVPAHJJ7CSJH71W76",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4NEVPAHJJ7CSJH71W76",
+          "text": "393 AC - The little chef wields his cleaver with consummate skill, cutting fine strips of solidified Sap as his big chef's hat wobbles on his head. The Chimaera chops, minces and dices incessantly to keep up with the frenetic pace of orders coming in. Because this place is absolutely packed. Ever since the Mess kitchens incorporated Sap into their recipes, everyone's been impatient to try Hestia's latest dishes. My mouth is already watering. I've been waiting two weeks for this! When I came back up, there was already a line just to make a reservation. And fitting it into my schedule was no easy feat. So now, I was about ready to order one of everything. There was the fondue, of course. But the Sap borscht with fried eggs was also tempting… Sunn and I had decided that choosing between them meant missing out, so we decided to have both to celebrate the end of her convalescence.\n\nIt was great to see her again. I'd briefly bumped into her at Caer Oorun, but we hadn't had time to talk much. So, meeting her in the line was the perfect chance to catch up a bit and have a good chat, like we used to at the training center. After we sat down, she told me all about her journey in the Storhvit, while I told her about my run of bad luck. Listening to her, I felt a bit like I was missing out, even though she admitted to me that she'd always been a bit jealous of my Exalt status. I watch her gulp down a fried egg whole from her second helping of borscht, then wipe her mouth with a napkin. I still couldn't understand how she could eat all that in a single day. She always had something to eat in her pocket, not to mention the candies she nibbled on all the time."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4N8Z6XF9STAGJ4MRSBV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4N8Z6XF9STAGJ4MRSBV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4MP00SXVS779B0RJYJZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4MP00SXVS779B0RJYJZ",
+          "text": "KOJO"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4MWHJ2AMV4NQ0KGH1C0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4MWHJ2AMV4NQ0KGH1C0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0SJXDM2ZCA8889H640D1XR4EDM",
+      "reference": "ALT_BISE_B_BR_49_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4670cadafc1240834f0c",
+      "reference": "APPRENTICE",
+      "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
+      "name": "Apprendista"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/52b926acf07ee264ebb8",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/383b4ed47d9aa550ce69",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/it_IT/998af16e947a9377d1f9b31a3e2196f6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/WEB_2e46dda5c5e39f98db5832840160e5f1",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/WEB_5d50885e0f9da2e3ba0c9ab1dc128ba7",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/WEB_b0f501ca92f33a154b21a74cb6b057d0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_49_C",
+  "reference": "ALT_BISE_B_BR_49_C",
+  "id": "01JB1YGPB82STV8A33FYP2YXYA",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/de_DE/ad6ecac3be70f263a6ca64a239519855.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/es_ES/f6b53a7e966f39e4365a0dff8e989816.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/it_IT/998af16e947a9377d1f9b31a3e2196f6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/en_US/b4780a9eea88db543e3dd09120f0c740.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_49/JPG/fr_FR/fe3a714f62143cd00caaef1670723cf7.jpg"
+  },
+  "name": "Apprendista Cuoco",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "ECHO_EFFECT": "{I} Quando giochi un altro personaggio — Ottengo 1 rinforzo, fino a un max di 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-020-C-IT"
+}

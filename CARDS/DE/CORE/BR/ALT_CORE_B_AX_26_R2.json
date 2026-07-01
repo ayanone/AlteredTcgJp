@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_26_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z52VNECFHAKK4HB0PKS",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5R309JYMZ9VZDSPX21XH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5R309JYMZ9VZDSPX21XH",
+          "text": "Diese kleine Batterie ist der Trumpf der Axiom. Das Kelon erzeugt eine phänomenale Energie, für die Ingenieure täglich neue Anwendungen finden."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R3FGV91E7534PAVK0E2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5R3FGV91E7534PAVK0E2",
+          "text": "I push the cart along the corridor with all my strength. Paju takes care of guiding it and warning passersby to move out of my way. Our job is simple but tedious. Collect empty Kelon cylinders, transport them from the shipyard to the charging stations… then fill the cart, bring everything back, and repeat. Paju pushes the workshop doors open, and we enter the refinery. Workers are shoveling Kelon crystals onto the metal conveyor belt. They will soon be distilled and poured in liquid form into the Cylinders, which serve as batteries for various machines. Paju beckons to me with his hand, and I wheel the cart up to the unloading area. Craggy-faced technomancers take the cylinders and insert them into the resupply circuit.\n\nOnce the cart has been loaded with new full batteries, Paju takes over my job of pushing while I go ahead of the cart. And back to the hangar we go. I make sure that no Cylinders fall and I pull the cart to help Paju. It'd be a huge hassle if any of them hit the ground. OK, just a bit further. After arriving at the lifting platform, I wipe my forehead with my sleeve and look around the huge garage where dozens and dozens of airships, aircraft, armored vehicles and transport barges are lined up. One day, Paju and I might have the chance to have a seat in one of them, and we'll fly full throttle over Asgartha and up through the clouds… Paju puts his arm over my shoulders, panting for breath. He and I will be amazing pilots. The beep tells us that the elevator has reached level zero. For now, we need to prove ourselves as Apprentices."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R38YZBJ11S9M7PB5WBZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5R38YZBJ11S9M7PB5WBZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R2GAJJ0A2PF4Q2MKXJK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5R2GAJJ0A2PF4Q2MKXJK",
+          "text": " Treyst"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R2SC9E8M6J0N9APDC5E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5R2SC9E8M6J0N9APDC5E",
+          "text": "370 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY4Z52VNECFHAKK4HB0PKS",
+      "reference": "ALT_CORE_B_AX_26_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Bleibende Karte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7cc49df9f176d8d418f0",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Wahrzeichen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/86b37617eab7f5526c84",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/8c7af36241d93c65de31",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:42+00:00",
+      "question": "What happens to the Kelon counters if the card is sent to hand or deck?",
+      "answer": "All counters disappear when a card is sent to discard or to a hidden zone."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/de_DE/e295b3fa95146f2574f3ee0ad307d9ee.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/WEB_41f22c16e590159848fabed7818861a0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/WEB_e716095944d948f0a6a57500549d51b0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_26_R2",
+  "reference": "ALT_CORE_B_AX_26_R2",
+  "id": "01HKAFJNM4SZNGQSVQBGTM56XG",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/de_DE/e295b3fa95146f2574f3ee0ad307d9ee.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/en_US/c904980301cf8f34c28840933b67d8f3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/es_ES/4bd1f7e18cfbff88bdfa0b57bf720ed1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/fr_FR/520eda889a502f1d7e401b3b6ce42e07.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_26/JPG/it_IT/2cce5a3a8bdc3112e38766887456876e.jpg"
+  },
+  "name": "Kelon-Zylinder",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{T} : Ich erhalte 2 Kelon-Zähler.  {T}, Gib 1 meiner Kelon-Zähler aus: Der nächste Charakter, den du in dieser Runde spielst, erhält 1 Verstärkung."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-024-F-DE"
+}

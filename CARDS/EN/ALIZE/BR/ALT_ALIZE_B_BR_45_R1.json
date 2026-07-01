@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_45_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0MK86S8DR69PSVWJAV6QYSEBG4",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24SXKK0JA8QSR54KZWM6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24SXKK0JA8QSR54KZWM6",
+          "text": "Too good to share."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24TG1TC79QZ636HA133T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24TG1TC79QZ636HA133T",
+          "text": "OK, let's read some of this script. I'm chewing while reading the first page. \"Kojo's stomach starts to rumble loudly.\" Yep, confirmed. Thankfully there are treats for the staff. OK, a line of dialog: \"During expeditions, I often need a pick-me-up.\" Yep, I can definitely say that with conviction... Haha. It's funny when I think about it. A few months ago, I was a nobody; and now, they're asking me to star in altavista ads. I can just image what Gault and the others will say when they see my face filling the screen during the show. Blah blah blah. I swallow what's in my mouth and bite into the candy bar again. \"To regain my energy, I always keep an Eat Me bar in my pocket!\" Yep, classic. I say the phrase a few times in my head. \"To regain my energy, nothing beats...\" No, it's \"I always fill my pockets...\"\n\nOK, focus, Kojo. I scrunch up the wrapper and stuff it in my pocket without really thinking. Then I swallow the last mouthful. While reading the rest of the script, I feel around to find a new bar. \"With Eat Me, the bar that makes you grow, I'm playing in the big leagues!\" Blah blah blah, and then it finishes with the slogan: \"Eat Me: The little break for big moments!\" OK, easy, especially because it gives me a nice break. I stuff a whole bar in my mouth and carry on eating happily. Wow, these are good, but they don't half make you thirsty! I turn to the assistant to ask for some water, only to see her drop her notepad with a horrified look on her face. What? I stare at her and look around me to see what I did wrong. And then I realize that I've just eaten half a dozen of the candy bars I'm meant to be promoting. Hmm. What is it they were saying about big moments? Big in what way?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24T69D3D64CH784H0PWF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24T69D3D64CH784H0PWF",
+          "text": "In the book \"Alice's Adventures in Wonderland\" by Lewis Carroll, Alice drinks from a bottle labeled \"Drink me\" to access a garden through a tiny door. She then starts to shrink small enough to fit through the door. However, the key to the door was left on a table, which she can't reach now that she's small. So she then eats a cake labeled \"Eat me\" and grows to an enormous size.\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24S85SRS2TPAG6ZQT6YX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24S85SRS2TPAG6ZQT6YX",
+          "text": "KOJO\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24SK46MGX3WGB797WSDT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24SK46MGX3WGB797WSDT",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "0MK86S8DR69PSVWJAV6QYSEBG4",
+      "reference": "ALT_ALIZE_B_BR_45_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Expedition Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3243ba7a866e6d7b8bdb",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Gear"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/190f8b7bbe1389d8d43f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/54e0ecc7731fe9f9968d",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:11+00:00",
+      "question": "If a Gigantic Character has an effect referring to \"my Expedition\", which Expedition is it?",
+      "answer": "Its effects affecting its Expedition affect both Expeditions it's in."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/en_US/6ad768e6662c88c09a26794990f965c7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/WEB_cb1253ea3f514e5d953a7722481ea999",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/WEB_c6bbe0c97c23fac3b09bbc79ca452729"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_45_R1",
+  "reference": "ALT_ALIZE_B_BR_45_R1",
+  "id": "01J1Q4P4S494FQQRQ8V7F8JMX2",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/de_DE/caf8a13f8927d2d65ee97f71f4f4c4d8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/it_IT/8e6cff509828f39e80a98b2b542b5727.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/en_US/6ad768e6662c88c09a26794990f965c7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/es_ES/653fe3fed0ea0f177b036d2e555f2e77.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/fr_FR/0db086935286768088fe0e2bba92947e.jpg"
+  },
+  "name": "Eat Me Energy Bars",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "#{J} I gain [[Fleeting]].#  If there is only one Character in my Expedition, it is [Gigantic]. (It is considered present in each of your Expeditions.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-033-R-EN"
+}

@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_23_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50E94Z9QE5CXWNVYN73D",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH666AW0FZNQRZC86XFA6T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH666AW0FZNQRZC86XFA6T",
+          "text": "L'imagination façonne notre réalité, tout comme nos croyances ont façonné l'Éther."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH667RNS5DSBQWTND5WXZP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH667RNS5DSBQWTND5WXZP",
+          "text": "J'en appelle à Hécate, j'en appelle au pourfendeur du Voile. Ilinka m'aide à maintenir le Sceau de Conjuration. Il a la forme du Strophalos de la Triple Déesse de la Sorcellerie, à demi dans notre monde, et à demi dans l'Empyrée. De ce fait, il se matérialise et se désincarne, tournoyant comme un mobile erratique. Il ne faut pas relâcher notre emprise. Il serait dommageable de créer une seconde Confluence... Tout ce qu'il me faut, c'est un interstice pour puiser directement dans le monde de l'imaginaire les idées dont j'ai besoin. La mâchoire serrée, je plonge la main en son centre. Autour, les cercles concentriques et éclatés effectuent des rotations chaotiques, comme un verrou qui s'ouvre et se ferme. Je sens la douleur irradier de mon bras, tandis que je vais à la pêche aux concepts...\n\nLa fissure entre les mondes grossit et se contracte tour à tour. C'est un subtil équilibre. Trop de force, et elle me sectionnera le bras. Pas assez, et nous risquons de créer une Singularité de Tumulte. Alors je ferme les yeux, et me concentre sur les idées qui lacèrent ma peau comme un maelström furieux. Quand je sens que celles que je cherche ont mordu à l'hameçon, je retire mon bras, gangrené par de nombreuses idées parasites. Ce sont des idées pures et puissantes, mais je m'étais préparé à les recevoir. Je me mets à les décrocher de mon essence comme on pèle une orange, gardant seulement celles qui m'intéressent. Les autres se dissipent dans l'air, emportées par les courants de Tumulte en attendant de se greffer quelque part dans la réalité. Je fais un signe à Ilinka, et de concert, nous refermons le Sceau d'Hécate. Je recouvre mon bras scarifié de mon manteau, faisant tournoyer dans mon esprit les idées que je vais m'empresser de manifester dans le monde."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH666ZH1X3ZQ8S0EQ0HG4P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH666ZH1X3ZQ8S0EQ0HG4P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6651EV4MGHDNE5QCQSGR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH6651EV4MGHDNE5QCQSGR",
+          "text": " Afanas"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH665MFJ24YTJHESQT98RG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH665MFJ24YTJHESQT98RG",
+          "text": "389 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50E94Z9QE5CXWNVYN73D",
+      "reference": "ALT_CORE_B_YZ_23_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e1d932a89734db9f5882",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/647fc9205bb2056d9df6",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_23/JPG/fr_FR/34de798d011d135d11c1414fd7847ab1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_23/ALT_CORE_B_YZ_23_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_23/ALT_CORE_B_YZ_23_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_23_C",
+  "reference": "ALT_CORE_B_YZ_23_C",
+  "id": "01HKAFJP4RWMEJ9WDZ765ZTZH4",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_23/JPG/es_ES/020006719b8a8088420d5697d251f397.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_23/JPG/fr_FR/34de798d011d135d11c1414fd7847ab1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_23/JPG/en_US/722ffb74d49b4c505e72768afb34aef1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_23/JPG/de_DE/6d814077c191f731863602529b94ce05.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_23/JPG/it_IT/e51622f15afbf456c0fd872195b79c93.jpg"
+  },
+  "name": "Sceau de Conjuration",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "5",
+    "MAIN_EFFECT": "Piochez deux cartes."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-173-C-FR"
+}

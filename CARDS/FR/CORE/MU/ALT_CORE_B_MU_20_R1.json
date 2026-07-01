@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_20_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY507CR3F0857VC0QEG1T7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5XVWFHSB5E6AS6F2XZNQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5XVWFHSB5E6AS6F2XZNQ",
+          "text": "Ça sent le sapin !"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XWQHPK2BRRWRHRM0N6N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5XWQHPK2BRRWRHRM0N6N",
+          "text": "Le Pignon gronde et se frappe le torse, menaçant les villageois qui se tiennent derrière moi. Je me dresse devant lui, les mains tendues en signe de paix. À mes côtés, mon Alter Ego grogne en signe de défiance, prêt à intervenir s'il venait à s'en prendre à moi. Je regarde les poings massifs du colosse se refermer comme des marteaux. Il crie et frappe le sol, faisant voler des mottes de terre. Comme toutes les variétés de Pignons Pugnaces, il est soupe au lait et prompt à recourir à la violence. Mais je ne le laisserai pas aller jusque-là aujourd'hui. Je lève les mains et m'approche, prostrée en signe de respect. Il tambourine le sol devant moi, faisant trembler les arbres alentour. Nauraa me demande de faire attention. Il sait à quel point ils peuvent être dangereux quand ils voient rouge.\n\nEt il a raison d'être en colère. Le village s'est installé sans consulter les autres espèces de ce lieu. Mais je dois lui faire comprendre qu'ils n'avaient pas d'autre choix que de poser leurs valises ici. Ils ont été chassés de leur foyer par la propagation du Fagn, une zone de fange putride qui étend petit à petit son influence sur le reste du marais. Délogés, ils se sont établis ici par la force des choses, mais ils ont négligé l'avis des premiers habitants de ce lieu. Je pose un genou à terre et m'incline humblement face à lui. Les Pignons sont peut-être irascibles, mais tout ce qu'ils veulent, c'est qu'on leur montre du respect. Il gronde toujours, mais a cessé de marteler la terre. Je dépose une coupelle au sol et y verse en offrande de l'eau de ma gourde, chargée de Mana. Très bien. Nous allons enfin pouvoir discuter, lui et moi."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XW95RVBS16551VCFFNQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5XW95RVBS16551VCFFNQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XV05T8HYQ9XXMYJ1Q2N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5XV05T8HYQ9XXMYJ1Q2N",
+          "text": "Teija"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XVEE5F7Q46RJZGER1X5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5XVEE5F7Q46RJZGER1X5",
+          "text": "385 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY507CR3F0857VC0QEG1T7",
+      "reference": "ALT_CORE_B_MU_20_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1cf2ecd81ca9c470f229",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plante"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/47d162c59f122b8b437e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/JPG/fr_FR/10136ba28ed8c661a4a4b297b8641504.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/ALT_CORE_B_MU_20_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/ALT_CORE_B_MU_20_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/ALT_CORE_B_MU_20_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_20_R1",
+  "reference": "ALT_CORE_B_MU_20_R1",
+  "id": "01HKAFJP837HTTKPVEKM9FBW5N",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/JPG/fr_FR/10136ba28ed8c661a4a4b297b8641504.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/JPG/en_US/a06bfc884cef1c819cab74d1773008ee.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/JPG/de_DE/7ab66686839308b8ec57327fc5fbae05.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/JPG/it_IT/d42145a8639f8ac87ef92ac1c0527ba4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/JPG/es_ES/2ca688cf43745ce7be70ddca32d717cf.jpg"
+  },
+  "name": "Pignon Pugnace",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{J} Je gagne [[Ancré]]. (Au Repos, je ne vais pas en Réserve et je perds Ancré.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-111-R-FR"
+}

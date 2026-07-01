@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_07_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50CM9ZMCBQ65FT5GMQE9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH63TCTTVGFW2N5TD45HRW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH63TCTTVGFW2N5TD45HRW",
+          "text": "« N'attendez pas que la magie vienne à vous, créez la vôtre ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63VHQA9PVNDC8SQVF40J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH63VHQA9PVNDC8SQVF40J",
+          "text": "Lentement, Sewati se met à réaliser son premier kata. Ses traits sont apaisés, son regard est celui d'une extrême concentration. Les premiers mouvements s'enchaînent, alors qu'il trace devant lui Signe après Signe. Ses gestuelles vibrent de Mana. Chacune d'entre elles est un moyen de donner à ses Signes un caractère tangible, de les investir à la fois de sens et de puissance. On les appelle les Mage-Danseurs en raison des chorégraphies élaborées qu'ils réalisent, mais en réalité, ce sont des pêcheurs. Chaque Signe accompli devient un appât pour les idées qui existent de l'autre côté du Voile, un aimant qui les attire en un lieu, en un point précis. Ils n'ont plus qu'à créer une légère incision pour leur permettre de traverser la barrière entre les mondes, pour les faire exister, ici et maintenant. Et c'est précisément ce que Sewati s'apprête à faire.\n\nTout à coup, l'idée de l'eau déferle dans le monde depuis l'Empyrée. Et à l'instar de tous les concepts qui viennent du monde de l'imaginaire, cette idée est pure, raffinée par tous les esprits qui la pensent en cet instant. L'eau est limpide, claire, dénuée de toute impureté. Mais ce n'est là qu'une portion de son sortilège. Un autre Signe s'active et convoque son lot d'idées, celles du tourbillon. Nourrie par l'Éther, l'eau se met à virevolter comme une toupie autour de lui, frénétique et impérieuse. Mais il reste une dernière étape pour finaliser son sort : le troisième Signe qu'il a tracé, celui du verre. Les idées s'agglutinent, finissent à leur tour par franchir le seuil. Brusquement, la tornade aqueuse se solidifie en une spirale de verre aux motifs délicats et acérés. Je me contente de hocher la tête, satisfait du résultat. Après avoir terminé son exercice, Sewati se met au repos, soufflant longuement pour chasser toutes les idées parasites qui ont franchi le Voile..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63TZSN5CRPT19Y3Q3RMF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH63TZSN5CRPT19Y3Q3RMF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63S6XP8CMJMKG5A1XETC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH63S6XP8CMJMKG5A1XETC",
+          "text": " Afanas"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63SSJPRWG0GWX68RYFBP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH63SSJPRWG0GWX68RYFBP",
+          "text": "366 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50CM9ZMCBQ65FT5GMQE9",
+      "reference": "ALT_CORE_B_YZ_07_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0c25c64a02e50933c7ca",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mage"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/334d1de3d14c96015e90",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e12af3677bf2753fb193",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/JPG/fr_FR/070bb4c293d7541d73b243b8aefcb9ac.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_07_R2",
+  "reference": "ALT_CORE_B_YZ_07_R2",
+  "id": "01HKAFJNZMJMA3SZCDMSGQHXDZ",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/JPG/de_DE/242029ede5b8f8142e3ca3b712902cdc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/JPG/en_US/ad95d191a7dbd138b9ecb32b7d1400c4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/JPG/es_ES/e34d0af7edbb98f52b499aeb3d9efbc8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/JPG/fr_FR/070bb4c293d7541d73b243b8aefcb9ac.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/JPG/it_IT/1c91105ff4bc5ee863d77389cd72385b.jpg"
+  },
+  "name": "Mage-Danseur du Kadigir",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "Lorsque vous #lancez au moins un dé# — Je gagne 1 boost[]. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-156-F-FR"
+}

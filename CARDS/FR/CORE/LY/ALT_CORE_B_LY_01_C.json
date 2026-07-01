@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZQMTWM5SR4EVN20W06R",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5T2QW9FYB8STZQHFGDSD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5T2QW9FYB8STZQHFGDSD",
+          "text": "Le chaos est source de désillusions, mais recèle aussi les plus belles pépites !"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T3BJF8FDSKCNCBQJJE6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5T3BJF8FDSKCNCBQJJE6",
+          "text": "392 AC - Hop hop ! Pas de temps à perdre. L'Eidolon de Sierra va pas tarder à popper hors de sa prison de peinture. Et forcément, il va être un peu vénère. Comment ça, de la triche ? Hé, c'est juste pour donner un peu de piquant à la compète ! T'es d'accord, hein, Blotch ? Ah. Euh. Ben, merci pour ton soutien. C'est pas moi qui ai fixé les règles du jeu, et franchement, rien disait qu'il était pas possible de mettre des bâtons dans les roues de ses adversaires ! Hmm ? Comment ça ? Le Covenant ? Coopération entre les Factions, bonne entente... Blablabla. Ouais, ok, mais là, c'est juste pour s'amuser. Y a pas de Covenant qui tienne ! Oh, hein. T'es dans quelle équipe, Blotch ? T'es l'Alter Ego de qui ? Ouais, ben, c'est pas ma faute si t'as d'mauvais goût dans le choix de tes alliés, surtout quand c'est ad vitam ratatam !\n\nOk, ok. Soit. Tu lâches du lest sur la question, et je t'envoie de quoi t'aider. Ça te va ? Allez zou, emballé c'est pesé. Reste juste à invoquer une petite route arc-en-ciel ! Je dégaine mes sprays et commence à barbouiller le sol. Tout à coup, un ruban d'un rose irisé se met à tortiller dans les airs, tournicotant vers le ciel, puis à travers les nuages comme une anguille qui se dandine. Allez hop ! Tous en piste et dans les starting-blocks ! Par l'Altération, je matérialise des rollers aux pieds du Chapelier, un char à voile pour Tanuki ! En suivant le Bifröst, ils vont débarquer sur les chapeaux de roues auprès de Blotch. Hein, vieux frère ? Tu vois comment on doit se soutenir ? C'est comme ça qu'on est censé s'épauler dans un Exalt ! Pas en contredisant son comparse, surtout sur des points de détails ! Vroum vroum ! Tchou tchou ! Alors, les renforts sont arrivés, vieille branche ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T31WK5558TFB6W6W7M2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5T31WK5558TFB6W6W7M2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T231WDZS4QYPD1X9SGD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5T231WDZS4QYPD1X9SGD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T2DSJGE09Q3SQNHCQW4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5T2DSJGE09Q3SQNHCQW4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HNGY4ZQMTWM5SR4EVN20W06R",
+      "reference": "ALT_CORE_B_LY_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f1a7dcccc2ee7a1e46d4",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/ebaa97918dc5a70a459e",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:48+00:00",
+      "question": "Can I target a Character in my Reserve?",
+      "answer": "No. Characters in Reserve are not controlled."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/d6c48ef94e2605c538f7",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-25T10:37:48+00:00",
+      "question": "What kind of dice should I use ?",
+      "answer": "A (balanced) six-sided die.  \"On a 6+\" is there because some cards, such as the rare version Martengale, allow you to increase the result of the die, possibly beyond 6."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_01/JPG/fr_FR/658db0644631e869f7a38b6a25e6b577.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_01/ALT_CORE_B_LY_01_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_01/ALT_CORE_B_LY_01_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_01_C",
+  "reference": "ALT_CORE_B_LY_01_C",
+  "id": "01HKAFJNR7FQ4V2CWRWG1ZWVW5",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_01/JPG/it_IT/6887974d589ca68bf1fc28ca87068d79.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_01/JPG/en_US/01629e62f492c4861737f49ff45f57e2.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_01/JPG/fr_FR/658db0644631e869f7a38b6a25e6b577.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_01/JPG/de_DE/a59ab6223ea4be203af7ea8e6c5570ac.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_01/JPG/es_ES/651e130763d0707ef615455207318413.jpg"
+  },
+  "name": "Nevenka & Blotch",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "{T} : Ciblez un Personnage que vous contrôlez, puis lancez un dé. Sur :  • 6+, il gagne [[Ancré]]. (Au Repos, il ne va pas en Réserve et il perd Ancré.)  • 2-5, il gagne 1 boost. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)  • 1, envoyez-le en Réserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-061-H-FR"
+}

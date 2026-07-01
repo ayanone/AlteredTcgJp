@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_13_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZA0Y4YGET6656BYJKDX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5RY7T9BNA7WNXPKQHRX5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5RY7T9BNA7WNXPKQHRX5",
+          "text": "«Aguanta el dolor. Rendirse duele más»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RYRKWD69B1ES0RJSGZV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5RYRKWD69B1ES0RJSGZV",
+          "text": "I don't know what whim inspired him to make me scale this endless mountain, but I grit my teeth without complaining. Not verbally, anyway. The peak is still far off, the heat almost unbearable. And the fact that he's strapped heavy weights to my legs and left arm doesn't exactly help matters. Each step is a trial, each flight of stairs an ordeal. But it's not for me to question Master Kappa's methods, as antiquated as they may seem. He's taken many apprentices under his tutelage over the years, and he's gained a reputation for squeezing the best out of each one, even the most ordinary lump of charcoal. Even so, seeing him casually smoke his pipe while sipping a cool tea has a way of making the most patient pupil go off the deep end.\n\nI groan, adjusting the bag of stones weighing down my shoulders as I sweat profusely. He's certainly mischievous, no doubt of that. Wise, perhaps, but that remains to be confirmed. Bedivere suggested I follow whatever training the Kappa was willing to give me. I took her at her word, but with each passing day, the tasks he assigns me get more and more absurd. Is he merely testing my patience? Or is he trying to strengthen whatever he can to offset my disability? My thoughts race as I ascend the steep slope. One thing's for sure: I'll never succeed at anything if I can't make it through a simple climb. I maintain my momentum as Surge flutters along, utterly unaffected by gravity or even distance. Unlike me, he doesn't have to endure any physical limitations… I suddenly narrow my eyes. In the end, wasn't the goal for me to overcome those limitations myself?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RYGVS17JBFKZXD9SCMY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5RYGVS17JBFKZXD9SCMY",
+          "text": "An aquatic creature from Japanese folklore, the Kappa resembles a cross between a humanoid turtle and a monkey, with a hollow at the top of its skull that is filled with water as a bowl might be. It's said that this liquid is the source of its power, and that the only way to defeat it is by forcing it to spill the liquid. Mischievous and gluttonous, the Kappa can be appeased with an offering of cucumbers, its absolute favorite food."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RXPPNH4RH1RX7PYZERQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5RXPPNH4RH1RX7PYZERQ",
+          "text": "Atsadi"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RXZ9SEANZ908TSAZN3M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5RXZ9SEANZ908TSAZN3M",
+          "text": "378 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZA0Y4YGET6656BYJKDX",
+      "reference": "ALT_CORE_B_BR_13_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e20e5abeff89692e9a1a",
+      "reference": "TRAINER",
+      "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+      "name": "Entrenador"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1a672f9022a2c27228fb",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Espíritu"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/080ae150f848a02a3e7a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/JPG/es_ES/98d882599ec1afbe0a2894a92b675f02.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_13_R1",
+  "reference": "ALT_CORE_B_BR_13_R1",
+  "id": "01HKAFJNP05F57QJ16X7PDJP1N",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/JPG/it_IT/b930b9e2224cdca39acaec60fec1762d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/JPG/fr_FR/69a8fd0baa1c4ec90d68b2ab31533c1c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/JPG/de_DE/4ab41691e2c7fbee8338cef2d5094b2b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/JPG/es_ES/98d882599ec1afbe0a2894a92b675f02.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/JPG/en_US/b9aa32471e12ad2665e77a2a35df2c0f.jpg"
+  },
+  "name": "Kappa",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "5",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MAIN_EFFECT": "#[Avezado].# (Mantengo mis potenciadores cuando voy a la reserva.)",
+    "ECHO_EFFECT": "#{D}: El siguiente personaje que juegues este turno gana 1 potenciador.# (Descártame de la reserva para hacer esto.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-050-R-ES"
+}

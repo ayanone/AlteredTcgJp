@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4XWAX6BYM49G0RVJNSVEWHXJS4",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2A4NANZTXY05NT7YE7PP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2A4NANZTXY05NT7YE7PP",
+          "text": "El mundo se nutre de magia y se marchita en su ausencia."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2A5KZCGETF08NX9S738B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2A5KZCGETF08NX9S738B",
+          "text": "392 AC - Abro los ojos y contemplo mi creación. Exhalo para disipar el resto de maná que se agita en mi interior. El círculo megalítico sigue emitiendo un brillo amatista mientras se ancla en el mundo, gracias al maná que Senka trajo del Tumulto. Me pongo de pie. La espalda me cruje entre relámpagos púrpura que brillan a mi alrededor. Este lugar ciertamente crepita con magia y poder, un torbellino de ideas fugaces capturadas por el nodo que acabo de crear. Coloco una mano sobre la superficie de un menhir. La piedra, de color púrpura, ha adquirido una textura orgánica, una masa nudosa de surcos y estrías que se entrelazan como fibras y ligamentos. A su alrededor, complejos geoglifos y frágiles pilas de piedras dan el toque final a mi creación arcana, que otros iniciados podrán usar a discreción cuando lleguen a este lugar.\n\nExtiendo la mano y Senka se posa en mi brazo, clavando sus garras en mi carne. Me perfora la piel con el pico y se bebe la sangre que brota de la herida. Esta es mi ofrenda por la ayuda que me ha prestado. Aprieto los dientes y dejo que absorba mi fluido vital. Basta. Mi ave nocturna levanta el vuelo mientras materializo una tira de tela alrededor de mis heridas, que se tiñen inmediatamente de rojo. Como una sombra, Senka se eleva sobre las ruinas. Como un ave rapaz, persigue las ideas, las atrapa al vuelo y se las traga como si fueran ratones de campo. Por un breve instante, la ansiedad aflora a la superficie de mi mente. Cuanto más progresamos, más y más fuerte se hace. Sus alas crecen igual que la noche en su interior. Necesito que siga fortaleciéndose, pero ¿es prudente dejar que se atiborre así?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2A54GTGT8MVWN1VFRA2K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2A54GTGT8MVWN1VFRA2K",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2A3NPW76PC9YYY7HGPR0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2A3NPW76PC9YYY7HGPR0",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2A45QNW6TS6WM5PY5MW2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2A45QNW6TS6WM5PY5MW2",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "4XWAX6BYM49G0RVJNSVEWHXJS4",
+      "reference": "ALT_ALIZE_B_YZ_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héroe de"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a0b8231637bfc19286ad",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/JPG/es_ES/9044e9b552dd5c5e5ebcda6afab696f3.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/WEB_6e725861693216fe6b0d841ad8b285c6"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/HERO_THUMB_e3df928336c6907f4bf3df6f702ad2e1"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_03_C",
+  "reference": "ALT_ALIZE_B_YZ_03_C",
+  "id": "01J1Q723Y63R42VWJ1907HX90P",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/JPG/it_IT/9b862ece1f9933140f68454a2924843f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/JPG/de_DE/c57344c7eb7ab374487c9e18db12a6c5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/JPG/fr_FR/e7440fec1138d609f97087253929e21c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/JPG/es_ES/9044e9b552dd5c5e5ebcda6afab696f3.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/JPG/en_US/ac6f605fe4f6e69862416c3a78c7f011.jpg"
+  },
+  "name": "Afanas y Senka",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "Los hechizos que juegues con coste desde la mano de {1} o menos tienen [[Fugacidad]].  Cuando juegues un hechizo — Un personaje objetivo que controles gana 1 potenciador. (Haz esto después de que el hechizo se resuelva.)"
+  },
+  "isSuspended": false,
+  "isErrated": true,
+  "isBanned": false,
+  "collectorNumber": "TBF-087-H-ES"
+}

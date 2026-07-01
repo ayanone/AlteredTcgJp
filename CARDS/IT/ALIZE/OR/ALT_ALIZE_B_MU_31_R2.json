@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_31_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0VK18W139H967R29XJ50BY4S7J",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26BMERVQQWTPKP7WEM42",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26BMERVQQWTPKP7WEM42",
+          "text": "Un'altra vacanza! Ottima per mantenersi freschi."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26CH6NDVE0GXDNAGC5BH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J26CH6NDVE0GXDNAGC5BH",
+          "text": "Trascino i piedi, non ho fretta di arrivare. È già lì ad aspettarmi, appollaiato sul ramo di un albero con il bastone in grembo e i piedi che penzolano liberamente sotto di lui. La sua criniera di capelli bianchi ondeggia da una parte all'altra come se stesse recitando una filastrocca. È proprio Padre Inverno. Fischia mentre contempla l'opera di Persefone intorno a noi. So che fa finta di ignorarmi. Fa tutto parte del gioco. È una lezione. Guardo anch'io il paesaggio circostante, come per cogliere l'ultima occasione di assorbire gli spiriti che animano questo luogo con la gioia della primavera, per imprimere nella mia memoria i colori e i profumi dei fiori e degli alberi. Sospiro.\n\nPadre Inverno ridacchia e salta a terra. Mi schernisce, ricordandomi che è qui per rimediare ai miei errori. Vorrei reagire, ma poi mi ricordo che è un po' una testa calda... e potrebbe farmela pagare. Potrei ritrovarmi sotto un ammasso di ghiaccio e neve. Proprio come ho fatto con Saskia, mi guardo i piedi e non dico nulla. È ora di restituire a questo bioma il suo originale carattere invernale. Jack alza il bastone e i colori cambiano istantaneamente: dal verde al giallo, poi un ocra autunnale. Le foglie iniziano a cadere e si forma uno strato di gelo sul terreno. All'improvviso spuntano anche i bickrost, i piccoli conigli bianchi dotati di corna che popolano le foreste innevate. Affascinati, fissano l'eidolon mentre esegue il suo lavoro. Balla una breve giga per intrattenere il suo pubblico peloso e la neve si unisce a lui nella danza. Tutto è di nuovo ricoperto di bianco. Padre Inverno fa un piccolo inchino. La lezione è finita. Giro sui tacchi, stringo il colletto e sussurro un addio alla primavera..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26C09X95NHPST48PZB8C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J26C09X95NHPST48PZB8C",
+          "text": "Si dice che Padre Inverno, un'allegoria dell'inverno nelle culture anglosassoni, sia l'uomo che si cela dietro il cambiamento di colore delle foglie autunnali, la brina sull'erba e i geloni alle dita delle mani e dei piedi. Viene spesso rappresentato come un elfo con capelli bianchi, occhi azzurri e vestiti ricoperti di brina. È un personaggio malizioso dal carattere infantile. Chi lo fa arrabbiare potrebbe addirittura ritrovarsi congelato sul posto. A Padre Inverno sono attribuiti vari poteri, tra cui quello di creare ghiaccio, venti freddi e precipitazioni invernali come neve e pioggia gelata."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26ASVRGJSKGPEP1FCWZT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26ASVRGJSKGPEP1FCWZT",
+          "text": "RIN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26B7943VJH2B8CVFGF4M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J26B7943VJH2B8CVFGF4M",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0VK18W139H967R29XJ50BY4S7J",
+      "reference": "ALT_ALIZE_B_MU_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/208fd04c77e323994646",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mago"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b8776459d804c1308d8e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/it_IT/52df848222a3e4a620554d7f9a00536f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_ef3f336780448f2acd3ffad337315db0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_39048fd427a70623c3e279a3e7d3ccc2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_6cd468b8d04833e04e50ba40050e3a66"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_31_R2",
+  "reference": "ALT_ALIZE_B_MU_31_R2",
+  "id": "01J1Q4P4SDA8SPK4V8SP1KVFB2",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/de_DE/9d8f44ab0b234684c15fd28bf190f9eb.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/es_ES/24cef27b10cd90820f6ef028c76c3b5f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/it_IT/52df848222a3e4a620554d7f9a00536f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/fr_FR/73a4efb3ccd43648932c437b90613631.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/en_US/b3f8eaf0ec96607e56a46d94e0e3c1bf.jpg"
+  },
+  "name": "Padre Inverno",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#{J}# Puoi consumare ({T}) una carta bersaglio nella Riserva. (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-055-F-IT"
+}

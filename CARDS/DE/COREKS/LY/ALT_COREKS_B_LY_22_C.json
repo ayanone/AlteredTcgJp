@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_22_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB783BG50KX73EC6HH97E7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME80ZKE8AAQ15B0GWF03NK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME80ZKE8AAQ15B0GWF03NK",
+          "text": "„Danke, dass du mein Metronom bist!“"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME810J45KSV5F8FMSNM02C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME810J45KSV5F8FMSNM02C",
+          "text": "Sitting quietly on the clockodile, Aru clears her throat with a few vocal warm-ups as the Eidolon starts to beat time. Tick-tock, tick-tock... as steady as a metronome. When she's ready, Aru starts with an understated vibrato, which builds to a crescendo. Her timbre is clean, her notes crystal clear. I watch her diaphragm, her posture and the regularity of her breathing. Yesterday, we worked on opening the jaw, and the position of the tongue and larynx. Today, we're working on her ribs and breathing rather than respiratory phonetics and enunciation. So far, she's flawless. Aruzhan has the talent to be an incredible singer. And if she continues like this, maybe we can sing together and star in a lyrical concert? No, that's impossible. Unless she stays in Arkaster, we'll need to settle for the halls of the Ouroboros.\n\nBut more than her technical skills, we need to focus on her emotion. Aru is young, and still inexperienced. It was the same for me at first. I knew how to sing, but not how to express myself. I gradually learned how to draw on my emotions. Through these feelings, I could add depth to my lyrical journeys. Anger, frustration, injustice, exile, loss, hope... All of it cultivated my voice. I listen to Aru carefully and marvel at the precision of her musicality, her wide vocal range. Her voice effortlessly transitions from her head to her chest. But she is mostly looking to impress, rather than actually convey something, and that's where the problem lies. Maybe later I'll show her how to summon ideas to bolster her singing. Using a bit of Alteration and a dash of extra imagination, she could reach new heights. All she's really lacking is just a little personality."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8104PA59RYY0GZ1V48AD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8104PA59RYY0GZ1V48AD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80YJD7N7H41K9A4726KB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME80YJD7N7H41K9A4726KB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80Z5XF84T89CVPCYDVJB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME80Z5XF84T89CVPCYDVJB",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB783BG50KX73EC6HH97E7",
+      "reference": "ALT_COREKS_B_LY_22_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/61d238fbd967e5a04c66",
+      "reference": "SONG",
+      "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
+      "name": "Lied"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b0671d3842b4e6976f9c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/5a4a43561bffbe387128",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:34+00:00",
+      "question": "Can I play a Spell if there's no valid target?",
+      "answer": "Yes. Note that your Characters are valid targets for this Spell."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_22/JPG/de_DE/9023495822a26226af6f092ece2bef72.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_22/WEB_4de77e81bc1321fde71a2fa430ffb3a9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_22/WEB_2699e405ca7ec7f51f41d8f2985051f9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_22_C",
+  "reference": "ALT_COREKS_B_LY_22_C",
+  "id": "01HN5TXRCNGK27N1S4DJVG9S0S",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_22/JPG/de_DE/9023495822a26226af6f092ece2bef72.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_22/JPG/it_IT/d5e4da11f64a1fec0d608328b9ae5417.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_22/JPG/es_ES/2da276acab69f3a96288bb0b499e5c97.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_22/JPG/en_US/8389a93a4ad5a8ada24a24da5b26e3cf.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_22/JPG/fr_FR/8f4ad48503d4222a9f97b8ad0fc00f13.jpg"
+  },
+  "name": "Gesangstraining",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Ein Charakter deiner Wahl erhält [[Vergänglich]]. (Falls er in die Reserve geschickt werden soll, lege ihn stattdessen ab.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-082-C-DE"
+}

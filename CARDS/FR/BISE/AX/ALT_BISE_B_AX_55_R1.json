@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_55_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0TWXAR4RCX8B0AVCH5MDK2QMHE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A48VG2RQXCHCYAGTWDZS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A48VG2RQXCHCYAGTWDZS",
+          "text": "Avec la technologie appropriée, la Sève peut présenter des propriétés énergétiques suffisantes pour remplacer le Kélon."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A496QNVCHQ8Q3D562AME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A496QNVCHQ8Q3D562AME",
+          "text": "393 AC - Je jette un œil aux alentours, essuyant mon front poisseux. Au sein de la raffinerie, les tapis qui assurent le transport du Kélon dans des cylindres avancent lentement, et leur bourdonnement emplit la cavité. Je plisse le nez. Je vois bien que la production tourne au ralenti. Au milieu, sur une plate-forme métallique, un superviseur tient un livre de compte, visiblement préoccupé. Je sais qu'il a la lourde charge de gérer les attributions de Kélon. J'étais venu en quémander pour les équipes actuellement déployées, mais je vois bien que ça va pas le faire. La pénurie de Kélon est de plus en plus préoccupante, et si ça continue comme ça, on va se retrouver au chômage technique. Il regarde son boulier, comptant et recomptant, et le résultat n'a pas l'air de le satisfaire. Je prends place à ses côtés et me penche sur ses rapports, ses résultats d'analyse. Il me laisse faire, trop occupé pour s'offusquer de mon intrusion.\n\nJe le regarde avec insistance, et il me dévisage en retour. Ça fait des semaines que je le tanne, mais jusque-là, il n'a pas voulu céder. Trop dangereux. Trop prématuré. Trop de recherche et développement impliquée. Je vois son cerveau mouliner, son front se plisser. Je n'ai pas à parler ni à argumenter davantage. Je lui ai déjà fait part de tout ce que je savais. Mis au pied du mur, il finit enfin par acquiescer. Je convoque alors la Petite Fille aux Allumettes, qui m'apporte un tube empli de Sève. Elle pose le container sur la table, et nous nous mettons à l'ausculter. On sait que les Sages utilisaient la Sève comme une sorte de carburant. Il suffisait juste d'adapter notre matos pour en tirer parti. Grâce aux petits jeunots, on sait qu'elle nécessite un réseau d'injection. On a déjà les contenants. Dès qu'il donnera son feu vert, il restera plus aux ingénieurs qu'à potasser un système de valve et de circulation..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A49055CV7JYJ6JSGAR3D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A49055CV7JYJ6JSGAR3D",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A48GSWJFBB9WV91016RR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A48GSWJFBB9WV91016RR",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A48N5XKNF9FAW55X5AF6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A48N5XKNF9FAW55X5AF6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0TWXAR4RCX8B0AVCH5MDK2QMHE",
+      "reference": "ALT_BISE_B_AX_55_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2ba81a4113b65e381bbe",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d76e1f3634afe81a1ebf",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/fr_FR/ab43ff365cf65f9251ead2358be997f0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_e814eaadbca150c856840c94c8a2075b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_d5e5ac4c2017594c41de639a5fa62d15",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_05815bb965acf608a2fb5bef7e7739af"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_55_R1",
+  "reference": "ALT_BISE_B_AX_55_R1",
+  "id": "01JB1YGPB49ZDQ7TT2DXNY3AWY",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/es_ES/ad7cd8ba5371c0c403e59c6f41d51b57.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/de_DE/1c426c4733a8fecb82753bbf77eab1a0.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/it_IT/d61056103721147537e60df34fccc6f1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/fr_FR/ab43ff365cf65f9251ead2358be997f0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/en_US/dd8fb14b2f35d9343b924bfd589158a9.jpg"
+  },
+  "name": "Gestionnaire de Pénurie",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "#2#",
+    "MAIN_EFFECT": "{R} Si votre main est vide, #je gagne 2 boosts. Sinon, je gagne 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-008-R-FR"
+}

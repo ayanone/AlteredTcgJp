@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_35_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5RGAWJ2JAH85NSM7B3FX2ERXK9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26NXSZ9VVMV3AQEE4K6S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26NXSZ9VVMV3AQEE4K6S",
+          "text": "Parassitismo o simbiosi, la vita troverà sempre un modo per sbocciare, come questa alga."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26PNVS89SCYJENWQCB8T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J26PNVS89SCYJENWQCB8T",
+          "text": "Guardo a terra con vergogna dopo essere stata rimproverata dalla giovane naturalista. Saskia continua a fissarmi con sguardo severo, per assicurarsi che io abbia capito la lezione. Sì, ho capito. Sì, avrei dovuto usare il buonsenso. Evocare Persefone in quel modo, senza alcun rispetto per l'ecosistema, è stato crudele e sciocco. Saskia lo ha addirittura definito un \"errore da principiante\". E sapevo che aveva ragione. Mi mordo il labbro pensando a ciò che ho fatto. Ho fatto sciogliere la neve senza pensare neanche un momento alle specie che si erano insediate qui... Non so cosa mi sia venuto in mente. È stato a causa della mia nostalgia di casa e di quanto mi mancasse mio padre? Maledico di nuovo la mia stupidità. Devo smettere di pensare alle cose come se fossi ancora una bambina. E prima che possa impedirlo, i miei occhi si riempiono di lacrime.\n\nSaskia sospira e si avvicina per posarmi delicatamente le braccia intorno alle spalle. E, con mia grande sorpresa, glielo lascio fare. Quel contatto mi rende perfino felice. Mi aveva parlato dell'hakupopo e delle altre specie che lei chiama le Creature dell'Inverno. Lo Storhvit aveva finalmente recuperato una parvenza di equilibrio e non era certo mio compito rompere questo equilibrio e metterlo a rischio. Ma ora mi era chiaro: avevo causato questa disarmonia perché non ero in sintonia con il mio io interiore. Mi accarezza i capelli e mi chiedo se è così che ci si sente ad avere una madre che si prende cura di sua figlia. Non ho mai conosciuto altro che le mani callose di mio padre. Vengo scossa da un improvviso singhiozzo quando penso a lui e a quanto mi manca. Ma un pensiero negativo mi risveglia dai miei malinconici sogni ad occhi aperti. È una sensazione di ostilità, o addirittura di intenzioni malvagie, proveniente da Orchidea e diretta a Saskia. Mi alzo e mi libero dal suo abbraccio, chiedendomi se la mia chimera non stia diventando un po' troppo gelosa..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26PA86T2XT5X35ZDA3ZR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J26PA86T2XT5X35ZDA3ZR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26MT1J0NFEV8T23TF0SX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26MT1J0NFEV8T23TF0SX",
+          "text": "RIN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26N706F95MY3P4NVBA7F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J26N706F95MY3P4NVBA7F",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "5RGAWJ2JAH85NSM7B3FX2ERXK9",
+      "reference": "ALT_ALIZE_B_MU_35_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5c9e9b6c99fa97ba5b8f",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingegnere"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/fb405401a92d710eaa61",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/it_IT/52c7351fd50f1de16a481543d9ae3447.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_b040b9f608f1d4358f66a24a376dfc55",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_6a4a97dbf99ca2a609d6ba481ee4aaec",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_2efaaa3bc0f433b466505c5a89368524"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_35_R1",
+  "reference": "ALT_ALIZE_B_MU_35_R1",
+  "id": "01J1Q4P4SEE4HDV4CVAPEW8SVV",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/fr_FR/970eef812ba3a3903efa97824ecc8cfc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/en_US/bf5be0e3ff5c86376e35e5f3b110dcd7.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/de_DE/e6a8aa0e5cd048da8c96383e5db34e36.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/es_ES/44c1b3860ced7fbf14061d68c2442b30.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/it_IT/52c7351fd50f1de16a481543d9ae3447.jpg"
+  },
+  "name": "Saskia, Scaltra Naturalista",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "#1#",
+    "FOREST_POWER": "#1#",
+    "MOUNTAIN_POWER": "#1#",
+    "MAIN_EFFECT": "{J} #Un numero qualsiasi# di altri personaggi bersaglio in {V} ottiene 2 rinforzi ciascuno."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-058-R-IT"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_NE_1_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB798GWVTG2TVXBHXDK7WW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME85FVBZE16NY6AFJKS185",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME85FVBZE16NY6AFJKS185",
+          "text": "Mana is the cement that binds ideas and reality."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME85GY19ZM2YNA9D21ED38",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME85GY19ZM2YNA9D21ED38",
+          "text": "I watch the funeral procession as it slowly makes its way to the Asphodel cemetery. I don't want to join them. I prefer to give Matera's family some space so they can grieve in private. I notice the stooped silhouettes of her parents, wrapping their arms around her little brother as best they can. Unable to hold back his tears, he had been sobbing inconsolably throughout the ceremony. I sigh and turn my gaze towards the turquoise and icy water of the fjord. But I quickly turn away. Staring at the water for too long brings back bitter memories of her death... I suddenly feel all the hairs on my body stand on end. I turn around and see the Eidolon of Wanjiru quietly sitting on a headstone, staring at me. He greets me and beckons me to come closer, which I decide to do after hesitating briefly. Cold sweat covers my entire body.\n\n\"My condolences for your Disciple, Initiate,\" he says. \"And congratulations on defeating the Kraken.\" My eyes narrow, not knowing why the founder of the Qorgan is interested in me. Have I violated a Mandate? Wanjiru simply smiles. \"I know the timing is bad, but there's no room for complacency when the safety of Asgartha is at stake. I know that the Kraken was defeated in a unique way by a young Bravos. But even though I think his intentions were commendable, his methods grabbed my attention, to say the least. Few can claim to conjure Mana in such a... voracious manner.\" Kojo had indeed managed to absorb incredible amounts of Mana, much more than Alterers would usually collect. \"That's why I need you, Afanas. It would be a shame if certain secrets were to get out...\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME85GDJFYA5P6XJ6T8FXHC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME85GDJFYA5P6XJ6T8FXHC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME85EQ0CS223F563H2J4RA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME85EQ0CS223F563H2J4RA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME85F98XMT9NZJKXJG4E2N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME85F98XMT9NZJKXJG4E2N",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "01HPMB798GWVTG2TVXBHXDK7WW",
+      "reference": "ALT_COREKS_B_NE_1_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP4ACD3DFEJW3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN_MANA",
+    "id": "01H0FV1VGP4ACD3DFEJW3PWTQT",
+    "name": "Mana"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/26fb5a6570433f256a34",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/42ab2bfe87d18ab3267c",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-07-10T10:37:44+00:00",
+      "question": "Can I choose Mana Convergence if an effect asks me to discard a card or to put it in Reserve?",
+      "answer": "Yes."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/7d431643d57e1062ed1e",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:44+00:00",
+      "question": "What happens if a Mana Convergence somehow ends up in Reserve?",
+      "answer": "Nothing special. It cannot be played, but can still be discarded during Clean-Up or through another effect."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/en_US/803ba2f6f75435bb068cf5b1fc32ce3e.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_NE_1_C",
+  "reference": "ALT_COREKS_B_NE_1_C",
+  "id": "01HPF1A4V5F1C9Z4Q66KFYDNEJ",
+  "mainFaction": {
+    "@id": "/factions/NE",
+    "@type": "Faction",
+    "reference": "NE",
+    "color": "#8f95b2",
+    "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+    "name": "Neutral"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/fr_FR/e5cbfb1be4ab08e2ea36a83962e8eb48.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/en_US/803ba2f6f75435bb068cf5b1fc32ce3e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/es_ES/7ed8c7a7f9b77e774ab4d77dbbfaa98a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/de_DE/09a288cd32f6449d69496db07e38794c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/it_IT/0d937ff6c5ee651d439f3183d988f07f.jpg"
+  },
+  "name": "Mana Convergence",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "MAIN_EFFECT": "I can't be played but I can be used as a Mana Orb. (In draft, you may add any number of 'Mana Convergence' cards to your deck.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-186-T-EN"
+}

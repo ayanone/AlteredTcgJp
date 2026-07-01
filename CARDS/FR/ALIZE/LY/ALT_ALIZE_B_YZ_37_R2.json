@@ -1,0 +1,162 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_37_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4KEH4V468N9N3ST477HQT2TSRJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2B1BATE5NMS7VB03ABMM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2B1BATE5NMS7VB03ABMM",
+          "text": "Une puissance oubliée aspire à se réveiller."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2B365R3YNDCD7FPEQVEN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J2B365R3YNDCD7FPEQVEN",
+          "text": "Ma route est claire, maintenant. J'entrevois le chemin du triomphe. Je vais devoir faire appel à la puissance de la Phonomancie et de la Cinémancie combinées pour mieux capter leur approche et les cisailler en plein vol, utiliser tout ce que j'ai en stock pour protéger le reste des Corps. Je ferme donc les yeux et me mets à écouter le sifflement de la tempête de neige, à isoler le bruit du vent en expurgeant les cris des guerriers, le fracas des griffes lacérant les boucliers. Là, dans la tourmente, un filet d'air qui tranche le maelström comme un fil coupe le beurre. Là, l'un d'eux qui plane comme un faucon surveille sa proie depuis le ciel. Je commence à interpréter les bruits qui m'entourent, et surtout à les distinguer du reste du canevas de sons qui m'enveloppe... En usant de phalènes de Mana en des lieux bien spécifiques, des goulots d'étranglement, je peux leurrer les Belisenki pour les attirer où je veux.\n\nJe fais appel à l'Eidomancie pour manifester des membres fantomatiques, que j'utilise pour tracer dans l'air des Gestuelles plus complexes. Je vais domestiquer la tempête qui leur sert de couverture et en faire leur linceul. Le vent qui les abrite devient peu à peu l'artifice de leur chute. Bourrasque. L'un d'eux est déchiqueté, et son corps valdingue, emporté par la tornade que je façonne. Glace. Les ailes d'un autre se givrent, et il plonge vers le sol avant d'être aspiré à son tour dans le typhon. Je ne sais pas si je tiendrai longtemps. Le Mana coule entre mes doigts comme du sable. Je vois Akesha me regarder, s'abritant le visage, et hurlant quelque chose que je n'entends pas. Je réalise que l'ouragan continue de grandir, qu'il échappe à mon emprise. Il lacère autant mes ennemis que ceux que je veux protéger. Et je comprends enfin. Quelque chose est en train de nourrir ma propre puissance, provoquant une réaction en chaîne..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2B2QGPRSN2XBKYWT4ZJP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2B2QGPRSN2XBKYWT4ZJP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2B06NYPWGEF2E0WF046Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J2B06NYPWGEF2E0WF046Q",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2B0VZ4JJSR4H97HNB7NN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2B0VZ4JJSR4H97HNB7NN",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "4KEH4V468N9N3ST477HQT2TSRJ",
+      "reference": "ALT_ALIZE_B_YZ_37_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/382e2bd257e6d4410e6c",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5fd90d265567750d6265",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manœuvre"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2ba091c5cca223de0060",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/fr_FR/070e9764f2debc7c3dcf0154cd905bcd.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/WEB_5c0d4932c8e1f4ed3f66013d6fa87ced",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/WEB_3b0931125661939b3d75ac48d30ad665"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_37_R2",
+  "reference": "ALT_ALIZE_B_YZ_37_R2",
+  "id": "01J1Q4P4STVYKQPX3X8SF0WVAA",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/es_ES/96ec5697ab7c2bbf692f6c27a1cf5d94.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/en_US/7fe9ef667834eddfc14217480dc32f68.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/de_DE/448141bced7d357dc7da6be74d952328.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/it_IT/1bb7cdfe69b44983039bcd8cbdde8c60.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/fr_FR/070e9764f2debc7c3dcf0154cd905bcd.jpg"
+  },
+  "name": "Nova Hivernale",
+  "elements": {
+    "MAIN_COST": "8",
+    "RECALL_COST": "8",
+    "MAIN_EFFECT": "[[Fugace]].  Choisissez trois. #Vous pouvez choisir la même option plusieurs fois# :  • Épuisez jusqu'à deux cartes en Réserve.  • Créez deux jetons Illusion [2/2/2 Phalène de Mana] dans une Expédition ciblée.  • Défaussez un Permanent ciblé.  • Un joueur ciblé sacrifie un Personnage."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-099-F-FR"
+}

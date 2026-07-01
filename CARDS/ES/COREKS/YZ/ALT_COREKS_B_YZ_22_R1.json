@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_22_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79DFH0SVQTA9Z91JF4P7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8CCJH10X04NS7YWXQ5NW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8CCJH10X04NS7YWXQ5NW",
+          "text": "Este mensaje se autodestruirá en cinco segundos."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8CEN549Y80X4ARQBCGF2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8CEN549Y80X4ARQBCGF2",
+          "text": "I wander through the tight alleyways of Svarog Village, passing under the large drapes that protect the stalls from the daylight. Visitors crowd into the yellowish shade of the market, browsing for spices, seafood and metal parts that the Axiom produce and distribute for the people. But I'm not interested in any of these trinkets. What I want is to blend into the crowd. Behind me, the spy has been following me for quite a while. Who does he work for? Kuwat? Wanjiru? I'd love to know, but my only goal right now is to shake him off. And the cart passing by gives me the ideal opportunity to do it... I conjure the idea of \"Break,\" and place it on the cart's axle. With a resounding crack, the cart collapses, and crates tumble into the canal below.\n\nI use the commotion to disappear into an alley, conjuring other ideas to graft onto my body. Long, straight black hair starts to grow out of my head, my skin turns paler, and my cheekbones widen. I mingle with the throng of pedestrians as I head towards the Auction House. If he keeps following me after all this trickery, I'll still have time to turn into a gust of wind or play with the memories of everyone who saw me... As I turn the streetcorner, I see the spy looking all around him, obviously panicked. If the Qorgan or any other cabal wants to keep tabs on me, they'll need to find someone better than this. After checking that I'm no longer being followed, I resume my journey to the rendezvous. Finding forbidden books is so rare that I wanted to take all the precautions I possibly could."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8CDMA4TQ49B91K3SC2P3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8CDMA4TQ49B91K3SC2P3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8CAB3YNTNQF7PGMSRTAX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8CAB3YNTNQF7PGMSRTAX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8CBH6DHECH4DNSQEEZYY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8CBH6DHECH4DNSQEEZYY",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB79DFH0SVQTA9Z91JF4P7",
+      "reference": "ALT_COREKS_B_YZ_22_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/725c3e96e0faed682007",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disrupción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7f6f74ec788ad06897c1",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_22/JPG/es_ES/71fe77755d59a0ff16f202674b341676.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/WEB_9ff49616f03e665a4476d8cf4d09bd00",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/WEB_d18a92617f6cf2d507c17600acb46f9c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_22_R1",
+  "reference": "ALT_COREKS_B_YZ_22_R1",
+  "id": "01HN5TXRMREZGQJHAKPARS1QW2",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_22/JPG/de_DE/b91507ef29ad8ee1e740479bc29d02cd.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_22/JPG/es_ES/71fe77755d59a0ff16f202674b341676.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_22/JPG/it_IT/bb687152b41780bfefa622276a752060.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_22/JPG/fr_FR/acd8e3f7ce76c816b1daaed6f8b8b9a2.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_22/JPG/en_US/d4782a39e79530e6a0ef235a4f234f0d.jpg"
+  },
+  "name": "Espionaje",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[Sabotea] y luego [reabastece]. (Descarta hasta una carta objetivo de una reserva. Coloca la primera carta de tu mazo en la reserva.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-171-R-ES"
+}

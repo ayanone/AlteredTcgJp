@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_61_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/53HPKHGQAY8NZTF8D5K6AYBXQ7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A6F0B0QWFVTXHEFVNZQN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A6F0B0QWFVTXHEFVNZQN",
+          "text": "Cuando el ritmo se acelera, las cuerdas sueltan la savia que las recubre."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6FJ39WVF5MFGN4DVM2B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A6FJ39WVF5MFGN4DVM2B",
+          "text": "393 AC - Ole Bull draws the last note out and lets it die away, and Ethel Waters' voice fades in turn. The bushy-browed violinist casts a final glance at the singer before I make them both disappear in a swirl of Mana. I've got no time to waste. Boona has already coated the lute's strings with Sap and is now placing it on the stand with a distinctly impatient sidelong glance in my direction. I take a deep breath to pull myself together and summon my Ignescence once again. Baishan appears suddenly, wearing a tunic embroidered in gold. I'll give him a different outfit later on, with the dark glasses he loves so much, but this look is good enough for rehearsals. He promptly grabs the instrument and looks it over, satisfied with our bassist's work to prep the mandolin. He nods and turns towards me.\n\nHis first note rips through the air. It's a lament and a cry of rage all at once, and I immediately feel a shiver run through me, as though I were suddenly falling over backwards. In the old legends, it was said that one of his notes could split the world wide open and that another could bring the waves of an ocean of light surging forth from his fingers. They said that anyone who saw the Alterer play could feel the power and feverish intensity of his passionate playing so deeply that many were transformed for life. Every sound he made gave rise to whirls of rich color, a multitude of shapes constantly colliding, combining and spinning through the air like swirling flocks of birds... His \"murmurations\", as he liked to call them, were a reflection of his synesthetic abilities. And that's precisely what he's doing now — strumming and picking as his hands glide up and down the neck. The Sap seems to blend with the fiery heat of his playing as his eyes light up with a flame of their own…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6F9TYE9YQF0KTEC26AK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A6F9TYE9YQF0KTEC26AK",
+          "text": "In flamenco, \"duende\" refers to a state of trance, possession or flow. It's a state of total inspiration in which a singer, dancer or musician feels raw emotion and expresses it in a pure and unbridled form. It represents a complete and holistic \"letting-go\", where technique takes a back seat and the performer achieves a magical and miraculous state of grace. For duende is not controlled, nor intentionally induced. It is simply experienced, as a release and transcendence of the self. It represents a moment where the whole being expresses itself in synergy with the world around it."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6EE9V9E79TEN2BDHCP3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A6EE9V9E79TEN2BDHCP3",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6EQ01QECVNPMTHJGRDD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A6EQ01QECVNPMTHJGRDD",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "53HPKHGQAY8NZTF8D5K6AYBXQ7",
+      "reference": "ALT_BISE_B_LY_61_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a30d0494d0363d78b584",
+      "reference": "SONG",
+      "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
+      "name": "Canción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/038fc525dc712fcce2d1",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_61/JPG/es_ES/03ef3e8e0a80d7fe4a3aff8c47049402.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_61/WEB_f9bed6bc6524d000f181f50483a9c5c5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_61/WEB_9fe8fd7958670ff429ad2447548c2e44"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_61_R1",
+  "reference": "ALT_BISE_B_LY_61_R1",
+  "id": "01JB1YGPBKEFCQKEA8X5SEW61B",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_61/JPG/en_US/6f0f138c1035b1a159a84c7ad55924c8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_61/JPG/de_DE/b482e0e6934e542c6f076dd0312a781c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_61/JPG/it_IT/6b5a14a97475c0b3f184a3c1e6646287.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_61/JPG/es_ES/03ef3e8e0a80d7fe4a3aff8c47049402.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_61/JPG/fr_FR/2e86f0302630a66ff4861301489d3663.jpg"
+  },
+  "name": "Brío de la savia",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Fugacidad]].  Haz objetivo a #dos personajes# en juego o en reserva e intercambia sus potenciadores. Roba una carta."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-047-R-ES"
+}

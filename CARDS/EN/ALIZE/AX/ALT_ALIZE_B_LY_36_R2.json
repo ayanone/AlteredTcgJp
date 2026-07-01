@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_36_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/50EMMWZ1F99JRSCE8XBNKETMTV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25D8GG9EJ0YWDYBYM86F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25D8GG9EJ0YWDYBYM86F",
+          "text": "\"You never know what you'll find in your stockings.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25E0F9STM6K99VMJY0FY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J25E0F9STM6K99VMJY0FY",
+          "text": "A half-open door is an invitation to enter, right? If I sneak into the postal service warehouse without anyone seeing me, no one can tell me it's not allowed, which is basically being given permission, right? Seems like watertight logic to me. And anyway, I've just come to drop off a letter, and since I'm in the Talaria offices, I'm exactly where I need to be. Bop! One little stamp, and there we go, into the pile of mail with the rest. Basically, by skipping the line, I've helped the hardworking employees by saving them a little work. And who could scold me for that, right? Anyway, it's done. Besides, there's no point undoing something that's been packaged AND weighed. OK, let's go, so we can tell Blotch he doesn't need to keep a lookout anymore. Although... What's this? Looks very interesting!\n\nI approach the huge pile of presents, wrapping paper, tape and whatnot. This is what happens when you leave the shipping to Santa's elves. The problem is that it makes me want to open them. I take a quick look around me, just to be on the safe side. The little gnomes are all busy folding, wrapping and packing. Haha, there's even one having trouble with the mechanical conveyor that the Axiom installed to \"optimize\" the shipping process. Hmm... What if I were to press a few buttons and speed up the belt, just to give their productivity numbers a little boost? I mean, that would also happen to be the perfect diversion so I could grab a couple of packages. There are so many that no one would notice if three or four were to go missing, surely! OK, the production line is starting to get a bit more hectic. Now I just need to choose which gifts look the most promising!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25DKG5SKTV67BPN8T3F7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25DKG5SKTV67BPN8T3F7",
+          "text": "A Nisse, also known as a Tomte, is a pint-sized humanoid creature from Scandinavian folklore. Similar to an elf or a gnome, it's said that they watch over children and protect them from evil, especially at night after they fall asleep. In the 19th century, the Nisse was associated with Yule, the equivalent of Christmas in Nordic countries. One tradition is to always leave them a bowl of porridge on Christmas Eve, lest you find some of your items broken or turned upside-down in the morning."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25CFHMH2T2FRZJ2NH61D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25CFHMH2T2FRZJ2NH61D",
+          "text": "NEVENKA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25CTV7W8KBRMVSB9AF4E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25CTV7W8KBRMVSB9AF4E",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "50EMMWZ1F99JRSCE8XBNKETMTV",
+      "reference": "ALT_ALIZE_B_LY_36_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4adedf1176e0514434f4",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Citizen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d419858670fd37a5c218",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/c6c775eec796fc91c1eb",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:18+00:00",
+      "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
+      "answer": "Yes, an Exhausted Resupply counts as a Resupply."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/en_US/1b2bb7bcd75ee43df41b54ebac487d1a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/WEB_1959d03cce1d9aabf8723dc49934e1e1",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/WEB_ecdf41146bf0874dce6a7147f97721ec",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/WEB_52fc7d1046a416c0403cc7f38a5845da"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_36_R2",
+  "reference": "ALT_ALIZE_B_LY_36_R2",
+  "id": "01J1Q4P4S8VRS4MQ8C3VSJRWQ3",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/de_DE/18babf55ef4574ad48eb5d7d3a5f7407.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/it_IT/7656afb44e99fa8caa05859b889b4822.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/es_ES/d2d63665de78e7f122f66f846e8d2edc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/en_US/1b2bb7bcd75ee43df41b54ebac487d1a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/fr_FR/ccf2ec1bf3dc41c5206c11ec456d1fec.jpg"
+  },
+  "name": "Nisse",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "{H} Roll a die. On a:  • 4+, [Resupply].  • 1-3, [Exhausted Resupply]. (Put the top card of your deck in Reserve, then exhaust it {T}. Exhausted cards can't be played and have no Support abilities.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-042-F-EN"
+}

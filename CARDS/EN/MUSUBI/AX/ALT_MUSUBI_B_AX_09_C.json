@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_MUSUBI_B_AX_09_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1S48HNYYAK88ATHP5977T4A6RK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K4WGXV0RXAM1QRFQ6738DJRB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K4WGXV0RXAM1QRFQ6738DJRB",
+          "text": "Ting! Ting-a-ling! There's something magical in mischievous tinkering..."
+        },
+        {
+          "@id": "/lore_entry_elements/01K4WGXV16JX8FZ5YATRHYA5S6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K4WGXV16JX8FZ5YATRHYA5S6",
+          "text": "I close the door to my workshop and remove my smoking gauntlet. I drop it on the table as I pour myself a little pick-me-up. Oof, what a day! I drilled and excavated non-stop, and what was my reward? Equipment that just breaks in my hands. That's a lot of overtime I could have done without. I'm not sure whether to take a shower first, but I might as well get it over with right away. I know how I am: If I leave it too long, I'll still be in the same situation a week later. I sigh and get to work. I can handle the routine stuff myself, but I'll need help with the precision work. The only problem is, I can't think of anyone who can help me other than Tinker Bell. But if I'm to get help from her magical touch, I'll also have to put up with her dragon-like temper.\n\nI pull my Construct out of my bag and rearrange the glyphs on its surface as though it were a three-dimensional puzzle. The Eidolon of Tinker Bell immediately appears, followed by the tinkling sounds she constantly emits as she flits around the room. She finally alights on my workbench, staring with horror at the gauntlet I destroyed. She crosses her arms with an air of disapproval, tinkling as loud as possible to show her displeasure. I'm sure she'll make me suffer before the night is through. I mumble an apology, but it does nothing to calm her down. She haughtily points at my toolbox. I use Alteration to shrink it, then hand it to her. Geez, how can something so small be so ill-tempered?"
+        },
+        {
+          "@id": "/lore_entry_elements/01K4WGXV0YVSBZZ6ZP4REZ13GR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K4WGXV0YVSBZZ6ZP4REZ13GR",
+          "text": "Tinker Bell is a jealous and ill-tempered character created by J. M. Barrie for his play Peter Pan. She communicates through the sounds of a tinkling bell, which are only understandable to those who know the language of the fairies. Obsessively in love with Peter, she plays tricks on his romantic interests but doesn't hesitate to put herself in harm's way to ensure his safety. She sprinkles her fairy dust on others to allow them to fly."
+        },
+        {
+          "@id": "/lore_entry_elements/01K4WGXTZWBH8K6X8CMVK1G1TG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K4WGXTZWBH8K6X8CMVK1G1TG",
+          "text": " Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01K4WGXV0JW1KM4QP60W532ATE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K4WGXV0JW1KM4QP60W532ATE",
+          "text": "371 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "1S48HNYYAK88ATHP5977T4A6RK",
+      "reference": "ALT_MUSUBI_B_AX_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e61c6c4cd47df05ed6f1",
+      "reference": "FAIRY",
+      "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+      "name": "Fairy"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/MUSUBI",
+    "@type": "CardSet",
+    "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+    "reference": "MUSUBI",
+    "name": "Musubi"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d615e939eec1528ea227",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/en_US/1ff7deb2c4740724eb679476164ac85a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/WEB_a4b0163391ab07aa3820e154b059222c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/WEB_6db86b86f65463557d5507758f0afdc3"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_AX_09_C",
+  "isOwnerless": true,
+  "reference": "ALT_MUSUBI_B_AX_09_C",
+  "id": "01K4W8PE2VXA59WX5M1J7Y1YRS",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/fr_FR/094c63ecb8980de127c7ea83b8e12b15.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/en_US/1ff7deb2c4740724eb679476164ac85a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/it_IT/2a0ca84fd9453ba5c6f99f463568e16c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/es_ES/21007504f0f9dc77d86dcf63a1fa8316.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/de_DE/ac430fde7ae054a6cb5b1d5fad285bc9.jpg"
+  },
+  "name": "Tinker Bell",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{R} [Sabotage]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "MUSUBI-01-C-EN"
+}

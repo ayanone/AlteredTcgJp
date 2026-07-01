@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_38_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2GZ7G5WFB39ASTFG8M0BYZZ3KH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23BH6ZGDMD304ZP34X28",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23BH6ZGDMD304ZP34X28",
+          "text": "«Si encontrásemos un reemplazo para las piezas que faltan, podríamos hacer que funcionase»."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23C28KQJY02PPG3JS1XK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23C28KQJY02PPG3JS1XK",
+          "text": "Ufffff. Dejo la pesada caja llena de cachivaches y sacudo las manos para intentar aliviar el dolor. Me levanto, respiro hondo y me masajeo el cuello dolorido. No es fácil trabajar con este frío, sobre todo sola. A mi alrededor, los bicholatas van y vienen, trepando por el cuerpo de mi desafortunado autómata. Me he esforzado al máximo, pero debería haber sabido que no estaría en su elemento en este paisaje helado. Tras un desafortunado paso en falso, lo he visto caer por el desfiladero como un muñeco de trapo antes de estrellarse decenas de metros más abajo. No he sido capaz de abandonarlo allí, aunque recuperarlo me ha costado un tiempo muy valioso. Y utilizar los preciados suministros para repararlo también estaba descartado. Así pues, lo único que he podido hacer ha sido recoger todos los restos de metal e intentar hacer algo con ellos.\n\nVale, ya casi está. Una lluvia de chispas crepita cuando un bicholata suelda una nueva placa pectoral a mi prototipo robótico. Es de un viejo codificador blindado, al igual que la pieza del hombro. Pero la parte más difícil será hacer una pierna nueva. No va a tener los andares más gráciles, pero para volver al campamento bastará una cojera torpe. Suspiro y le paso una mano por el cuerpo dañado. Te prometo, viejo amigo, que te pondré a punto en cuanto pueda, pero a cambio tendrás que ayudarme un poco.  El autómata empieza a mover los dedos de los pies y levanta la cabeza de súbito. No puedo evitar sonreír y le doy unas palmaditas de ánimo en el exoesqueleto. Me hago a un lado mientras intenta levantarse torpemente. Bien. Cuando termine de repararte, prometo ponerte un nombre en condiciones."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23BS0199353ZQG9JQ3F8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23BS0199353ZQG9JQ3F8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23APM2P5JSQG1VZEKRH7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23APM2P5JSQG1VZEKRH7",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23B2K64MHMSQ312D1D64",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23B2K64MHMSQ312D1D64",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2GZ7G5WFB39ASTFG8M0BYZZ3KH",
+      "reference": "ALT_ALIZE_B_AX_38_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6325e1a9e51a1e2aa599",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/90a9fac7b4d41a323442",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/es_ES/e62ce5cc487ee492fa1ba0292090ce9f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_176e74e3b9c2ebcabed125990a5f0d37",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_512573fbe1e878d1febadf43de6496e4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_4a2ca4fe0db64cb1b28dd73669ba2931"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_38_R1",
+  "reference": "ALT_ALIZE_B_AX_38_R1",
+  "id": "01J1Q4P4RTGYQGABCPS4EW548D",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/de_DE/0de28af290bf451dbb5b99406411655f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/es_ES/e62ce5cc487ee492fa1ba0292090ce9f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/fr_FR/d733a5e0837c88e961958fb8409d799c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/en_US/267decc0e059c45ceb57b3d7761bb895.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/it_IT/9e12115a9408dbf33cd6c4fdc8a83c5e.jpg"
+  },
+  "name": "Prototipo defectuoso",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{J} Sacrifica otro robot o permanente. #Si su coste desde la mano era de {3} o más, gano 3 potenciadores.# Si no puedes, sacrifícame."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-010-R-ES"
+}

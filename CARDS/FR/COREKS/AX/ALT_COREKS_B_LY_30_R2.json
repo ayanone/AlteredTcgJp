@@ -1,0 +1,183 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_30_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7848QZJ923T7FGBYXVZZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME81NHW1YTC62GE8NX5D2C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME81NHW1YTC62GE8NX5D2C",
+          "text": "L'avant-poste mobile des Corps expéditionnaires s'élève haut, tel un rouet tissant le vent."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81PF3KGHTCB0RGT4JFNC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME81PF3KGHTCB0RGT4JFNC",
+          "text": "Alors c'est ça, l'Ouroboros, un anneau gigantesque en forme de serpent qui se mord la queue... Et au centre du cercle, un navire-forteresse, une nef. On dit qu'il y a là-bas les meilleurs spectacles de voltige, et puis surtout des casinos bling-bling qui font cling-cling quand on gagne le jackpot aux machines à sous. Je suis Fen sur les coursives, et je me faufile entre les maçons, les ouvriers, les charpentiers et les soudeurs qui travaillent dare-dare pour aménager les zones d'habitation. Quek'part, je me dis que c'est pas mal comme endroit. À part le vertige, faut dire qu'y a tout pour se sentir chez soi : des tavernes, des gargotes, des maisons de jeux de la plus luxueuse à la plus miteuse. Je zieute au-dessus de la rambarde, et observe les petites silhouettes des badauds qui se promènent dans l'aérogare où l'Ouroboros est amarré.\n\nFen me prend la main et me dit de pas la perdre de vue. Et c'est vrai que c'est un dédale de malade. Je sais pas comment elle fait pour se repérer là-dedans. Même si je regarde les panneaux directionnels, entre la coursive de droite, le corridor de gauche, l'échelle, la passerelle, le boyau, le conduit, la galerie, la trappe, la porte dérobée, le goulet, et la petite porte rouge A38, c'est clairement pas évident de s'y retrouver. Mais quek'part, je m'y sens bien. C'est un peu comme si j'étais dans ma tête, en fait. Alors je me laisse entraîner, sans savoir où je vais. Mais c'est pas grave. C'est toujours cool de se laisser surprendre. Là, il y a un chapiteau pantagruélique, ici, un bassin avec des canards en plastique pour que les gamins puissent s'amuser. Y'a comme une ambiance de fête foraine, qui promet de s'illuminer à la nuit tombée au gré de guirlandes colorées."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81NZJYXCHXP5GGM54CB2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME81NZJYXCHXP5GGM54CB2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81MNZ2CMD6DA94V1CCGS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME81MNZ2CMD6DA94V1CCGS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81N4B5MVTJ16DN3WNXXV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME81N4B5MVTJ16DN3WNXXV",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HPMB7848QZJ923T7FGBYXVZZ",
+      "reference": "ALT_COREKS_B_LY_30_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f71c3f912bbd345cee3c",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c3b9e23be9a1a98c3ea2",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/6d75ad09f346e1cd1986",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-07-10T10:38:03+00:00",
+      "question": "Do I get to choose the card I put in Reserve with the {j} ability of the Axiom version of Ouroboros, Lyra Bastion?",
+      "answer": "Yes. First you play the card, then its {j} abilities activate, so the other effect is already active when the {j} effect takes place.  Note that you're not doing a \"Resupply\" effect."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/e8b4e9e6cb2cc59165fb",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:38:03+00:00",
+      "question": "Does the replacement effect of the Axiom version of \"Ouroboros, Lyra Bastion\" count as Resupply for effects such as Quetzalcoatl?",
+      "answer": "No. Note that it doesn't count as drawing cards either."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/006f34457d4774608efc",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-12-16T10:38:04+00:00",
+      "question": "If I control the Rare, Axiom version of \"The Ouroboros, Lyra Bastion\" and I do an Exhausted Resupply, what happens?",
+      "answer": "An Exhausted Resupply is a (special case of) Resupply, and will get fully replaced by the effect of the Bastion. You'll therefore reveal two cards, put one in Reserve, and won't exhaust it."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_30/JPG/fr_FR/8795bffe18222b199eaf362982e3e076.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/ALT_CORE_B_LY_30_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/ALT_CORE_B_LY_30_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_30_R2",
+  "reference": "ALT_COREKS_B_LY_30_R2",
+  "id": "01HN5TXRE7DMS5P4KFSRRWN62K",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_30/JPG/fr_FR/8795bffe18222b199eaf362982e3e076.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_30/JPG/de_DE/abeceef65a0a89e635ef789689a09f59.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_30/JPG/es_ES/c8321153aa95a0e70cdbe8f5c6f6ebd0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_30/JPG/en_US/c2d417ed234ec416747347bf3de82121.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_30/JPG/it_IT/f7fd0f14292f6f922fe3481058d6f587.jpg"
+  },
+  "name": "L'Ouroboros, Bastion Lyra",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "#{J} [Ravitaillez].#  Si vous deviez #[Ravitailler], à la place, révélez les deux premières cartes de votre deck. Mettez-en une en Réserve, et défaussez l'autre.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-090-F-FR"
+}

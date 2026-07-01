@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_41_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7HC4SEN5BN9FWRFBMSXF1QWEDR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2972AT468M3XXV8JQTZ3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2972AT468M3XXV8JQTZ3",
+          "text": "„Wie kann ich helfen?“"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J298BSP44NT818QSJ03P0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J298BSP44NT818QSJ03P0",
+          "text": "Ich betrete den Eispalast, der umfassend mit Alteration verstärkt wurde. Draußen verblassen die Farben am Himmel. Noch ist es hell, doch bald wird die Nacht hereinbrechen. Angestellte und Kuriere verbeugen sich, als ich an ihnen vorbeigehe, und ich erwidere ihre Begrüßung, auch wenn ich nicht viel Zeit für Höflichkeiten habe. Ich erreiche das Hauptpodium im Hinterzimmer und spreche die Verbindungsoffizierin an. Mit den Fingerspitzen liest die junge Frau die Braille-Buchstaben, bevor sie diese an die entsprechenden Personen oder Abteilungen weiterleitet. Ich räuspere mich, um mich bemerkbar zu machen, und sie hört auf zu lesen. Ich trage meine persönliche Glyphe in ihr Register ein und sie überprüft sie mit ihren Fingerspitzen, bevor sie mir zwei Papierboten gibt. Einer ist von der Admiralität und der andere … von meiner Schwester aus Arkaster.\n\nZuerst breche ich das Siegel des schlangenförmigen Origami auf und falte es geschickt auseinander. Mein Blick fällt auf die Initialen von Admiralin Singh. Während ich die Nachricht überfliege, spüre ich, wie sich mein Magen zusammenzieht. Der Ouroboros hat Wellen des Tumults aufgespürt, die auf uns zurasen und unseren Standort in wenigen Tagen erreichen werden. Ich eile sofort in Generalin Sekifus Büro. Jetzt ist es ein Wettlauf mit der Zeit. Der Generalstab muss unverzüglich über den Evakuierungsbefehl informiert werden. Laut dem Befehl sollen wir uns sofort zur Cais Adarra begeben und dort in der Oase Schutz suchen. Meine Schritte hallen auf dem Boden der provisorischen Zitadelle wider. Dort, am Eingang, steht Sunisa, die meine Anspannung sofort instinktiv zu spüren scheint. Ausnahmsweise verzichtet sie auf einen flotten Spruch. Mir fällt auf, dass ich den Brief meiner Schwester noch immer in der Hand halte. Ich fürchte, er muss erst einmal warten."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J297PFE3XXDHA4SY0962P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J297PFE3XXDHA4SY0962P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29557BB9JCSGSRZ783VB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J29557BB9JCSGSRZ783VB",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J295QCVDGJKVR51F2E0XX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J295QCVDGJKVR51F2E0XX",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7HC4SEN5BN9FWRFBMSXF1QWEDR",
+      "reference": "ALT_ALIZE_B_OR_41_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3039b590b510d25b3ba7",
+      "reference": "MESSENGER",
+      "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+      "name": "Bote"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/29622dcb416a5ebd3cd6",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/bc3f70e4b21468c733e2",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/de_DE/ed5365ec7142256b3e86ecc137e1b42a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/WEB_595dab3c3726788db827bf0f892c36a9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/WEB_71a93891ced06e9a8d9f45b649d396b4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/WEB_535b4b6bcfbe88bb0a536e95d35fe340"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_41_R1",
+  "reference": "ALT_ALIZE_B_OR_41_R1",
+  "id": "01J1Q4P4SN8RYANNFV99ET5V47",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/fr_FR/d580c3b9d37f0b40b56c445762533e25.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/en_US/771b55b4da2cd164725bb963d7f95703.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/de_DE/ed5365ec7142256b3e86ecc137e1b42a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/it_IT/5b3cfdb358fd2cccae223ecd61af2f65.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/es_ES/3068acb22c4b2b2496b95de2da1d8d1f.jpg"
+  },
+  "name": "Ordis-Verbindungsoffizierin",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "#3#",
+    "MOUNTAIN_POWER": "#3#",
+    "MAIN_EFFECT": "{J} Jeder Charakter #in einer Expedition deiner Wahl# erhält 1 Verstärkung."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-078-R-DE"
+}

@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_39_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6MKZ8GJGTM8D6TEYJJXV8FDWVM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J28YBN1DK2K1VWKDY15MW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J28YBN1DK2K1VWKDY15MW",
+          "text": "Prométeme que esperarás y te mostraré mi verdadero rostro."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28ZH70KDPWND0FM2B6SW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J28ZH70KDPWND0FM2B6SW",
+          "text": "En la cueva susurramos, bajando la voz para no llenar el espacio de ecos molestos. Hablar con este narrador de Lyra es un verdadero placer, pues parece tener mil historias en su haber, además de un montón de anécdotas históricas y ficticias. Por supuesto, no hay pruebas que corroboren la veracidad de sus relatos, pero es una gozada sumergirme en las leyendas que se ha aprendido de memoria para compartir alrededor de una hoguera… o en las entrañas de un inmenso glaciar, que es donde nos encontramos. Nunca me había cruzado con él en el Uroboros, pero este encuentro fortuito con su expedición fue un golpe de suerte y una auténtica bendición. De repente, algo llama mi atención, así que pongo la mano en el brazo de mi compañero para pedirle silencio durante un momento. Se oye un sonido tenue procedente, al parecer, de la lejanía.\n\nDistingo unos golpes sordos seguidos de gritos jadeantes. El narrador también escucha y frunce el ceño. El ruido parece provenir de detrás de una gruesa barrera de hielo que bloquea el paso hacia la fuente de esta aparente llamada de auxilio. Barajo rápidamente nuestras opciones y decido invocar al rey oso Valemon, que debería tener fuerza más que suficiente para romper la celda helada. Tras colocar mis glifos en las paredes, el viejo oso blanco se materializa dentro del velo translúcido con las patas delanteras extendidas. Por pura fuerza de voluntad, retuerce y deforma el hielo. Retrocedo y me pongo a cubierto, por supuesto. El hielo se evapora formando una repentina nube de vapor y nos abre un estrecho paso hacia el otro lado. Démonos prisa: alguien necesita ayuda."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28YYZ23GXAAPJZT8G3H7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J28YYZ23GXAAPJZT8G3H7",
+          "text": "En el cuento popular noruego Kvitebjørn Kong Valemon, recogido en el siglo XIX, Valemon es un rey que se convierte en oso polar por la maldición de una bruja. La hija de otro monarca se enamora de él a pesar de su aspecto y viaja al castillo de la bruja para liberar a Valemon de sus garras. Juntos traman un plan para deshacerse de la bruja y sus seguidores y, con una cierta dosis de astucia, lo consiguen."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28W08DAQHW4G0BFHP8H4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J28W08DAQHW4G0BFHP8H4",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28XQFG94HEJKRW7S89PQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J28XQFG94HEJKRW7S89PQ",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "6MKZ8GJGTM8D6TEYJJXV8FDWVM",
+      "reference": "ALT_ALIZE_B_OR_39_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c53500cede1d9e871582",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Noble"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e02ba98b7bdec91fe5b5",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1e96af40fd80f13be9d9",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/es_ES/17bc564ee34dbef007bc10ede86a1a7a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/WEB_94c819065061049cfd5faf0e82e65361",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/WEB_74c0eb9daf7a1fe4e6b6fc1c0fbeb02d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/WEB_8027daec10fe3fc399cf558823e1da6a"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_39_R2",
+  "reference": "ALT_ALIZE_B_OR_39_R2",
+  "id": "01J1Q4P4SMDNZ8MWZ3GHV20JSM",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/en_US/4e37b5011fc08d0e31d88f47d552e857.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/es_ES/17bc564ee34dbef007bc10ede86a1a7a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/de_DE/a8beb57aa90779c8325b6c715b399542.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/fr_FR/ea1b353992a8e61ca8d7ab3a5189e638.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/it_IT/8b13fbcf654128981232a685bf71ce6d.jpg"
+  },
+  "name": "Valemon",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "#5#",
+    "FOREST_POWER": "#5#",
+    "MOUNTAIN_POWER": "#5#",
+    "MAIN_EFFECT": "A menos que tengas ocho orbes de maná o más, soy [Defensor]. (Mi expedición no puede avanzar durante el anochecer.)  #Si tienes diez orbes de maná o más, soy [Gigante].# (Estoy presente en todas tus expediciones.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-077-F-ES"
+}

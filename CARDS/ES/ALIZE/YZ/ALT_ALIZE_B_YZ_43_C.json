@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_43_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1XADGA9CAP87BBMB0QV7AVMAK3",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2BVH2EBMTCAG9AM06QED",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2BVH2EBMTCAG9AM06QED",
+          "text": "Un humilde nido puede engendrar un verdadero efecto mariposa."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BWHV8TYG2BR2TFZZTYQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2BWHV8TYG2BR2TFZZTYQ",
+          "text": "La biología será la especialidad de Saskia, pero la mía es manipular esferas de Naali. Aunque Taru no pare de decirme que es una pérdida de tiempo, yo sigo activando mis iris cada vez que me encuentro cerca de una polilla de maná para diseccionarla con la mirada en cuanto tengo ocasión. La horomancia es una disciplina versátil, sobre todo cuando se combina con los principios de la eidomancia que me enseñó Kuwat. Sabía que podía hacerlo. Simplemente sabía que podía. Por supuesto, al principio utilicé una efigie, pero tras unos cuantos intentos fallidos, me di cuenta de que utilizar una estatua física no se adecuaba a la naturaleza de las polillas de maná. Es mucho mejor materializarlas invocando algo que evoque su naturaleza fugaz, ¿y qué mejor que el arte efímero de la danza? ¿Listo para un poco de ballet, Taru?\n\nSin esperar su respuesta, ejecuto un rápido ballonné, seguido de una serie de déboulés. Mientras tanto, Taru utiliza todos sus tentáculos para realizar unos simpáticos movimientos. Le veo girar como el sol mientras alterno entre pas de bourrées y arabesques. Nuestras habilidades combinadas de cinemancia manifiestan un enjambre de polillas en el mundo rápidamente. Tras estudiarlas día tras día, he aprendido de memoria sus patrones de comportamiento, su anatomía translúcida, las características lingüísticas de su vuelo... todo para tener la oportunidad de invocarlas algún día. Y mientras me impulso para un grand jeté, doy las gracias en silencio a Bogna por haber sido una profesora de danza tan estricta. Con cada pirueta, aparecen más y más polillas, que se agrupan en enjambres compactos. Crear a criaturas con un agarre tan tenue a la vida a partir de ideas y maná no es para nada difícil. Pero ¿se dejarán engañar los Belisenki por este truquito?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BW1QYM5BE77AH8B0PQ0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2BW1QYM5BE77AH8B0PQ0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BSSZPDE80JE2HARHKJ6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2BSSZPDE80JE2HARHKJ6",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BTARJSQNAHS3ZSZC71W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2BTARJSQNAHS3ZSZC71W",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1XADGA9CAP87BBMB0QV7AVMAK3",
+      "reference": "ALT_ALIZE_B_YZ_43_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/eab06cd28abc048ef4a1",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maniobra"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8efd5de97e87416f3e74",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/es_ES/b66d3d72ff6f8b89c2bb8624d8506371.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/WEB_b995d00add82d8bc2911c8c23bc042f8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/WEB_8ce07f9b731738d85aec22d6246f173d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_43_C",
+  "reference": "ALT_ALIZE_B_YZ_43_C",
+  "id": "01J1Q4P4SWD7ABYG5VK63B8RNN",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/es_ES/b66d3d72ff6f8b89c2bb8624d8506371.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/en_US/2153ee8ec381a673e9f97a9f032a9ba7.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/de_DE/e212a572c19e96e605a3454ee8b1946a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/fr_FR/e43d71235ed2af8f2130ad3a4273e4ad.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/it_IT/cb6ae9c64ac646c4738d9fe04ca32120.jpg"
+  },
+  "name": "Enjambre de polillas",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "MAIN_EFFECT": "Cuesto {1} menos si hay dos o más cartas agotadas en reserva.  Crea tres fichas de ilusión [Polilla de maná 2/2/2], distribuidas como elijas entre cualquier número de expediciones objetivo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-098-C-ES"
+}

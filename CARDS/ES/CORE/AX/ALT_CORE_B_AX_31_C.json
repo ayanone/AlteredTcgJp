@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_31_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z8PMFB83VA5YHYQV7V8",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5RA3J4W1JKN3WXRE0AK1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5RA3J4W1JKN3WXRE0AK1",
+          "text": "01001110 01101111 00100000 01101101 01100101 00100000 01100100 01100101 01110011 00100000 01101100 01100001 00100000 01101100 01100001 01110100 01100001"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RAJ7AVTW31WKE9WPM0Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5RAJ7AVTW31WKE9WPM0Y",
+          "text": "I bounce to the beat in my chair, my headphones glued to my ears. Ankita Struna's music pulses in my headset, rhythmic and ethereal. A cup of coffee steams on my workbench as the sun's rays filter through the workshop blinds. The assembly plans are unfolded on the table in front of me, and I study them carefully, twirling my screwdrivers like drumsticks. From the corner of my eye, I see a Brassbug climb the bench leg and stop in my work area. It watches me with curiosity, its camera alternately zooming in on me and the diagram I'm trying to figure out. I take off my headphones and set them around my neck as I study the bug-like robot with a mixture of amusement and bemusement.\n\nThe robot is carefully examining the diagram, as though processing it. Is it… bored? It looks up and stares at me intently. I lift my leg and tap my screwdriver against the metal prosthesis. The Brassbug suddenly seems to understand and starts to examine the plan further, moving over the bench from left to right. It scans my design, scrutinizing the instructions that will help me forge a new set of racing blades. Then, seemingly satisfied, it opens its back compartments so I can access its range of tools: the right size screws, finishing mallets, a kelonic screwdriver, a sharpening stone… I thank it by gently tapping its back, then place my headset on its head. It starts to sway back and forth in time to the music's beat, seemingly as happy as can be."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RABZAW4TEANPNYYM3R2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5RABZAW4TEANPNYYM3R2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R9M6A7W4C211S0WM5F1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5R9M6A7W4C211S0WM5F1",
+          "text": "Sierra"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R9WGS069GPJ92K7NZ9G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5R9WGS069GPJ92K7NZ9G",
+          "text": "380 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "01HNGY4Z8PMFB83VA5YHYQV7V8",
+      "reference": "ALT_CORE_B_AX_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Ficha de personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/78490022f5efdb1fdd02",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d557a0503f9c334588a3",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_31/JPG/es_ES/2258698c9163b7541b26060504e19c31.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_31/WEB_d7201768195b1f1fd980f930e33f327d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_31_C",
+  "reference": "ALT_CORE_B_AX_31_C",
+  "id": "01HKAFJNMNGK46X8QT6X9WQ112",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_31/JPG/it_IT/8f324b5eef398478f6680a886958efe0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_31/JPG/en_US/c67d65a3ce286b238da10aea203e7775.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_31/JPG/de_DE/83970d1815f33b341e524fbae995ef63.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_31/JPG/es_ES/2258698c9163b7541b26060504e19c31.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_31/JPG/fr_FR/f524758a9b299aa4faf3e1b20e10c088.jpg"
+  },
+  "name": "Bicholata",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "(Si abandono la zona de expedición, retírame del juego.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-181-T-ES"
+}

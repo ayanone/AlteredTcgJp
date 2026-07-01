@@ -1,0 +1,171 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_46_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0AP8A6M6KH840TQEF3DJYKM8BS",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24VXMPN9ENDJY697NDWE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24VXMPN9ENDJY697NDWE",
+          "text": "En la cumbre espera la llegada de la libertad, de la liberación."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24WPNG07MBQD8H482Q90",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24WPNG07MBQD8H482Q90",
+          "text": "Sigo las huellas de los exploradores, que me facilitan mucho el avance, con la cabeza gacha para protegerme del viento cortante que sopla en el cañón. Las paredes heladas a ambos lados del estrecho sendero que conduce al espolón rocoso enfrían cada ráfaga hasta convertirla en un latigazo cada vez más doloroso. Las rachas de viento traen consigo copos de nieve que nos golpean en oleadas. Cada cierto tiempo me obligo a dejar de mirar el rastro que tengo delante y levanto la cabeza para contemplar el pico nevado que será nuestro destino final. Aunque la cima se hace más imponente a cada zancada, la distancia hasta alcanzarla sigue pareciéndome demasiado larga e insalvable. Los destellos plateados que divisamos en la cima nos advierten de que tendremos que usar las piolets para escalar la ladera. Rezo una y otra vez para que nuestro equipo resista esta expedición. Desde esta distancia, es difícil hacerse una idea de la capa de hielo a la que nos enfrentaremos durante el ascenso.\n\nPor un breve instante, recuerdo las alturas de las Esquirlas de Vanderun y el sol de la mañana bañándome la cara con su luz. Era entonces cuando ella, mi corazón, mi amor, se me aparecía siempre para estrecharme fuerte entre sus brazos… Sumido en mis pensamientos, tardo un segundo en darme cuenta de que el sonido del viento ha cambiado. Lo que antes era un quejido lúgubre y persistente se ha convertido en un rumor, como la respiración de un gigante enterrado. Casi parece el gruñido de un dragón. Lo escucho con atención y deduzco que procede del pico. La vibración se intensifica y me sacude todo el espinazo. El miedo se apodera de mí. Miro hacia delante y advierto que mis peores miedos se han hecho realidad. Al final de la cornisa, mis dos guías se han detenido paralizados por el terror, pues una avalancha se dirige directamente hacia ellos."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24WA5X437E6ZS0GZN9YV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24WA5X437E6ZS0GZN9YV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24V3GG2R38NKHT1YD4SW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24V3GG2R38NKHT1YD4SW",
+          "text": "ATSADI\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24VG64NVGJ666GQT9R5V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24VG64NVGJ666GQT9R5V",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "0AP8A6M6KH840TQEF3DJYKM8BS",
+      "reference": "ALT_ALIZE_B_BR_46_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b28b573be829ccfe5c0f",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Ubicación"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6a75875e061c4c100c80",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/3b7d6bba1c7008174e0d",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:15+00:00",
+      "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
+      "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/84e93b9981ec5863cec6",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:15+00:00",
+      "question": "If I control a Character which is already Fleeting, and some effects gives it Fleeting again, what happens?",
+      "answer": "Unless there's a specific exception (such as the Common version of Gericht, Revered Duellist), a Character which already has a status cannot gain it again. Your Fleeting Characters therefore cannot gain Fleeting (and therefore do not add an additional Trial counter to the Icebound Peak)."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/es_ES/d6ea92b29db9e22a6c364521fdcfc671.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_e307b9e32536a086d1f7b4cbb8fe3cc2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_33f3031907bbe6049195e88eeca428f8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_46_R2",
+  "reference": "ALT_ALIZE_B_BR_46_R2",
+  "id": "01J1Q4P4S5GQXPH88FFDNZY9WW",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/de_DE/a3371d364c9ca9977b282d64f1d333b9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/it_IT/23d5a586c29f5256c16755ce6eb79def.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/es_ES/d6ea92b29db9e22a6c364521fdcfc671.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/fr_FR/746bfe8ab2c574da11bd54408f3f6ecb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/en_US/bd7dab5d318aa329d84a0a009cea904b.jpg"
+  },
+  "name": "Pico helado",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Cuando un personaje que controles gane [[Fugacidad]] — Gano 1 contador de ordalía.  Cuando gane mi tercer contador de ordalía — Sacrifícame. Si lo haces, crea una ficha de ilusión [Dragón del eco 5/5/5] en una expedición objetivo y luego todos los personajes que controlas ganan 1 potenciador."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-034-F-ES"
+}

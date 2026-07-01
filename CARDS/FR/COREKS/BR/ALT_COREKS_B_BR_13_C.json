@@ -1,0 +1,165 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_13_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77ZDKR6MG84B3SYYYNZT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7XW7YSJPE3AN6TA00JZZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7XW7YSJPE3AN6TA00JZZ",
+          "text": "« Affronte ta douleur. Abandonner fait bien plus mal. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XWV44W3F2D80YZKEC7H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7XWV44W3F2D80YZKEC7H",
+          "text": "Je ne sais pas quelle lubie le pousse à me faire escalader cette montagne interminable, mais je serre les dents sans maugréer. Du moins pas verbalement. Le sommet est encore loin, la chaleur presque insoutenable. Et le fait qu'il m'ait sanglé aux jambes et au bras gauche des poids excessifs n'arrange pas les choses. Chaque pas est une épreuve, chaque volée de marches un supplice. Mais il ne m'appartient pas de critiquer les méthodes du maître Kappa, aussi désuètes semblent-elles être. De nombreux apprentis sont passés sous sa houlette au fil des ans, et il a acquis cette réputation d'extraire le meilleur de chacun d'entre eux, même du bout de charbon le plus prosaïque. Cependant, le voir tirer nonchalamment sur sa pipe en buvant un thé bien frais a de quoi faire sortir de ses gonds le plus patient des élèves.\n\nJe grogne, ajustant le sac de pierres qui pèse lourdement sur mes épaules et suant à grosses gouttes par la même occasion. Facétieux, il l'est certainement. Sage, peut-être, même si cela reste à confirmer. Bedivere m'a conseillé de suivre l'entraînement que le Kappa était disposé à me prodiguer. Je l'ai crue sur parole, mais chaque jour qui passe, les tâches qu'il me confie deviennent de plus en plus absurdes. Est-il en train d'éprouver ma patience ? Ou bien cherche-t-il à renforcer ce qui peut l'être pour pallier mon invalidité ? Les pensées se bousculent tandis que je gravis la pente escarpée. Une chose est sûre : je n'arriverai à rien si une simple montée parvient à me contraindre à l'abandon. Je continue sur ma lancée, tandis que Surge papillonne sur le chemin, nullement affecté par la gravité ou même la distance. Lui, contrairement à moi, ne subit pas les limites physiques... J'étrécis soudain les yeux. Mais en fin de compte, le but n'était-il pas de moi aussi m'en défaire ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XWH36VHVBF4PEYASFSH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7XWH36VHVBF4PEYASFSH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XVK0YBPJCQJ5W996P7T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7XVK0YBPJCQJ5W996P7T",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XVYMERV04BZX8MD9RH0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7XVYMERV04BZX8MD9RH0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77ZDKR6MG84B3SYYYNZT",
+      "reference": "ALT_COREKS_B_BR_13_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ff79a0d18343032bb6c0",
+      "reference": "TRAINER",
+      "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+      "name": "Mentor"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5008afc6a731275e8e28",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Esprit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0c096f6209ade05ad75c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/fr_FR/87490431cb5bd3510c0fe7f2828c6381.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_13_C",
+  "reference": "ALT_COREKS_B_BR_13_C",
+  "id": "01HN5TXR7SMKV00CAERC4SKDYG",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/de_DE/376ff1f16d9d1861017cdf0ff1320081.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/es_ES/bea1dc30f62b81e493c944f2b1906cfd.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/it_IT/610f98b49c387a98c8086f6e968d9494.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/en_US/82940cba5ea6b7a87cfe72ee58d499f0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/fr_FR/87490431cb5bd3510c0fe7f2828c6381.jpg"
+  },
+  "name": "Kappa",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "5",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "4"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-050-C-FR"
+}

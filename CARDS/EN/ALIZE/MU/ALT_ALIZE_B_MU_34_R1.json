@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_34_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4B4MT6ZSA2903VHD673JCK1VAM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26KBG1GAW5Q4XTW85CCC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26KBG1GAW5Q4XTW85CCC",
+          "text": "\"Ah yes. Our new - celebrity.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26M3H518WGVSVKJ2NBCF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J26M3H518WGVSVKJ2NBCF",
+          "text": "Through the greenhouse window, all I can see outside is an impenetrable white veil. I place Spike on my lap and pull the thermometer out of his mouth. He's running quite a temperature... No wonder he's been feeling so weak since yesterday. I fidget slightly on my stool, waiting for the gardener to finish with his current patients. The otter grabs a pot and fills it with little balls of clay, a bit of bark and some damp soil. Then he grabs the first sentient plant and gently places it in the rehab container. The otter tenderly repots the patient as though making a bed and places it close to a light source to ensure it gets enough rays to jump-start the process of photosynthesis. He does the same with the little Coneman, then attends to the little Sneezer Shroom who can't stop spluttering out clouds of half-filtered spores.\n\nNow it's Spike's turn to be cared for. The repotter otter places him in a pot and pats down the earth around his little feet, then wraps the bundle up warmly. He then removes the wilted flowers covering Spike's head so that the new buds can bloom more easily. Once Spike is feeling better, new bright-red corollae will open over his cute little face, and he'll definitely be anxious to get moving again. He's never had much patience for being stuck somewhere with nothing to do. But until then, he needs to get some rest. As for me, I must admit, a little downtime will do me good. I desperately miss plunging my hands into fresh soil, and there's still plenty to do in the greenhouse. I gently run my hand over my Chimaera's head, which is already drooping from exhaustion. I hate to see him bedridden like this, and I hope his recovery won't take too long…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26KQW4F678QJGE9ZF9S9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J26KQW4F678QJGE9ZF9S9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26HX6XJ37NK18YS05W4R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26HX6XJ37NK18YS05W4R",
+          "text": "ARJUN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26JWWR2MXCPWQSG7Q6N8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J26JWWR2MXCPWQSG7Q6N8",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "4B4MT6ZSA2903VHD673JCK1VAM",
+      "reference": "ALT_ALIZE_B_MU_34_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/56d91158dadb6d3e0672",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2a69a9c62f666cf243e0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/en_US/7cd0350acead1ec278b00812a44d2b33.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/WEB_04ad7ecd5d8d0f52e1c22e533185c237",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/WEB_7b7453c56e1b667c8e1adf736c664496",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/WEB_f11aa1ab763fd9551ad376aea1c224f7"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_34_R1",
+  "reference": "ALT_ALIZE_B_MU_34_R1",
+  "id": "01J1Q4P4SDA8SPK4V8SP1KVFBT",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/es_ES/48fbd76b034e925f27625259bf833dcd.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/it_IT/9973614e8f9ea796381fc30795516ddb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/en_US/7cd0350acead1ec278b00812a44d2b33.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/de_DE/1faa3d1482b47e68e27688facb247cec.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/fr_FR/f79c9eb393c4d57eb4dc76ac22114281.jpg"
+  },
+  "name": "Repotter Otter",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "{J} Each player may put a card from their hand in Reserve #to draw a card.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-057-R-EN"
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_17_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZADT2DPW0C9EH76JDCC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5S5RNB7C08TV52CVPF2W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5S5RNB7C08TV52CVPF2W",
+          "text": "Wir haben alle schon einiges durchgemacht. Aber sie hat Schlimmeres erlebt."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S6CX3J80XX5283R37BX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5S6CX3J80XX5283R37BX",
+          "text": "I bite the dust again, hitting the ground hard. Ouch. I roll to my side and face my opponent, a mass of muscles and nerves eyeing me indifferently, maybe even a bit scornfully. I shake my head to get rid of the stars in my vision, while Boo covers his own with his paws. OK, I get the message: strength isn't necessarily my advantage here. Think, Kojo. How're you gonna gain the upper hand? I look at her bulging muscles, her scarred skin, her patch-covered eye. Sure, she's isn't just anyone. But it's not like I expected special treatment or anything. The opposite even, as I'm sure Gul asked her not to pull any punches to discourage me from joining the Corps.\n\nBut if they think I'm gonna throw in the towel after getting a couple of scratches, they don't know me at all. I get back up and start bouncing. The one advantage I do have is my speed. The trouble is, every time I run into her, it's like hitting a stone statue with a half-inflated balloon. She smiles as I straighten up. Thing is, her smile looks less like a sign of encouragement and more like a lioness's maw getting ready to devour me. So, what's the plan? Keep my distance to tire her out? Hmm. Nah, she's gotta have more endurance than me. Use my speed to charge at her? Right, and dislocate my shoulder in the process? Anyway, she outclasses me in pretty much every respect. I think the only option I have is to give it my all, and to keep up as much as I can to show her how determined I am. OK, I'm about to suffer. But if I can get her to think highly of me, even Gul won't be able to say anything."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S620Y405RVYR3N8YA44",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5S620Y405RVYR3N8YA44",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S52PHAS9GXQHEV8H4VR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5S52PHAS9GXQHEV8H4VR",
+          "text": "Kojo"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S5DTW31R5WA5Y22QZMQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5S5DTW31R5WA5Y22QZMQ",
+          "text": "388 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZADT2DPW0C9EH76JDCC",
+      "reference": "ALT_CORE_B_BR_17_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ab96a70628c1e978b2c2",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9a7fd7b60de79ca978b3",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_17/JPG/de_DE/60ad7552252368faf6d649e6be0a67cb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_17/ALT_CORE_B_BR_17_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_17/ALT_CORE_B_BR_17_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_17/ALT_CORE_B_BR_17_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_17_C",
+  "reference": "ALT_CORE_B_BR_17_C",
+  "id": "01HKAFJNPFCYRAX2F5CGZ6HHVQ",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_17/JPG/en_US/ef04549008764b4cb8080b41ee880044.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_17/JPG/fr_FR/3774584ef0052c834efdc79e2c8059dc.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_17/JPG/it_IT/07dfb264d6bc28f744dcf0b7a88923e8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_17/JPG/es_ES/18ee08c9ea10d93877ab5447d48c6a49.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_17/JPG/de_DE/60ad7552252368faf6d649e6be0a67cb.jpg"
+  },
+  "name": "Haven-Kriegerin",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-045-C-DE"
+}

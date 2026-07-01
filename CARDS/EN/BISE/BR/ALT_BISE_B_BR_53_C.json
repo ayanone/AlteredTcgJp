@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_53_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0XXWNXTN808SF8767Z64JAEZNZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4TW0TJ91FQWQN8SW6NC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4TW0TJ91FQWQN8SW6NC",
+          "text": "The depths of the city are filled with archaeological marvels... along with plenty of Sap!"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4V94DKWMEJZZWCHHB2G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4V94DKWMEJZZWCHHB2G",
+          "text": "393 AC - Jubal is the last to pull himself up through the hole with a bag crammed full of fossilized Sap and other knick-knacks. I'd told him to get rid of his gear, but it seems some people value their loot more than their own lives. He rolls over the grassy ground, laughing nervously but with a certain satisfaction. These prospectors are always driven by the lure of profit. If he were one of my students, I would have knocked him down a peg or two. But our task was to escort the plunderers, not teach them good sense. I watch him as he takes his bag and examines the contents like it's a haul of treasure. There's Sap, of course, but also a jumble of relics and odds and ends. I'd heard that it was Temera Singh herself that had tasked him with supervising the dig. Good grief, what had she been thinking?\n\nBut I had to admit, he knew his stuff. He always paid for his round of Sap beer, and he certainly spent more time with the rank and file than with the brass, both around the campfire and knee-deep in mud. And even though he was surly, stubborn as a mule and miserly as a crow, his bond with the boots on the ground earned him plenty of praise and respect. I watch him scratch his beard and examine a strange, rusty and baffling trinket. His eyes sparkle with interest, as if he's counting how much this will bring him. Jeez, doesn't he realize how close we were to death? He suddenly notices that I'm watching him, and he gives me a knowing smile, ignoring my dark look. Very well, Jubal, I'll make you buy another round tonight."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4V335WGV6SSE9NV3ERN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4V335WGV6SSE9NV3ERN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4TFT5Q46C2RV6A1R8QA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4TFT5Q46C2RV6A1R8QA",
+          "text": "BASIRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4TPY6GTJKV5XTQPQX8M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4TPY6GTJKV5XTQPQX8M",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0XXWNXTN808SF8767Z64JAEZNZ",
+      "reference": "ALT_BISE_B_BR_53_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4ddfb10501ba0aa06c5a",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Citizen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2ce1da81b4c46a9698d5",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_53/JPG/en_US/f7a8d1d671f36cc9515d5047422adcee.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_53/WEB_bd19c3d996491e14fe4b75fdaaecf112",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_53/WEB_0da12628ce30e2a2068d7334c83b7944",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_53/WEB_f0880dcb347bb89fc304e5d758a5754d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_53_C",
+  "reference": "ALT_BISE_B_BR_53_C",
+  "id": "01JB1YGPBAW9W7FA6Y7SGZMSDC",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_53/JPG/es_ES/1e47586444c321a7e7364484ca396bf4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_53/JPG/it_IT/89dd116374ff1dd07dfd05fcdedf19da.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_53/JPG/de_DE/9e20ebe595bdd5c8181edcb5ad068e33.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_53/JPG/en_US/f7a8d1d671f36cc9515d5047422adcee.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_53/JPG/fr_FR/f17b4cf595c748649f05e36663db4381.jpg"
+  },
+  "name": "Bravos Excavator",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "When I leave the Expedition zone, for each of my boosts — Another target Character in your Reserve gains 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-021-C-EN"
+}

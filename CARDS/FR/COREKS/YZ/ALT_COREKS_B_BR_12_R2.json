@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_12_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77ZAXXGR1R85ZN3QBMWE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7XT9YYH3FPZ25AS09CKK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7XT9YYH3FPZ25AS09CKK",
+          "text": "Sa détermination est sans égale dans ce monde."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XV2F0TDF1FS1XETY7WP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7XV2F0TDF1FS1XETY7WP",
+          "text": "\"Tu dois te nourrir de ce que t'offre autrui\". C'est ce que Hua Mulan avait dit. Je ne l'avais pas prise au pied de la lettre quand elle m'avait fourni ce conseil, pensant qu'elle parlait tout simplement des leçons que je pouvais tirer de chacun de mes instructeurs, de l'expérience que j'accumulais à chaque combat mené. Mais je commence à comprendre ce qu'elle voulait vraiment dire. J'avais la capacité de prendre appui sur la nature de mon Alter Ego pour me mouvoir à la vitesse de la lumière. J'avais la capacité d'insuffler dans mes coups des décharges qui engourdissaient les membres de mes ennemis. Mais ce n'était pas simplement dû au lien que j'entretenais avec Surge. C'était parce que je dévorais une partie de son être pour la faire mienne. Et à chaque Eidolon que j'appelais, une partie de sa puissance se transférait en moi, pour me rendre plus fort.\n\nMulan se met en position, son jian brandi devant elle comme l'aiguillon d'une guêpe. Ses yeux sont calmes comme un étang abrité du vent, son corps immobile comme une statue de marbre. Elle s'anime soudain, et file dans ma direction. À droite, à gauche, en bas. Ses coups sondent ma garde, à l'affût d'une faille. Mais là où j'aurais rendu coup pour coup il y a seulement quelques jours de cela, je reste sur la défensive, me concentrant sur le fait de parer ou d'esquiver chacune de ses offensives. Depuis toujours, j'avais pensé que je devais devenir le meilleur spadassin, par la seule force de l'épée. Mais j'avais négligé le fait que j'étais un Altérateur, alors que c'est là que résidait toute ma polyvalence. Alors je les appelle à moi. Tous ceux avec qui j'ai croisé le fer. Je les convie, non pour qu'ils combattent à ma place, mais pour qu'ils me lèguent une partie de leur puissance. Alors qu'ils apparaissent, Hua Mulan sourit. Et à travers eux, je sens la transcendance germer en moi. Je sens le duende m'envahir."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XTMW6ZBM861WCVPBQXT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7XTMW6ZBM861WCVPBQXT",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XSNGDN6BFZAPNT2VA0E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7XSNGDN6BFZAPNT2VA0E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XT0N0J339VS7ZMX12Q2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7XT0N0J339VS7ZMX12Q2",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77ZAXXGR1R85ZN3QBMWE",
+      "reference": "ALT_COREKS_B_BR_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4812222de0610ffebd4c",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/093512aca4f32995f24b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_12/JPG/fr_FR/96ffe195275c1155c18476442f53566a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_12/ALT_CORE_B_BR_12_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_12/ALT_CORE_B_BR_12_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_12/ALT_CORE_B_BR_12_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_12_R2",
+  "reference": "ALT_COREKS_B_BR_12_R2",
+  "id": "01HN5TXR7RZAGGVKQQNDQY8RZ3",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_12/JPG/es_ES/82c62e053d3f781aab54c76be1e7c7b5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_12/JPG/it_IT/cfaf0cafb98459147121680b414dbde9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_12/JPG/fr_FR/96ffe195275c1155c18476442f53566a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_12/JPG/en_US/7282915c1b9840dbb536d636fa183697.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_12/JPG/de_DE/231e7d259870b52a8512deea0d339308.jpg"
+  },
+  "name": "Hua Mulan",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "#2#",
+    "MOUNTAIN_POWER": "#2#",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{R} Je perds [[Fugace]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-046-F-FR"
+}

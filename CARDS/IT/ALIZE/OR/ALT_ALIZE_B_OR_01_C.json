@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3962JKWZGT90M97WJ8PYMF0NVH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J27WVJ3C56GG5NNMB30JR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J27WVJ3C56GG5NNMB30JR",
+          "text": "\"Seguitemi, amici! Se rimaniamo uniti, nulla può fermarci!\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27XN2VMZPA4XG4GYFEE5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J27XN2VMZPA4XG4GYFEE5",
+          "text": "392 AC - Alagrande gracchia contro i nostri aggressori mentre la mia spada abbatte un'altra chimera che ci attacca dal fianco. Lancio un'occhiata a Sunisa e vedo che il suo scudo è già segnato da diversi graffi. La mia aiutante di campo copre la nostra sinistra e usa la punta della lancia per provare a respingere le creature del Tumulto che ci attaccano. Ce ne sono così tante... sembrano non finire mai. Ma dobbiamo resistere per consentire al convoglio di attraversare il passo. Una zampa artigliata colpisce il mio scudo, lacerandone la superficie. Sento il peso dell'attacco sulla mia spalla, ma stringo i denti e riesco a resistere all'impatto. Spingo via la creatura, usando tutta la mia forza per costringerla alla ritirata. Alagrande riesce ad afferrarla con il becco per scagliarla ancora più lontano.\n\nLe bestie che sciamano intorno a noi sibilano, osservandoci per cogliere l'occasione giusta. Devo sfruttare questo breve momento di calma per volgere le sorti dello scontro a nostro favore. Alagrande apre le ali e spicca il volo, generando potenti raffiche. La creatura salta indietro. Adesso. Pianto la spada nel terreno, attingendo al mana del mio alter ego. Con la mano libera, disegno un glifo nell'aria prima di posizionarlo sul terreno. L'eidolon di Maibritt compare di fonte a me, sollevando il suo spesso scudo per coprirmi. E non è sola. Al suo fianco appare un'altra recluta Ordis. Tra i ranghi delle creature del Tumulto brillano alabarde e lance. Concentrando il mio mana, evoco un torrente di fogli di carta dalla mia immaginazione. Riempiono l'aria e svolazzano tutto intorno come una tormenta. I fogli si attaccano ovunque atterrano, come se fossero coperti di colla. Sorrido mentre osservo le creature intrappolate sotto un mucchio di fogli di carta appiccicosi."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27X85DVK0NN84DRDDCXM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J27X85DVK0NN84DRDDCXM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27VWSDC55G7TNYR910T9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J27VWSDC55G7TNYR910T9",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27WEBQ0W92E4NVBZEMVP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J27WEBQ0W92E4NVBZEMVP",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "3962JKWZGT90M97WJ8PYMF0NVH",
+      "reference": "ALT_ALIZE_B_OR_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8eda7a4303c8a761350f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/it_IT/bd5d62314ea9c7c489347ca4cdcf4cf0.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/HERO_THUMB_3e0a15214bdf951ab193f02622e3914a"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/HERO_WIDE_72156301fd6f3da3e360a33e99b53625"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/WEB_674d4db99ddafb0c4b1239f849bd05f7"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_01_C",
+  "isOwnerless": false,
+  "reference": "ALT_ALIZE_B_OR_01_C",
+  "id": "01J1Q6W7F61NENF2HV2QTRR05H",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/fr_FR/858635c3194c5de5421e7ee641468f97.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/en_US/223ff276dec2cbbdb5c731a172b38365.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/it_IT/bd5d62314ea9c7c489347ca4cdcf4cf0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/es_ES/2cddcef69fc678a8910fbe43cae4a452.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/de_DE/62007ba17b66f177573004d92c9858a5.jpg"
+  },
+  "name": "Sigismar e Alagrande",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "A mezzogiorno — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella spedizione del tuo eroe.  Ignora la mia abilità il primo Giorno."
+  },
+  "isSuspended": false,
+  "isErrated": true,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "TBF-069-H-IT"
+}

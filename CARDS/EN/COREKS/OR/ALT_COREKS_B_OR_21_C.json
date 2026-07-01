@@ -1,0 +1,184 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_21_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79ADGFBQF5KBSV6T8NKN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME87X1JCTD460J6ENAJHA8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME87X1JCTD460J6ENAJHA8",
+          "text": "\"I think you have forgotten something. We keep a merry inn here in the greenwood, but whoever becomes our guest must pay his reckoning.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87Y9HZFP4EQF3VVR7B38",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME87Y9HZFP4EQF3VVR7B38",
+          "text": "How ammmusing. A highway robber who now pretends to be a banker. Haha, now I've seen everything. I clean mmy claws while Waru and the Eidolon are in deep discussion in the secluded alcove of the bar. And as usual, who is keeping watch? It's yours truly. Around mme, the bar is jammm-packed. People are clinking glasses, speaking too loudly, reveling, singing... Not mmany people seemm to be interested in us, actually. Two hooded strangers and a weasel in the backroomm of a breivikensveg tavern... Mmmove along, nothing to see here. So, I'mm happy to just sip mmy beer and hang around. Ha... in the old days, they said that Robin Hood was a great thief who stole fromm the rich to give to the poor. Interesting that he became one of the Isura's financiers. With that position, he'd have no problemm ensuring proper distribution of wealth...\n\nThrough Waru's ears, I listen idly to their discussion. Hmmm. That's some serious negotiation going on there. They're talking about how the Rediscovery Endeavor will actually delay developmment of the Protectorate's secondary cities, which they are in dire need of... About the endeavor being an unnecessary risk and a losing investmment... I listen to Waru taunt Robin about his past as an outlaw, about how he mmanaged to elevate his status ammong the people... all the arguments designed to stir up his anger. Haha, it seemms to be working. I suddenly notice a pair of eyes watching fromm the counter. It's probably a spy on Avkan's payroll. Good, the second phase of the plan is starting to bear fruit. Heh heh. I warn Waru of the oaf's presence. Everything seemms to be running smmmoothly, so far."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87XMQ7JVBJ2Q77857QQV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME87XMQ7JVBJ2Q77857QQV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87VTEA3YK19R3NGJYKFP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME87VTEA3YK19R3NGJYKFP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87WEGGBR6GN5YD87FDRY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME87WEGGBR6GN5YD87FDRY",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79ADGFBQF5KBSV6T8NKN",
+      "reference": "ALT_COREKS_B_OR_21_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e95d718491c4f6568057",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/be439fa64bdaf97a75b7",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/1ca99d8f9941ebfe58f8",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-11-15T10:37:52+00:00",
+      "question": "Was this card updated ?",
+      "answer": "Yes. The first printing of Robin Hood said  \"Characters your opponents play cost {1} more.\"  Future printings will say  \"Characters your opponents play can't cost less than {2}. (If they would cost less, they cost {2} instead.)\"\n\nThis change impacts all versions of this effect, including the ones found on Unique cards. Any card that uses the previous wording should be read as if it used the new one."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/73e48a2efd5db224b9e8",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-11-15T10:37:52+00:00",
+      "question": "What happens if a player plays a Character for free, such as with Auraq & Kibble's effect, while their opponent controls Robin Hood?",
+      "answer": "A free card remains free even against Robin Hood!  Playing a card for free means bypassing its cost entirely, which is different from reducing it to zero."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/acce108db356ff2034cb",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-11-15T10:37:52+00:00",
+      "question": "If I control Robin Hood, can my opponent reduce the cost of a card using an effect such as Martengale?",
+      "answer": "They can, but if this would bring the card cost under 2, the cost would remain 2."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/en_US/0ce7906fc152f144262e908cf7e484a7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/WEB_7d4d384c6830dc788e872d452e5246a0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/WEB_d690d3ad0568ec9b25973cc3e785fc99",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/WEB_aa4e3a7d5171176678d6606f70982495"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_21_C",
+  "reference": "ALT_COREKS_B_OR_21_C",
+  "id": "01HN5TXRGSDH2VB9K69EP78S55",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/de_DE/7c3ec2df3ebf96a78a18733b93d9ed17.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/it_IT/850bb86b603dbccd3525b06ee1a77fa7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/es_ES/b0bbfde6615d9f601570f632b590a37f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/en_US/0ce7906fc152f144262e908cf7e484a7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/fr_FR/e6a42e93cfdec577ec9bc99ab1b5df5b.jpg"
+  },
+  "name": "Robin Hood",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "Characters your opponents play can't cost less than {2}. (If they would cost less, they cost {2} instead.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-139-C-EN"
+}

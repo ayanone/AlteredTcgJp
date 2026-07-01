@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_31_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2ER8H9X7YC806RF6E5X9ZJYZ68",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2318FG5ACKVSZAGF1MGA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2318FG5ACKVSZAGF1MGA",
+          "text": "01010011 01100011 01100001 01110010 01100001 01100010 01101111 01110100 01110011 00101100 00100000 01110010 01100001 01110011 01110011 01100101 01101101 01100010 01101100 01100101 01101101 01100101 01101110 01110100 00100000 00100001"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J231Q3Q3ZNX6XDD3BEQP1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J231Q3Q3ZNX6XDD3BEQP1",
+          "text": "Hiiiiiiiiiiiii. Hiiiiiiiiiiiii. Le signal de détresse hurle une dernière fois à travers le pont, et je fais signe au timonier de faire voile vers la source du danger. L'Ouroboros se met en branle, et son anneau se met à tournoyer tandis que je demande à mon quartier-maître de quels effectifs nous disposons en plus des fantassins du Tagmata. Je peste intérieurement, mais ne laisse rien paraître en écoutant mon intendant. À cause de tous les troubles causés par les Belisenki, nos contingents sont déjà fortement dispersés. Je sais que nous pouvons compter sur une Compagnie Bravos, à peine revenue d'expédition, pour servir de force d'intervention. Mais à elle seule, elle ne pourra pas forcément couvrir toute la zone de recherche, surtout que l'avalanche semble avoir dévalé loin dans la vallée. Si je peux aussi déployer quelques secouristes supplémentaires, il nous faudra bien plus pour espérer retrouver d'éventuels survivants...\n\nAller chercher une autre troupe prendrait bien trop de temps... De quelles ressources dispose-t-on ? Oui, peut-être... Je me tourne soudain vers mon mécanicien en chef, et lui demande combien de Scarabots l'Ouroboros accueille en son sein. Sa réponse vient me conforter dans mon idée, même si elle est des plus saugrenues. Parachuter une nuée de Scarabots depuis la baie principale... Ce n'est peut-être pas la manœuvre la plus élégante, mais le temps presse. Je donne mes ordres à mon second. S'il les trouve farfelus, il n'en fait pas la remarque. Nous traversons les nuages, et virons en direction du col enneigé. Nous serons en position dans moins d'une minute, mais je sais que chaque seconde compte si nous souhaitons trouver des rescapés. On m'informe que tous les Scarabots ont été réunis dans le hangar principal. Il ne reste plus qu'à croiser les doigts pour que cette stratégie s'avère payante, et à contempler un largage de Scarabots, comme une pluie d'étoiles filantes.."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J231F9V9TAQGWSZ6VN0MF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J231F9V9TAQGWSZ6VN0MF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J230SWP96R5K7CYJQQWEY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J230SWP96R5K7CYJQQWEY",
+          "text": "TEMERA SINGH"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23113ZCQVDMW7CC46V3Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23113ZCQVDMW7CC46V3Z",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "2ER8H9X7YC806RF6E5X9ZJYZ68",
+      "reference": "ALT_ALIZE_B_AX_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Jeton Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8069338ed56cf5bfcc62",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/02805ee75f112cfaa304",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_31/JPG/fr_FR/ed13e164b3a55e79321875d7ebe68eeb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_31/WEB_f1b86a675a9c3b59ed6f34ea90ab3c5f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_31_C",
+  "reference": "ALT_ALIZE_B_AX_31_C",
+  "id": "01J1Q4P4RY6CBQN21BD9BT485Z",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_31/JPG/de_DE/33336ee39fc58f2fcdc47bbc010eac45.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_31/JPG/fr_FR/ed13e164b3a55e79321875d7ebe68eeb.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_31/JPG/es_ES/e17a07a21b76c812da86497e1b8865d5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_31/JPG/en_US/aaa4bf70c2cee2dddc81bb98aa083ee3.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_31/JPG/it_IT/1203da513fa5c8cb223482716b65ab8e.jpg"
+  },
+  "name": "Scarabot",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "(Si je quitte la zone d'Expédition, retirez-moi du jeu.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-103-T-FR"
+}

@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_10_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY506A1866D2BBBCPAVM47",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5WZHNKC12FYWZ740YGW9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5WZHNKC12FYWZ740YGW9",
+          "text": "Green is good."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5X0CDYDAAWHMMESVFFA0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5X0CDYDAAWHMMESVFFA0",
+          "text": "Next to me, a weasel slinks up the railing and comes to perch on a little promontory of lacquered wood. I bend down slightly so it can climb on my shoulder, and it doesn't need to be coaxed. After a mad dash along the nape of my neck, gliding from shoulder to shoulder beneath my hair and eliciting a few laughs from me, it positions itself on my head, watching. The wood of the landing creaks under my feet as I follow the languid procession. But despite the time it takes to cross the Mugen, it's a celebratory occasion. Robins dance with avocets; foxes and badgers play between the pilgrims' legs. During Ryukkôsai, they are no longer predators and prey. All species respect the truce decreed by the Muna.\n\nI finally arrive at the sixth island, where hundreds of frenzied fireflies are fluttering around. I bow down before the altar devoted to Yong-Su, clapping my hands three times as a sign of respect. When the capital was cut off from the world by a Tumult singularity and condemned to famine, it was he who created the Mugen, the bridge with 19 sections connecting the Katkera to Arkaster. The Alterer had managed to convince all the sentient species of Kirighai to gather offerings and bring them to the crowded metropolis. Thanks to him, and thanks to that miraculous bridge, the capital managed to survive. Nearby, a blueback orangutan begins to holler, and is then imitated by many other animals. Upon the calm water, Yong-Su's Eidolon has manifested, floating in the air, while at his feet, rippling circles lazily glide over the surface. Lotus flowers begin to bloom beneath each of his steps. I bow once more, tears in my eyes at his appearance."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WZYR6YGS8D0JJNBKXK4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5WZYR6YGS8D0JJNBKXK4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WYP87C1BFB7NK2PQN39",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5WYP87C1BFB7NK2PQN39",
+          "text": "Rin"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WZ3XMQVHDBEKA49E9Y5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5WZ3XMQVHDBEKA49E9Y5",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY506A1866D2BBBCPAVM47",
+      "reference": "ALT_CORE_B_MU_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1441873611ac564b2ad2",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druid"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cd3127d8cb8b386f1562",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/4e48e7f29185ebc249ec",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-23T10:38:09+00:00",
+      "question": "If \"Yong-Su, Verdant Weaver's\" controller has a Character in Reserve with base statistics of zero, do they count towards Yong Su's effect?",
+      "answer": "No. Cards in Reserve are not \"controlled\"."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/JPG/en_US/8709ad87586e57ce817950221d5594d4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/ALT_CORE_B_MU_10_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/ALT_CORE_B_MU_10_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/ALT_CORE_B_MU_10_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_10_R2",
+  "reference": "ALT_CORE_B_MU_10_R2",
+  "id": "01HKAFJP6XCWTCBF2A0RJ148FE",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/JPG/de_DE/9a9351258421dae01ca36de5283d1861.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/JPG/it_IT/5cd008348bfbd02eec0db15e5e10215d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/JPG/es_ES/3091a770ea19e5071212a5f6a31da68e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/JPG/en_US/8709ad87586e57ce817950221d5594d4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/JPG/fr_FR/98abdc2d7e6a8d75368da562050ad4dc.jpg"
+  },
+  "name": "Yong-Su, Verdant Weaver",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "FOREST_POWER": "3",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{J} #If you have three or more base statistics of 0 among Characters you control,# I gain 2 boosts."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-106-F-EN"
+}

@@ -1,0 +1,171 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_46_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0AP8A6M6KH840TQEF3DJYKM8BS",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24VXMPN9ENDJY697NDWE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24VXMPN9ENDJY697NDWE",
+          "text": "Sulla vetta attendono la libertà e la liberazione."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24WPNG07MBQD8H482Q90",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24WPNG07MBQD8H482Q90",
+          "text": "Cammino sulle orme degli esploratori e questo mi consente di procedere molto più facilmente. Ma devo tenere la testa bassa per ripararmi dal vento pungente che soffia nel canyon. Le pareti ghiacciate ai lati dello stretto sentiero che conduce allo sperone roccioso congelano le raffiche che mi schiaffeggiano il viso. Ogni colpo di vento fa turbinare fiocchi di neve che ci colpiscono a ondate. A intervalli regolari, mi costringo a distogliere lo sguardo dalle orme davanti a me e ad alzare la testa per guardare verso la cima innevata, la nostra destinazione finale. Anche se la vetta si fa più grande a ogni passo, la distanza per raggiungerla sembra ancora troppo grande e insormontabile. I bagliori argentei che si intravedono sulla cima della montagna ci avvertono che dovremo usare le piccozze per scalare la parete. Continuo a pregare che il nostro equipaggiamento resista a questa spedizione. Da questa distanza è difficile valutare lo strato di ghiaccio con cui avremo a che fare durante la salita.\n\nPer un attimo mi tornano in mente le alture dei Frammenti di Vanderun e il sole del mattino che mi illuminava il viso. In quei momenti mi appariva sempre lei, il mio cuore, il mio amore, a stringermi forte tra le sue braccia... Immerso nei miei pensieri, mi ci vuole un secondo per notare che il suono del vento è cambiato. Quello che prima era un lamento cupo e assillante è diventato un rombo, come il respiro di un gigante sepolto. Sembra quasi il ruggito di un drago. Mi concentro sul suono e deduco che proviene dalla vetta. La vibrazione si intensifica e mi scuote dalla testa ai piedi. La paura mi attanaglia. Guardo avanti e mi rendo conto che quello che temevo sta accadendo davvero. Alla fine della cengia, le mie due guide si sono fermate, pietrificate dal terrore mentre la valanga si dirige verso di loro."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24WA5X437E6ZS0GZN9YV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24WA5X437E6ZS0GZN9YV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24V3GG2R38NKHT1YD4SW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24V3GG2R38NKHT1YD4SW",
+          "text": "ATSADI\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24VG64NVGJ666GQT9R5V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24VG64NVGJ666GQT9R5V",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "0AP8A6M6KH840TQEF3DJYKM8BS",
+      "reference": "ALT_ALIZE_B_BR_46_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente Fulcro"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d8b27ac391ddd74f1685",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Sito"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0cae1efcfd1ab2e2c6a4",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/85819a46aa95e11233af",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:15+00:00",
+      "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
+      "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/308220b8f23ce21d483a",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:15+00:00",
+      "question": "If I control a Character which is already Fleeting, and some effects gives it Fleeting again, what happens?",
+      "answer": "Unless there's a specific exception (such as the Common version of Gericht, Revered Duellist), a Character which already has a status cannot gain it again. Your Fleeting Characters therefore cannot gain Fleeting (and therefore do not add an additional Trial counter to the Icebound Peak)."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/it_IT/23d5a586c29f5256c16755ce6eb79def.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_e307b9e32536a086d1f7b4cbb8fe3cc2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_33f3031907bbe6049195e88eeca428f8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_46_R2",
+  "reference": "ALT_ALIZE_B_BR_46_R2",
+  "id": "01J1Q4P4S5GQXPH88FFDNZY9WW",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/de_DE/a3371d364c9ca9977b282d64f1d333b9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/it_IT/23d5a586c29f5256c16755ce6eb79def.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/es_ES/d6ea92b29db9e22a6c364521fdcfc671.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/fr_FR/746bfe8ab2c574da11bd54408f3f6ecb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/en_US/bd7dab5d318aa329d84a0a009cea904b.jpg"
+  },
+  "name": "Vetta del Gelo Perpetuo",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Quando un personaggio che controlli ottiene [[Fugace]] — Ottengo 1 segnalino Prova.  Quando ottengo il mio terzo segnalino Prova — Sacrificami. Se lo fai, crea una pedina Illusione [Spirito del Drago 5/5/5] in una spedizione bersaglio, poi tutti i personaggi che controlli ottengono 1 rinforzo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-034-F-IT"
+}

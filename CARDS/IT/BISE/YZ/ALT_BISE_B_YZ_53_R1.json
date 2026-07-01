@@ -1,0 +1,173 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_53_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6YW7FJ6DPJ9AN9TX1Q1EKACYHG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1ABHSKX45BJETFRZ0G5BT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1ABHSKX45BJETFRZ0G5BT",
+          "text": "Ssh! Che rimanga tra noi."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABJK6EGBG66M2ZZBPPK5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1ABJK6EGBG66M2ZZBPPK5",
+          "text": "393 AC - A magical current flows across the deserted square, which has been plunged into darkness on this moonless night. It's like a trail of breadcrumbs. What will I find at the end of it? A gingerbread house? It leads me close to the refinery, to a very ordinary building. It must be a warehouse, and the only surveillance is provided by a horde of drones. I lower my body temperature and summon ideas that will drape around me like an overcoat: invisibility, anonymity, insignificance… anything to ensure I don't stand out. I doubt playing a senile old man would work if I were to be discovered, but I don't care. There had to be some use for hierarchy. I suddenly notice something that makes me look closely, as my Irises spot a wall where the porosity has been modified. It's clear that I'm being invited to enter.\n\nThe displacement is sudden, and I feel the particles of the wall brush against me like a mist. As soon as I enter, the ambient light makes me blink. Aha! So, the Axiom have stockpiled large quantities of precious Sap… Shelves — entire shelving units — are filled with artifacts brimming with the famous substance, which is glowing brightly. At the end of an aisle, a slender figure seems to be deciding which item to pick. She turns around, an artifact in hand, and gives me a smile. I recognize her immediately: It's Chinam, a Qorgan Initiate, one of Wanjiru's minions. She places a finger over her mouth and gives me a conspiratorial wink. I snort with derision, appalled that we're now on the same side. Why has she lured me here? To show me that the Axiom have hidden huge stocks of this stuff in a warehouse and kept it secret? I didn't care about that. No, she's discovered something. But knowing her mischievous disposition, if I'm going to find out what, she'll make me work for it…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABJ62E1ECR0CJ9Q0VWPC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1ABJ62E1ECR0CJ9Q0VWPC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABGZ258R942SC7D9CSP0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1ABGZ258R942SC7D9CSP0",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABHCPHPNRT9WSRBWXWQ4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1ABHCPHPNRT9WSRBWXWQ4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "6YW7FJ6DPJ9AN9TX1Q1EKACYHG",
+      "reference": "ALT_BISE_B_YZ_53_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/37ff0e0d536081405218",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Burocrate"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7b876e9226f8f06a8fad",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mago"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9318cba6127122a12cfd",
+      "reference": "MESSENGER",
+      "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+      "name": "Messaggero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/757636b5e64e7f682ef2",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/it_IT/d98c4e078ff999c7347e964878317093.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_5b7d227ded645fa688f2f753aeb72b01",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_beacf345e1aebbee43477559f5dbe84e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_0e776ebc0e30bf2fc909eb8f35728348"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_53_R1",
+  "reference": "ALT_BISE_B_YZ_53_R1",
+  "id": "01JB1YGPC1XHX1QN6TM7KCH973",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/it_IT/d98c4e078ff999c7347e964878317093.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/de_DE/1a75c01a97699445d10a8292f3f9f5fd.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/fr_FR/06cf8e3a9a15aacd6ccede590bbdf13e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/en_US/5bdc351d6f0b4edc528edc4a3d9dd337.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/es_ES/4ab9fed1232b2aa80779856896649e87.jpg"
+  },
+  "name": "Informatrice del Qorgan",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "#[Esploratore] {1}.# (Puoi giocarmi dalla mano per {1} con \"{h} Mandami nella Riserva\".)  {H} Rimuovi fino a 2 segnalini da una carta bersaglio in gioco o nella Riserva. (Il bersaglio non può essere una carta eroe.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-092-R-IT"
+}

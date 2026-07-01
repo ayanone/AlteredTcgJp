@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_36_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/30R7RSFHJ58EBAVN6Z7WRP6JSV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2AX9QYY08NSRFVP4G36T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2AX9QYY08NSRFVP4G36T",
+          "text": "Da sola, era in grado di invertire la marea."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AY703T4H9RTAJ0W3R9X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2AY703T4H9RTAJ0W3R9X",
+          "text": "Combatto contro gli elementi che io stesso ho creato. Tutt'intorno, la bufera di neve si scatena, abbattendosi come un'onda furiosa. Nella mia mente avverto idee parassitarie: una pelle squamosa che si contorce e mi avvolge, come se fossi caduto in una fossa di serpenti. Akesha sta ancora gridando, ma non riesco a sentirla. Sono solo un giocattolo per qualcosa di molto più grande, qualcosa che ha scelto di incanalare la propria ira attraverso di me. Una furia ovattata rimbomba dentro di me mentre divento un tutt'uno con la tempesta. Sono il vento che lacera, la pioggia che sferza, la neve che taglia. Sono il freddo che congela, il fulmine che spacca l'aria... Davanti a me, appare un eidolon. Ma non l'ho evocato io. Akesha? Riconosco Aroro Niski, la cacciatrice di cicloni. Mi affronta, proprio come ha affrontato lo tsunami che ha devastato Arkaster e ha minacciato di inghiottire tutta Asgartha. E mi rendo conto che è esattamente quello che sto diventando: una burrasca spietata, sul punto di devastare il mondo.\n\nL'eidolon compone un gesto dopo l'altro e si ricopre di sigilli. Il tuono ruggisce intorno a me e dentro di me. Aroro si prepara ad assorbire la mia prossima ondata, per ergersi come un bastione, come fece tanti anni fa. Nel profondo del mio cuore, so che devo aiutarla. Ma nonostante i miei sforzi, qualcosa mi sta piegando alla sua volontà. Il potere crepita tra le mie dita mentre lancio raffiche di vento a ripetizione, che sollevano i miei nemici prima di scaraventarli a terra come frutti troppo maturi. Eppure sento la crescente pressione che Aroro esercita su di me. Sento che cerca di contenere i miei attacchi, di contrastarli e annullarli. Come una macchina che sta esaurendo il carburante, la tempesta che sto creando comincia a scemare."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AXRR2BDA5WF6R5ZPMTQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2AXRR2BDA5WF6R5ZPMTQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AW85KRSQZADFVE7YP38",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2AW85KRSQZADFVE7YP38",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AWS6DK8SGNE6C5WQVYP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2AWS6DK8SGNE6C5WQVYP",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "30R7RSFHJ58EBAVN6Z7WRP6JSV",
+      "reference": "ALT_ALIZE_B_YZ_36_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/52618d0a258ede7caefa",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mago"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cb9ec1633b1eea46935e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/it_IT/da67fbe51a234f99a4d464b12cad9831.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_857d5d6cc51a3a623557ebefbd8f6536",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_1350e90561aa21560d4ec35850e26e0c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_5e53194f95457f01acfb6a6bff8dea73"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_36_R2",
+  "reference": "ALT_ALIZE_B_YZ_36_R2",
+  "id": "01J1Q4P4STVYKQPX3X8SF0WVA1",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/en_US/defb8af4dd4e1a56be8f9dd2eede278e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/de_DE/92b3dafba67a81dd767a460d1c1d02de.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/es_ES/5961f168d789cf38f6249927dd2542a5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/it_IT/da67fbe51a234f99a4d464b12cad9831.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/fr_FR/1cac16b48ebc0a9463e135088c2bef91.jpg"
+  },
+  "name": "Aroro, Salvezza di Asgartha",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{H} Puoi scartare un #personaggio# dalla tua Riserva per conferirmi #2 rinforzi.#",
+    "ECHO_EFFECT": "#{D}: Il prossimo personaggio che giochi in questo turno costa {1} in meno.# (Scartami dalla Riserva per eseguire questa azione.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-092-F-IT"
+}

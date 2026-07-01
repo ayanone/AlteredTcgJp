@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_55_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0C6Y8RFRFX8XPTWTQAXT5BYXH4",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A5ZV83N36A8MBNDGJPT6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A5ZV83N36A8MBNDGJPT6",
+          "text": "La fortuna sonríe a quienes se entregan a ella."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A60CQ0W74SKRGKMBMEAY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A60CQ0W74SKRGKMBMEAY",
+          "text": "393 AC - Yeah, if there were one goddess who'd really represent me, it'd be Lakshmi. She really kicks ass… and I mean that with the utmost respect, seriously! They say that her manifestations symbolize the eight sources of wealth: courage (which I've got in absolute spades... unless that's just irresponsibility), spirituality (check!), lineage (ha, if you only knew!), knowledge (but of course, I'm wisdom incarnate!), royalty (indubitably!), material wealth (definitely working on this one, even though I've got some debts to pay), and agriculture (well... maybe not so much, although it's not like I have anything against it... and I have been to a florist once or twice). Point is, Lakshmi is my girl. We've got a deal, she and I. 'Cause that Sap is good for all kinds of cool stuff, and I'm sure that if you put it in some dice — boom, instant cash at the craps table!\n\nLakshmi sits down cross-legged and hands me what I asked her for. Right, time to test the theory. Sure, the dice aren't quite the right shape: elongated cuboids instead of the standard six sides. But hey, whether it's got 4, 6, 8, 10, 12 or 20 sides, a die is a die, right? Anyway, time to play. But not just for fun, eh? We're going to make this interesting. So what are we putting on the table? I'll do the dishes for a week. No? How about I hop on one foot all the way to the surface if I lose? Yeah, maybe not. That'd be a real drag. Ah well, we'll see! I roll the dice, and they skitter along the polished floor. Then it's her turn. And… she wins, of course. Nev, what the heck were you thinking, taking on a goddess of good luck? Huh? Oh yeah, I forgot the eighth item on my list: victory. Let's mark that one as \"Needs Improvement\". I guess after forgetting something like that, it's normal for my karma to come back and bite me…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A604H2GBRS6DB7DRRMCG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A604H2GBRS6DB7DRRMCG",
+          "text": "Lakshmi is the Hindu goddess of prosperity and good fortune. She is Vishnu's consort and the source of his divine energy, shakti. Benevolent and fair, she is a mother goddess who represents the ultimate in celestial authority, and worshippers often turn to her to ask forgiveness from her consort, Vishnu. As the goddess of abundance, success and luck, she also represents the happiness that comes from opulence."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5ZAK3RA5NCMFCQPYBAE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A5ZAK3RA5NCMFCQPYBAE",
+          "text": "N3V3NK4"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5ZJ6V3WPFFA62SDVSDS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A5ZJ6V3WPFFA62SDVSDS",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0C6Y8RFRFX8XPTWTQAXT5BYXH4",
+      "reference": "ALT_BISE_B_LY_55_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7da7dd390cae0e8ba186",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deidad"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d516d16b0333ccc5be72",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_55/JPG/es_ES/3a85c70d767f3f4066ba94613eb74b8e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_55/WEB_2bfbef0373b8b7f755aba6010ee5fe0d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_55/WEB_2e7bc08a0971ad7c458388439ef8b546",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_55/WEB_50116370cd9287b22697f75e00535f9d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_55_R2",
+  "reference": "ALT_BISE_B_LY_55_R2",
+  "id": "01JB1YGPBH0XD1TSVEEW83VGEP",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_55/JPG/es_ES/3a85c70d767f3f4066ba94613eb74b8e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_55/JPG/en_US/0e9e70bb5d28e5879b03aaf7bbd69297.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_55/JPG/fr_FR/268abdd092248f103774ef2566d5d59d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_55/JPG/de_DE/931fb0d9c7ef744c1e22cb411e5a81d2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_55/JPG/it_IT/3c868d0fe88a4a25eaac01548fe2d389.jpg"
+  },
+  "name": "Lakshmi",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "#3#",
+    "MOUNTAIN_POWER": "#3#",
+    "MAIN_EFFECT": "Cuando #sacrifiques un personaje# — Gano 1 potenciador."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-042-F-ES"
+}

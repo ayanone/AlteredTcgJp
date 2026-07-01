@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_14_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50DB4PS5KCVA837379M1",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH64VZGX7SKVC1QK6QCA6J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH64VZGX7SKVC1QK6QCA6J",
+          "text": "Le Rubedo est l'étape finale de l'alchimie, où la substance d'un individu renaît tel un phénix avant de retourner au monde."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64X8WB5RZJ8Y06PJW4D6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH64X8WB5RZJ8Y06PJW4D6",
+          "text": "Je suis du regard la procession de Disciples qui descend l'escalier tortueux du Puits des Larmes. Je cherche du regard la silhouette de Matera, sans pour autant le reconnaître au sein de la file de figures encapuchonnées. Ils passent sous des chutes d'eau vertigineuses, des arches de pierre, sur d'étroites corniches, suivant le chemin glissant qui serpente à flanc de falaise. Au centre du gouffre, le Mégalithe scintille tel un météore de cristal suspendu dans les airs. Si sa base est manifestée dans la réalité, son sommet est invisible, perdu dans des circonvolutions brumeuses. Si cette Singularité d'Éther est dangereuse, elle détient aussi une incroyable puissance. Et c'est précisément cela qu'ils sont venus chercher aujourd'hui. Flamel patiente à mes côtés, un sourire bienveillant illuminant son visage. Il était d'usage que l'Eidolon officie à cette cérémonie, où les Disciples Yzmir gagnent leur rang d'Initié.\n\nFlamel était connu pour avoir transmis à l'humanité le savoir-faire nécessaire pour sculpter les Effigies, les petites statuettes d'Eidolons qui facilitent grandement leur invocation depuis l'Empyrée. Les légendes avaient fait de lui un puissant alchimiste, avec un don particulier pour la transmutation de la matière. En détournant le regard, je remarque que les Disciples sont enfin arrivés à notre niveau. Ils se positionnent en arc de cercle autour de nous, comme l'exige le rite. La lueur violacée du Mégalithe recouvre leur visage d'un voile d'ombre, dissimulant leurs yeux. Pour autant, je n'ai pas de peine à reconnaître Matera dans l'assistance. J'adresse un signe de tête à mon élève en guise d'encouragement, tandis que l'alchimiste appelle le premier d'entre eux. Le Disciple s'avance cérémonieusement, et l'Eidolon lui remet un marteau et un burin. Avec ces outils, il va pouvoir collecter un fragment du Mégalithe, et être intronisé en bonne et due forme au sein de la Faction. Les coups claquent au sein de l'immensité de la caverne. Tour à tour, ils avancent et viennent recueillir un morceau de l'anomalie d'Éther."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64WPGDHMX9EH4Y25RQWS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH64WPGDHMX9EH4Y25RQWS",
+          "text": "Nicolas Flamel est réputé pour avoir été un illustre alchimiste et le créateur de la Pierre Philosophale — capable de transmuter tout métal en or — ainsi que de l'Élixir de Vie — qui offre la vie éternelle à quiconque le boit. Simple écrivain public et copiste, cet homme pieux fit cependant fortune, et cette aisance manifeste fut la source de nombreuses rumeurs, qui aboutirent à terme à façonner sa réputation de praticien des arts occultes."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64TK3Q379SCSK9DMNPDQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH64TK3Q379SCSK9DMNPDQ",
+          "text": " Afanas"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64V7MPVTNEY6PPHWRK3V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH64V7MPVTNEY6PPHWRK3V",
+          "text": "386 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50DB4PS5KCVA837379M1",
+      "reference": "ALT_CORE_B_YZ_14_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2972eda1e1675ea6f7ed",
+      "reference": "SCHOLAR",
+      "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+      "name": "Érudit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a6c7a7e85e9a6373ffea",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/JPG/fr_FR/76c1e51b96db27672f1168655ee26b00.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/ALT_CORE_B_YZ_14_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/ALT_CORE_B_YZ_14_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/ALT_CORE_B_YZ_14_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_14_R2",
+  "reference": "ALT_CORE_B_YZ_14_R2",
+  "id": "01HKAFJP2HESDEG2CSN6EBVWTM",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/JPG/fr_FR/76c1e51b96db27672f1168655ee26b00.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/JPG/it_IT/958e34f4950ee7a103e415f0c9a76e08.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/JPG/de_DE/0266271f89a69f6c6fdcc0accf8934d1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/JPG/es_ES/e76cddbfe1218422a39fd843200ff628.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/JPG/en_US/370bb37951cc0f8b1581f595d583f387.jpg"
+  },
+  "name": "Flamel",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "4",
+    "MAIN_EFFECT": "{H} Vous pouvez renvoyer un Sort de votre Réserve dans votre main.",
+    "ECHO_EFFECT": "{D} : Le prochain Sort que vous jouez ce tour coûte {1} de moins. (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-164-F-FR"
+}

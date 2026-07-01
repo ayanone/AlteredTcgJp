@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_08_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7997P8ZGC3FHNPHNN6V5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME86CRXQVSC488HG4DMKV3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME86CRXQVSC488HG4DMKV3",
+          "text": "« Votre document a expiré. Pour toute réclamation, prenez rendez-vous avec l'Archiviste. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86DWZVP0YE2ER1S4B9P0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME86DWZVP0YE2ER1S4B9P0",
+          "text": "La Légat me toise alors que je lui soumets en toute discrétion le projet de lancement de l'Effort de Redécouverte. Elle hausse les sourcils avec un air agacé, et entreprend de le lire, avec pour claire consigne d'en souligner toutes les failles. Bien entendu, je suis passé par des réseaux officiels ; il n'y a donc aucune raison qu'elle suspecte une quelconque tricherie. Elle doit tout juste penser que mon objectif, en tant qu'opposant public d'Avkan, est de dénicher de quoi discréditer l'édit, de quoi mettre des bâtons dans les roues de mon rival. Bien sûr, elle ne le fait pas de bon cœur, et elle me le signifie par son attitude pincée et revêche. Pour autant, la démarche s'ancre dans un procédé on ne peut plus démocratique. Même si cela va à l'encontre de ses propres convictions, elle ne peut s'y opposer et elle le sait très bien.\n\nFidèle à mon personnage, je lui intime de se presser, claquant la langue avec désobligeance pour lui faire part de mon irritation et de mon impatience. Elle me fusille du regard, mais continue d'éplucher le document sans mot dire. Plus elle me détestera, plus elle sera inconsciemment réceptive aux demandes des partisans d'Avkan le moment venu. Elle repose le document annoté et le glisse sur la table dans ma direction. Je le saisis sans même un remerciement, me fendant d'un soupir exaspéré. Je la sens fulminer en silence tandis que je lis ses addenda. Comme on pouvait s'y attendre, le projet présentait des problématiques de financement, et les coupes budgétaires nécessaires pour financer l'entreprise allaient certainement créer la grogne. Il y avait aussi une question de temporalité, et surtout de continuité. En l'état, le mandat du Basileus ne suffirait pas à la concrétiser. Et surtout... hmm, il fallait que j'apporte ce document à Avkan pour qu'il prenne conscience de certaines implications légales."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86DAYZ2EVTS7EP7RJ7YW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME86DAYZ2EVTS7EP7RJ7YW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86BFSY9D8H5NMM6FMD8C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME86BFSY9D8H5NMM6FMD8C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86C52XW16P8RZWAD1QSZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME86C52XW16P8RZWAD1QSZ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB7997P8ZGC3FHNPHNN6V5",
+      "reference": "ALT_COREKS_B_OR_08_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/61ca6ca6eac475db2b09",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrate"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9420cb4676011dae794a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/fff947275bb3ff3ee7dc",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:37:47+00:00",
+      "question": "What is the effect of Monolith Legate during a tie-breaker round in the Arena?",
+      "answer": "In the Arena, Expeditions can't move forward nor backwards since there's only one Region. An Expedition cannot \"fail to move forward\" in the Arena, any such effect becomes irrelevant."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_08/JPG/fr_FR/a9e8e2522a24fc833a25accaf2b29a4e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_08/ALT_CORE_B_OR_08_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_08/ALT_CORE_B_OR_08_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_08/ALT_CORE_B_OR_08_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_08_R2",
+  "reference": "ALT_COREKS_B_OR_08_R2",
+  "id": "01HN5TXRF6S9YGSDFMXB7C2WDK",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_08/JPG/es_ES/54403938e9f2d295dec9947d71c76ee8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_08/JPG/de_DE/49c23ee102a543c82f7e0704a5abb293.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_08/JPG/it_IT/d141d67c405c480439ba000c8e72b295.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_08/JPG/en_US/0f7606f8927972a06acbaafaf33871be.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_08/JPG/fr_FR/a9e8e2522a24fc833a25accaf2b29a4e.jpg"
+  },
+  "name": "Légat du Monolithe",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "Lorsque mon Expédition n'avance pas pendant le Crépuscule — [Sabotez] après le Repos. (Défaussez jusqu'à une carte d'une Réserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-127-F-FR"
+}

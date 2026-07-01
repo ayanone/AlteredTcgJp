@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_45_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/104H5DJ3VP9NAB73AYBN71K1ZV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23TB440CMSVSXNJ4NGPN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23TB440CMSVSXNJ4NGPN",
+          "text": "Nada se crea ni se pierde... Ni siquiera por culpa de la escarcha."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23TWCD46G1D4VKF1W4RX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23TWCD46G1D4VKF1W4RX",
+          "text": "Aun equipado con el quitanieves delantero que creó Vishvakarma, el reprocesador sube la pendiente a paso de tortuga mientras los tres cerditos lo maniobran de un lado a otro para que no caiga al vacío. Estrambot vuela alrededor del vehículo, claramente preocupado. Emite advertencias estridentes, y con razón: esta es una operación delicada. Fue una idea un tanto alocada traer el vehículo blindado hasta aquí en lugar de tomarse las cosas con un poco más de cautela. Por otro lado, entiendo perfectamente por qué el capataz no quiso desprenderse de esta herramienta e insistió en que la lleváremos a toda costa junto con el resto del equipo. Aprieto los puños cuando el reprocesador se acerca al borde del precipicio. Sus orugas arañan la nieve en polvo y patinan sobre una capa de hielo. Está a unos centímetros de caer al vacío. El más mínimo error sería…\n\nMe muerdo los labios al ver que el saliente rocoso se resquebraja. Saco el constructo de la bolsa y, mientras la piedra se va partiendo, lo acciono frenéticamente para aplicarle a la roca la idea de robustez. Sin embargo, me he precipitado y he hecho un trabajo regulero: lo único que he conseguido es ganar unos segundos… Una capa de nieve se desprende del borde y cae en cascada hasta romperse en las afiladas rocas y formar un torrente en el profundo valle. Espero que no haya nadie ahí abajo. Pero no puedo perder la concentración. Materializo algunos puntales y armazones metálicos: todo cuanto se me ocurre para evitar el derrumbe de la pared rocosa. Entretanto, los conductores del vehículo blindado ponen la marcha atrás para alejarse del peligro, ya sin preocuparse de si chocarán contra algo. Muy por debajo de mí, el suelo empieza a retumbar."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23TMRT4RWCEQGE4YQEWG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23TMRT4RWCEQGE4YQEWG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23SQACYFH25GMBT8X50W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23SQACYFH25GMBT8X50W",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23T1ZHEQVAG5JV23AE3W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23T1ZHEQVAG5JV23AE3W",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "104H5DJ3VP9NAB73AYBN71K1ZV",
+      "reference": "ALT_ALIZE_B_AX_45_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d860eb876c694cec05fe",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construcción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4daf2819fde99db13139",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/7e7431125fbf07684aa2",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:12+00:00",
+      "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
+      "answer": "Yes, an Exhausted Resupply counts as a Resupply."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/es_ES/2d010fb65f39b7ef0521af4c25331462.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/WEB_fb423ec8f43eeba811be1023e64a63fc",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/WEB_aec91771f690760617f9bf9b01fc0071"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_45_C",
+  "reference": "ALT_ALIZE_B_AX_45_C",
+  "id": "01J1Q4P4RWK42AHDHYE196SYDF",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/de_DE/ac9bce6fcde734bcabaf1bf278cb66c9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/fr_FR/27f2abaf5ae0aae8499c209c771bbf6e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/en_US/05d7fea39dc1275e2e645b38e7933085.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/it_IT/36bd8be02ebb362333eb9707d16a9614.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/es_ES/2d010fb65f39b7ef0521af4c25331462.jpg"
+  },
+  "name": "Reprocesador congelado",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Al mediodía — [Reabastece y agota]. (Coloca la primera carta de tu mazo en reserva y luego agótala {T}. Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).  Puedes mantener una carta más en reserva durante la noche si está agotada."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-017-C-ES"
+}

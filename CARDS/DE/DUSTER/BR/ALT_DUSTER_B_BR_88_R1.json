@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_B_BR_88_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3FZ46R9615825SHX8ESPF4Q2WW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JZ37ZK5BS5ZE2ZJK0MPTA5AX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JZ37ZK5BS5ZE2ZJK0MPTA5AX",
+          "text": "„Bereit für einen Adrenalinschub?“"
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZK6039TKC40RM03AW1NJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JZ37ZK6039TKC40RM03AW1NJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZK5PP5MB6VXYAN22EK1V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JZ37ZK5PP5MB6VXYAN22EK1V",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZK4M193F56S70QGRE3M2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JZ37ZK4M193F56S70QGRE3M2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZK50PEGARRV5EAC5MR82",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JZ37ZK50PEGARRV5EAC5MR82",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "3FZ46R9615825SHX8ESPF4Q2WW",
+      "reference": "ALT_DUSTER_B_BR_88_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4f15b0a5c6eb5d27b15f",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Abenteurer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Saat der Eintracht"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/55f5b0965171287ef3e6",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/de_DE/9794c7eb15b1acdc2db784e84944a236.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/WEB_c3ac9e0b4995b0ee35995ff984b2f0e9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/WEB_2347585d28377e507f43486a6ebe7d19",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/WEB_1ee8abcc686383c5194b69982f1dda64"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_88_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_B_BR_88_R1",
+  "id": "01JYP9SVPH3HCF7N3T783TBGBH",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/fr_FR/c7978056852957bc8e5167a608776fb5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/en_US/7fcbf0b3ee5ea7358f80534915ccffb0.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/it_IT/cfdcf18e9ef8e2722146142599844a2f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/es_ES/e2bb2a58ded9e298e9972b873caf85e4.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/de_DE/9794c7eb15b1acdc2db784e84944a236.jpg"
+  },
+  "name": "Hilfreiche Taucherin",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "#3#",
+    "MAIN_EFFECT": "{J} Du darfst [Forcieren] nutzen. Falls du das nicht tust, nutzt ein Gegner deiner Wahl [Erschöpfter Nachschub]. (Forcieren bedeutet, eine andere Karte sofort zu spielen.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "SDU-021-R-DE"
+}

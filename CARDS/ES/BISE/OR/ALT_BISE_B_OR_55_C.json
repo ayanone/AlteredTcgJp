@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_55_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2XKD6N27H293BB3PD6K9HGC03G",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A9FV62R0DJTFM3A4TGH1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A9FV62R0DJTFM3A4TGH1",
+          "text": "Utilizar ingredientes desconocidos es una receta para el desastre."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9GNNSS4DRX5NSTZXBY7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A9GNNSS4DRX5NSTZXBY7",
+          "text": "393 AC - He systematically jots down everything in his notebook and checks boxes as he goes through his inspection. Infrastructure design: unsatisfactory, as the kitchen is open to the outside. Overall cleanliness of the premises: unsatisfactory, but that's to be expected with thousands of people parading through the establishment every day. Staff hygiene: could do better, especially the hairy cook, who should wear gloves. He reviews everything on his list: pest control, water quality, temperature control, staff training… Mahmoud sends me all the information via the Gestalt. I see everything through his eyes. He shares his comments with me, but even though he understands my approach, he disagrees strongly with my desire to close the Mess. Because even though he is a very diligent health inspector, he also loves good food. \n\nFoodstuffs control… Aha, here we go. Mahmoud asks for all documents related to the food chain and scans through them. He shares them with me, of course, along with a few small cutting remarks. I don't care about that, though. What I do care about is that everything is officially recorded so that I can start the rest of the process. Unsurprisingly, all the ingredients come from the Farm or, in the case of non-perishables, from the holds of the Ouroboros. Sap cakes… There we are, again, from the Farm. He gestures to Hestia's Eidolon, who has been looking daggers at him for a while now. The Oneiros does not like anyone meddling in her business. But Mahmoud doesn't care. He's used to not being liked. He suddenly notices that a slice of meringue pie has appeared in front of him, placed there almost secretively. Hey, isn't that attempted bribery?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9G8N2B63TKSW9B0TKVX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A9G8N2B63TKSW9B0TKVX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9E4SWGCQYRA7CT4CJNG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A9E4SWGCQYRA7CT4CJNG",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9FGQXC8ZR4H106Q0P3Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A9FGQXC8ZR4H106Q0P3Y",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2XKD6N27H293BB3PD6K9HGC03G",
+      "reference": "ALT_BISE_B_OR_55_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/90564668a4bbe58d9c29",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Burócrata"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/51a223d6afaf01169566",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/es_ES/defec7e8a610fd5c799ae1cdd252b175.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/WEB_4080b184f238cf5a30f7911ddecd666b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/WEB_03add66860e5fbb3e9d95f7138045f13",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/WEB_a241a8e1ad235cb16e813c9b250a2b6e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_55_C",
+  "reference": "ALT_BISE_B_OR_55_C",
+  "id": "01JB1YGPBWTPZXT1NTY4H3V3B1",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/es_ES/defec7e8a610fd5c799ae1cdd252b175.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/it_IT/2cd552a888da58aaa72764d322a45081.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/de_DE/426a7fce3765909cd2034f2154e88bca.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/en_US/34cf9f7c4220515e3e03e8b99efc5af6.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/fr_FR/be9c6086446f699a88ba9db2275faa37.jpg"
+  },
+  "name": "Inspector de sanidad",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "Las cartas en la reserva de tu oponente no pueden ganar contadores."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-078-C-ES"
+}

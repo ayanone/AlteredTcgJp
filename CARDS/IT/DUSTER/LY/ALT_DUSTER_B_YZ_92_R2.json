@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_B_YZ_92_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5KMZS8X6TN9XSAVWWC3AEDQDDH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JZ37ZWYBFZZ9XH3WKNYB1XQA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JZ37ZWYBFZZ9XH3WKNYB1XQA",
+          "text": "L'arte della sorpresa è presentarsi dove nessuno ti aspetta."
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZX09SSSXEN6CF1Y65TQ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JZ37ZX09SSSXEN6CF1Y65TQ7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZWYYYZJ0J8HHFBDVPRT6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JZ37ZWYYYZJ0J8HHFBDVPRT6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZWWYAG4937D0TG3X4H3R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JZ37ZWWYAG4937D0TG3X4H3R",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZWXRMRDVRHD6XVHD750G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JZ37ZWXRMRDVRHD6XVHD750G",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "5KMZS8X6TN9XSAVWWC3AEDQDDH",
+      "reference": "ALT_DUSTER_B_YZ_92_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0c0a0dd0bbdd99223e7c",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldato"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/92dae6aa6deb373fb8b4",
+      "reference": "ROGUE",
+      "id": "01JZ2K0A1NZSGT69DP1WS2917B",
+      "name": "Ribelle"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Semi di Unità"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/48354dc5dc82601d44f6",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/it_IT/87530db0d01d8fcfca859b7a0fdd2ac8.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/WEB_cce3c33a573860571f289161f564238b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/WEB_09e1960235c8e3bc810e375a342a023c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/WEB_93118235f01040d3f3b6f85207b7ef5d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_92_R2",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_B_YZ_92_R2",
+  "id": "01JYP9SVQQ77MRBTN00YYV9NT2",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/fr_FR/6f571875811a6f7b7e53b757a4c59574.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/en_US/9a48b7d1fc36731194cf7ca922f6ed98.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/it_IT/87530db0d01d8fcfca859b7a0fdd2ac8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/es_ES/a38cfda5076292b7788ca3bfde31a9e2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/de_DE/5ba7f2f2ccbe5885ffea146c295d8729.jpg"
+  },
+  "name": "Mochizuki Chiyome",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "#{J} Se sono [In contatto], paga {1} in meno per il prossimo incantesimo che giochi questo pomeriggio, fino a un minimo di {1}.# (Sono In contatto se la spedizione di un altro giocatore si trova nella mia regione. Altri effetti possono ridurre il costo ulteriormente.)",
+    "ECHO_EFFECT": "{D}: paga {1} in meno per il prossimo incantesimo che giochi in questo turno, fino a un minimo di {1}. (Scartami dalla Riserva per eseguire questa azione.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "SDU-099-F-IT"
+}

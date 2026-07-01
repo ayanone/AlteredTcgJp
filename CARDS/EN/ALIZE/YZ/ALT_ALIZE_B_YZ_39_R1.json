@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_39_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6TED68Q2518PZVJ2XG1Y5W1G1D",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2B9ZH9AXABJSHH1EK2YF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2B9ZH9AXABJSHH1EK2YF",
+          "text": "A late frost delays the spring."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BBXBQDG3V4GTEYWRAHT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2BBXBQDG3V4GTEYWRAHT",
+          "text": "Everything seems frozen in place and inert like a series of sculptures. A thick layer of frost has covered all animal and plant life in the clearing. A boar snuffling at the ground, a family of hares huddling together in a thicket… all trapped forever in the ice. It's a strange and disturbing scene, yet one with a certain grim beauty. All around, complete silence reigns. I raise my head. On a tree gripped by the same phenomenon, a pair of frozen magpies stare at me in a tragic still-life scene. They seem to have been fighting over a twig or perhaps a stick bug. But these birds will never make another sound. I call Senka to come and land on my shoulder. Until I know more, I prefer to keep the nighthawk under my direct protection. I focus my mind to try and understand how this spell works.\n\nI use all the Kinemancy I know for my analysis, along with the few scraps of Horomancy I've managed to acquire over the years. The flowing energies of my perception disperse around me as one gesture follows another. I sense the harsh bite of the cold – devourer of warmth, source of life. I begin to grasp the logic, the origin, the meaning. It's a magical force that is primal, brutal, yet insidious. It's as though a tidal wave had slithered out of the mountain to strike at this place with sudden violence. With these deductions, I sketch out a manipulation of that energy. I then spot a branch on a tree that's still green, at the edge of the affected area. I cast the Mana in that direction and infuse the branch with the ideas I pull from the Empyrean. The ice climbs along the wood like a wave, covering each new inch with a thin, unbending layer of sparkling transparent rime. Time stops wherever the cold sinks its deadly teeth in. It seems I'll have no trouble reproducing this phenomenon. And I expect I'll find plenty of use for it…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BAFJDR4SGV3Y00DCR33",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2BAFJDR4SGV3Y00DCR33",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2B8QSW87MX5RB1BTBVF9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2B8QSW87MX5RB1BTBVF9",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2B9DE2D1FZHG5KRV2WJW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2B9DE2D1FZHG5KRV2WJW",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "6TED68Q2518PZVJ2XG1Y5W1G1D",
+      "reference": "ALT_ALIZE_B_YZ_39_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/efd532d7dff5648b6125",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disruption"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/bd98d363d5cd2b455b2f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/en_US/a263a26e2da2b42f47c1e90e3a8e21a9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/WEB_5754e5b74281d002dc234dda53de42e3",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/WEB_a3dd4c5cccea0da4ee48892043234a13"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_39_R1",
+  "reference": "ALT_ALIZE_B_YZ_39_R1",
+  "id": "01J1Q4P4SVH0BDDPS6F3F8Y5X4",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/en_US/a263a26e2da2b42f47c1e90e3a8e21a9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/es_ES/f02bcc38a666802a5c2ee0056fad560e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/fr_FR/228adc6331c5ea28be7969c3ebfdb484.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/it_IT/4ccc7d92a333899fa694b1956d13cf3c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/de_DE/fe50a8e22a0fff92b933efc667f5b5fc.jpg"
+  },
+  "name": "Rime Frost",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "#Choose one:  • Discard target exhausted card from a Reserve.#  • Exhaust ({T}) target card in Reserve. (Exhausted cards can't be played and have no Support abilities.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-094-R-EN"
+}

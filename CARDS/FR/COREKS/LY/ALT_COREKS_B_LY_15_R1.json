@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_15_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB782PP0ABJQG8FDHVAA8T",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME80D260792PXWSXYEBMG3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME80D260792PXWSXYEBMG3",
+          "text": "« Le sable est un avant-goût de ce qu'est la vie. Au matin, les châteaux érigés disparaissent avec la marée. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80DYHTHK9R1ZXBNGKHHM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME80DYHTHK9R1ZXBNGKHHM",
+          "text": "Il y a des traditions auxquelles on ne peut pas déroger. Chaque soir, un membre du clan Kasirga est de corvée d'histoire, ce qui n'est jamais réellement une corvée. Pendant que les adultes se réunissent pour la veillée, les enfants ont aussi le droit à leur moment privilégié. Et c'était déjà le cas du temps de mon arrière-grand-père, et de son arrière-grand-mère avant lui. Oui, c'est exactement ça : du baby-sitting. Marang se colle à moi en attendant l'histoire. Déjà, quelques enfants réclament celle de Maya Vastag, tandis que d'autres votent plutôt pour celle de Niavhe. Mais j'ai déjà en tête celle que je veux conter ce soir : la geste de Chiara Caceres et du Chant de l'Un. Et pour cela, je vais faire appel à un allié de poids. Pas Geppetto, car j'ai déjà sollicité ses services lors de la précédente représentation, mais le Marchand de Sable, pour m'assurer cette fois que tous restent couchés au terme de la petite comptine du soir...\n\nL'Eidolon apparaît au milieu du dortoir dans un nuage de poussière dorée. Dehors, la nuit est tombée, et je peux déjà entendre les éclats de rire, les sons des farandoles. Alors que je commence mon récit, des silhouettes fantomatiques apparaissent, façonnées de sable, de rêves à demi-ébauchés. Si je suis le conteur et le narrateur, le Marchand de Sable est le metteur en scène et le chef décorateur. Une pincée de silice fait apparaître des palais — celui de l'Astérion vers lequel nous voguons présentement sur le chemin de l'exil. Un soupçon de songes fait jaillir des cathédrales de verre et de verdure, des champs de lances et de métal. Peu à peu, les regards fascinés des enfants se font de plus en plus lourds. Alors que les grains se muent en champ de bataille, les marmots se mettent eux aussi à lutter de toutes leurs forces pour rester éveillés. Mais déjà, je peux voir les premières victimes, ceux qui ont laissé leurs paupières se fermer, las de ferrailler contre le sommeil."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80DEJ7AN77T2DEY000VV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME80DEJ7AN77T2DEY000VV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80C6CPZ8V0WVM3HAQFSA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME80C6CPZ8V0WVM3HAQFSA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80CMHPB8MZFVVEQGXNQY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME80CMHPB8MZFVVEQGXNQY",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB782PP0ABJQG8FDHVAA8T",
+      "reference": "ALT_COREKS_B_LY_15_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8cb0f238c7bde735ab16",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artiste"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/46a6c2ed13d02ceed3c6",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/e3c8f1c97299b932bd2c",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-28T10:38:04+00:00",
+      "question": "Can I give 2 boosts to a Character without having it gain Asleep?",
+      "answer": "No. However, if the Character cannot gain Asleep (for example, because it's already Asleep), it still gains the 2 boosts."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_15/JPG/fr_FR/c3e7e949d6c19c021acb90cb640f1326.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_15/ALT_CORE_B_LY_15_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_15/ALT_CORE_B_LY_15_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_15/ALT_CORE_B_LY_15_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_15_R1",
+  "reference": "ALT_COREKS_B_LY_15_R1",
+  "id": "01HN5TXRBMS9325TQGK4RV84D2",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_15/JPG/de_DE/5acf00616bd83f04a9d9946a83b397f9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_15/JPG/it_IT/ff75a1dcc3a91e671a3d5542f8b763c8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_15/JPG/fr_FR/c3e7e949d6c19c021acb90cb640f1326.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_15/JPG/en_US/a49614f89a210a48446f24705dba1749.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_15/JPG/es_ES/4598d333620a4b895dfb3e396834a596.jpg"
+  },
+  "name": "Le Marchand de Sable",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "{H} Jusqu'à un Personnage ciblé gagne [[Endormi]]. #Vous pouvez lui faire gagner 2 boosts.# (Au Crépuscule, ignorez ses statistiques. Au Repos, il ne va pas en Réserve et il perd Endormi.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-076-R-FR"
+}

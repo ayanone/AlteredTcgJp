@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_29_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZBN0WKEXGWKDQGS489P",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5SWQNH151Z3R64NM45EQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5SWQNH151Z3R64NM45EQ",
+          "text": "Des flammes jaillissent de sa main alors qu’il chute en direction du monstre, laissant derrière lui une traînée incandescente..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SXBX23899CEVCREWFMG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5SXBX23899CEVCREWFMG",
+          "text": "J'écarquille les yeux en voyant le portail s'ouvrir devant moi. À travers l'ouverture, j'aperçois les eaux déchaînées, le Kraken qui s'ébroue en propulsant de puissantes vagues sur la grève et les écueils. Comme si j'étais au-dessus de lui, en surplomb. Dans la paume de ma main, tout le Mana que j'ai concentré est en train de crépiter, et je lutte pour le maintenir. Comme la gravité attire tout vers le sol, il attire vers lui mille idées qui cherchent à se matérialiser, à exister dans le monde. Je serre les dents. Je ne vais pas tenir mille ans. Je crie, mobilisant toute ma volonté pour garder la boule de Mana vide de toute idée aussi longtemps que possible. Et je me mets à courir vers le portail magique que je-sais-pas-qui a ouvert pour moi. J'ai clairement pas le temps de m'en soucier. Je cours, je prends mon appui, et je saute.\n\nTout à coup, je suis au-dessus du Kraken, en train de tomber. Mes vêtements clappent au gré du vent qui me frappe le visage. Et pendant une fraction de seconde, je me vois en train de m'écraser sur la surface de la mer. Mais je n'ai pas le temps de me préoccuper de ça. Pour l'instant, j'ai une grosse bestiole à terrasser ! Soudain, je libère la boule de Mana de mon emprise. En même temps, j'insuffle en Booda l'idée du feu, de l'incendie, de la chaleur d'un astre, et mon compagnon file vers la sphère de Mana déchaînée. Il y a comme un flash lumineux, puis elle s'embrase comme mille soleils, se colorant d'abord de bleu, puis de rouge et de jaune, jusqu'à virer à l'incandescence. Prends ça, Kraken, retourne donc dans les abysses ! Mais je peux pas vérifier si ma décharge énergétique a eu l'effet escompté. Je suis toujours en train de me casser la gueule. La surface de la mer approche à vitesse grand V. Impact dans trois, deux, un..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SX1K93J1PQ2M3SE56JA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5SX1K93J1PQ2M3SE56JA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SW37HKCHX47GQQCR0A3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5SW37HKCHX47GQQCR0A3",
+          "text": "Kojo"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SWDD5JY4FP53ARB2DZA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5SWDD5JY4FP53ARB2DZA",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY4ZBN0WKEXGWKDQGS489P",
+      "reference": "ALT_CORE_B_BR_29_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5e904ab65df9426ac27f",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9c7dbd3089b19d94f0f0",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/fr_FR/6e049b4dcccae8d9669e16dff0ad7e54.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/ALT_CORE_B_BR_29_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/ALT_CORE_B_BR_29_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_29_C",
+  "reference": "ALT_CORE_B_BR_29_C",
+  "id": "01HKAFJNQYBD13ZB5E5508HBHP",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/de_DE/f81e04b1e20e760ec79c350bb929c3b5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/it_IT/c393223bb9ef8ccd3ff29b9a8c22e353.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/fr_FR/6e049b4dcccae8d9669e16dff0ad7e54.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/es_ES/033699f0bc4c9863e216d71eb96f0e5c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_29/JPG/en_US/fcb6ac1782c6fa227e275b1c9bcd4b97.jpg"
+  },
+  "name": "Éruption de Mana",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Défaussez un de vos Orbes de Mana. Si vous le faites, défaussez un Personnage ou Permanent ciblé."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-059-C-FR"
+}

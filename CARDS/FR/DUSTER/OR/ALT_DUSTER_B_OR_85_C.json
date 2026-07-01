@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_B_OR_85_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0Y47MG0ZFJ95EVAZER4HGKP6GV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHHNZAAHXHRQR1CVF0QF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JZ37ZHHNZAAHXHRQR1CVF0QF",
+          "text": "Je suis le cœur de l'essaim, l'architecte de la ruche."
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHJ4V19S18HF0Y3ASMMV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JZ37ZHJ4V19S18HF0Y3ASMMV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHHWJKSM0QA0ECYPAQRK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JZ37ZHHWJKSM0QA0ECYPAQRK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHH6PG6BWTECKT51Y532",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JZ37ZHH6PG6BWTECKT51Y532",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHHDP7ZVXGMXTKR9H725",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JZ37ZHHDP7ZVXGMXTKR9H725",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "0Y47MG0ZFJ95EVAZER4HGKP6GV",
+      "reference": "ALT_DUSTER_B_OR_85_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Les Graines de l'Unité"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/989c5304ccc9fdaa425b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/JPG/fr_FR/d650e6424a0b329c68748560e0176e6c.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/HERO_THUMB_a4f50bfbaa65b27ef9b3fa67751e6da0"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/HERO_WIDE_586c4cafecf91f62e29cb7a4729cc671"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/WEB_7bc310929083a836a2fb32c85b1c4570"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_85_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_B_OR_85_C",
+  "id": "01JYP9SVQCJFX81DYYE79D7A5M",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/JPG/fr_FR/d650e6424a0b329c68748560e0176e6c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/JPG/en_US/e88f285436410843a238606c20eb7938.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/JPG/it_IT/488ec93317c1d0db8a9c44502424e190.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/JPG/es_ES/cfbab2e2a5d33378eb4b6e7a188845ee.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/JPG/de_DE/14c24561bf98e9653794dd3e677071ee.jpg"
+  },
+  "name": "Matz & Hive",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "3",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "(Vous pouvez conserver jusqu'à trois cartes dans vos Repères pendant la Nuit.)  (Vous pouvez conserver jusqu'à trois cartes dans vos Repères pendant la Nuit.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "SDU-073-H-FR"
+}

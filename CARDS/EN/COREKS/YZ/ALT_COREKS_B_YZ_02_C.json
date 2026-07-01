@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_02_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79BKHGN7RARDF5QKHPYQ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME89GJNMHT4M2S645FFEX8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME89GJNMHT4M2S645FFEX8",
+          "text": "To master magic, one must be willing to sacrifice."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89J286402H4C95TFM1YB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME89J286402H4C95TFM1YB",
+          "text": "392 AC - He's not far away, the one called Arjun. He's not a bad guy... far from it, in fact. He actually seems like a wise and honorable man, someone who likes to see things grow and thrive. If I let him, he'll transform this place into a magnificent orchard where the Expeditionary Corps can harvest pears and oranges. But alas, I'm the worm in his apple. It's inconceivable for me to let him so easily claim this scrubland for his Faction. According to the Treaty of Aysun, this area was the site of the Indus Tribe's last camp before they arrived in Asgartha. And it was here that the tribe's Chosen One was buried, tragically without ever laying eyes on the welcoming land that he had guided his people towards for many years.\n\nI simply couldn't let this grave fall into the hands of the Muna and see it covered in dense vegetation, swallowed up by the voracious appetite of nature. The only appetite I can tolerate is Maw's. In fact, I can actually feel Maw evolving from the Tumult, as it devours all the ideas that stand in its way to extract the Mana from them. It dives into the essence of things, digging gaping holes. It absorbs, digests and spits out without any consideration for what it leaves in its wake. Just a few more cable lengths and we'll be reunited. I clench my fists. I can't let Arjun grab this land from me. Too much depends on it. I focus my Mana, creating a series of Signs with my hands. In front of me, reality twists, stretches and tears, while the world begins to warp and bend. A tunnel opens in space-time like a wormhole ready to suck me in. And I stand on the threshold."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89H93HFH6YWTPFYJ0FDN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME89H93HFH6YWTPFYJ0FDN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89F3N11AQHKZNKEBZ5NQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME89F3N11AQHKZNKEBZ5NQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89FXRTAJ265HSC1XYAMZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME89FXRTAJ265HSC1XYAMZ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HPMB79BKHGN7RARDF5QKHPYQ",
+      "reference": "ALT_COREKS_B_YZ_02_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Hero"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/db319888dc411fe0d823",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_02/JPG/en_US/8d1c2d0d672092300fb67eee05e2ab9a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_02/ALT_CORE_B_YZ_02_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_02/ALT_CORE_B_YZ_02_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_02_C",
+  "reference": "ALT_COREKS_B_YZ_02_C",
+  "id": "01HN5TXRJ2SYPM1H7C6BG7ZTZK",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_02/JPG/it_IT/b426beb7bbd21dca283a34161c2911fb.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_02/JPG/es_ES/59ea44fb739a32bc37e052035965ad19.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_02/JPG/de_DE/4c3e6e15c1dd6f5a789707b50adf6224.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_02/JPG/en_US/8d1c2d0d672092300fb67eee05e2ab9a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_02/JPG/fr_FR/a005d337276d65b3a40994c9243faeda.jpg"
+  },
+  "name": "Lindiwe & Maw",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "{T} : Create a [Maw 0/0/0] Companion token in your Companion Expedition with \"When you sacrifice a Character — I gain 2 boosts\". This action costs {1} more if you are not the first player."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-153-H-EN"
+}

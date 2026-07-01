@@ -1,0 +1,165 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_14_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79707TMSK1CHT2W9R628",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME82ZSHYB6831BFQ6DFG7Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME82ZSHYB6831BFQ6DFG7Q",
+          "text": "Puoi sentirlo negli alberi, nelle profondità delle loro radici: il battito del cuore della natura."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME831K7GJAENH58PD11H16",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME831K7GJAENH58PD11H16",
+          "text": "The bonfire throws sparks up to the evening sky, its flames shooting into the night like so many airborne tongues. The drums echo beneath the canopy, their sound reverberating against the trunks and throughout the Katkera. The smoldering logs crack as they collapse, sending out another wave of wisps around them. At the edge of the clearing, a number of elks look on, offering their last respects to Valpas, the eldest of their species. Around his remains, a large group of Muna slowly dance, moving in tune with the woodblocks and percussion instruments. The Musk Refuge priestess raises her hands to the sky and lets out a resounding howl. I feel the Mana stirring in the fabric of the Skein; I feel her calling upon nature to manifest her Alteration. Suddenly, the forest begins to rustle. The elks strike the tree trunks with their antlers.\n\nEmerging from the fire in a bright haze, the horned god steps forward into the circle of Muna officiants and walks up to the late venerated elder. He kneels down next to Valpas and lays a hand on his cold, stiff coat. I sense the Skein's fragile strands rising out of the soil and spreading into the remains, absorbing his being. Insects begin to run over his lifeless coat, mushrooms begin to sprout from his flesh. Within a few moments, the old elk decomposes, as if drawn into the soil and humus. He returns to the earth, while the ideas that comprised him are scattered on unseen winds. Then the Muna bend down to collect his Mana, all the energy that rooted him to reality. It would later be reseeded so his essence could merge with that of nature."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME830Q2MD039W5EEW4YCR2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME830Q2MD039W5EEW4YCR2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82Y3C7A18MNZTY7E1RZ8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME82Y3C7A18MNZTY7E1RZ8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82YWZNZHYRP5YWS1RPV7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME82YWZNZHYRP5YWS1RPV7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79707TMSK1CHT2W9R628",
+      "reference": "ALT_COREKS_B_MU_14_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/385790f33617d0fb7900",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druido"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/408677842c5560a1949a",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinità"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0d9c706cd0e0be01e671",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_14/JPG/it_IT/babab92606430136bc86c372d35c14d4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_14_R2",
+  "reference": "ALT_COREKS_B_MU_14_R2",
+  "id": "01HN5TXRQSWWFMK9ZF897E0P07",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_14/JPG/de_DE/32bcf6308d5be0fe7ce1e0ac1558fd0c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_14/JPG/es_ES/036ea6fa80e09a43547c8ef28c6812ff.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_14/JPG/it_IT/babab92606430136bc86c372d35c14d4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_14/JPG/en_US/bedd6adbdfd643fa59cb38992a50b7e1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_14/JPG/fr_FR/d9bcc5bda06e0ad82b2d7f91fcdb221b.jpg"
+  },
+  "name": "Cernunnos",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "4"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-108-F-IT"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_14_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77ZG7GD5E54DQYJ4FC3N",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7XY18R69HPWP13NWARGC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7XY18R69HPWP13NWARGC",
+          "text": "«¡Seremos la flecha que atraviesa el velo de lo desconocido, la antorcha que destierra las nieblas de la ignorancia!»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XYN4JSC0EJ154SP18BE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7XYN4JSC0EJ154SP18BE",
+          "text": "Aoife kneels down and looks out at the landscape before us. Her red hair whips her face as a gust of wind welcomes us to the peak of the elevation we're meant to chart. The climb was rough, but besides her mildly heavy breathing and the sweat on her forehead, she isn't letting it show. I hand her my flask and she drinks from it, then wipes her mouth with the back of her sleeve. She hands it back to me with a smile, and I think I can guess what's going through her mind in this moment. After training for over a decade, she's now finally in the field, outside the safety of Asgartha. She's spent her whole life preparing for this mission. Through all the difficulties and hurdles, this is why she had given her blood, sweat, and tears, why she had pushed herself so hard.\n\nOf all the recruits I've had the opportunity to train over the years, Aoife might be the one that I most see myself in. But without the anger and the trauma. If anything were to happen to me, the detachment would be in good hands. But would she know how to serve as an Alterer? The Expeditionary Corps still need Exalts like Kai and me to protect them on the outskirts of the Tumult, even for tasks as trivial as this one. It isn't obvious how long a zone will remain stable after a duo passes through, and so they still need an escort. At least in the short term. Aoife motions for the cartographer to get out her equipment. Best not to dawdle. The earlier we finish, the quicker Kai and I can be redeployed."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XYBEFVDHJ9AY7VRY6EC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7XYBEFVDHJ9AY7VRY6EC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XXDPQK3RA4CXWDGRG7P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7XXDPQK3RA4CXWDGRG7P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XXQZY8ZWM68TBVYEFRD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7XXQZY8ZWM68TBVYEFRD",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77ZG7GD5E54DQYJ4FC3N",
+      "reference": "ALT_COREKS_B_BR_14_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/65664b7e416efc21c788",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e8bcd0d9075a5a8aeaa1",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/JPG/es_ES/f39e558b3b36dcf56564ee73656d94f4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_14/ALT_CORE_B_BR_14_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_14/ALT_CORE_B_BR_14_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_14/ALT_CORE_B_BR_14_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_14_C",
+  "reference": "ALT_COREKS_B_BR_14_C",
+  "id": "01HN5TXR7XPA7HWEXDN9BWM6PC",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/JPG/de_DE/ffc123433e5f1431d92a8ac42341fd3f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/JPG/it_IT/6c4061e946be4e8922c2ae9ba2f6fdd3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/JPG/es_ES/f39e558b3b36dcf56564ee73656d94f4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/JPG/en_US/ec143c57254e0257189def713a6346a5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/JPG/fr_FR/6affd664d1ad1fe60f707b608a6b0bca.jpg"
+  },
+  "name": "Vanguardia de Bravos",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "4",
+    "MAIN_EFFECT": "{J} Puedes hacer que otro personaje objetivo pierda [[Fugacidad]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-043-C-ES"
+}

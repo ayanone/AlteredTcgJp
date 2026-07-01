@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_37_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2G807SJR1R8CARRN7PJ85HMQ23",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J239M022QVPBSXFQRM3W9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J239M022QVPBSXFQRM3W9",
+          "text": "Alguien tiene que asumir la pesada carga de la responsabilidad."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23A5RE1EBS42PM6NA42X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23A5RE1EBS42PM6NA42X",
+          "text": "Avanzo mucho más rápido tras abandonar la taiga, utilizando mi araña mecánica para escalar la pared rocosa. Sus patas perforan la roca y se aferran a ella, de modo que hasta ahora el ascenso ha sido relativamente fácil. Suspiro y me masajeo los muslos para que la sangre me circule por las piernas. Durante unos instantes, mientras escudriño el paisaje de abajo, recuerdo a Paju a mi lado durante nuestro primer vuelo mientras mirábamos por la ventanilla para contemplar todo Arkaster desde las alturas. Rossum me pone una mano en el hombro. Siente mi dolor y mis emociones, por supuesto. Fen le ha puesto un bufanda suya alrededor del cuello y le ha enseñado a ponerse las manoplas. No puedo evitar reírme al ver cómo le queda la ropa, sobre todo las orejeras de piel de oveja. Mi quimera se vuelve de repente hacia el acantilado, intrigada, y mira lo que sea que haya debajo.\n\nYo también me giro para mirar hacia abajo lo mejor que puedo, aunque me duele una barbaridad. Veo a una sherpa atada a una cuerda que está escalando la pared natural. Con sus crampones, se balancea de saliente en saliente con una facilidad alarmante. Se impulsa hacia arriba utilizando el piolet y el garfio con una destreza magistral. Pocas veces he tenido la oportunidad de ver a los sherpas de Svarograd en persona, y nunca en acción hasta ahora. He de decir que su reputación es bien merecida. Incluso llevando un paquete pesado, maniobra sin la menor vacilación. No me sorprende, por supuesto. Ha debido de transportar cargas pesadas hasta las alturas de la isla voladora de Enosha durante toda su vida. Creía que yo llevaba ventaja, pero obviamente me equivocaba."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J239W18XEC5XAHQ2AX69A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J239W18XEC5XAHQ2AX69A",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2393GDM4G9CCCGFR7J5P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2393GDM4G9CCCGFR7J5P",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J239CM0KT3FPGSN2WH68T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J239CM0KT3FPGSN2WH68T",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2G807SJR1R8CARRN7PJ85HMQ23",
+      "reference": "ALT_ALIZE_B_AX_37_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/86c845d97ffb798fae37",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a1cbfb43a5fa093a3305",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/07653a8a198eb246f2cb",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:10+00:00",
+      "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
+      "answer": "Yes, an Exhausted Resupply counts as a Resupply."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/es_ES/8f8ee4ab40eebece9557a6e0d7c83988.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_b54cc629947078e00d7406002fc8be63",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_043d733f0dbbb18c1dc2147665ca6d8b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_2dc52b769d21191704f9154656caba92"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_37_C",
+  "reference": "ALT_ALIZE_B_AX_37_C",
+  "id": "01J1Q4P4RQ4GSE941E374SYNF2",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/de_DE/423e92e476fb257e3c9d864bbb140e33.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/es_ES/8f8ee4ab40eebece9557a6e0d7c83988.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/fr_FR/6b949ab3fa909c0d2565bbec815f36a3.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/it_IT/05fef76f18590273cdecff87fef0b4d9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/en_US/e0b1b11d85485f6df27844b93a125e91.jpg"
+  },
+  "name": "Sherpa audaz",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{R} [Reabastece y agota]. (Coloca la primera carta de tu mazo en reserva y luego agótala {T}. Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-008-C-ES"
+}

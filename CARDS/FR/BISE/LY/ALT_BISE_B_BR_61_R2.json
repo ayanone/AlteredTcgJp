@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_61_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0SRR91269883ABN1JGKYK4J5HC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A5926C0TNJ25T3F2BGY0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A5926C0TNJ25T3F2BGY0",
+          "text": "Fiore fut le premier des Sept Épéistes à croiser le fer avec Atsadi."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A59H89K7NS856NGGCAM4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A59H89K7NS856NGGCAM4",
+          "text": "393 AC - Wow. OK, pas bouger d'un pouce. Bon, faut l'avouer, je suis devenu expert dans le fait de me cacher, dernièrement. J'ai suivi Atsadi pendant des jours sans qu'il percute. Mais dans les conditions actuelles, ça devient clairement coton. Avec le mec au chapeau, ils ont ravagé la place. Je les ai vus échanger des coups à une vitesse folle. Et la vitesse, ça me connaît. D'un côté comme de l'autre, les accélérations étaient phénoménales. Je regarde les ruines fumantes. Des blocs gisent coupés en deux ou en rondelles. Ils y sont pas allés de main morte, c'est le moins qu'on puisse dire. Même si leurs styles sont totalement différents, ils ont mis leurs tripes dans leurs attaques, et pas que ça, d'ailleurs. Le feu, les éclairs, les explosions, les éboulements... ça a pété de partout. Un vrai feu d'artifice. Et faut dire qu'à deux-trois moments, il s'en est fallu de peu que je devienne une victime collatérale.\n\nJe déglutis, jetant des coups d'œil depuis ma cachette. Après une mini-pause, ça recommence à bastonner, on dirait. Fiore — ou je sais pas quoi — enchaîne les piques en avant comme s'il cherchait à embrocher Atsadi, et de l'autre côté, c'est du sans fioriture. Des coups secs, sans mouvement parasite, juste le minimum syndical. Mais même si leurs styles sont carrément aux antipodes, c'est clair qu'il y a du niveau des deux côtés. Et surtout, ils ont grave la classe. Après une nouvelle passe d'arme, les deux épéistes se zieutent de nouveau dans le blanc des yeux. Je regarde Atsadi, et je sens qu'il s'est gonflé à blocs d'idées en tout genre pour pouvoir tenir tête à l'Eidolon. Mais il y a un truc qui cloche. Il pourrait user de plus d'Altération en dehors de l'Avgrunn, mais il le fait pas. J'ai l'impression qu'il se retient... Je finis par tilter en voyant sa posture et ses yeux lancer des éclairs..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A59915MSGK9MT8W3CXXC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A59915MSGK9MT8W3CXXC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A57VJA8TW1WR96KG85Y8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A57VJA8TW1WR96KG85Y8",
+          "text": "KOJO"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A583PFSYNH3FQ4VMAA0J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A583PFSYNH3FQ4VMAA0J",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "0SRR91269883ABN1JGKYK4J5HC",
+      "reference": "ALT_BISE_B_BR_61_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a6bf1d838c0cc5cb62b5",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2b0a2684ab5918ebbe02",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/fr_FR/513cb28a4f918ae8851d257d9d29f680.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/WEB_ce8dea886f100e105686c810640ea41b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/WEB_a6c38906614c42e744ab1e063c04819d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_61_R2",
+  "reference": "ALT_BISE_B_BR_61_R2",
+  "id": "01JB1YGPBDCEY90RGJK5R7NZNM",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/es_ES/c03bc4bf1f02ea9bc14e78caf70441a9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/it_IT/28de0d6006958dcc87f7c9df820772dc.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/de_DE/f8925a86628fd143ebfdba2bceb39c90.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/en_US/6eeacb94b9195aa6076d8ae7b3be57a5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/fr_FR/513cb28a4f918ae8851d257d9d29f680.jpg"
+  },
+  "name": "Duel de Cran",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Fugace]].  #Défaussez# un Personnage ciblé de Coût de Main inférieur ou égal au Coût de Main d'un Personnage que vous contrôlez."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-032-F-FR"
+}

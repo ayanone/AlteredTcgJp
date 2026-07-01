@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_35_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7VR4R5CR718EYBTFZTW5R7RVF8",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2AQZ9X3HX1F10HD0GN7K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2AQZ9X3HX1F10HD0GN7K",
+          "text": "The cold snap they ride, like a shivering tide."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AT57BB0PD3MC5X2MHXK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2AT57BB0PD3MC5X2MHXK",
+          "text": "I can finally see the scourge. I've trained my Irises to track their furtive movements and flight paths, which are as silent as a barn owl's, and most importantly, to see through their camouflage when they blend into the branches or hide against a wall of ice. That's why I'm not caught by surprise when they suddenly come rushing at us, taking advantage of the snowstorm to ride its swirling winds. Their wings look like those of a butterfly, with white patterns standing out against an amethyst background. Their heads, topped with comblike antennae that resemble tiny feather dusters, are reminiscent of owls, with eyes that shine like beacons in the night. But what I'm most afraid of is their two pairs of arms, each tipped with razor-sharp claws. I've never encountered such a silent, stealthy and imperceptible enemy… They've snuck up on me a few times while I was protecting the convoy. But not this time.\n\nThere's no way I'll let them get the better of the troops and undermine their morale with their constant harassment. Today, the Belisenki will get a taste of their own medicine. But I'll need more than my Irises to pull that off. I glance over at Akesha, who's manifesting dozens of Mana moths around her. If her theory is right, the Belisenki won't attack if there's a risk of harming the insects. And sure enough, they stop their nosedive strikes and cautiously avoid any contact with the moths. Are they afraid of them? Or are they trying to avoid hurting them? Not that it really matters. Now I know I can exploit this vulnerability. I study the mage's technique, analyzing the way she manifests the moths. With my Irises, I can try to deconstruct her method so I can more effectively copy it and reproduce what she's accomplished…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2ASGZPTAM8G233WWC7NY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2ASGZPTAM8G233WWC7NY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2APN6H89P39MHTXWSEW1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2APN6H89P39MHTXWSEW1",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AQAGRJR09W0TZ746XC5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2AQAGRJR09W0TZ746XC5",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7VR4R5CR718EYBTFZTW5R7RVF8",
+      "reference": "ALT_ALIZE_B_YZ_35_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c2ca33395dd32b3407e5",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/96bc9d3298b564f17d4d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/en_US/c34b57c965610e248f9add5e5634d66b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/WEB_fb1ba27c02fd9e8111aa0af1f18a8fc3",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/WEB_a2a96b8c38629ff4e4c83e06604a1cd6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/WEB_015765bb612e4beaab09e0c39d950e88"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_35_R1",
+  "reference": "ALT_ALIZE_B_YZ_35_R1",
+  "id": "01J1Q4P4STVYKQPX3X8SF0WV9N",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/it_IT/2e6a181ac37150c3f6adb49adf23bd5f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/es_ES/5b8b711755136a0c6b5fa0b933fe5b34.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/en_US/c34b57c965610e248f9add5e5634d66b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/de_DE/fa42224930766a420a0b076d21cd202e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/fr_FR/56c05e8a2c29af72efb2768e6c8dcc90.jpg"
+  },
+  "name": "Belasenka",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "{H} You may exhaust ({T}) target card in Reserve. #Then, if there are two or more exhausted cards in Reserve, I gain 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-091-R-EN"
+}

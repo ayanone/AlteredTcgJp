@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_04_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY508XBE0RHFZF26V58AHA",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5Z6BZCT55J4DG48EXCMC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5Z6BZCT55J4DG48EXCMC",
+          "text": "Worte bedeuten mehr als das, was auf dem Papier steht."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Z7QATK2PVDFDT2C3PT3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5Z7QATK2PVDFDT2C3PT3",
+          "text": "INSTRUCTIONS\nWrite your message on one or more standard 15 x 15 cm or 20 x 20 cm origami sheets\nWrite the sender's name on the front\nWrite the recipient's name on the back\nFold it in compliance with the department or service being contacted (refer to attached list)\nAffix the \"Life\" Glyph on the completed Paper Herald\nGive personalized instructions orally\nNotify the recipient of the delivery through your Gestalt (optional)\n\nCrane                     Sanctum\nPelican                   Kurung\nRabbit                    Haven\nTortoise                 Court\nBeetle                    Aegis\nBee                       Talaria\nAnt                       Clerical offices\nFrog                     Notary offices\nButterfly                Asterion Palace\nDragonfly               Historians' Guild\nLotus Flower          Bark Refuge\n\nFor sub-office codes, refer to circular 80-PA1020.\n\nImportant: Any folding error could result in sorting or routing errors, leading to potential delivery delays."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Z6VMC949TJGZQT3YGXK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5Z6VMC949TJGZQT3YGXK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Z58NGHRAYVJ2SM163TV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5Z58NGHRAYVJ2SM163TV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Z5VKXD16SE54ESMC92R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5Z5VKXD16SE54ESMC92R",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY508XBE0RHFZF26V58AHA",
+      "reference": "ALT_CORE_B_OR_04_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/109810c26c8ba0f7e26c",
+      "reference": "MESSENGER",
+      "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+      "name": "Bote"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f909c44202b144193094",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_04/JPG/de_DE/5b9159c3bdf24097ff8785c301789828.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_04/ALT_CORE_B_OR_04_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_04/ALT_CORE_B_OR_04_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_04/ALT_CORE_B_OR_04_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_04_R2",
+  "reference": "ALT_CORE_B_OR_04_R2",
+  "id": "01HKAFJNVTRS3BPRGFP7ZPZPE3",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_04/JPG/fr_FR/06cb96d8b825398709331339a2e4036b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_04/JPG/de_DE/5b9159c3bdf24097ff8785c301789828.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_04/JPG/it_IT/885dccec90c7ea1326532f0b0f6c82e5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_04/JPG/en_US/0b0738309bd1649c883a1bf1b1881112.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_04/JPG/es_ES/796e5bdda2113b23cf2659ecea42fdfa.jpg"
+  },
+  "name": "Papierbote",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "#1#",
+    "FOREST_POWER": "0",
+    "ECHO_EFFECT": "{D} : Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Expedition deiner Wahl. (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-125-F-DE"
+}

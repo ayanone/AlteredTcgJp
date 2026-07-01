@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_45_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1P3DB7FPRW8E8TJPE44GNG0RPK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26401K86RFFEQPQRCMNX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26401K86RFFEQPQRCMNX",
+          "text": "We can hear it, echoing in the vast expanses."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J264R3W3JJA2ECB1DT8N0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J264R3W3JJA2ECB1DT8N0",
+          "text": "Thankfully, there's more than just dark caves and hostile mountains in this region. Otherwise it would have been boring! You may be met by amazing scenery at any given bend in a pass, like here, where the landscape is dotted with breathtaking biological and geological curiosities. They say that we found this stunning and unique place while exploring a canyon where a frozen stream meanders. Imagine white banks with ocher rock formations emerging from them. These flared blocks of minerals seem to have sprung from the ground in clusters. As we make our way across the ice, they appear to me like gigantic bouquets of stones growing in a garden for giants, where they can pick rock flowers from this white Eden. I'm also fascinated by the vegetation: long blue grasses that bow down as the wind hurries past. I reach out to these plants to enjoy their pleasing suppleness. It's both magnificent and strange to see them pushing out of the snow and defying the cold.\n\nAs we draw closer to the outcrops of orange mineral, I start to guess at their true nature. Though made of stone, their origin is clearly organic. So they must be some kind of mineral and floral hybrid – a sort of coral that pulsates with plant life. Certain branches reveal a colored core. You can also make out darker and concentric aureoles – rings, like those found in tree trunks. Do they appear or take on certain colors based on a cycle or season? They are strange, yet fascinating. I go from formation to formation to study them further, when I suddenly hear an ominous rustling across the previously silent expanse. I've heard rumors about attacks on some of our teams. I stay vigilant. I know all too well that beauty can sometimes be poisonous... "
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J264DZ5TTE4AS3AHBQ83H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J264DZ5TTE4AS3AHBQ83H",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26345V277KHCFNSHWFPP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26345V277KHCFNSHWFPP",
+          "text": "AURAQ"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J263JW6X9FNA9AFXKR1KQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J263JW6X9FNA9AFXKR1KQ",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "1P3DB7FPRW8E8TJPE44GNG0RPK",
+      "reference": "ALT_ALIZE_B_LY_45_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Landmark Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/cfc04835f1e3e7123093",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Site"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/aca02ec12558a827cdbf",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/2bc0dfed6207cfa860b0",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:16+00:00",
+      "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
+      "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/en_US/4b54c8bd48b9f79068c612883d7f6a6b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/WEB_77b7d27e4b3fff4a63372448069fca42",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/WEB_a2351caf25f187ce38209b18ea7b1f3d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_45_R2",
+  "reference": "ALT_ALIZE_B_LY_45_R2",
+  "id": "01J1Q4P4SBPWTN13PW61X9B2AM",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/es_ES/9657492902005f0b05a498696e1d5743.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/de_DE/cc634b406135d3aadb1731f4d6bc1907.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/it_IT/cd5479ce1b1a1e2254dbc65a848a6515.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/fr_FR/25dbced52ace87b7e675ebb416d6dc1a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/en_US/4b54c8bd48b9f79068c612883d7f6a6b.jpg"
+  },
+  "name": "Icebound Tundra",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "When you play a Character — If it's in a terrain where its base statistic is 0, I gain 1 Trial counter.  When I gain my third Trial counter — Sacrifice me. If you do, create a [Dragon Shade 5/5/5] Illusion token in target Expedition, then return a card from your Reserve to your hand."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-051-F-EN"
+}

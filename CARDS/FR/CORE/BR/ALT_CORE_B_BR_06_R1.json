@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_06_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z99GSD3H329AFQS708Y",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5RK2CF989049PD6TTXCD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5RK2CF989049PD6TTXCD",
+          "text": "Le feu qui semble éteint souvent dort sous la cendre..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RKJYN4GS6EDMHTXESTZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5RKJYN4GS6EDMHTXESTZ",
+          "text": "Alors que je descends le long escalier de grès, l'humidité froide de Havre — celle qui écaille inexorablement la peinture des fresques et ronge les bas-reliefs — cède peu à peu la place à une chaleur étouffée. Cette dernière ne vient pas de la lueur tamisée des torches, mais de plus profond. Elle remonte en bouffées soudaines qui dérivent dans l'air, amenant avec elles des effluves capiteux. Ceux de l'encens et du soufre. Arrivé tout en bas, je débouche sur une large salle, taillée à même la roche. C'est là, dans la pénombre enfiévrée de cette cavité, que Rune fut couronné premier Kuningas d'Asgartha. C'est là, dans ce lieu coupé du reste du monde, que le Credo Bravos a été édicté. Je déambule au sein des gradins, observant les nombreuses urnes qui emplissent les étagères de pierre et les alcôves ; celles de héros d'antan dont les noms sont parfois à moitié effacés.\n\nDevant chacune d'elles, des bâtons d'encens sont entreposés. Certains allumés, diffusant leur odeur entêtante, d'autres éteints, n'attendant que d'être ravivés. Mais c'est surtout le brasero central, dont la colonne chuintante disparaît dans une ouverture dans la voûte rocheuse, qui fume. Au sein du brasier, couvé par les flammes, se tient l'œuf du Phénix, dont les Bravos attendent la renaissance depuis des siècles. Et pour s'occuper de l'oiseau endormi, il y a là une myriade de petits Djinns. Ce sont eux qui gardent le feu constamment allumé et s'assurent que le nid continue de brûler. On peut les voir flotter dans l'air comme des feux-follets, faisant naître le feu d'une simple pression de leur petite paume. Nul doute que ce sont eux, les véritables gardiens de ce lieu sacré. Je m'approche et passe une main au-dessus des flammes ardentes, assez haut pour ne pas me brûler."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RKA9APM0R8JZCTYP48G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5RKA9APM0R8JZCTYP48G",
+          "text": "Issus de la mythologie préislamique, les Djinns sont des créatures fantastiques façonnées à partir d'un feu sans fumée. Capables de changer de forme à leur guise, on disait d'eux qu'ils vivaient dans des endroits désolés, que ce soit près des cours d'eau, dans les forêts ou bien les déserts. Si certains pouvaient être malveillants, il était aussi dit que les philosophes, les poètes et les devins étaient parfois inspirés par les Djinns. Ils apparaissent d'ailleurs dans de nombreux récits, des Mille et Une Nuits au poème Les Djinns de Victor Hugo."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RJJCJBJK35FZ6CP65DD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5RJJCJBJK35FZ6CP65DD",
+          "text": "Atsadi"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RJT84VY47T3XWHSV16B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5RJT84VY47T3XWHSV16B",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4Z99GSD3H329AFQS708Y",
+      "reference": "ALT_CORE_B_BR_06_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/91db3dc4307571d8c4a4",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Élémentaire"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/145bc025e64a7988f870",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/211f631383a5f4e5da11",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-06-20T10:38:07+00:00",
+      "question": "When is the effect of \"Tiny Jinn\" resolved? If it's after the card leaves the Expedition zone, is it still boosted?",
+      "answer": "You can resolve Tiny Jinn as if its wording said \"If I would leave the Expedition zone while I am boosted — Put me in your Mana zone instead (as an exhausted Mana Orb)\"."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/1998d149688116420fba",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-06-20T10:38:07+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Tiny Jinn said \"When I leave the Expedition zone, if I'm [BOOSTED] — Put me in my owner's Mana zone (as an exhausted Mana Orb).  {R} I gain 1 boost.\"\n\nFuture printings will say:\n\"If I would leave the Expedition zone while I'm [BOOSTED], put me in my owner's Mana zone instead (as an exhausted Mana Orb).\n  {R} I gain 1 boost.\""
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/JPG/fr_FR/ea5c0227cc4577b24022aa00f192dcea.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_06_R1",
+  "reference": "ALT_CORE_B_BR_06_R1",
+  "id": "01HKAFJNN3TX2M33WCHV8JRMHX",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/JPG/de_DE/16daf2c94a962f025035beb80e77c67a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/JPG/it_IT/a70cc83478d7b53383d1d47a24e21999.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/JPG/en_US/3d092ae04e946584440eb9061f5be2ac.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/JPG/fr_FR/ea5c0227cc4577b24022aa00f192dcea.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/JPG/es_ES/b168b8b4ac6504fb04a1456f502bfa67.jpg"
+  },
+  "name": "Petit Djinn",
+  "elements": {
+    "MAIN_COST": "#1#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "#2#",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "Si je devais quitter la zone d'Expédition en étant [[Boosté]], mettez-moi dans la zone de Mana de mon propriétaire à la place (en tant qu'Orbe de Mana épuisé).  {R} Je gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": true,
+  "isBanned": false,
+  "collectorNumber": "BTG-041-R-FR"
+}

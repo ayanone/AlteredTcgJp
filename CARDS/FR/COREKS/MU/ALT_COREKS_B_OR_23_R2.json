@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_23_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79AK0SVX2S4N06FCX5MA",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME884HWHGRRD6PR7A2T3QM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME884HWHGRRD6PR7A2T3QM",
+          "text": "Malgré des chances dérisoires, la légion Ordis chargea face au colossal et insondable Léviathan."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME885RNMY7QNC56WY8RZBT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME885RNMY7QNC56WY8RZBT",
+          "text": "Nous survolons les troupes en train d'évoluer vers le Léviathan. D'une main, je tiens les rênes de Wingspan, et de l'autre, j'agite comme je peux l'étendard de l'Aegis, luttant contre les vents furieux qui viennent du large. En planant au-dessus des cohortes de soldats, je les vois passer de la marche au trot, puis à la charge. Rang après rang, ils s'élancent, marées de spadassins qui se confrontent à la houle. Les lances s'abaissent, les boucliers sont brandis, les épées sont tirées au clair... À travers les yeux de mon Alter Ego, je peux voir les gouttelettes d'eau salée ruisseler sur leurs armures, les expressions fermées des visages, mélange d'effroi et de fureur. Et il y a de quoi avoir peur, en voyant ce qui nous fait face. Pendant une fraction de seconde, je cherche Sunisa du regard, avant de chasser cette idée de ma pensée.\n\nJe ne peux laisser l'inquiétude me paralyser. Je ne peux me laisser aller à m'inquiéter pour mes troupes. Tout ce que je peux faire, c'est les coordonner de la meilleure des manières, afin que la majorité puisse revenir à bon port. Je me dois de rester détaché, de faire preuve d'analyse plutôt que d'émotion... Le mieux que je puisse faire, c'est de les guider vers la victoire. Alors c'est ce que je vais faire. C'est ce que je dois faire. J'en appelle à la Coalescence, laissant mon esprit se lier à tous ceux qui portent le Losange de l'Ordis. Je communique un vecteur d'intervention au premier chef de régiment, un déploiement tactique à un deuxième, une manœuvre d'évitement à un troisième. L'idée est d'occuper le Kraken, le temps que les Druides Muna et les Mages Yzmir fassent leur œuvre et le pourfendent. Mais pour cela, nous devons créer une diversion crédible, et attirer le courroux du monstre..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88549TMEX0XFQ7F09V09",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME88549TMEX0XFQ7F09V09",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88395KZT7C10DGWA25Z9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME88395KZT7C10DGWA25Z9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME883Y7FBMS5YP31CCCHJK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME883Y7FBMS5YP31CCCHJK",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB79AK0SVX2S4N06FCX5MA",
+      "reference": "ALT_COREKS_B_OR_23_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b46d85d3ac6870fb5057",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manœuvre"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/357598e8c4d431da6a9c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_23/JPG/fr_FR/d2f0fcef3fc149770b43cacf1dd912d2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_23/ALT_CORE_B_OR_23_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_23/ALT_CORE_B_OR_23_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_23_R2",
+  "reference": "ALT_COREKS_B_OR_23_R2",
+  "id": "01HN5TXRH3001WEKAAVM2SETKB",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_23/JPG/it_IT/08dba863a45d4e28232b527e9cec4a2d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_23/JPG/es_ES/e67fedfc1a6a9b772ccb9acdae3a837d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_23/JPG/en_US/97273d8c5a90b0fa096da45773572484.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_23/JPG/de_DE/46d5a24808c63d3063a8af2615417064.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_23/JPG/fr_FR/d2f0fcef3fc149770b43cacf1dd912d2.jpg"
+  },
+  "name": "Chargez !",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Les Personnages que vous contrôlez gagnent 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-143-F-FR"
+}

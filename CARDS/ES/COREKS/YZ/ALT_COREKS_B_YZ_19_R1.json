@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_19_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79D6274R22X97WYWB5PF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8BTFFB9XP363YS2DGWA9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8BTFFB9XP363YS2DGWA9",
+          "text": "Si no se practica, el don de la alteración no sirve de nada."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BWHASCCZKPH4R5YPDPG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8BWHASCCZKPH4R5YPDPG",
+          "text": "The Aether fragment pulses against my chest, warm and calming, like a heart beating in time with my own. For reasons still unknown, holding a fragment that comes from the other side of the Veil makes it easier for ideas to cross over from the Empyrean. So I use it to summon ideas from the collective unconscious, focusing my energy to bring them to me. Of course, they must be handled with care. They are pure ideas, unpolluted by the prejudices or preconceptions of any one mind. They have sifted through thousands of psyches to acquire an archetypal nature. They are powerful and dangerous. What happened to my sister is proof of that. But even so, playing with these ideas is incredibly exhilarating. Once I discovered the secret of the Aether, the world started to feel very different...\n\nThe training wasn't easy, of course. Ever since Alice had shown me how far down the rabbit hole went, every day had been full of new discoveries and surprises. From then on, the world showed me colors I had never sensed before, even though I still couldn't make out its true face. I concentrate and feel the flow of ideas rush into me. I don't have time to be mesmerized; Kumari is counting on me. I have no choice but to dig deeper – and I need to be quick, because her condition could get worse with each passing day. If I manage to summon the White Rabbit and steal his watch, maybe I can steal time itself? Time... It's what I don't have, but desperately need. I set my trap and keep watch. I may not get a second chance in this race against time."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BVH01HQAMY33YZKMK75",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8BVH01HQAMY33YZKMK75",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BR3884ZCJH22YJ6KN9T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8BR3884ZCJH22YJ6KN9T",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BSBN7P3VNCGRPHCX11N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8BSBN7P3VNCGRPHCX11N",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB79D6274R22X97WYWB5PF",
+      "reference": "ALT_COREKS_B_YZ_19_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/78302dc879a1c4a34fef",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuro"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/191100a360dd56ba4fa6",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_19/JPG/es_ES/245b9c520ac9ca25f5f905f8c9dac3b5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/WEB_17c22a407f782954aa960759102a191b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/WEB_e15ca09454686f1cf676008de3db08a5"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_19_R1",
+  "reference": "ALT_COREKS_B_YZ_19_R1",
+  "id": "01HN5TXRM543FTS4Y2SPQT0XNP",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_19/JPG/de_DE/9214c79fdf69f07f7b22903919f96d2d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_19/JPG/it_IT/d2da742a0ee88ca6f1cdb42316ac0669.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_19/JPG/en_US/895315c66eb826be60350465b79bcd0c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_19/JPG/es_ES/245b9c520ac9ca25f5f905f8c9dac3b5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_19/JPG/fr_FR/c43fd5489f17bfcf63ba289d8fdea3af.jpg"
+  },
+  "name": "Entrenamiento mágico",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Roba una carta."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-169-R-ES"
+}

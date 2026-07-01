@@ -1,0 +1,175 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_19_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB797ENDBBH30WT74Z2VJQ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME83T72CPF6SKHE11S8018",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME83T72CPF6SKHE11S8018",
+          "text": "Slow and steady wins the race."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME83VVRJTYA8D8EYDHTEX4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME83VVRJTYA8D8EYDHTEX4",
+          "text": "The onlookers gape as we go down the crowded thoroughfare. The weavers stop spinning to watch us pass by, and the merchants look up, bug-eyed, from their grilled-meat stalls. I pet Nauraa to remind him to be patient. Even though he's drooling, he'll have to wait. We have an appointment that we can't miss. Admittedly, we must be making quite the impression — me on a giant fox, and beside me, an immense and imposing turtle that the people of Arkaster aren't used to seeing in the streets of the capital. The venerable verdantbacks seldom leave their natural habitat, but the situation warrants it. The one that accompanied me is probably several centuries old. He might've been around when Asgartha was founded... His vibrant shell is covered in thick vegetation, home to any number of little critters.\n\nI smile on seeing a few rodents moving beneath the foliage and pausing to sneak a peek at me. A silvery lizard sticks its head out of a hole in an old mossy trunk, probably lured by the unknown smells wafting in the air. Colorful butterflies flutter between the stalks rising from the turtle's back. So in the end, it isn't just three of us in this procession. I stand up on Nauraa, puffing out my chest. I'm honored to have been chosen to escort this delegation. Our mission is vital for the future of the Kiragata Wetlands. We've come to request the aid of the government and the other Factions in fighting an evil that has plagued this land for far too long. The Fagn, that accursed swamp, is only growing, as it chips away at the surrounding areas. We have to be heard. We have to succeed."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME83TZQ1VHEHV65PD1973K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME83TZQ1VHEHV65PD1973K",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME83R7AKGAHSD20W48ZWAF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME83R7AKGAHSD20W48ZWAF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME83S7SSM6JDB7C16VENZE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME83S7SSM6JDB7C16VENZE",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB797ENDBBH30WT74Z2VJQ",
+      "reference": "ALT_COREKS_B_MU_19_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/62a0f280b0b0aaea2d98",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ef3be45600ba056004c5",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plant"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/bf23d9c1970f2ddc1b6d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/935965958d4118946a91",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:38:08+00:00",
+      "question": "What happens if Verdantback is played in the Arena (during a tie-breaker)?",
+      "answer": "In the Arena, Expeditions can't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant. Therefore Defender isn't a drawback anymore."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/JPG/en_US/115de70177e0209851c4c3988353579b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_19_C",
+  "reference": "ALT_COREKS_B_MU_19_C",
+  "id": "01HN5TXRRDJJD0HCWZWDQXMPQZ",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/JPG/fr_FR/fc3ad29259bf4c4a5970185664cd39d9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/JPG/it_IT/a6e007097b8e8c3720f37e705237528e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/JPG/es_ES/90b067063a483dbc42cc5c3562a2d951.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/JPG/en_US/115de70177e0209851c4c3988353579b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/JPG/de_DE/11396a3146231f0eb38a5cdbd713656f.jpg"
+  },
+  "name": "Verdantback",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "6",
+    "MOUNTAIN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MAIN_EFFECT": "I am [Defender] unless you control two or more other Plants. (My Expedition can't move forward during Dusk.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-110-C-EN"
+}

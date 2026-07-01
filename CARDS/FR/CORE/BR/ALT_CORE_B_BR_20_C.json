@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_20_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZAQ4J80K57F9J1FCRTC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5SBNFAH0S0QVCZHQBYTB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5SBNFAH0S0QVCZHQBYTB",
+          "text": "Le poids du ciel ne saurait lui faire courber l'échine."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SC79MXKXB49KJSYQA74",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5SC79MXKXB49KJSYQA74",
+          "text": "Sa silhouette occulte une partie du ciel et ses épaules bousculent les nuages alors qu'il s'étire au-dessus de la vallée. Perchée en haut de la falaise, je vois l'une de ses mains émerger des brumes et vrombir en passant non loin de moi ; une main qui pourrait saisir le Colosseum, ou peut-être même soulever l'Astérion. C'est un colosse titanesque, un géant pour lequel nous ne sommes que de simples fourmis. Mais c'est précisément ce que je vise. Sa main redescend subitement et s'enfonce dans le flanc du plateau. Je me cramponne comme je peux pour ne pas tomber, alors que de violentes secousses ébranlent les paysages. Comme un carrier saisit une pierre, il arrache l'éperon rocheux sur lequel je me tiens. Comme un jardinier déracine une motte de terre, il trimbale l'îlot qu'il a désolidarisé du sol.\n\nTout autour de moi, les arbres s'agitent comme sous l'effet d'un ouragan. Un vent cinglant frappe la lande alors qu'il la transporte sous son bras comme un volumineux paquetage. À chacun de ses pas, c'est comme si le monde tremblait, tressautait. Je m'agrippe à une souche pour ne pas être emportée, et ne peux m'empêcher de lâcher un rire nerveux et dément. Face à lui, je ne suis qu'une vulgaire tique accrochée à un buffle, un insignifiant moucheron. Tout à coup, je sens tout l'atoll sur lequel je me tiens tomber vers la terre. Nul doute que pour lui, son geste se veut délicat. Mais pour moi, c'est comme si un épouvantable séisme était en train de fracasser le monde. Des arbres chutent sous l'impact. Des roches jaillissent du sol, qui se disloque et se met à bouger comme la houle. Et alors qu'une épaisse poussière déferle autour de moi, le calme revient. En quelques pas, il m'a fait parcourir des lieues..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SBYYN6WSZY29XE015AG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5SBYYN6WSZY29XE015AG",
+          "text": "Titan de la mythologie grecque, fils d'Ouranos, dieu du ciel étoilé, Atlas a participé à la guerre qui a opposé les dieux de l'Olympe à leurs prédécesseurs primordiaux, la Titanomachie. Dans le camp des vaincus, Atlas est condamné par Zeus à porter pour l'éternité la voûte céleste sur ses épaules. Atlas fait partie intégrante de plusieurs récits héroïques : les douze Travaux d'Héraclès, d'une part, et aussi la légende de Persée, où pétrifié par la tête de Méduse, il se métamorphose en imposante chaîne de montagnes."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SB2WPJP272GQ5X0XY9S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5SB2WPJP272GQ5X0XY9S",
+          "text": "Basira"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SBBRXAZZTT967HJB8K2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5SBBRXAZZTT967HJB8K2",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZAQ4J80K57F9J1FCRTC",
+      "reference": "ALT_CORE_B_BR_20_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bd6b2000bf6eb5844b27",
+      "reference": "TITAN",
+      "id": "01HKAGQ9QZA1N8YNZH7CYPBDVR",
+      "name": "Titan"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6c6998cd0266310ba87b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/702f3f2eeba5388c4c6c",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-05T10:37:36+00:00",
+      "question": "What happens if a Gigantic Character is played during the tiebreaker?",
+      "answer": "Its statistics are counted twice: once for the Hero Expedition, once for the Companion Expedition."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/JPG/fr_FR/8fcc9255c22c3172319fe3fb6a58e428.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_20_C",
+  "reference": "ALT_CORE_B_BR_20_C",
+  "id": "01HKAFJNPT9H2BP5V08AZ7EKE2",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/JPG/it_IT/946868c7a9aef73671f59b204a36c53d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/JPG/es_ES/47a831e2ecfdc7a1ec12c0ba5e0d96d5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/JPG/fr_FR/8fcc9255c22c3172319fe3fb6a58e428.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/JPG/en_US/c1fbd958f973af3de273e7a387bfa108.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/JPG/de_DE/60247685e6c9d8da8fe52444695ea7ce.jpg"
+  },
+  "name": "Atlas",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "[Gigantesque]. (Je suis considéré présent dans chacune de vos Expéditions.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-052-C-FR"
+}

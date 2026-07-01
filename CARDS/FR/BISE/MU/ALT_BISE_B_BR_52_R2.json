@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_52_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/04YDG6Y7J380GAKQVGKXZTB056",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4SMR8784D2N79J46G10",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4SMR8784D2N79J46G10",
+          "text": "Pour explorer la Cité, les aventuriers ont besoin de livraisons quotidiennes depuis la surface."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4T1QB782AY94W546ZQH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A4T1QB782AY94W546ZQH",
+          "text": "393 AC - Je pose lourdement mes fesses sur un petit tas de pierres, tandis que Booda, langue pendante, s'affale de tout son long. Je lève les yeux et soupire en voyant le ciel, sous la forme d'un petit cercle pas plus gros qu'un ballon de ringby... Ouais, il reste encore une trotte. Une longue trotte avant d'arriver à bon port. Je regarde autour de moi. Les autres gars de l'expédition sont pas en meilleure forme. Faut dire que ça fait des jours qu'on crapahute là-dessous, avec une perception du temps dans les chaussettes. Résultat des courses, des langues d'ombre, et pas beaucoup de sommeil, avec la sensation indélébile qu'on se fait observer en permanence... OK, y'a eu des moments cool, où mon aptitude pour le parkour a été bien utile, mais après avoir été rembarré à plusieurs reprises, mon moral est pas au plus haut. Plutôt ras les pâquerettes, si les pâquerettes osaient pousser ici...\n\nTout à coup, j'entends un crissement venant d'un boyau latéral, et je me relève malgré mes courbatures. Une skateuse bondit hors du conduit, avant d'atterrir au milieu de l'attroupement. Elle continue à faire ses virages, tout en nous balançant des canettes de Sap Soda. J'en saisis une au vol, tandis qu'elle pirouette gracieusement. Je savais pas qui l'avait appelée, ni même pourquoi une livreuse du Talaria avait été missionnée pour faire ce genre de livraison. Mais ce que je peux dire, c'est que c'est une fichtrement bonne idée. Je dégoupille ma canette, et en boit une grosse rasade. La skateuse continue de se faufiler entre nous, sans s'arrêter, se permettant un dérapage ici, une figure là. Elle s'assure que tout le monde a été servi, et elle nous lance un clin d'œil avant d'emporter son paquetage pour une autre livraison express. OK, je sais pas d'où c'est sorti, mais je plussoie fortement l'initiative !"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4SVQAPJR2Y3HVNEPVBK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4SVQAPJR2Y3HVNEPVBK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4RPYVXKKPMNRM9SRY8W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A4RPYVXKKPMNRM9SRY8W",
+          "text": "KOJO"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4SE6ACD5ANFJW7C8J8C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4SE6ACD5ANFJW7C8J8C",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "04YDG6Y7J380GAKQVGKXZTB056",
+      "reference": "ALT_BISE_B_BR_52_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/156cf463b748d27c19f7",
+      "reference": "MESSENGER",
+      "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+      "name": "Émissaire"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/fbe609572a192d8187c7",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/fr_FR/61b6fc801594bc91634f14281262bd47.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/WEB_77933466c0c12cbaf9465833c1125730",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/WEB_a79f853979b02026b509706d135fbc2b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/WEB_98d18a1557a74ac76b365b65766182d5"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_52_R2",
+  "reference": "ALT_BISE_B_BR_52_R2",
+  "id": "01JB1YGPBAW9W7FA6Y7SGZMSD9",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/es_ES/a4238b583989e0a13949dc8001956cc6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/de_DE/5537fbbe8c881367243724eea32533f9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/en_US/fc9600ebe7d9f23ebb159ab87aae1c2b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/it_IT/ff8c05a70f721f89a129c30feca0cfea.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/fr_FR/61b6fc801594bc91634f14281262bd47.jpg"
+  },
+  "name": "Skateuse Talarienne",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "#3#",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "[Repérage] {1}. (Vous pouvez me jouer de votre main pour {1} avec «{h} Envoyez-moi en Réserve ».)  {J} Un Personnage ciblé en jeu #ou en Réserve# gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-024-F-FR"
+}

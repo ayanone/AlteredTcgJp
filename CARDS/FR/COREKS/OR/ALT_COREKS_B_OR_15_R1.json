@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_15_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB799W5M9Y332FBS6GY1N9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8776H0BCH654DETXPZG3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8776H0BCH654DETXPZG3",
+          "text": "Le général devenu érudit ; l'érudit devenu sénateur."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME878CZ70WTYHZR67TGGTY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME878CZ70WTYHZR67TGGTY",
+          "text": "Les pièces sont soigneusement alignées sur l'échiquier. Je contemple la main tendue du Commandant et m'assieds en face de lui en écartant les pans de mon manteau, tandis que mon griffon s'allonge près de la fenêtre. Une petite partie ne peut pas faire de mal, et il faut dire que j'ai hâte de me mesurer à lui. Je ne peux me permettre de paraître timoré et passe directement à l'offensive avec un pion en d4. Je regarde mon adversaire alors qu'il considère mon ouverture pion dame, pas le moins intimidé du monde. Avec un discret sourire, Kakoba saisit son cavalier et le pose sur la case f6 pour m'empêcher de prendre le centre en e4. Défense indienne, classique. Très bien, la patience est de mise. Pion en c4. S'oriente-t-on vers une défense Grünfeld, une défense Benoni ? Il répond du tac au tac par un pion en e6. Nous nous jaugeons, passe d'arme après estocade...\n\nJe réplique par un cavalier en c3, et il enchaîne avec un pion en c5. Je soutiens son regard, essayant de percer la stratégie qu'il veut déployer. Mais pour pouvoir la lire, il va me falloir puiser dans sa psychologie, écarter les faux-semblants et les leurres pour le contrer efficacement. Que sais-je de lui ? Qu'il est versatile, autant militaire qu'érudit. Qu'il est un fervent partisan d'Avkan ruun-Heshkari et un politicien avisé, audacieux et opiniâtre. D'instinct, je me dis qu'il aura tendance à me provoquer. Mais il sait que c'est aussi mon tempérament. Si j'étais lui, la décision la plus sage serait au contraire de rester tapi et de me tendre une embuscade, déclenchant le piège en s'appuyant sur mes propres erreurs tactiques. Mais le contexte de cette partie n'est pas anodin. C'est un entretien, une audition. C'est une façon de nous présenter l'un à l'autre, de montrer qui nous sommes au fond de nous. Très bien, montrons-lui, Wingspan."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME877S0E5KJHFNGWWHQHAK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME877S0E5KJHFNGWWHQHAK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME875ZGY17DNBAQ65YQ17Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME875ZGY17DNBAQ65YQ17Y",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME876M45QE16TJ6QQ1NK0N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME876M45QE16TJ6QQ1NK0N",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB799W5M9Y332FBS6GY1N9",
+      "reference": "ALT_COREKS_B_OR_15_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8a147ef6ad1d3aa7ed31",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Noble"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f4a3add3ff20ac4015e4",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4a5be632e0cbc2f79213",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/JPG/fr_FR/c37a4b725bf5bf275a301d43618a8d8a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_15_R1",
+  "reference": "ALT_COREKS_B_OR_15_R1",
+  "id": "01HN5TXRG1JP3XT2VM8142FTDP",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/JPG/de_DE/b240f93c53958f62b3903d1789b9f755.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/JPG/it_IT/69e1a78315d8660ae7dc52b53f35e1c5.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/JPG/es_ES/1e8180771273bdca45470c4dcc16bdcc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/JPG/en_US/ab34cb0c8cb89da5627a86c62a99c840.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/JPG/fr_FR/c37a4b725bf5bf275a301d43618a8d8a.jpg"
+  },
+  "name": "Kakoba, Commandant de Légion",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{J} Si vous contrôlez au moins trois autres Personnages, je gagne #3 boosts[]#. (Les cartes en Réserve ne sont pas contrôlées. Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-133-R-FR"
+}

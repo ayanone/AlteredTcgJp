@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_31_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0A9H5NVNRX95RVGR7H477A66NR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J252R2XB64RHNFX8WMVTN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J252R2XB64RHNFX8WMVTN",
+          "text": "¿De verdad necesita todas esas cosas? ¡Uno nunca sabe!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J253DD95JE1FBWE3XV9NN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J253DD95JE1FBWE3XV9NN",
+          "text": "Al explorar entre el follaje, descubro algo más: huellas de patas grandes y palmeadas. La distancia entre cada paso sugiere que el responsable de las pisadas debe ser bastante grande. Sigo las huellas. Mientras continúo la caza ensimismada, el Viento me trae un silbido… o un gorjeo, para ser más preciso. Es rítmico, muy repetitivo, como una melodía que podrías tararear despreocupadamente mientras haces otra cosa. De esta melodía truncada emana un sentimiento de satisfacción, una declaración de alegría. Me acerco a la fuente del sonido y, por supuesto, Espantajo me cubre por detrás. Oculta tras una barrera de abetos cubiertos de nieve, veo por fin una especie de claro sembrado de todo tipo de cachivaches. En el suelo hay un revoltijo de objetos: un cubo con unos prismáticos dentro, una linterna, una pila de libros con una taza encima… Hacer inventario de todo es como una canción infantil de Ordis: hace que la cabeza me dé vueltas.\n\nAl menos no me produce un profundo desagrado. Todos los objetos están en perfecto estado. Además, algunos los reconozco. ¡Esos auriculares son de Tamati! Se los robaron en el campamento hace un par de días. Una, dos, tres, cuatro cosas… Con horror, me doy cuenta de que esta es la guarida de un ladrón. Entonces, veo una extraña figura entrar en el claro. Es un elegante cruce entre una urraca y un pingüino. Claramente satisfecho, se contonea llevando a la espalda una mochila repleta de objetos tan dispares como los esparcidos por el suelo. Incluso lleva un sombrero que recuerdo de otra expedición. Y estoy segura de que su dueño no tenía los pies palmeados y el pico naranja. Probablemente solo esté dejando el botín de su última expedición. Miro lo que lleva: papeles de cartógrafo, huevos de chocolate… ¡No! También tiene el rodillo que usa Hestia. ¿Cómo hará ahora esas galletas tan ricas?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2532Y3MXKW4TF0JZ1RGA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2532Y3MXKW4TF0JZ1RGA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2520TTBT4SNX4NFSM391",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2520TTBT4SNX4NFSM391",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J252EHJ62SJDMCY5J3YM6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J252EHJ62SJDMCY5J3YM6",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0A9H5NVNRX95RVGR7H477A66NR",
+      "reference": "ALT_ALIZE_B_LY_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d8cc40553fad1ef56d9e",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4549034b3cdc93a4d5aa",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/es_ES/1c3755e87a11db7819baef4dfd77c751.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_4626e31df9becf5c45d500fb3bb7e8c2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_ceb98b0a2fb2f0e86727523cc289377d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_905c28b5e337d9769ef26b93c2a451aa"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_31_R1",
+  "reference": "ALT_ALIZE_B_LY_31_R1",
+  "id": "01J1Q4P4S6CG2A1GDVWHN4REPJ",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/en_US/bc4a960b318eb3290634fdfee1b71066.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/es_ES/1c3755e87a11db7819baef4dfd77c751.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/fr_FR/4a111a187da4a865a89d69cd38609f68.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/de_DE/4343121f8d6d42a4e0a0a844a1ba82cb.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/it_IT/72cca5bafc4cb47e3a9988da41d22267.jpg"
+  },
+  "name": "Urracagüino acaparador",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{J} Si tienes dos o más cartas en reserva, gano #2 potenciadores# y [[Fugacidad]]. (Si fuese a ir a la reserva, en vez de eso, descártame.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-038-R-ES"
+}

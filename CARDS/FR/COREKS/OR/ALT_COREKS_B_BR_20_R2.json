@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_20_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7800TYMV1G3XTN8QC5J9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7Y9WXCRXW9EGMWCM46RY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7Y9WXCRXW9EGMWCM46RY",
+          "text": "Le poids du ciel ne saurait lui faire courber l'échine."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YAGG96HPS1RKBMRJQ28",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7YAGG96HPS1RKBMRJQ28",
+          "text": "Sa silhouette occulte une partie du ciel et ses épaules bousculent les nuages alors qu'il s'étire au-dessus de la vallée. Perchée en haut de la falaise, je vois l'une de ses mains émerger des brumes et vrombir en passant non loin de moi ; une main qui pourrait saisir le Colosseum, ou peut-être même soulever l'Astérion. C'est un colosse titanesque, un géant pour lequel nous ne sommes que de simples fourmis. Mais c'est précisément ce que je vise. Sa main redescend subitement et s'enfonce dans le flanc du plateau. Je me cramponne comme je peux pour ne pas tomber, alors que de violentes secousses ébranlent les paysages. Comme un carrier saisit une pierre, il arrache l'éperon rocheux sur lequel je me tiens. Comme un jardinier déracine une motte de terre, il trimbale l'îlot qu'il a désolidarisé du sol.\n\nTout autour de moi, les arbres s'agitent comme sous l'effet d'un ouragan. Un vent cinglant frappe la lande alors qu'il la transporte sous son bras comme un volumineux paquetage. À chacun de ses pas, c'est comme si le monde tremblait, tressautait. Je m'agrippe à une souche pour ne pas être emportée, et ne peux m'empêcher de lâcher un rire nerveux et dément. Face à lui, je ne suis qu'une vulgaire tique accrochée à un buffle, un insignifiant moucheron. Tout à coup, je sens tout l'atoll sur lequel je me tiens tomber vers la terre. Nul doute que pour lui, son geste se veut délicat. Mais pour moi, c'est comme si un épouvantable séisme était en train de fracasser le monde. Des arbres chutent sous l'impact. Des roches jaillissent du sol, qui se disloque et se met à bouger comme la houle. Et alors qu'une épaisse poussière déferle autour de moi, le calme revient. En quelques pas, il m'a fait parcourir des lieues..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YA65DM59JT5X60WGSW1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7YA65DM59JT5X60WGSW1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y945N3KBJBFX97EK1TX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7Y945N3KBJBFX97EK1TX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y9FDDQNEJ0NVYJB7CBD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7Y9FDDQNEJ0NVYJB7CBD",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB7800TYMV1G3XTN8QC5J9",
+      "reference": "ALT_COREKS_B_BR_20_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/48b31797cd0743078cb6",
+      "reference": "TITAN",
+      "id": "01HKAGQ9QZA1N8YNZH7CYPBDVR",
+      "name": "Titan"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ba06bdcb73cdcdd0d911",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/8fb284eba0d47150f1b3",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-05T10:37:36+00:00",
+      "question": "What happens if a Gigantic Character is played during the tiebreaker?",
+      "answer": "Its statistics are counted twice: once for the Hero Expedition, once for the Companion Expedition."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/eb894d3ce07942d07394",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-12-11T10:37:36+00:00",
+      "question": "If a Character is both Gigantic and Defender, for example because I control both Atlas (Rare, Ordis version) and Gulrang & Tocsin, what happens?",
+      "answer": "\"My Expedition\", for a Gigantic Character, means \"my Expeditions\", plural.  Therefore a Defender, Gigantic Character would prevent both of its Expeditions from moving forward."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/JPG/fr_FR/46f3792be581c4fa1138ef702df21669.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_20_R2",
+  "reference": "ALT_COREKS_B_BR_20_R2",
+  "id": "01HN5TXR8QBSXXXY1RR9SRHR2W",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/JPG/de_DE/a1c3e73f4be68b9b6c1cb9e03533f516.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/JPG/fr_FR/46f3792be581c4fa1138ef702df21669.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/JPG/it_IT/7743afa0a8327cfe81bf7998099625c5.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/JPG/es_ES/9b98b817251732375c424c3dcdb9e1ab.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/JPG/en_US/57e2acb2ae6a3f50ec02f0b9491b479a.jpg"
+  },
+  "name": "Atlas",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "MOUNTAIN_POWER": "#1#",
+    "OCEAN_POWER": "#1#",
+    "FOREST_POWER": "#1#",
+    "MAIN_EFFECT": "[Gigantesque]. (Je suis considéré présent dans chacune de vos Expéditions.)  #Les jetons que vous contrôlez sont [Gigantesques].#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-052-F-FR"
+}

@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_24_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77X8KVQQAX1HYNDT8TMT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7WTQ91JWK5QWF302TH6G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7WTQ91JWK5QWF302TH6G",
+          "text": "Rares sont ceux qui visitent les profondeurs de la Fonderie, et encore plus rares ceux qui savent expliquer d'où viennent les Scarabots."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WV9FPTK6Q51K0906NA0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7WV9FPTK6Q51K0906NA0",
+          "text": "\"T'es la personne la plus qualifiée, Bash. On compte sur toi, Bash.\" Comme par hasard, c'est toujours moi qui écope des tâches ingrates. Je me hisse à travers l'ouverture en grognant, émergeant dans une cavité aux reflets cuivrés. Je secoue mes gants pour me débarrasser de la gelée étrange qui recouvre le sol. Marmo aboie devant moi. Ouais, ouais, j'arrive ! Je m'époussette et regarde autour de moi. Dire que les falaises situées derrière la Fonderie abritent ce genre de cavernes béantes... Depuis que la Faction y a installé son système d'égouts, il y a des décennies de ça, personne n'a vraisemblablement mis les pieds ici. Hormis les Scarabots... Tout y est enchevêtrement de câbles et de tuyaux. Des fleurs métalliques semblent y pousser, au milieu de structures étranges façonnées par les petites bêtes de métal.\n\nJe rejoins Marmo, qui agite la queue à côté d'une énorme boule de métal. C'est pas le moment de jouer à la balle... Mais alors que j'approche, je vois que la sphère est en réalité une construction des Scarabots. Et il y en a des dizaines rien qu'ici. Bon sang, ces satanées bestioles ont fabriqué leurs propres stations de charge. Je secoue la tête, incrédule. Ils m'étonneront toujours. En tout cas, ça augure du bon, je vais peut-être découvrir pourquoi une grande partie d'entre eux sont dans un état pitoyable à l'heure actuelle. Depuis quelques jours, c'est comme s'ils évoluaient au ralenti, évitant le reste de la Fonderie. Le problème, c'est qu'on en est venus à beaucoup s'appuyer sur eux pour tenir les délais et maximiser les rendements. Alors s'ils ont un souci, on a aussi un souci. Je remarque qu'ils sortent régulièrement de leurs monticules et vont tous dans la même direction, en file indienne comme des fourmis... Où est-ce qu'ils vont comme ça ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WTZSPCRGR5AR78ZY513",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7WTZSPCRGR5AR78ZY513",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WT4TVKVFVXDACWPZYK7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7WT4TVKVFVXDACWPZYK7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WTE7GBKDGYFZF66YFWX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7WTE7GBKDGYFZF66YFWX",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HPMB77X8KVQQAX1HYNDT8TMT",
+      "reference": "ALT_COREKS_B_AX_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/118ee308c7dcf43b8a7f",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c8337f7e24a313dae106",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/a01ace8afe1778a55681",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-01T10:37:36+00:00",
+      "question": "What happens to the counters when the card leaves the Landmark zone?",
+      "answer": "All counters disappear, whether the card is sent to Reserve, hand, deck, or discard."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_24/JPG/fr_FR/8bf46fe840e97c6377bd4d663d6998bc.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/ALT_CORE_B_AX_24_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/ALT_CORE_B_AX_24_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_24_C",
+  "reference": "ALT_COREKS_B_AX_24_C",
+  "id": "01HN5TXR5B8GKDYTDM4H5SY7B2",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_24/JPG/de_DE/54c82c49e7719c34144f3bbf0618388c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_24/JPG/it_IT/77e6432242e3b850b196d1b1e79a7038.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_24/JPG/es_ES/3df1fca7dce674ec88f05d73e1ff7fc5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_24/JPG/fr_FR/8bf46fe840e97c6377bd4d663d6998bc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_24/JPG/en_US/6eb2cf2ee285a574dfe8dd52514134c6.jpg"
+  },
+  "name": "Hub des Scarabots",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{J} Je gagne 3 compteurs Kélon.  À Midi — Vous pouvez payer {1} et dépenser 1 de mes compteurs Kélon pour créer un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-026-C-FR"
+}

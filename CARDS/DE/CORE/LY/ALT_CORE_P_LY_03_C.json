@@ -1,0 +1,137 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_P_LY_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Y3W5F3JWK3WD3440YN9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J7K63RJV6NHYWVEW24MFV9PM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J7K63RJV6NHYWVEW24MFV9PM"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63RY2S4BSZSMQEZF7GEZ0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J7K63RY2S4BSZSMQEZF7GEZ0"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63RREBWRTNEEV7M0BE4Y8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J7K63RREBWRTNEEV7M0BE4Y8"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63R95XJG37PQ4P2FT8NM4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J7K63R95XJG37PQ4P2FT8NM4"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63RFSEEFFJXKNM8ZK2C76",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J7K63RFSEEFFJXKNM8ZK2C76"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HNGY4Y3W5F3JWK3WD3440YN9",
+      "reference": "ALT_PROMO_2024_B_LY_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Held"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/972f9e76885e97adedee",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_03/JPG/de_DE/ALT_CORE_P_LY_03_C_de_DE.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_P_LY_03_C",
+  "reference": "ALT_CORE_P_LY_03_C",
+  "id": "01HFS3ZRH9FHZMNA9ZWRZGHPN1",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_03/JPG/de_DE/ALT_CORE_P_LY_03_C_de_DE.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_03/JPG/en_US/ALT_CORE_P_LY_03_C_en_US.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_03/JPG/fr_FR/ALT_CORE_P_LY_03_C_fr_FR.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_03/JPG/it_IT/ALT_CORE_P_LY_03_C_it_IT.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_03/JPG/es_ES/ALT_CORE_P_LY_03_C_es_ES.jpg"
+  },
+  "name": "Fen & Feedback",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "MAIN_EFFECT": "Am Morgen ziehe nur eine Karte. Dann lege statt einer Karte aus deiner Hand die oberste Karte deines Decks in deine Manazone.  Zum Mittag — [Nachschub]. (Lege die oberste Karte deines Decks in die Reserve.)  Ignoriere meine Fähigkeiten während des ersten Tages."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-063-H-DE"
+}

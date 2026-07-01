@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_42_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0FDZ8G5BB29SSBH0Y0DAG0A15G",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24MN0Z03Q1F27K54P3H7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24MN0Z03Q1F27K54P3H7",
+          "text": "Vous avez quoi en pression ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24N82196VGYQBN59ZCRW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J24N82196VGYQBN59ZCRW",
+          "text": "Je mate les grosses colonnes d'eau et de vapeur qui giclent du sol. C'est fascinant, et en même temps, ça fout un peu les chocottes, au point que je peux pas les quitter des yeux. C'est comme si la terre était devenue une grosse cocotte-minute. Je me tourne pour parler et me rends compte que je voulais interpeller Gault. Mais il n'est pas là, bien entendu. Il est genre à mille lieues d'ici. Quand je suis arrivé hier, après une grosse journée à crapahuter dans les plaines, on m'a raconté que c'était Atsadi qui avait créé ce lieu y'a quelques jours de ça, alors qu'il faisait face à des hordes de Belisenki. J'en reviens pas de la puissance qu'il a balancé ici. On l'appelle le sabreur manchot, ou bien la Cigale de Dusk, et c'est clair que sa réputation est pas usurpée... Il a littéralement fait saigner le sol à gros bouillons.\n\nC'est bizarre de voir que l'emplacement d'une bataille aussi épique est devenu une sorte de parc d'attractions aquatique. Les Lyra ont pris possession du lieu et ont converti la zone en piscine à ciel ouvert. Ils ont atténué la température, bien sûr, pour pas qu'on s'ébouillante, et puis terrassé tout le bordel pour retenir l'eau. Là, ils se baignent, barbotent en papotant... Si on m'avait dit hier, alors qu'on était en train de galérer à traverser la pampa givrée, qu'aujourd'hui je serais en train de me la couler douce dans une eau à 40°C, jamais je l'aurais cru... Alors que je laisse mon esprit vagabonder, me demandant si Atsadi accepterait un Écuyer, je suis soudain éclaboussé par un Magpeng et un Tanuki en train de se disputer la place pour être le prochain dans les starting-blocks. Le Magpeng prend l'ascendant et saute juste à temps lorsque le sol se met à gronder. Un geyser immense le propulse dans le ciel tandis qu'il caquette, hilare."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24MZTH59K7CWFWY2SXRX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24MZTH59K7CWFWY2SXRX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24M1968JAA6DE52A3HGW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J24M1968JAA6DE52A3HGW",
+          "text": "KOJO\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24MBT5S2S2H43V0T21G3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24MBT5S2S2H43V0T21G3",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "0FDZ8G5BB29SSBH0Y0DAG0A15G",
+      "reference": "ALT_ALIZE_B_BR_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/cf2ee8e89d5b4fda6fc8",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9d08c214f6e7dda19c06",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/895fbac323b1b315dbd7",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:13+00:00",
+      "question": "If I play \"Geyser\" from Reserve and it gains Fleeting, do I still put it in my Mana Orbs?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/fr_FR/d829387fe37e8c0b135c66118634f733.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/WEB_a02a6b9dbe2bfe28fe3b1b705408ecd0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/WEB_bca9d6588d88cb89e95af16a25e8ea84"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_42_R2",
+  "reference": "ALT_ALIZE_B_BR_42_R2",
+  "id": "01J1Q4P4S3CD549S9SSC7PCM6G",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/de_DE/f3129538d8e1c7e6a7853df15aeab59d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/es_ES/4a975177273e360c4ee6751197b8cf8a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/it_IT/3d7684c5efd8dd2354280f54d4b86cc9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/fr_FR/d829387fe37e8c0b135c66118634f733.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/en_US/98fdcb3e5a93389bcc0ec8a81e93d67d.jpg"
+  },
+  "name": "Geyser",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Renvoyez un Personnage ou Permanent ciblé dans la main de son propriétaire, puis mettez-moi dans votre zone de Mana (en tant qu'Orbe de Mana épuisé)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-029-F-FR"
+}

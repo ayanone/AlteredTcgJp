@@ -1,0 +1,156 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_B_LY_102_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/00X2MJ5ND28CP9VMSY8FKSYF8K",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JZ37ZM84D1ARZ7YQAC3XQHV1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JZ37ZM84D1ARZ7YQAC3XQHV1",
+          "text": "Die Seilbahnen der Reka sind die sicherste Art, sich in der Stadt fortzubewegen."
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZM8V38MTRZT7AS77YGAV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JZ37ZM8V38MTRZT7AS77YGAV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZM8F3M8D00Y9W81MHB8B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JZ37ZM8F3M8D00Y9W81MHB8B",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZM7CJGZTN5KD2YT21TBD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JZ37ZM7CJGZTN5KD2YT21TBD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZM7RWZBS085X9GGTCA57",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JZ37ZM7RWZBS085X9GGTCA57",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "00X2MJ5ND28CP9VMSY8FKSYF8K",
+      "reference": "ALT_DUSTER_B_LY_102_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Bleibende Wahrzeichenkarte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b422f2bdd5188461aef9",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Ort"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Saat der Eintracht"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/00d1f7d456df60d0e763",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_102/JPG/de_DE/e3b7a6f81b2d74c9d929c3d92dd06ae1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_102/WEB_d74a5979c76138e2c011c4ed731c043b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_102/WEB_50fc64387bbee6e5f666ad582eaf51e0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_LY_102_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_B_LY_102_C",
+  "id": "01JYP9SVPZ637XFV6NTWT4ST77",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_102/JPG/fr_FR/f9c34c0bc077ec6ae1de4c64eb8ecd0f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_102/JPG/en_US/5f780a3d4c5c89fb11f603fb4395e20b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_102/JPG/it_IT/a69c9df8222060a4fa136142d570d3f2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_102/JPG/es_ES/06975737c9c47cddc51e5331e64cd2f4.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_102/JPG/de_DE/e3b7a6f81b2d74c9d929c3d92dd06ae1.jpg"
+  },
+  "name": "Seilbahn-Station",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "{J} Nutze [Nachschub], dann erhalte ich 2 Bewegungszähler.  {T}, Gib 1 meiner Bewegungszähler aus: Eine deiner Expeditionen bewegt sich eine Region zurück. Falls sie das tut, bewegt sich deine andere Expedition eine Region vorwärts."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "SDU-054-C-DE"
+}

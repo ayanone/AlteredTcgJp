@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_49_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2ZJF1CWKPV88RBR18BM0GGHCD4",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1AAZKBTCA247MQSNZEY7T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1AAZKBTCA247MQSNZEY7T",
+          "text": "Un bon Sceau commence par un bon croquis."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AB1MYPVDW7N53D3B9MMC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1AB1MYPVDW7N53D3B9MMC",
+          "text": "393 AC - Je sens sa pression — vorace, primale — contre mon esprit, alors qu'il me force à observer la joviale étoile de mer, dont les membres s'enroulent autour d'un sceptre aux allures de stylet. Je serre les dents en me sentant saliver malgré moi, tandis que mon geôlier peine à contenir sa faim. Une bouchée. Il suffirait d'une bouchée. Si seulement j'avais le contrôle, ne serait-ce qu'un instant, il me serait possible de m'apposer un Sceau, et avec, je pourrais peut-être enfouir sa psyché loin dans les abysses de la mienne. Dans un lieu dont il ne pourrait plus jamais sortir. Mais je sais que c'est peine perdue. Il ne dort jamais. Il se contente de patienter, à la lisière de mon esprit, prêt à me ravir ma volonté. L'espace d'une fraction de seconde, je me vois me saisir de l'astérie afin de m'en faire un en-cas, et je réprime un haut-le-cœur. Je repousse cette pensée écœurante qui n'est pas la mienne... ou bien l'est-elle ? Les frontières sont devenues si floues.\n\nL'échinoderme se met à virevolter, tandis que son stylet glisse dans l'air comme un pinceau sur du papier. Elle semble y prendre du plaisir, et je l'envie. Elle griffonne une palanquée de symboles qu'elle réagence, les enroulant en un cercle pour mieux contenir les concepts qui y sont associés. Une roue sans début ni fin. Une prison. J'observe les idées qu'elle appelle de l'Empyrée, essaie d'étudier la façon dont elle les assemble, presque par hasard. Il ne lui est pas demandé de concocter des recettes déjà connues. Non, au contraire, elle semble y aller à tâtons, dans le but peut-être de créer des mariages inédits, des combinaisons originales et détonantes. J'avale ma salive, tout en maudissant le ver qui s'est enraciné en moi. Mais qu'importent les injures et les cris, jamais il ne s'en émeut ni ne s'en offusque. Danger. J'étrécis les yeux, et vois le Mage qui est en train de nous dévisager. Ses longs cheveux d'azur semblent flotter dans une eau invisible, et tout son corps est couvert de complexes tatouages... Pour une fois, mon geôlier et moi sommes d'accord. Il a l'odeur d'un prédateur."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AB008ESFA7C8GW9YSH25",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1AB008ESFA7C8GW9YSH25",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAYS52PFPH922XYZJ0W1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1AAYS52PFPH922XYZJ0W1",
+          "text": "LINDIWE"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAZ6QH5A64QCH1RVBQST",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1AAZ6QH5A64QCH1RVBQST",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2ZJF1CWKPV88RBR18BM0GGHCD4",
+      "reference": "ALT_BISE_B_YZ_49_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bbac836fc897f7e91092",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a0b9295973b64f1b4ab0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/fr_FR/d757684dc048829b7d4f507dce97dba2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/WEB_343e5021974aca57195af829332cdeb0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/WEB_1e6e8a780b362a611653486de4e0d3f0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/WEB_22b1177caaf713d97e5c320ef2fae3a4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_49_R2",
+  "reference": "ALT_BISE_B_YZ_49_R2",
+  "id": "01JB1YGPC02G6CHBVK8XD8SA7K",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/de_DE/b9ef4e6788dd07295ad2ec62444168d2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/es_ES/f6f7b0409ac47c3b23a886a7d97a4019.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/it_IT/0abe499d9a56923d69c99261eb2511ad.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/en_US/c8188e3b19187eea4216e940869e45a5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/fr_FR/d757684dc048829b7d4f507dce97dba2.jpg"
+  },
+  "name": "Griffonneur Étoilé",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "#0#",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#{R} Vous pouvez dépenser 1 de mes boosts pour piocher une carte.#",
+    "ECHO_EFFECT": "{I} #Lorsque vous jouez un autre Personnage avec une stat de base 0# — Je gagne 1 boost, jusqu'à un max de 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-088-F-FR"
+}

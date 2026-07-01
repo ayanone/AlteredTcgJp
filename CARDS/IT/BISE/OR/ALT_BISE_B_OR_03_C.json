@@ -1,0 +1,148 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/35G5SAMDKM9YKVQ043EV84GGE2",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A8HW3VQ5FQV8R19TQ7JJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A8HW3VQ5FQV8R19TQ7JJ",
+          "text": "Gli Ordis seguono la via della pazienza e della resilienza."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8KRX5X5GZQBPFNX3R8M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A8KRX5X5GZQBPFNX3R8M",
+          "text": "392 AC - The rain taps against my marble skin; The Kraken roars, emerging from the deep; My great horn sounds, waking all from their sleep; But unlike the trees, I will not bend to the wind; Duty bound, there is no room to waver; The troops move as one without breaking their stride; Be brave and wear your glory with pride; Charge, charge onward with drawn spear and saber; Black sand where the waves crash and foam; O savage waters where threats lurk and roam; Charge, charge, let the hissing serpents fall; So the vile beast sinks into eternal night; And so, finally, hope shines for one and all; Make the hurricane bend before your might… Ha! I suddenly receive a lecture from Gulrang, telling me to be quiet. Is now not the right time for poetry? Just because a formidable enemy stands before us, should we suppress our artistic ambitions? So be it!\n\nStanding upright on my stone pedestal, I blow a long blast into my horn, signaling to the lancers to move. Gul is among them, her heavy pavise raised to cover their advance. She looks at me and gives me a subtle nod. I blast out another note with my instrument, calling all soldiers to get into position. In unison, Lyra percussionists and fife-players begin to play in rhythm, but the performance rapidly descends into a cacophony with all the movement of the troops. Ha! They need a conductor to keep time. I warn Gulrang, and I sense the ideas she channels in return pass through my whole body to flow out into the world. Glyphs meaning \"Coordination\", \"Arrangement\" and \"Harmonization\" appear on my conch one by one. And I blow with all my strength into the horn, with my internal mechanisms acting as bellows, to spread the words to all the troubadours…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8KD6QHBFR12177GNAJ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A8KD6QHBFR12177GNAJ7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8H6TW8PJA77M4MAWV00",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A8H6TW8PJA77M4MAWV00",
+          "text": "TOCSIN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8HHXNG1G2HSX0RSBWZN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A8HHXNG1G2HSX0RSBWZN",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "35G5SAMDKM9YKVQ043EV84GGE2",
+      "reference": "ALT_BISE_B_OR_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c198247a4bde1cf21fc5",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_03/JPG/it_IT/ad9e8878260c20836198a746bd4c1237.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_03/WEB_25e40adcf1a1e48a9bd27545b586eea8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_03_C",
+  "reference": "ALT_BISE_B_OR_03_C",
+  "id": "01JB1Z2T2V7643HG81M23NBX0Q",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_03/JPG/es_ES/9888af424df8ca5120012cd24b35b307.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_03/JPG/de_DE/6deeeccbd352a01f3a75975a8a6d8719.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_03/JPG/fr_FR/a3bb3fb53587775be81a37164c271e97.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_03/JPG/it_IT/ad9e8878260c20836198a746bd4c1237.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_03/JPG/en_US/200ffe74a476fb26d84e73f88e5a1240.jpg"
+  },
+  "name": "Gulrang e Campana",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Quando crei una pedina personaggio — Ottiene 1 rinforzo.  Se hai meno di otto sfere di mana, le pedine con [[Rinforzato]] che controlli hanno [Difensore]. (Le loro spedizioni non possono avanzare durante il crepuscolo.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-069-H-IT"
+}

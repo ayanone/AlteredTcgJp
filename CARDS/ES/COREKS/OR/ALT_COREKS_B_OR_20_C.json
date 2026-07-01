@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_20_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79AAQSCDETMMTVJAPESF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME87SFGTWH4HFNX2FKGTTX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME87SFGTWH4HFNX2FKGTTX",
+          "text": "Solo un corazón más liviano que una pluma podrá superar el juicio de Anubis."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87TN4DQ0AF0G9Z4JRXR0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME87TN4DQ0AF0G9Z4JRXR0",
+          "text": "I lean against the colonnade and fold my arms across my chest, awaiting the sentence. I've done my job: I've tracked down and brought the offender before the circuit court, as the mission order stipulated. Now it's up to the judges. Even though I've completed my task, I still like to hang around and find out what will happen to my captive, to find out what fate awaits him. I don't have to stay here. Other detectives leave before the judgment even starts. But for me, staying until the end keeps me grounded. Averting my eyes would probably make my job easier, but seeing the consequences of my own actions has always helped keep me from becoming indifferent. For me, it would be a much worse crime to wind up apathetic or uncaring.\n\nAnubis suddenly appears on his marble throne, and I catch myself holding my breath. The jackal-headed Eidolon looks down at the accused. The young Bravos clenches his fists. He is tense and defiant. Maybe he thinks he's not to blame. But his actions put his companions in danger. He acted without consideration for the wellbeing and safety of his peers. Observing the immature adventurer's disdain, Anubis's eyes narrow. It's a bad attitude and can probably be blamed on his youth. If he keeps this up, he'll definitely be given a verdict that teaches him a lesson. The Eidolon materializes the feather of Ma'at in his palm, then invites the Bravos to climb onto his other palm, which he does. At least he's not the type to run from his responsibilities. That, and the fact that he surrendered without kicking up a fuss, will go in his favor during the weighing..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87T24E3J0M46EYW9X6S4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME87T24E3J0M46EYW9X6S4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87R6DYDSD8VGFGCPQENC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME87R6DYDSD8VGFGCPQENC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87RWAB5GJ0TPSWDR7JHQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME87RWAB5GJ0TPSWDR7JHQ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79AAQSCDETMMTVJAPESF",
+      "reference": "ALT_COREKS_B_OR_20_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8a3c796cb6203741355a",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deidad"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/71833bdb5161f33e332c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/02dac6fe15b984a7ac48",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-03-20T10:37:35+00:00",
+      "question": "Who chooses first the Character to sacrifice?",
+      "answer": "When a single effect requires every player to choose something at the same moment, the controller of the effect chooses first, then follow turn order."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/985f674cdff5f9198a34",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:35+00:00",
+      "question": "Can I play Anubis if I have no Characters in my Expeditions?",
+      "answer": "Yes, but you will sacrifice Anubis."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_20/JPG/es_ES/af33d72a083060650d7a4cd3776202d2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_20/WEB_941b4652e4a3b73fe00600efe28e4705",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_20/WEB_c0434600435c2f546c5d7f94d1870656",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_20/WEB_e09008fe7e97c28a6a9b3996c355a9bc"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_20_C",
+  "reference": "ALT_COREKS_B_OR_20_C",
+  "id": "01HN5TXRGNCQ7MVY4VNFWXV2RJ",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_20/JPG/fr_FR/a818ee376f9f17112da320f8b18392ac.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_20/JPG/es_ES/af33d72a083060650d7a4cd3776202d2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_20/JPG/de_DE/4bb6cfea37349e5c64c11ec11f6abecc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_20/JPG/en_US/df45d9ac32f5d35182292046f9270619.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_20/JPG/it_IT/6ae33e2a79ff723f6c58ee4a178b5fa1.jpg"
+  },
+  "name": "Anubis",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{J} Cada jugador sacrifica un personaje."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-141-C-ES"
+}

@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_08_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7823AFZ80AGBA8Q24KSR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7ZMM2EGNWQ1ZJ94SP0WJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7ZMM2EGNWQ1ZJ94SP0WJ",
+          "text": "Au bout du compte, nous sommes tous façonnés d'histoires."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZNCSNQ6FVW7EN0EGNEB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7ZNCSNQ6FVW7EN0EGNEB",
+          "text": "Nous ne sommes pas nombreux, parmi les Lyra, à ne pas nous placer sous l'autorité d'une Matriarche. Bien entendu, nous entretenons la mascarade pour ne pas souffrir de cette indocilité sacrilège : nous nous confondons en courbettes, tout en nous faisant discrets. Mais en notre for intérieur, c'est la désobéissance qui nous anime. Depuis trop longtemps, elles ont fait de leur position un piédestal, arguant qu'elles seules peuvent converser avec les Muses. Mais les Neuf Sœurs doivent elles aussi rendre des comptes à la Mémoire, et c'est précisément elle que nous servons. C'est pour cela que nous devons évoluer à la marge de leur joug, en silence et en secret. Nos objectifs sont les nôtres, pas ceux qu'elles nous dictent depuis les hauteurs de leur trône. C'est pourquoi nous aimons parfois, quand le public semble mûr et le contexte propice, partager des histoires habituellement tues : celles que les skalds retirent par commodité de leur répertoire. Les histoires ne doivent souffrir d'aucun diktat, et être libres de se mouvoir dans le monde. Elles doivent trouver un écho dans les esprits de ceux qui les entendent. Mais chut, ne les racontez surtout pas à tout va. Choisissez votre auditoire avec soin. Car les histoires portent en elles un pouvoir : elles peuvent ensorceler, bousculer et remettre en cause. Tout ce qui importe, c'est qu'elles ne soient pas oubliées."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZN00Z7AKEKBY6SGBB3P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7ZN00Z7AKEKBY6SGBB3P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZKVZECN31CV7JFX8PQB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7ZKVZECN31CV7JFX8PQB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZM7EF539KNXDTPM5VKD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7ZM7EF539KNXDTPM5VKD",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB7823AFZ80AGBA8Q24KSR",
+      "reference": "ALT_COREKS_B_LY_08_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a6b84225f9f47fe0a044",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artiste"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/536fc50e9db8e097f6e9",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/fr_FR/bd3b824259df7219a296b5a4cc1c2196.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/ALT_CORE_B_LY_08_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/ALT_CORE_B_LY_08_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/ALT_CORE_B_LY_08_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_08_R2",
+  "reference": "ALT_COREKS_B_LY_08_R2",
+  "id": "01HN5TXRAQZPXFS40YHGKFHTV7",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/it_IT/1c3e741a10628b6f083d4bed573139dc.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/de_DE/54dfd155f14cdc40239d1730c97e4ee2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/es_ES/e8a1b97a8358fbbbd62b9412f837e318.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/fr_FR/bd3b824259df7219a296b5a4cc1c2196.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/en_US/d8f0e90f2aeaa49b4e90e9577ac8f44c.jpg"
+  },
+  "name": "Skald Lyra",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "#{H} Vous pouvez défausser une carte de votre Réserve pour [Ravitailler].# (Mettez la première carte de votre deck en Réserve.)",
+    "ECHO_EFFECT": "#{D} : La prochaine carte que vous jouez ce tour coûte {1} de moins.# (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-067-F-FR"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_52_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/29XA1CA00M8A5V1ST938GGFW03",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A75388WZYEWK5B484KJ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A75388WZYEWK5B484KJ5",
+          "text": "Elle chasse sans relâche les friandises et les gratouilles."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A75PW06TW3MF8Y4SD4XF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A75PW06TW3MF8Y4SD4XF",
+          "text": "393 AC - Je pose la petite mémère sur les pierres moussues, et elle m'observe avec de grands yeux, la langue pendante. Détournant le regard, elle se met à gratter le lichen qui a recouvert les blocs noirs, et dans une démonstration de tout son savoir-faire dramatique, elle se laisse tomber sur le flanc, m'invitant à lui gratouiller le ventre, clignant des yeux comme en supplication. Spike me toise avec une moue désabusée qui veut tout dire. Surtout un \"et tu m'as dérangé pour ça ?\" qu'il n'a même pas besoin de vocaliser. Je caresse la bedaine rebondie de l'Eidolon, et le contact de ma simple paume lui insuffle un peu de Mana. Teija m'avait demandé de l'escorter jusqu'aux Flèches du Nilam, pour qu'il aille quérir l'assistance des Yzmir. Pour arriver à bon port, il lui fallait quelqu'un capable de le revitaliser régulièrement, afin qu'il puisse tenir la distance. Mais j'avais senti autre chose dans le ton de sa voix — une peur, un aveu, comme si elle m'exhortait de quitter l'abîme au plus vite...\n\nD'après elle, il y avait en bas quelque chose qui ne tournait pas rond, selon ses propres termes. Je me lisse la barbe, tout·e à mes réflexions, retirant ma main du bidon de l'animal. L'Eidolon se redresse soudain, vif et alerte, prêt à reprendre l'ascension. Je saisis mon bâton de marche avant de reprendre notre route, Spike se perchant sur mon épaule comme il a l'habitude de le faire. Je sais qu'il n'aime pas trop la facette des Muna que ce chien représente, aussi petit soit-il. C'est un limier d'Arawn, un traqueur de sa chasse à courre. C'est difficile à croire, à la voir se dandiner devant nous, lorgnant sur les libellules et les papillons et si prompte au jeu. Comme quoi, les apparences peuvent être trompeuses... Spike se met à tirer sur mes poils pour attirer mon attention. Je le rassure d'une pensée. Une fois notre escorte finie, nous passerons voir Flore, lui dis-je. Et il se met à rayonner à cette simple pensée."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A75D2KVS1NFPP0HJKG5H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A75D2KVS1NFPP0HJKG5H",
+          "text": "Poly"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A74GRVKSPZQF69QF87ZA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A74GRVKSPZQF69QF87ZA",
+          "text": "ARJUN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A74T1MECWR58ARBT6Z2X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A74T1MECWR58ARBT6Z2X",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "29XA1CA00M8A5V1ST938GGFW03",
+      "reference": "ALT_BISE_B_MU_52_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/db737ad034eaf2714005",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7b1653ee7ba084e76711",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/fr_FR/911214549adb65936f0cf53e10db070a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/WEB_1e64c77641011fe46ec502c33aba6219",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/WEB_aa72f9a3d61bf7f1bb395cb823bd1184",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/WEB_c185f0b2d04e1ddc74fc72812753a776"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_52_R2",
+  "reference": "ALT_BISE_B_MU_52_R2",
+  "id": "01JB1YGPBNB8J0VP19NC8TN17P",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/it_IT/c95208700a762e7fc36e4e8416d4480f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/es_ES/426d34617278a7ee9495e57309800c67.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/de_DE/2424c5c4ff1f3a22ea30e127e1665078.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/en_US/0e1bcebc2f569e126ec4fe55473ac091.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_52/JPG/fr_FR/911214549adb65936f0cf53e10db070a.jpg"
+  },
+  "name": "Corgi Câline",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "Lorsqu'un Personnage que vous contrôlez gagne #[[Fugace]]# — Je gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-057-F-FR"
+}

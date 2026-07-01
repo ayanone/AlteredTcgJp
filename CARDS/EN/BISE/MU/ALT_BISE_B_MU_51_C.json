@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_51_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/64B6T6XQ1A8TZ8HKAAT4JD0WBA",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A724ZZQ9G3EYMMYR6BCC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A724ZZQ9G3EYMMYR6BCC",
+          "text": "Should we practice our passing now?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A72R64FC9QJEP1588EBH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A72R64FC9QJEP1588EBH",
+          "text": "393 AC - The Undergrowth is home to a vast range of plants that you won't see on the surface. Do they thrive here because they are close to the Sap reserves, or is it because of the stable climate provided by the Crow's Eye? Maybe it's both… Regardless, collecting samples here is fascinating. Each thicket contains strange and exotic species, and each clearing reveals new beds of flowers with petals never seen before. I collect as many as I can to take back to the Greenhouse, wrapping them as carefully as possible to avoid damaging them. I know that the botanists are counting on me to fill their herbarium, and that certain herbalists will want to study them to find new active ingredients to add to their pharmacopeia. As for me, I'm just happy to give them earth, light and water for the simple pleasure of watching them grow…\n\nWith my face peering among the bushes, I carefully push aside branches and pick fragrant berries, some of which I think might be edible. The Skein suddenly vibrates as I sniff one, alerting me to the small presence approaching. There's no hostility, though. I suddenly see a ball appear at my feet. I look up, and to my surprise, I see a colorful fox staring at me, swishing its magnificent bushy tail. But this is no mere fox; it's an Eidolon. With his paws outstretched, he invites me — a rare occurrence — to take his Hoshi-No-Tama. I smile. The fact he's come to find me can only mean one thing: Teija is nearby and needs my help. I stand up and reach out to Spike with my mind to tell him we'll need to reschedule our plans for the day. I take the ball, and the fox runs off, urging me to follow. And as the power of his artifact starts to resonate in me, I wonder if the Alterer realizes how special her Chimaera is…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A72EPPABMG25QGCFZNSR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A72EPPABMG25QGCFZNSR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A71GVJ7GRQ88HJNBP7GK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A71GVJ7GRQ88HJNBP7GK",
+          "text": "ARJUN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A71TKQKT8P4TMNV40JYG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A71TKQKT8P4TMNV40JYG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "64B6T6XQ1A8TZ8HKAAT4JD0WBA",
+      "reference": "ALT_BISE_B_MU_51_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c408b1b0f76f4f4ba323",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/514657819a9aa740bc52",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_51/JPG/en_US/a1642237ed9b4609fe38395e46ac001f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_51/WEB_cb8ac122e2985cb2173dde5c62ff1136",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_51/WEB_611bf5d24b977d3502abf1509b70df7f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_51/WEB_d673669f8c9bd0094ca986522ca246ca"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_51_C",
+  "reference": "ALT_BISE_B_MU_51_C",
+  "id": "01JB1YGPBNB8J0VP19NC8TN177",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_51/JPG/it_IT/a2dedda9a8b40c700a85095aaabd20a3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_51/JPG/es_ES/8ba6806549ca2f37984768af339df679.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_51/JPG/en_US/a1642237ed9b4609fe38395e46ac001f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_51/JPG/fr_FR/cb47a0a4531e4bb4cdaf391b3ebbe609.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_51/JPG/de_DE/970c68dcc1d3dbc4c4acfc5f57ec270e.jpg"
+  },
+  "name": "Fair Fox",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{H} Target opponent [Resupplies]. (They put the top card of their deck in Reserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-056-C-EN"
+}

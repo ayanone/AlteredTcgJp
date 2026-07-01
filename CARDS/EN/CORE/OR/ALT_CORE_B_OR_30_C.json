@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_30_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50BPPNEF5CVBA9A3X5X1",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH62HV3Z30671T3CHE97YD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH62HV3Z30671T3CHE97YD",
+          "text": "The flow of Ordis Recruits seems to go on forever."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62KR02XAT351F2N6A5AF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH62KR02XAT351F2N6A5AF",
+          "text": "The wind rushes into the elevator as the doors open, and I pull the collar of my coat a little tighter around my neck. Sunisa goes first and holds the door open as I step out onto the metal gangway, fighting back a touch of vertigo as I see the ground so far below. We make our way through the workers and technicians. Some are pulling cables, while others are transporting equipment from one deck to another. And when we finally reach the central platform of the altiport, I see the gigantic shape of the transporter in all its glory – a flying city of gargantuan proportions. I place my hands on the railing to contemplate it. Two of these colossal craft – those from Verbera and Sojourn – have been requisitioned as part of the Rediscovery Endeavor, much to Commodore Bayly's annoyance.\n\nI study every detail of the ship, from the stylized golden wings on its hull to the towers with their angular edges. I memorize all these details, learning the shapes, lines and dimensions by heart. I'll need to remember them if I'm to summon it inside the Tumult. Next to me, Sunisa takes an apple out of her pocket and bites into it. She's been accompanying me for weeks so that I can study this or that building, or this or that personality. It must be really boring for her, but I know she understands why I'm doing it. In my head, I associate the series of Glyphs I'll need to summon it with the memory I'm creating. In a few months, this transporter will escort the Ouroboros and will be home to hundreds of adventurers from the Expeditionary Corps. Three ships facing the enormity of the unknown. It's enough to make you dizzy if you think about it too long."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62JWQHEFFMT16CTDRDQW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH62JWQHEFFMT16CTDRDQW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62GEM4HP3JAYA3Y7VRFZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH62GEM4HP3JAYA3Y7VRFZ",
+          "text": "Sigismar"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62H56CQY9V4AGMZM7NJW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH62H56CQY9V4AGMZM7NJW",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY50BPPNEF5CVBA9A3X5X1",
+      "reference": "ALT_CORE_B_OR_30_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e903466997d736856db3",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Landmark"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/47b2a3a3e8aad4c9c29f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/en_US/38d9ccf88dd0aef05537856cc3c28101.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/ALT_CORE_B_OR_30_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/ALT_CORE_B_OR_30_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_30_C",
+  "reference": "ALT_CORE_B_OR_30_C",
+  "id": "01HKAFJNYW66Y6SX2Q0QZ7TKSX",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/es_ES/af84187dfe25e5106b6445531399a5d8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/it_IT/b6e784de4aa8ac20c9fdfaa45eb3978a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/fr_FR/a4ccfb19807e78f9ab4779916c50c83f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/de_DE/992b2ee03cf2c306ccfe6e804dc29846.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/en_US/38d9ccf88dd0aef05537856cc3c28101.jpg"
+  },
+  "name": "Ordis Carrier",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "At Noon — Create an [Ordis Recruit 1/1/1] Soldier token in your Companion Expedition."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-148-C-EN"
+}

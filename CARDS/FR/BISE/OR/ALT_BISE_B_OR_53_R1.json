@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_53_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/13ET01GYB78ANBPVJVA4J34M04",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A97CB8XY438SDB1A9X2K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A97CB8XY438SDB1A9X2K",
+          "text": "Au sein de la garnison, elle décide de chaque affectation."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A99AQT39KS555CWY7GBQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A99AQT39KS555CWY7GBQ",
+          "text": "393 AC - Je regarde toujours avec circonspection l'appel des nouveaux enrôlés. Je n'arrive jamais à déterminer si c'est un bienfait, ou au contraire, un malheur. Un peu comme à la loterie, en fin de compte. Est-ce une bonne chose que d'engager de nouvelles recrues ? Bien entendu. Cela va nous permettre d'accélérer le mouvement de l'Effort de Redécouverte, de soulager certains soldats qu'on démobilise, ou de renforcer des troupes sur le front... Et à la fois... À la fois, je me demande toujours si au final, ces gens ne seraient pas mieux ailleurs, pour aider les populations restées en Asgartha, pour développer leurs talents personnels, ou que sais-je encore ? Je suis toujours un peu déchirée face au recrutement. Combien savent vraiment pour quoi ils signent ? Quels sont ceux qui savent que c'est leur vocation, et ceux qui ne sont là que pour des raisons romancées ? Et à chaque fois, peut-être égoïstement, cela me fait repenser à Kojo.\n\nLa régisseuse, dans son uniforme rutilant et chargé pour épater (ou rassurer) les foules, hurle des noms et des affectations. Comme je disais, on dirait un bingo, au final : untel affecté au Tagmata, unetelle assignée à l'intendance... Heureusement, bon nombre d'entre eux n'iront pas au front si on en juge par les attributions et les convocations. La directive, depuis le Storhvit, demeure de ménager les forces d'exploration. Et ce n'est pas plus mal. J'ai vu ce qu'il y avait là-dessous, et ce n'est pas une promenade de santé. L'administratrice continue de s'époumoner alors que je laisse défiler mes pensées. Je me demande pourquoi elle n'utilise pas un micro et un ampli derrière son pupitre. Elle doit aimer hurler, sans doute... Question de démonstration de puissance ou d'autorité, peut-être ? Je jette un œil à Tocsin et je souris. Peut-être devrais-je lui demander de prêter son porte-voix..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A97Q7B4MQJMPQDCQTERD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A97Q7B4MQJMPQDCQTERD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A96PZXMH6KMKJJMG87D6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A96PZXMH6KMKJJMG87D6",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A971RC1CM0B25PBHEFM9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A971RC1CM0B25PBHEFM9",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "13ET01GYB78ANBPVJVA4J34M04",
+      "reference": "ALT_BISE_B_OR_53_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/dd406e26364e4b033289",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d5b1d7b936bc1998579e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/fr_FR/d24ef7ad6381e53fa878ebb9058744d5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_4ac09f2db830ac1b70d309fee3d92cbb",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_3a566e302c31dbd25861ecc49327623f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_326ea304eef2f955298a47903926e089"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_53_R1",
+  "reference": "ALT_BISE_B_OR_53_R1",
+  "id": "01JB1YGPBVGB6DPE03BAS3WEPG",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/es_ES/602f49cc746a52f4a10ab3df24a3c7d5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/it_IT/e545f09772c608c1aa1031d062f3fc0b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/en_US/073161b1cad7d63929368063149cb9d1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/fr_FR/d24ef7ad6381e53fa878ebb9058744d5.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/de_DE/0322053176660493f0ad8110b59c3147.jpg"
+  },
+  "name": "Régisseuse Ordis",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{R} Vous pouvez dépenser 1 de mes boosts pour créer #deux jetons# Soldat [1/1/1 Recrue Ordis] dans votre autre Expédition.",
+    "ECHO_EFFECT": "{I} Lorsqu'un autre Personnage rejoint vos Expéditions — Je gagne 1 boost, jusqu'à un max de 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-076-R-FR"
+}

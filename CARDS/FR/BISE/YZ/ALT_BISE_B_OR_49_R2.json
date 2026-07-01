@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_49_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/59T4FJYHKE8X890HZBH72WXD83",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A8SQ2W64K26AJQTVA3QE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A8SQ2W64K26AJQTVA3QE",
+          "text": "Plus il colporte, mieux il se porte."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8TEWQA0QC7ZP1QHAEEH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A8TEWQA0QC7ZP1QHAEEH",
+          "text": "393 AC - On est bien loin, mais vraiment bien loin de la sérénade. Ses jacassements emplissent la placette, parodies de voix humaine, tandis que les geais qui lui servent d'assistants déroulent péniblement le rouleau d'appel. Je ne sais pas qui a choisi de confier l'énumération des noms à un cacatoès, mais si c'est une blague, elle est de mauvais goût... OK, on lui demande pas de chanter du Verdi, mais là, c'est un peu comme faire crisser de la craie sur un tableau noir. Je me masse les yeux. Je suis à deux doigts de déposer une doléance. Mais je sais très bien ce qu'on va me répondre. Dura Lex, Sed Lex. C'est comme ça. Je fusille du regard l'animal, dont la crête monte et descend au gré de ses tirades. Fedyr, Mervyn, Azad... Il bat des ailes et balance des salves de noms, tandis que la régisseuse distribue les affectations. Bon sang, c'est comme si j'étais de nouveau dans une salle de classe avec le professeur faisant l'appel.\n\nLe choix avait été fait de ne pas passer par le Gestalt pour pouvoir avertir les autres Factions à l'oral de besoins éventuels, mais si je mettais la main sur le document, je balancerais ça direct à tous les Ordis connectés pour simplifier la procédure... Du coin de l'œil, je vois que Sun est en train de me dévisager avec insistance. Si la patience n'est déjà pas mon fort, c'est vrai qu'elle est encore moins endurante que moi. Je la sens bouillonner et, la connaissant, elle ne se contente pas de taper du pied. Si je me connectais à son esprit, je suis sûr que j'assisterais à des visions d'horreur. Genre les mille et une façons de déplumer et de rôtir un stupide volatile. Au four, à la poêle, en bâtonnets frits, à la casserole... Je souris malgré moi, et elle le remarque. Je sens son esprit frôler le mien et j'ai le malheur d'ouvrir le canal. \"Quoi, qu'est-ce qu'il y a ?\" ; \"C'est bon, j'ai le droit de pester, non ?\". Elle peste autant voire plus que le maudit sac à plumes..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8T3SWMYTSKB77DVY23J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A8T3SWMYTSKB77DVY23J",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8QYWNGPRBY55MW9Y7H1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A8QYWNGPRBY55MW9Y7H1",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8R9P4GTGJWY4CC139ME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A8R9P4GTGJWY4CC139ME",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "59T4FJYHKE8X890HZBH72WXD83",
+      "reference": "ALT_BISE_B_OR_49_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/30e100d2ef821a4a0aae",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/db029df76f65b3f57f81",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/fr_FR/e1a68c70f18eac2b13de2ceda9e4b281.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/WEB_26650e1f9c937be6c05b9735210250bd",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/WEB_25d3a1c1677eaa1ecf2f600540c6fb6e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/WEB_0ecc721cdb2bcf51e39e71a0e5b1eda5"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_49_R2",
+  "reference": "ALT_BISE_B_OR_49_R2",
+  "id": "01JB1YGPBTT5JGRK84ET2EKYT2",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/it_IT/c8ad37a674ac7a4d43aecc257f06a0ce.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/es_ES/b1e1fb185504559c8a9a92d87e41909f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/fr_FR/e1a68c70f18eac2b13de2ceda9e4b281.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/de_DE/25f94f2a8f79fe785ee1eec7c94325bc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/en_US/d046cc20e8caa1f9b3131acde178c827.jpg"
+  },
+  "name": "Crieur Ordis",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "#1#",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#{R} Vous pouvez dépenser 1 de mes boosts pour redresser deux Orbes de Mana.#",
+    "ECHO_EFFECT": "{I} Lorsque vous #jouez un Sort# — Je gagne 1 boost, jusqu'à un max de 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-071-F-FR"
+}

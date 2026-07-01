@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_27_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB780XKDY9EE5DX7RHT4XM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7YQWNEM0Z76AJZ0N7H3J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7YQWNEM0Z76AJZ0N7H3J",
+          "text": "Es gibt nur einen Weg, das Ruder herumzureißen: Stärke sammeln!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YRN6Q8VWTYZ4DR6JK75",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7YRN6Q8VWTYZ4DR6JK75",
+          "text": "Before Kaibara's final swerve, I let myself drop to the beach, attempting to somehow break my fall using the slope of a dune. I land in a cloud of sand, and I roll down the embankment. I stand back up, shake myself off, and spit out the sand in my mouth just as Boo slides up next to me, turning the ground to glass to fashion himself a toboggan. Then we're hit by a terrible explosion, and I fall on my butt, while Boo's fur gets ruffled. Kaibara just collided with the Kraken and sent it flying in the waves. I blink, stunned by the impact and the strikes they're exchanging, all the devastation they're causing. This is what we'll have to stand against? I gulp, and my stomach is in knots. OK, I'm scared. It's normal to be scared.\n\nI clench my fists. But I'm a Bravos now. Fear is what you eat for breakfast at the crack of dawn. I slap my cheeks. Ready, Booda? Because it's up to us. We're not gonna freak out over some oversized squid, right? I start walking toward the Kraken, trying to glean as much Mana as I can. Booda does the same, scampering beside me. It starts with the volatile Mana in the air, but that's not nearly enough. We'll need a lot more if we're gonna really kick the crap out of that thing. Little by little, I focus on tapping into the Mana embedded in the things around me. The grass on the dunes dematerializes as I steal its Mana, then the dunes themselves. Oh well, there's no other way. We need more. I begin to rob all the Mana I possibly can, as everything around me is sent back to the void. And in my hand glows more power than I've ever manifested before."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YRAHTA3DY9DM659YPBN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7YRAHTA3DY9DM659YPBN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YQ5VKMKA6GM707FENK1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7YQ5VKMKA6GM707FENK1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YQHYMGB9PQCCSVTFTVY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7YQHYMGB9PQCCSVTFTVY",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB780XKDY9EE5DX7RHT4XM",
+      "reference": "ALT_COREKS_B_BR_27_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/771f4450f3afcaa2defc",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Beschwörung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3674ed5085066ae9e60e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_27/JPG/de_DE/99a00af9b15580f101fbcdb7aa297b4a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_27/WEB_3d492f8cb59e016efcc6ba6659ea94a6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_27/WEB_9fe8e4be6b446bc79fa67918291d9fc8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_27_R1",
+  "reference": "ALT_COREKS_B_BR_27_R1",
+  "id": "01HN5TXR9HT7JF5T4E144CH84G",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_27/JPG/de_DE/99a00af9b15580f101fbcdb7aa297b4a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_27/JPG/it_IT/df30926831111279f99395a3ea7f625b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_27/JPG/es_ES/850c7ca7faada25e88902b9f736d005d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_27/JPG/fr_FR/5c14ca06a2e7074b5410770b4ac87310.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_27/JPG/en_US/0d2f7f38b349960eb6b33eb02081fb50.jpg"
+  },
+  "name": "Mana-Kanalisierung",
+  "elements": {
+    "MAIN_COST": "#5#",
+    "RECALL_COST": "#5#",
+    "MAIN_EFFECT": "Lege die obersten #zwei Karten# deines Decks in deine Manazone (als erschöpfte Manakugel)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-057-R-DE"
+}

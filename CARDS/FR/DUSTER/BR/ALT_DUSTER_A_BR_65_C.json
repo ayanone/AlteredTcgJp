@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_A_BR_65_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4PH1BDR4EN8MWV7TZTPXWA72G7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JZN5J9C0ZBYNWXQDYCDMKEF5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JZN5J9C0ZBYNWXQDYCDMKEF5",
+          "text": "« Je suis venue parmi vous en tant qu'émissaire d'Halua. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01JZN5J9CG7YET4V5N4TYCDRM8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JZN5J9CG7YET4V5N4TYCDRM8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZN5J9C9VVHN2XF1EEJKNXES",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JZN5J9C9VVHN2XF1EEJKNXES",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZN5J9B661GGACAYX9K4QACV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JZN5J9B661GGACAYX9K4QACV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZN5J9BRYGYGK9HD7C36S4XN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JZN5J9BRYGYGK9HD7C36S4XN",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "4PH1BDR4EN8MWV7TZTPXWA72G7",
+      "reference": "ALT_DUSTER_A_BR_65_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Les Graines de l'Unité"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/20e84f9cba875b5d68ab",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/fr_FR/25cc405c22fbc86eef7f9b32fca24203.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/HERO_THUMB_88bc09980703c119a947d89833225498"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/HERO_WIDE_6f4abc55097f6a39d1c6d13c7e52b697"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/WEB_9bb2d1370c531d2b1740d06397bde1b3"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_A_BR_65_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_A_BR_65_C",
+  "id": "01JZ3107R29P21MWX0MDXJMSS2",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/fr_FR/25cc405c22fbc86eef7f9b32fca24203.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/en_US/ff2b4327220ce23af3e7462ffb7b1e03.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/it_IT/39ba8a8b2d397a6b40c367086fc59801.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/es_ES/a7e058abdaec6d85304d63d2109044b6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/de_DE/06186bac6b5d78b7f6afc8b796e34a0b.jpg"
+  },
+  "name": "Sol & Halua",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "Lorsque vous passez en premier — Je gagne 1 compteur Quête. Puis, si j'ai au moins 3 compteurs Quête, créez un jeton Compagnon Léviathan [2/2/2 Halua] dans votre Expédition Compagnon. (Il a « Si votre Héros a au moins 5 compteurs Quête, je suis Gigantesque. »)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "SDU-019-C-FR"
+}

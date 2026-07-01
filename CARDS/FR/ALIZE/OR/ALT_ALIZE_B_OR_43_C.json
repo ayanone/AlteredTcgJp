@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_43_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6XVA9F8NNV9DQTXMT2H0XHECF6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29E53MYBW3C3NFV9D0CQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29E53MYBW3C3NFV9D0CQ",
+          "text": "Les lignes d'approvisionnement peuvent faire la différence entre la réussite et l'échec."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29F7E9JV7BVAVCEXAJ63",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J29F7E9JV7BVAVCEXAJ63",
+          "text": "Une nouvelle marée de Belisenki vient s'écraser contre nos boucliers. L'un des troupiers bascule en arrière et chute, mais je ne peux pas m'inquiéter de sa santé. Il faut combler le trou qui vient de se former dans nos rangs. Je m'élance et viens colmater la brèche, sentant les coups de boutoir des créatures résonner contre mon égide. Mon épaule me lance, et je serre les dents, hurle à mes compagnons de tenir, même si je doute qu'ils m'entendent. La mêlée est devenue un océan de lames et d'ailes, nos rangs initialement resserrés se clairsèment de plus en plus. À ce rythme, nous ne tiendrons pas longtemps. Je lève les yeux et vois une nuée ennemie tenter une nouvelle incartade depuis les hauteurs. Des archers Bravos et Muna décochent des flèches pour les chasser, mais à chaque fois, les Belisenki se rapprochent de plus en plus de leur objectif.  Et si nous sommes pris entre deux feux, c'est la défaite assurée.\n\nJe jette un regard vers Tocsin, qui bataille ferme contre des hordes de créatures qui tentent de le submerger sous le nombre. Il fait résonner son cor, dont les vibrations semblent repousser les assaillants. Mais même ainsi, de plus en plus de Belisenki atterrissent dans son dos ou s'arriment à ses bras, au point où il devient un amas pulsant d'ailes de papillons. Toute la nuit, ils n'ont eu de cesse de nous harasser. Je relève un soldat tombé, frappe le casque d'un autre pour le réveiller. Tous les défenseurs sont accablés, fourbus et exténués. Mais nous n'avons d'autre choix que de résister. J'essuie prestement le sang qui goutte d'une entaille sur mon front, cligne des yeux alors que le monde vire au rouge. Le soleil est en train de se lever, à l'est. Cela fait des heures que nous combattons. Soudain, le chant tonitruant d'un cor résonne dans l'immensité, et je me tourne dans la direction du son. Sur la crête occidentale, je vois deux cavaliers gravir la pente, suivis bientôt de tout un peloton. Enfin, les renforts sont arrivés."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29EMRQ0DRX0ZFC8VM95C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J29EMRQ0DRX0ZFC8VM95C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29D782Q83XYF80VGG3W1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J29D782Q83XYF80VGG3W1",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29DQ15KM1DP19VQ6JMR2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J29DQ15KM1DP19VQ6JMR2",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "6XVA9F8NNV9DQTXMT2H0XHECF6",
+      "reference": "ALT_ALIZE_B_OR_43_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/824dbf940e1c24a22b57",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manœuvre"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/197b277583a77587bfa5",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_43/JPG/fr_FR/586b635cf5ced66cdda1291eead6b9f7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_43/WEB_70e47f6667d8e55eb596853a68c1ec32",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_43/WEB_bd0f25a8c9e0d7507a0f78f086d137a0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_43_C",
+  "reference": "ALT_ALIZE_B_OR_43_C",
+  "id": "01J1Q4P4SPGZZS4TK0CWMVFXRY",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_43/JPG/de_DE/50c10ab22b3e560019d505de2c578ee8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_43/JPG/it_IT/ed6cdf920792cb0e441270d0e6568177.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_43/JPG/es_ES/650b9afff2ba83a3b4005870d30916dd.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_43/JPG/fr_FR/586b635cf5ced66cdda1291eead6b9f7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_43/JPG/en_US/e0d61a23844144c8aaadfa260aa0e2ec.jpg"
+  },
+  "name": "Renforts",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Fugace]].  Choisissez l'un. Si chacune de vos Expéditions est en retard ou à égalité, vous pouvez choisir les deux :  • Piochez une carte.  • Créez un jeton Soldat [1/1/1 Recrue Ordis] dans une Expédition ciblée."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-082-C-FR"
+}

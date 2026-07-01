@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_26_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB783R4S8EWHT6867EFERF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME81AM9SQ4KY1PNHNFTDA4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME81AM9SQ4KY1PNHNFTDA4",
+          "text": "\"Your problem is a lack of perspective.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81BHX4ZSAJVX4WQDWN6E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME81BHX4ZSAJVX4WQDWN6E",
+          "text": "Aaaaaah, street art: the fleeting art. It's a bit of a misunderstood genre. But those who say it's just about defacing things don't realize that it's actually expression in its most spontaneous form. It transcends the medium, emerges from it, and takes over the streets instead of languishing in museums. Anyway, this isn't really the time to think about all that. First, I need to ditch my pursuers. I lost the agents of the Aegis in the winding streets of the capital ages ago, but annoyingly enough, it turns out they had a Rune Scribe with them. And that naughty little so-and-so sent some Eidolons after me. So now I'm running away, looking over my shoulder, and I can clearly see that the bloodhounds are on my tail and gaining ground. Unlike me, they don't need to catch their breath.\n\nJeez, all this for a bit of graffiti on the outer wall of the Basileus's palace... These guys are no fun at all. If they catch me, the next stop will be the police station, then a quick visit to the Small Court, and probably a night in a cell. And that's definitely something I'd rather avoid. But what's great is that I still have more tricks up my sleeve. I uncork the big gourd that Blotch is having a nap in, and my paint dragon emerges like a colorful little cloud. I don't need to draw him a picture for him to see I'm in a bit of a pickle. So as soon as I turn the next corner, I point at the wall so he can stick to it like a decal. And without further ado, I start to draw. Peering over my shoulder, I see my Alter Ego's painted tail spring from the wall and grab the Eidolon before transforming it into a delightful little mural."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81B3N030P130VEDM6G54",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME81B3N030P130VEDM6G54",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME819PHHEXH37KQDP0WM6T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME819PHHEXH37KQDP0WM6T",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81A6C149B6RWEQ2MFCZV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME81A6C149B6RWEQ2MFCZV",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB783R4S8EWHT6867EFERF",
+      "reference": "ALT_COREKS_B_LY_26_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/af94a8d101e228927d60",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disruption"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/062c29b5c94a42787990",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/e7f87aff3d6b0446d1f8",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:50+00:00",
+      "question": "Can I target a token Character with Paint Prison?",
+      "answer": "Yes! However, note that they will be removed from the game when leaving the Expedition zone, so their controller won't keep them on their deck."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_26/JPG/en_US/c7981acf6d1dba16f03c6b99ea45ce46.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_26/ALT_CORE_B_LY_26_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_26/ALT_CORE_B_LY_26_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_26_C",
+  "reference": "ALT_COREKS_B_LY_26_C",
+  "id": "01HN5TXRDK28Q27ZADZCMQT6D9",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_26/JPG/it_IT/152be408d0aa56954ee60ca0891dcb7d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_26/JPG/es_ES/77f32dbb424b386bda02c6a40ad1c279.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_26/JPG/en_US/c7981acf6d1dba16f03c6b99ea45ce46.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_26/JPG/de_DE/0a2ac2276d4351a1556a4bb0db2f5d9c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_26/JPG/fr_FR/75b4e068539033bfc1cd7d6af06be8e2.jpg"
+  },
+  "name": "Paint Prison",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fleeting]]. (Send me to Discard instead of Reserve after my effect resolves.)  You may discard a card from your Reserve to reduce my cost by {2}.  Return target Character or Permanent to the top of its owner's deck."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-087-C-EN"
+}

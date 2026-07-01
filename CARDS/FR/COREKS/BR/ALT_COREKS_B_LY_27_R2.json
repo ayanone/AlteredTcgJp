@@ -1,0 +1,175 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_27_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB783VPW2C7657BXWCMKPM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME81DAMAQEHG9A9D939F5H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME81DAMAQEHG9A9D939F5H",
+          "text": "Celui qui regarde à l'extérieur rêve, celui qui regarde à l'intérieur s'éveille."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81E63AQFQ51QV3479FZA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME81E63AQFQ51QV3479FZA",
+          "text": "Il y a mille façons d'atteindre l'apothéose. Pour certains, il suffit juste de suivre son flow intérieur. Pour d'autres, il convient de se plonger dans le Chaudron de Cerridwen. Mais à chaque fois, le processus est le même : il faut se libérer des limites de son être. Je vous vois venir : quelle différence avec les Bravos me direz-vous ? Eh bien, il y a une nuance, une petite divergence qui change tout ! Les Bravos cherchent l'amélioration de soi, le dépassement, tandis que les Lyra visent le changement, la métamorphose, le passage d'un état à un autre. On peut aussi trouver une différence de philosophie : les Lyra accueillent les expériences pour les absorber comme une éponge ; les Bravos, au contraire, comme des épreuves pour se renforcer. Eux se bâtissent une carapace, et nous, un cœur à toute épreuve, aussi dur que le diamant.\n\nMais en réalité, la finalité est la même : ce qu'on recherche, c'est évidemment la transcendance. C'est pourquoi je suis là, à puiser dans mon Ignescence. Et en parallèle, je fais taire mon ego. Pour moi, ça a toujours été le meilleur moyen de devenir poreuse à toutes les idées qui existent dans le monde. Elles sont là, volatiles, à flotter dans l'air, et je les invite. Tout d'abord parce que l'hospitalité a toujours été dans les mœurs Lyra, mais aussi parce que, comme des billes, je les fais s'entrechoquer avec toutes celles que j'ai déjà collectées par le passé. Les idées se percutent, tapent les unes dans les autres. Parfois, les associations ne marchent pas. Parfois, l'impact crée une nouvelle petite bille jamais vue auparavant. Et parfois encore, j'assiste en mon for intérieur à la naissance d'une perle, que d'aucuns appellent l'inspiration. Et de ce feu, je vais nourrir mon spectacle !"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81DRGKWZM8N20B9D8CHR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME81DRGKWZM8N20B9D8CHR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81CBVZ8WZJQ8S8DN9ZQF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME81CBVZ8WZJQ8S8DN9ZQF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81CVVFGFRSHNE5J3WCXJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME81CVVFGFRSHNE5J3WCXJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB783VPW2C7657BXWCMKPM",
+      "reference": "ALT_COREKS_B_LY_27_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/cdb6bc1afbb3ece08e47",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6b9f37c876882ee7ef57",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/162e56ff2c688ee9e759",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:46+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Mind Apotheosis said \"(Don't activate any {h} triggers.)\". Future printings will say \"(Don't activate any {h} abilities.)\""
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/96ec6b4faa95eaf5c755",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-06-20T10:37:46+00:00",
+      "question": "Do the {j) and {r} abilities of the Characters put in play by Mind Apotheosis activate? ",
+      "answer": "The arrow {j} means \"when I enter the Expedition zone or Landmark zone\" (the player aids in starter decks simplify this into \"When I'm played from anywhere\"). In the case of Mind Apotheosis, cards are not played but put in the Expedition, but they do trigger their {j} abilities."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/fr_FR/b095bfc522e1bff668a6112a8cd9ae5d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_27/WEB_a6787636f8137557d249a869b101642f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_27/WEB_bd3eb48dd6309b94472c47a97213cd8d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_27_R2",
+  "reference": "ALT_COREKS_B_LY_27_R2",
+  "id": "01HN5TXRDT30TXZZ13QR19YN2Z",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/it_IT/598099e72f5fbbabbeb423aeec1dba8e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/es_ES/797b7ab7e099b20de8c8f5907ff9b8c5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/fr_FR/b095bfc522e1bff668a6112a8cd9ae5d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/en_US/4cfcc66424281f00fcf27931300a3020.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_27/JPG/de_DE/58ea9d6237fbd83548176b1308007591.jpg"
+  },
+  "name": "Apothéose de l'Esprit",
+  "elements": {
+    "MAIN_COST": "9",
+    "RECALL_COST": "9",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]].  Révélez les quatre premières cartes de votre deck. Choisissez jusqu'à deux Personnages parmi ces cartes et mettez-les dans vos Expéditions. Ils gagnent [[Fugace]]. Défaussez les autres cartes. (N'activez pas de capacités {h}.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-088-F-FR"
+}

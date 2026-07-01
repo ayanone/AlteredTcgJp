@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_18_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZTTK54M2JVN2QFQCJS6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5V89HKA2ABGWS5VDFM6N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5V89HKA2ABGWS5VDFM6N",
+          "text": "\"You can draw water out of a water-well, so I should think you could draw treacle out of a treacle-well - eh, stupid?\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5V94E77NHQDGZP0PNPJB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5V94E77NHQDGZP0PNPJB",
+          "text": "Nev refills my glass up to the rim, even though I try to stop her. My head is already spinning, and if I have one more glass, I'll definitely have trouble waking up tomorrow. As for Crowbar, there's no need to ask him twice. He gulps down a whole pint, and the liquid pours out of all the holes in his pumpkin head and soaks into his stage clothing. After he lets out a raucous belch, Nevenka collapses on the floor, laughing hysterically. I take the opportunity to transform the beer she served me into iced tea without her noticing. But I should have known it wouldn't work. As soon as she sits back on her stool, she starts to summon the Hatter, along with the Cheshire Cat, March Hare and others. OK, I get it, she caught my little trick. And, of course, what she whispers in his ear is nothing to do with a little snack or tea party.\n\nSuddenly, the table we were leaning on is covered with succulent dishes: strawberries topped with whipped cream, rum babas, eclairs made from chocolate, coffee and hazelnuts, floating islands, cake pops, doughnuts, clafoutis and buttery pancakes... Grabbing his teapot, the Hatter pours an unlikely series of liquids into countless cups: grape juice, mead, carrot soda, pineapple-beetroot cocktails... Rolling my eyes in resignation, I accept a cup containing a swirling purple liquid. I take a sip and immediately recognize it as a Stargazer, probably one of my favorite cocktails. Nev smiles mischievously but pouts with disappointment when I don't flinch after trying the drink. As for my Alter Ego, he gulps down the entire contents of his cup and then starts to belch flames as smoke blows out of his eye sockets. Ha! He probably drank an upgraded version of a good old Bravos Flamebreaker. Nev falls from her chair again holding her sides, pleased to have caught at least one victim in our little gathering."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5V8R4NSK0MQWV3FAG8QD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5V8R4NSK0MQWV3FAG8QD",
+          "text": "The Hatter is a character from Alice's Adventures in Wonderland by Lewis Carroll. He meets Alice while drinking tea, which he is condemned to do for eternity with the Dormouse and the March Hare because time has stopped for them. In Through the Looking-Glass, which continues Alice's adventures, he is depicted as one of the White King's messengers because his majesty needed \"one to come and one to go.\" He is often referred to as mad, and rightly so. At the time, many hatters lost their sanity due to their frequent use of mercury in their profession."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5V7FQV4XYSMR2PGJ77QJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5V7FQV4XYSMR2PGJ77QJ",
+          "text": "Fen"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5V7V7G3TRMZKA6KGARQP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5V7V7G3TRMZKA6KGARQP",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZTTK54M2JVN2QFQCJS6",
+      "reference": "ALT_CORE_B_LY_18_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6d7f5a7d45b8d01c8c39",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Citizen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1605e7165711855d9b46",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_18/JPG/en_US/4c431baec7df1bc6835e9480330f458a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_18/ALT_CORE_B_LY_18_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_18/ALT_CORE_B_LY_18_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_18/ALT_CORE_B_LY_18_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_18_R1",
+  "reference": "ALT_CORE_B_LY_18_R1",
+  "id": "01HKAFJNT211WA6YKPKMKK3D3B",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_18/JPG/es_ES/83720662bb578eaecad0ba6f15f39e90.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_18/JPG/it_IT/c9f5db17d9cef2075320e86feea136d5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_18/JPG/en_US/4c431baec7df1bc6835e9480330f458a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_18/JPG/fr_FR/7762eed30512731da76d416963a41447.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_18/JPG/de_DE/73589c511fe243495ce7025d2ed188ba.jpg"
+  },
+  "name": "The Hatter",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "#5#",
+    "MOUNTAIN_POWER": "#0#",
+    "FOREST_POWER": "5",
+    "ECHO_EFFECT": "{D} : Target Character with Hand Cost {3} or less gains [[Anchored]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-078-R-EN"
+}

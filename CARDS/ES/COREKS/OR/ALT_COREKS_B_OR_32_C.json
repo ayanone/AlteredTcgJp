@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_32_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79BE31NNDNDR5TJSRS09",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME898FV9TXM57F2TS84BNA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME898FV9TXM57F2TS84BNA",
+          "text": "Los reclutas son el pilar del ejército de Ordis."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME899VKGDEPCTTB7KENJV8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME899VKGDEPCTTB7KENJV8",
+          "text": "I pass Gulrang, who is frowning as usual. I don't know what her problem is, but every time I walk into a room, I'm met with an ice-cold draught that comes straight from her direction. No matter. If she has a bone to pick with me, we'll have the chance to sort it out in the field. I turn to Commodore Jeanty and smile politely while introducing a recruit called Nosk. Nosk gives me a bored look, and I understand why. This is clearly a dreadful waste of time, but propriety and civility must be maintained, of course. The general staff want what they want. You just need to play by the rules, smile at the jokes and bow when it's expected. If they want to preen under the pretext of boosting the troops' morale, so be it.\n\nI wink at Sunisa as I pass her. I see my aide-de-camp roll her eyes and suppress a smile. Because of her impressive performance, I put in a personal request to Admiral Singh to have her as my assistant. But it was her impertinence that really won me over. I was unsure at first. With the top-of-the-class aura she gave off, I didn't know if we would get along. But it turned out she always had an answer to everything, and was certainly never at a loss for words. That inspired me, and it was clear from that moment on that we had excellent compatibility in the field. I needed someone I could fully trust and who was independent enough to know what needed to be done without my input. And on top of that, Wingspan liked her too."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89952JFXFB6H76C59BVZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME89952JFXFB6H76C59BVZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89743B1NPQCVSYJ84R2Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME89743B1NPQCVSYJ84R2Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME897TAGVJVBAV2K59EM48",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME897TAGVJVBAV2K59EM48",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "01HPMB79BE31NNDNDR5TJSRS09",
+      "reference": "ALT_COREKS_B_OR_32_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Ficha de personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1fdf407f2f0253a5ed27",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldado"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ad261a0cc57d44dc2edc",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/02a11fd0a3b071dfd5b4",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-03-01T10:37:50+00:00",
+      "question": "What are the differences between the two Ordis Recruits?",
+      "answer": "The difference is only in the gender of the Character and the illustration, and has no game effect. In German for example, cards that mention \"Ordis Rekrut\" can create \"Ordis Rekrutin\" instead."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_32/JPG/es_ES/4e1569f047a01124e662a89cb87b1a4d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_32/WEB_07963c2d15d8c2b3101c6db5b5e332bf"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_32_C",
+  "reference": "ALT_COREKS_B_OR_32_C",
+  "id": "01HPF1BM35BKMMP2GVAR8Q39DN",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_32/JPG/de_DE/a1d62a2b279c589ead4b1706b5e920af.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_32/JPG/it_IT/a8a72685f5c8ebc8bdd214496d3236d9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_32/JPG/es_ES/4e1569f047a01124e662a89cb87b1a4d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_32/JPG/en_US/13c633bda6c32e1f33df2c4407e8e900.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_32/JPG/fr_FR/365672e1333dfa08e5a663935916a005.jpg"
+  },
+  "name": "Recluta de Ordis",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "(Si abandono la zona de expedición, retírame del juego.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-184-T-ES"
+}

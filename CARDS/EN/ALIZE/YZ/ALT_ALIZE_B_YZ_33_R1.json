@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_33_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3T51JE1G8B9F9BX7CN3EFB6G4Y",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2AEH6F3WM7D9Z3P58TQ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2AEH6F3WM7D9Z3P58TQ5",
+          "text": "...They build their ice cocoon to turn ethereal."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AGP0JF3T3GBH1R7TVKX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2AGP0JF3T3GBH1R7TVKX",
+          "text": "I feel Lindiwe asking me for a short break so she can just be herself, and I grant her request. We are alone in the wooded expanse of the taiga, and there's no harm in letting her take control of her own existence for a few minutes, or even a few hours, if I'm in a permissive mood. Her shoulders sag as I let her retake some measure of control over her body. Tears run down her cheeks as I settle into the background. But her spirits remain strong. She stumbles, then starts touching the snow. She knows she doesn't have much time, so she'll have to make the most of it. She looks left, then right. The Arcolano Milk flowing through her veins gives her a view of an immaculate land. She touches the trunk of a birch tree and breathes in its scent, savoring this brief moment of freedom.\n\nThen she sees a small, nearly transparent chrysalis on a branch. Ah, a Mana moth. I feel a knot form in her stomach as she realizes she's not so different. She, too, is waiting to emerge from her cocoon, from her prison. But I remind her with a thought that as long as I'm her jailer, it is I who decides when she can leave and when she must remain in her cell. Defiant, she concentrates her Mana and breathes it into the nymph. Perhaps it's an act of rebellion for her, to use the Mana I've gathered on such an insignificant action. But I allow her to do it. Almost immediately, the chrysalis splits open, and a moth emerges from it with a series of pushes. Is this really how she wants to spend her free time? Ah, but now I understand. This creature can truly be free, unlike her. So she watches, intoxicated, living vicariously through the emerging moth. She knows perfectly well that I will never release my grip on her…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AG2FHRPVGQ917QG44A3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2AG2FHRPVGQ917QG44A3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AD64BFP1WC60D942FAK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2AD64BFP1WC60D942FAK",
+          "text": "MAW"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2ADWE9ZPGT1QQDT845C1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2ADWE9ZPGT1QQDT845C1",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "3T51JE1G8B9F9BX7CN3EFB6G4Y",
+      "reference": "ALT_ALIZE_B_YZ_33_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/be3a8f43f8dc5f0d484c",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/538f51a23349e4fb6356",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/en_US/ccc73292bb55e40694fbfbd0b3bc620b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/WEB_400fd54a644da01c50ca1e1399d96200",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/WEB_cf148154922041962fd95b2854353ed4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/WEB_a8bf2ac3f915697d387d97068f3ae423"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_33_R1",
+  "reference": "ALT_ALIZE_B_YZ_33_R1",
+  "id": "01J1Q4P4SS1510DW0H3674JC8F",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/it_IT/643f4dc0dc4aaef588f9188e62f71917.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/en_US/ccc73292bb55e40694fbfbd0b3bc620b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/de_DE/875c6417c7d56734e3dfea5559218da9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/es_ES/9598343e4c94038a255f04b16b061057.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/fr_FR/8f6a864e50a2fb6ab6ae4c06375fe19b.jpg"
+  },
+  "name": "Chrysalis",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "#2#",
+    "MAIN_EFFECT": "[Defender]. (My Expedition can't move forward during Dusk.)  When I leave the Expedition zone — Create a [Mana Moth 2/2/2] Illusion token in my Expedition.",
+    "ECHO_EFFECT": "#{D} : Exhaust target card in Reserve.# (Discard me from Reserve to do this.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-089-R-EN"
+}

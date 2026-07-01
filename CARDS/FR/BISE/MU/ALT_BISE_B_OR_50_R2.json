@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_50_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/73KB7K5C648MSBM7PCZHCFVX6M",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A8X3670D9F9KCQADZYQQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A8X3670D9F9KCQADZYQQ",
+          "text": "Il a une fâcheuse tendance à vous assommer de chiffres."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8XV47CW7KT17T35PYEG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A8XV47CW7KT17T35PYEG",
+          "text": "393 AC - À chaque fois qu'une personne est appelée, le comptable annote et griffonne sur son long rouleau. Nombre de rations, quantité de Kélon allouée, matériel fourni... Il consigne qui est affecté où, dresse le détail des effectifs de chaque équipée. Nous avons besoin de ce décompte exhaustif, afin de rationaliser nos efforts logistiques. Peu le savent, mais la traversée du Storhvit a été coûteuse. Il a fallu tirer sur la corde, optimiser les allocations de matériel en fonction des besoins, en étudiant chaque mission pour ne fournir que le strict nécessaire. Nous nous sommes consciemment retenus de demander le soutien d'Asgartha. Le faire aurait voulu dire prendre le risque que l'Effort de Redécouverte ne soit vu que comme un gouffre financier. Et cela, nous ne pouvons nous le permettre alors que se préparent les élections. Nous nous devons de mettre toutes les chances de notre côté, même si cela veut dire se serrer la ceinture. Même si cela veut dire mettre quelques expéditions en difficulté, voire en danger.\n\nEt j'avais dû faire bien des concessions. Le fait que Sigismar ait fait jouer ses relations pour resserrer les cordons de la bourse de l'Isura n'avait pas aidé. Heureusement, grâce à Mack, j'avais eu le temps de prendre mes dispositions et d'adapter mon complexe montage financier, que ce soit par le biais de sources de subvention alternatives ou en puisant dans mes fonds propres, le cas échéant. Je ne pouvais pas lui en vouloir, au final. Il croyait bien faire, et ignorait que je détournais certains capitaux pour les réinjecter dans le rêve d'Avkan. Mais cela n'empêchait pas que nous étions passés très près de la banqueroute... Je soupire. Alors que le trésorier continue d'inventorier méticuleusement les dépenses, j'ai la désagréable sensation qu'un élément m'échappe, ou d'avoir oublié quelque chose de crucial. Je grommelle, et essaie tant bien que mal de mettre cette idée fixe et tenace de côté."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8XFBZKHZJ67B1JPD45S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A8XFBZKHZJ67B1JPD45S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8VANJN8X35D23YZXWZ4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A8VANJN8X35D23YZXWZ4",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8WRJ6GMKC6KFBY935WN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A8WRJ6GMKC6KFBY935WN",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "73KB7K5C648MSBM7PCZHCFVX6M",
+      "reference": "ALT_BISE_B_OR_50_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7191a4d9cdfb60563eec",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrate"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e0b9c217d4f9fc823d00",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/fr_FR/c4c0c73953feb2e77055dec97389519e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/WEB_9e1a2ab9f9249df46116e89857ab4c20",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/WEB_c6f8aa7f5f2261908ff9c5e5e8b4078b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/WEB_4d3e6da838cc6b48060db36da7d4a6f8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_50_R2",
+  "reference": "ALT_BISE_B_OR_50_R2",
+  "id": "01JB1YGPBTT5JGRK84ET2EKYTB",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/de_DE/c8c6f8ae7ce7f5a3f74d75b51902f857.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/es_ES/12279ebe0131cc6428000c35e6214a3f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/it_IT/86c84d794cd8a275bde2a3e2c756d1f8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/fr_FR/c4c0c73953feb2e77055dec97389519e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/en_US/187068c09a3ce786fa97edff113eb0ca.jpg"
+  },
+  "name": "Comptable Ordis",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{R} Vous pouvez dépenser 1 de mes boosts pour qu'un Personnage ciblé gagne [[Endormi]]. #Vous pouvez lui donner 2 boosts.#",
+    "ECHO_EFFECT": "{I} #À Midi# — Je gagne 1 boost, jusqu'à un max de 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-073-F-FR"
+}

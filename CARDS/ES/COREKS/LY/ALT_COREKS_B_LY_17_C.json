@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_17_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB782X6H6XTB2EYS4KVADX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME80J6PCMQQJ5JW0N1XWHP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME80J6PCMQQJ5JW0N1XWHP",
+          "text": "La casa nunca pierde."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80K0BGR3P3ZJX0D5RP1E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME80K0BGR3P3ZJX0D5RP1E",
+          "text": "Emotionless. Just remain emotionless. I look at the croupier and her necklace, which must have cost a fortune on its own. And then there's her tiara and her solid gold earrings, plus an extravagant outfit by a master fashion designer. Hmmm. I had no idea working in a casino paid so much. Is it the tips? A percentage of the winnings? Or maybe she's the owner's grandmother? Ha! Can't be easy to do all that adding, subtracting and calculating probabilities. Aaaaaaaah! I suck at probabilities!!! And the fact that Blotch is cackling like a farm bird while cruising around the walls like an animated fresco isn't helping my concentration at all. With her enigmatic little smile that's been annoying me since the start of the evening, the croupier places a card down on the game table, almost delicately, like placing a bouquet of flowers on someone's grave.\n\nShe seems aware of her superiority. What is it they say? The house always wins? That means she won't mess around. But perhaps she thinks I'm bluffing with my bemused look and my astronomical losses, and that now I have my trump card in my hand. And if that's the case, she'll tread carefully. Unless she thinks I'm pretending to be trapped to make it seem like I'm in a weak position, to make her think I'm in a strong position when I'm actually in a weak position... so in that case... Hmmm. I lost track of where I was going with that. Aaaaah. Should I ask Blotch to discreetly look at her hand? It's not like I've ever done that. Or maybe I could use a little Alteration to transform this three of clubs into an ace of spades? At the end of the day, who really gives a shit? You just have to take your chances, right? I lay my cards down on the table and burst out laughing. Strategy has never been my strong suit, anyway!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80JMGTJW7GPYWWJQXT76",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME80JMGTJW7GPYWWJQXT76",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80H5P0JWD1DCNKG04AVR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME80H5P0JWD1DCNKG04AVR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80HQ901KRJ4C4PQ33HD4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME80HQ901KRJ4C4PQ33HD4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB782X6H6XTB2EYS4KVADX",
+      "reference": "ALT_COREKS_B_LY_17_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5bbb03d07252f159e0e6",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Ciudadano"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/da4101161a2ca5465eb0",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/JPG/es_ES/ade98fcc7148a1e67d951e5e4ef4d61c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_17/ALT_CORE_B_LY_17_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_17/ALT_CORE_B_LY_17_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_17/ALT_CORE_B_LY_17_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_17_C",
+  "reference": "ALT_COREKS_B_LY_17_C",
+  "id": "01HN5TXRBV85HQPRQN55VASXDV",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/JPG/de_DE/ffbe91f4d05b31ef4055b53628dfa9d4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/JPG/es_ES/ade98fcc7148a1e67d951e5e4ef4d61c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/JPG/fr_FR/5aa9bcf371487e95d1a4eb9e3dd0b706.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/JPG/en_US/f2ebdf3a353099e797b7d586c6074c7b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/JPG/it_IT/649c0cbbf9dfe5de3acc6ba9bfb11b62.jpg"
+  },
+  "name": "Crupier del Uroboros",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "{H} Tira un dado. Si sacas 4+, roba una carta. Si sacas 1-3, [reabastece]. (Coloca la primera carta de tu mazo en la reserva.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-077-C-ES"
+}

@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_16_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB799Z4N6FMYK5QYKWGWMM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME87AZN5TX4XKY1N0H7MZV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME87AZN5TX4XKY1N0H7MZV",
+          "text": "« Objection ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87C8AD2YHH81JZW2QAAE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME87C8AD2YHH81JZW2QAAE",
+          "text": "Les palabres vont bon train au sein du Tribunal. La juge abat son maillet pour ramener le silence dans la salle. L'avocat de la Misericordia s'assied à mes côtés, et sa mine est bien sombre. Il sait sûrement que la partie est pliée d'avance. Il faut dire que mon attitude revêche ne m'a pas aidé à m'attirer la sympathie du jury citoyen. Je maintiens sur mon visage un masque de dédain et d'arrogance, toisant les jurés avec morgue et dégoût. Autant jouer à fond la carte de la détestation. C'est au tour de la procureure de se lever, toussotant pour s'éclaircir la voix. Elle est encore jeune, et semble flotter dans son ample tunique. Alors qu'elle avance vers le pupitre, son porte-clés en forme d'ours cliquette à chacun de ses pas. Ses robes effleurent le sol quand elle se hisse sur le dais, tandis que sa chevelure blonde tangue nonchalamment dans son sillage.\n\nMais malgré ses traits innocents, sa diatribe à mon encontre est sévère. Ses arguments font mouche, bien entendu, et elle les assène comme autant de coups de gourdins. Il y avait suffisamment de preuves pour me faire condamner : des tentatives de corruption, des menaces, et aussi des pots de vin. Elle revient extensivement sur mon entrevue avec Robin des Bois, durant laquelle j'ai tenté de forcer la main de l'institution bancaire de l'Isura. Bien entendu, j'avais fait courir la rumeur qu'il y avait une taupe au sein de mon parti, un délateur dans nos rangs. Mais personne ne savait que ce traître, c'était moi. La procureure se tourne vers le juge pour demander ma radiation immédiate et une inéligibilité de cinq ans pour mes actions. Et cela me convient parfaitement. Cette sentence allait fortement ébranler les opposants d'Avkan dont j'étais la tête de pont, et lui ouvrir une voie royale pour concrétiser son rêve — notre rêve."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87BJGGTE2DNJQFSQ4H35",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME87BJGGTE2DNJQFSQ4H35",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME879HW8WCXH31V2EEME48",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME879HW8WCXH31V2EEME48",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87A774YDJ69TYVFQT4CG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME87A774YDJ69TYVFQT4CG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB799Z4N6FMYK5QYKWGWMM",
+      "reference": "ALT_COREKS_B_OR_16_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/487389492b6924399fff",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrate"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ec2a89b0178c2f2e184b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/26d01a63685b39f4aec1",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:37:49+00:00",
+      "question": "What happens during tie-breaker if Ordis Attorney is in my Expedition, but neither player wins and there's a second tiebreaker Day?",
+      "answer": "In the Arena, Expeditions don't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant. The Expedition of Ordis Attorney cannot \"fail to move forward\" so it has no effect."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_16/JPG/fr_FR/5816fc38f040eb4c84bdcb0c12d3692f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_16/ALT_CORE_B_OR_16_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_16/ALT_CORE_B_OR_16_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_16/ALT_CORE_B_OR_16_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_16_C",
+  "reference": "ALT_COREKS_B_OR_16_C",
+  "id": "01HN5TXRG493HQJSMYJ2SMJJDZ",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_16/JPG/de_DE/e4c1d5e8fe68f7b59bb14c130b3958d2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_16/JPG/it_IT/b97134f88269a8b2c53c7b6cc3da2073.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_16/JPG/es_ES/6cfe43074ad31b88b5c2fad176809cbd.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_16/JPG/fr_FR/5816fc38f040eb4c84bdcb0c12d3692f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_16/JPG/en_US/069e844bb70361b2301866dd9fdccf75.jpg"
+  },
+  "name": "Procuratrice Ordis",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "Lorsque mon Expédition n'avance pas pendant le Crépuscule — Piochez une carte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-134-C-FR"
+}

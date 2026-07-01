@@ -1,0 +1,174 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_31_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50F4909VM9Y0P43RF139",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH679RM2RTP6RM8AN4PBQX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH679RM2RTP6RM8AN4PBQX",
+          "text": "Toujours avide de nouvelles idées."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH67AZEXQ9R3SXTZV2CWYE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH67AZEXQ9R3SXTZV2CWYE",
+          "text": "La faim... Elle est toujours là, comme un vide qui n'aspire qu'à tout dévorer. Je ne peux que l'apaiser un temps, mais elle revient toujours, exigeant son dû, grondant pour qu'on lui fasse une nouvelle offrande. Elle est là, comme un gouffre. Elle est là, comme une maîtresse que jamais rien ne vient contenter. La faim... Je sais que rien — aucun sacrifice, nulle libation — ne parviendra à lui faire ressentir une quelconque sensation de satiété. Elle est là, comme une gueule ouverte, aux crocs acérés. Elle est là, avec pour objectif, à terme, de tout engloutir. Car elle sait qu'il y a ici une pitance bien plus nourrissante qu'un chapelet d'idées. Elle dévore. Elle broie. Elle salive à l'idée de son prochain festin..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH67AB6GJJWCYED5743WNV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH67AB6GJJWCYED5743WNV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH678J9XNM4EGMQ56SV693",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH678J9XNM4EGMQ56SV693",
+          "text": " Lindiwe"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6795Y8S9A8KRBQYTRRZB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH6795Y8S9A8KRBQYTRRZB",
+          "text": "376 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "01HNGY50F4909VM9Y0P43RF139",
+      "reference": "ALT_CORE_B_YZ_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Jeton Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ffa3855c78427d17aa9f",
+      "reference": "COMPANION",
+      "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
+      "name": "Compagnon"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9041f452e554f6bc9e64",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/a1d81a710110dff3ab49",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-05T10:37:44+00:00",
+      "question": "What happens if Maw leaves the Expedition zone?",
+      "answer": "It's removed from the game, like any other token."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/e1aa3fae310761a6ce0e",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-07T10:37:45+00:00",
+      "question": "If I sacrifice two Characters simultaneously, for example with the Kraken, what happens to Maw?",
+      "answer": "Maw gains 4 Boosts."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_31/JPG/fr_FR/bdadf50f9179c503a6ddf5e76b98d148.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_31/WEB_6d19b768e8ecaaa3638f04f0b1acd537"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_31_C",
+  "reference": "ALT_CORE_B_YZ_31_C",
+  "id": "01HKAFJP5YPC43E267MNH6GQDP",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_31/JPG/fr_FR/bdadf50f9179c503a6ddf5e76b98d148.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_31/JPG/it_IT/61282b759f72ae18101be0078790c7a5.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_31/JPG/es_ES/dc059d77a2699040dc200f9bb7170831.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_31/JPG/en_US/2a5bb6c4f54b5d1354e24d46315ae9dd.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_31/JPG/de_DE/d2e72dd6dd877e7e9d50fd32f9a70648.jpg"
+  },
+  "name": "Maw",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "Lorsque vous sacrifiez un Personnage — Je gagne 2 boosts."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-185-T-FR"
+}

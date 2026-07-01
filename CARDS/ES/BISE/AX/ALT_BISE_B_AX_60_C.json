@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_60_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7KX1E9SH8C850RZXP345SMVVAQ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4DZMD1K384BDA2D7P21",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4DZMD1K384BDA2D7P21",
+          "text": "La savia fluye por toda la ciudad como la sangre en las venas de un mortal."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4EBMMD2GD1N8RYDJXC1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4EBMMD2GD1N8RYDJXC1",
+          "text": "393 AC - Marmo wakes me. I must have slept through my alarm. I quickly put on my suit and head out without grabbing a coffee. I know the supervisor was counting on me being there at dawn. The first containers of Sap were supposed to go out this morning. As I rush to the refinery, I hear the mechanical rattle of chains hauling out cylinders full of processed Sap. The delivery teams are stacking the carefully packed crates, ready to be sent to the various sites: the farm, mess, airfields, factories and workshops. I notice amber glimmers emerging from the ground. I climb the ladders and hurry across the newly riveted steel platforms. Everything has been recently installed and is shiny, sparkling and new — the fruit of Axiom expertise. It's a technical marvel that honors the whole Faction. I descend the stairs four steps at a time and arrive at the end of the production line.\n\nAs usual, the supervisor is on the mobile platform. He consults his readings and compares them with the data displayed on the various screens. I gesture to him, a sort of silent apology for being late. He shoots me a quick smile, then returns to his checking. It looks like everything has been going well, even without me. I take the opportunity to check the production automation mechanisms. The technicians have done a great job. Transforming this Kelon refinery into a Sap refinery was a spectacular achievement! And that's in addition to the raw-material pumping installation that plunges down into the City of Scholars to bring up the precious liquid. I imagine all the collectors placed at different strategic locations in the Undergrowth or the Tomb… And all of it fussed over by an army of dedicated technicians. With all this Sap flowing, the City looks like a new beating heart."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4E530N4WQR9E1YMK1J9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4E530N4WQR9E1YMK1J9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4DM9J17RAHV34RQKFNQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4DM9J17RAHV34RQKFNQ",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4DSY3TZ20DQD9DFJDFA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4DSY3TZ20DQD9DFJDFA",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "7KX1E9SH8C850RZXP345SMVVAQ",
+      "reference": "ALT_BISE_B_AX_60_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/80d082487f9774117edc",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construcción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5c812e53c62376598166",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/es_ES/3450c9d6b214a80fd8154a3b6575a81c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/WEB_8edf91f59624fa823b9f861c4a60d0b8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/WEB_92d1bdca5e48d8f7e7aa444c0e0dfcb2"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_60_C",
+  "reference": "ALT_BISE_B_AX_60_C",
+  "id": "01JB1YGPB6T61E0YAFG5S1GH8K",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/de_DE/efc4dc6772431b616c7755e1e7dd53b8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/it_IT/bbfe6ddf2ff64e99d87c25ef0741dc13.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/es_ES/3450c9d6b214a80fd8154a3b6575a81c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/en_US/caf0af87c5e190ce77b5755ccc835735.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/fr_FR/5761c203cba557f12b9141d6aeb9069b.jpg"
+  },
+  "name": "Extractor de savia",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "Al mediodía — Puedes [Aumentar] una carta objetivo en juego o en reserva. (Si tiene contadores, gana uno más. Esto no puede hacer objetivo a cartas de héroe.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-015-C-ES"
+}

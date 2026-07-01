@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_28_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7988A2RQQWVTJ8K1WVKB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME855Z58XTEMABRB3SC1Q2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME855Z58XTEMABRB3SC1Q2",
+          "text": "Yet beware of splinters of flax."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME85734M1H4KE1QCN54HE9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME85734M1H4KE1QCN54HE9",
+          "text": "It's an odd sensation. I know I'm sleeping. I'm right where I closed my eyes, leaning back against the big ginkgo biloba that overlooks the valley. Its yellow leaves twirl as they fall, like a golden rain around me. I feel them hitting my skin more than I see them. The same goes for the goats passing by not far away. I hear the soft sound of their chewing, and of their hooves brushing the ground as they walk on the hillside. I'm asleep, but at the same time, I'm there, existing in the world as never before. And what is that muffled hammering I hear? Through the thin membrane my skin has become, I feel it spreading into my being, like an echo of the sap rising in the tree. As though I were feeling the blood pounding in my veins.\n\nBut it isn't my blood, nor even my slow breathing. It's something more diffuse, as if buried deep beneath a layer of matter. Like roots of light creeping into me and flooding me with warmth. No, not of light... of existence. Yes. I feel myself existing and becoming one with everything around me. I sense my being, embedded in a twisting tapestry that doesn't end at the boundary of my epidermis. I feel at peace, with the world and with myself. I awake suddenly, abruptly open my eyes. The sensation of wholeness is receding. It's like a gentle embrace is loosening, and I don't want to let it go. Back in my body, a sense of distress fills me then, like a wave coming over me. But at the same time, I feel like a spark has been lit within me."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME856HSPVBTHWS27NFYAT3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME856HSPVBTHWS27NFYAT3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME854T3ERVK32ZY40RM122",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME854T3ERVK32ZY40RM122",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME855DZJG0YM80W41RVDW1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME855DZJG0YM80W41RVDW1",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB7988A2RQQWVTJ8K1WVKB",
+      "reference": "ALT_COREKS_B_MU_28_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/700c7dbacf434ac039ee",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disruption"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1a43951852d4a5858142",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_28/JPG/en_US/b053c3c4e55fff2c6ad275ad1022c3b0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/WEB_bdfdeecfbbcc364b68b6b21c7e300409",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/WEB_8b29f05b33e391760a3d8f0828ecb327"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_28_R1",
+  "reference": "ALT_COREKS_B_MU_28_R1",
+  "id": "01HN5TXRSX86YKJECFFTDDF83F",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_28/JPG/de_DE/77a055e5481a9e623e49c966a3014eb0.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_28/JPG/it_IT/d4bd8b8ea9e896fcfec7b96ab403346c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_28/JPG/es_ES/eb232116e2c1cb32525689d3cffb1bc8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_28/JPG/en_US/b053c3c4e55fff2c6ad275ad1022c3b0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_28/JPG/fr_FR/56a7ffc4b323860595947b470784fb74.jpg"
+  },
+  "name": "Beauty Sleep",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Target Character gains [[Asleep]]. #You may give it 2 boosts.# (During Dusk, ignore its statistics. During Rest, it doesn't go to Reserve and it loses Asleep.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-115-R-EN"
+}

@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_55_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/000HP66DY18JKR40Y48QFGC6V6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1ABTWRF8E7ZC3KSFPYKXM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1ABTWRF8E7ZC3KSFPYKXM",
+          "text": "Knowledge is power, but secrets are paramount."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABVQSDKS3KZHYVP5MQHN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1ABVQSDKS3KZHYVP5MQHN",
+          "text": "393 AC - I feel an overwhelming shiver run through me as I wander through the Spires looking for Saskia. Her message was clear and promising: the was working on a type of leech that could possibly drain the effects of Remanence before the symptoms even appear… But this sudden sensation makes me slow my pace and take a different path. I push open the heavy door that leads to a workshop swimming in the shimmering vapors of Mana. A tattooist is applying Aether patterns directly to his skin. The Gephyromancer glances up at me with his glassy eyes, then goes back to his task. But it's the Mage sitting topless in the center of the room who catches my attention. He is covered in Sigils too, so much so that my overloaded Irises have trouble focusing on who he is. However, a name comes to me through the noise: Sylas.\n\nAs if I'd spoken his name, he looks up at me and spreads his arms as if to welcome me. He doesn't look annoyed at all, even though I'd just interrupted their magic strengthening session. I lower my eyes, feel my cheeks flush, and stammer a few words, obviously unsettled by his enigmatic aura. I quickly leave, closing the door behind me before he can talk to me. I'd obviously barged in somewhere I wasn't expected… What exactly was their Lodge working on? Sigils, by the look of it, but those ones seemed strange and unique. I feel a hand on my shoulder, which startles me. As I turn around, I let out a sigh of relief. Saskia looks at me quizzically, tilting her head to one side and narrowing her eyes, as she does when she's surprised by my reactions. For a split second, she casts a stony look at the door I've just closed, then her face brightens again."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABVAV7RC8ZADECYG7N0P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1ABVAV7RC8ZADECYG7N0P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABRT46G10JEKFK8ZBGWX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1ABRT46G10JEKFK8ZBGWX",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABTFGJ4WNH0WVJWB62XW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1ABTFGJ4WNH0WVJWB62XW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "000HP66DY18JKR40Y48QFGC6V6",
+      "reference": "ALT_BISE_B_YZ_55_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ba526fe34b402689f3c5",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mage"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9e5d8039e5f35adedb35",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/en_US/544d4d1b4eaa5a2de2f2e01835196a3f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_b039cc991e83d57c86b74a3515a527fa",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_cc4bdb7be6eb70c2e7bef2a44f484108",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_e694866d860fbf0d064b68e1ded540e7"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_55_C",
+  "reference": "ALT_BISE_B_YZ_55_C",
+  "id": "01JB1YGPC2Q3NTVGMMSJ2VZ6ZN",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/it_IT/a08fb3386d4a3814a854547a3a1cb2c3.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/en_US/544d4d1b4eaa5a2de2f2e01835196a3f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/de_DE/7b1bda7e3e6c212b5a240d5dd2686c38.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/es_ES/aa5c17f0964f17e5cebbef5a51195ced.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/fr_FR/95abc59a3bee8947c3d5640d4103a012.jpg"
+  },
+  "name": "Sylas, Cryptic Warlock",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "{H} Draw a card.",
+    "ECHO_EFFECT": "{I} When you play a Spell — I gain 1 boost, up to a max of 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-094-C-EN"
+}

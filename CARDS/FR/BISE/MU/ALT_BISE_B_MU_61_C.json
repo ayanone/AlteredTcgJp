@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_61_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3RQ60CMQ0K80CAP31EG8EK3S8J",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A80ZFKDMQVX867RRVKJK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A80ZFKDMQVX867RRVKJK",
+          "text": "La faim justifie les moyens."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A81MMG02RHRGS1N5V65N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A81MMG02RHRGS1N5V65N",
+          "text": "393 AC - Je sirote mon verre en l'attendant. Nul doute que des formalités administratives sont en train de l'accaparer à l'hôtel de ville. Alors que je suis attablée, j'observe la foule autour de moi. Le Mess n'est pas bien rempli, aujourd'hui — quasi vide, en réalité. Peut-être que peu ont eu le droit à une permission, maintenant que l'exploration du sous-sol a pris son rythme de croisière. Mais il y a là quelques familles, dont des enfants encore en âge d'aller à l'école. Ils ne sont pas très nombreux, mais  pour une poignée d'individus-clés, à des rôles décisifs, certaines dérogations avaient été accordées pour ne pas séparer les familles. J'avais d'ailleurs récemment pu discuter avec quelques précepteurs en charge des bambins, qui s'étaient plaint que depuis notre arrivée dans la Chape, beaucoup faisaient l'école buissonnière. Et rien de plus normal, après avoir dû rester calfeutrés dans l'Ouroboros pendant des mois. Le grand air était une tentation contre laquelle il était difficile de lutter.\n\nÀ côté de moi, deux garnements passent leur commande. Eux ont la chance de pouvoir venir au Mess aux heures creuses pour éviter les cohues, et Hestia se montre toujours généreuse quand il s'agit de menus enfants. Bien trop généreuse, à mon humble avis. Mais je peux déjà l'entendre me répondre que l'alimentation est cruciale, surtout à cet âge, et qu'une tête bien faite commence par un corps bien repu . Et quand je vois les plâtrées qui sont déposées face à eux, je ne peux m'empêcher de lever les yeux au ciel en souriant. Le pire, c'est que Nauraa est d'accord avec elle. Je peux même l'entendre agréer mentalement en mon for intérieur. Heureusement, la production journalière au sein de la Ferme permet de garantir des portions gargantuesques. Une main se pose sur mon épaule et je me retourne en souriant."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8195C4H3THKG7NHXDH3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A8195C4H3THKG7NHXDH3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7Z9M565HYPR1K81ZVXC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A7Z9M565HYPR1K81ZVXC",
+          "text": "TEIJA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A80M7D7AFSR7WNJNTFFR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A80M7D7AFSR7WNJNTFFR",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "3RQ60CMQ0K80CAP31EG8EK3S8J",
+      "reference": "ALT_BISE_B_MU_61_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/286f09b3249a188f8941",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f3f221b442a4e4c9442b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/fr_FR/42f6bd8cd4e68f2b396ac867ca47b5c7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/WEB_07da4e7a1ecdf4499b537ab49f3c5976",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/WEB_fc14ae450c7f49b7bbe4ac57b0bc6eca"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_61_C",
+  "reference": "ALT_BISE_B_MU_61_C",
+  "id": "01JB1YGPBRF2KJ5JP3F6R3P3AD",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/es_ES/f2275a34680bb7c70b6b25d22b97d96e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/de_DE/ea793078cf53d2b61c9420669da23bb2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/it_IT/2f64fbfb2fac0f99804356bc9b55555b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/en_US/c607544365047d3a11856b3567d61467.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/fr_FR/42f6bd8cd4e68f2b396ac867ca47b5c7.jpg"
+  },
+  "name": "Nourrissement",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Piochez une carte.  Chaque joueur met la première carte de son deck dans sa zone de Mana (en tant qu'Orbe de Mana épuisé)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-066-C-FR"
+}

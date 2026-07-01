@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_29_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79E48VXYKF5NCV3FK15E",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8DSR73V0PN9NRRY4S6GH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8DSR73V0PN9NRRY4S6GH",
+          "text": "No mere trinket, but a fragment of purest dream."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DVHDTNQRQCKE8WSMT6X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8DVHDTNQRQCKE8WSMT6X",
+          "text": "It's now Matera's turn to come forward. Her shoulders are tense and her steps hesitant as she collects her hammer and chisel from Flamel. She gives me a discreet glance, and I nod to reassure her. She sighs and takes a few steps towards the Megalith, which pulses with an amethyst glow. After this ceremony, she'll officially be an Yzmir Initiate. After this formality, she'll be my equal. I watch her hold her breath. In front of her, the meteor of Aether throbs intimidatingly in the gloom. She places the point of her chisel on its surface, taking care to target a little lump. Then she takes a long breath to calm her nerves, raises her arm... and strikes with the hammer. The metallic clink resounds around the vast chasm and reverberates in a thousand echoes. The fragment that was cut from the Megalith falls to the ground, and she bends over to pick it up.\n\nThis tear-shaped stone will help her channel her magic more effectively. But suddenly, I see her hesitate. Next to her, the Megalith has started to tremble and pulsate furiously. Matera quickly grabs the shard, then takes a few steps back. She jumps when Flamel places a hand on her shoulder, but quickly realizes he's just moving her aside to give me the room I need. The trembling has become a rumbling. But I'm ready. I immediately place a statuette on the ground to summon one of the guardians of the Well of Tears. Matera watches me, hugging her fragment to her chest. The Disciples and newly inducted Initiates step back and begin to utter incantations to help me. The shards of the Megalith glow in the darkness, while iridescent emanations begin to dance in the air."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DTKG683GYJZZHJP9N9Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8DTKG683GYJZZHJP9N9Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DQ70NMRD33Q80AS3N5Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8DQ70NMRD33Q80AS3N5Q",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DRAH9515JYMTSY0T07G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8DRAH9515JYMTSY0T07G",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HPMB79E48VXYKF5NCV3FK15E",
+      "reference": "ALT_COREKS_B_YZ_29_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/61a414fd7edaf6686f28",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Landmark"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a94b100033b92de67131",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_29/JPG/en_US/76c15cd2a246372c90057cbc25c37266.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/ALT_CORE_B_YZ_29_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/ALT_CORE_B_YZ_29_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_29_R1",
+  "reference": "ALT_COREKS_B_YZ_29_R1",
+  "id": "01HN5TXRNSNWVAPA95JWHK3WHB",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_29/JPG/en_US/76c15cd2a246372c90057cbc25c37266.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_29/JPG/fr_FR/78400d50875a226c3211e26243f97e55.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_29/JPG/de_DE/fcc0a7996fdbb1f844cb86ed085b1f71.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_29/JPG/it_IT/e1e1d932b47c758888de9abb65caec3a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_29/JPG/es_ES/0dd490a258dc93421d7c12e028cbcce3.jpg"
+  },
+  "name": "Aether Shard",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "#{J} Draw a card.#  At Noon — Draw a card."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-179-R-EN"
+}

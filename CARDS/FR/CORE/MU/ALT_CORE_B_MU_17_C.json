@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_17_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY5072XQF2SPKQC644WG2P",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5XKEA42NCDJRE1WMKZEM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5XKEA42NCDJRE1WMKZEM",
+          "text": "Elle est l'âme de la forêt, la patronne de l'herboristerie. Avec herbes et racines, elle concocte de puissantes potions."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XMAVZBMYHPE2FH609EP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5XMAVZBMYHPE2FH609EP",
+          "text": "Elle écrase des herbes sèches dans son mortier, y rajoute des graines avant de moudre le tout en fine poudre. Quelques gouttes d'huiles essentielles, un peu de sève... la mixture devient une pâte poisseuse et odorante. Attentive, je regarde Aja préparer son onguent, tandis qu'à côté d'elle bout le contenu de son chaudron. Je cligne des yeux et me concentre sur ma propre décoction. J'attrape un bouquet de sauge, en broie quelques feuilles avec mon pilon. Dans un coin de la pièce, entre l'âtre et la fenêtre, Turuun fredonne doucement une vieille comptine, tandis que se diffuse la fragrance de la coriandre, du thym et du romarin. J'imite chaque geste de l'Eidolon, malaxe ma propre pommade, applique l'épais baume sur une bandelette récemment bouillie et stérilisée.\n\nAja s'essuie les mains et se tient à côté de moi, inspectant mon travail. L'Orisha hoche la tête, visiblement satisfaite. Peut-être que mes cataplasmes sont moins soignés que les siens, mais je ne peux m'empêcher de sourire et d'être fière de ce que j'ai réussi à faire pour une première tentative. Elle se met à les plier, puis les enveloppe dans de larges feuilles avant de les ranger dans des pochons individuels. Demain, nous les confierons à un marchand itinérant de l'enseigne Cornucoopia pour les acheminer vers le Refuge du Musc. Une fois tout empaqueté, je me tourne vers le chaudron, d'où émanent des relents de gingembre, de paprika, de cerfeuil et de clous de girofle. Le liquide glougloute en bouillonnant. Je me tourne vers Aja et lui demande à quoi va servir ce philtre. Turuun éclate alors de rire, tandis que l'Eidolon sourit à son tour. Je me sens devenir pivoine lorsque je réalise, honteuse. Ce n'est pas du tout une potion qu'elle est en train de préparer, mais probablement le ragoût de ce midi..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XKWMCW7N90NJ7ZSFS2Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5XKWMCW7N90NJ7ZSFS2Z",
+          "text": "Dans la religion Yoruba et certaines croyances de la diaspora africaine, Aja est l'Orisha qui veille sur les forêts et tous les animaux qui les peuplent. Il est dit que les chamans vont la trouver pour être formés aux arts de l'herboristerie, et ce pendant plusieurs jours ou de longs mois. Bienveillante, elle leur inculque son savoir, faisant d'eux de puissants \"Jujuman\", des soigneurs investis de magie, capables de fabriquer onguents et élixirs. On la nomme aussi \"Vent Sauvage\"."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XJK3JWB6H0Q7W62KKCB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5XJK3JWB6H0Q7W62KKCB",
+          "text": "Rin"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XK1H50KRNMWGAP3F4VR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5XK1H50KRNMWGAP3F4VR",
+          "text": "389 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY5072XQF2SPKQC644WG2P",
+      "reference": "ALT_CORE_B_MU_17_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/43169b0454cf323185bb",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/91dc95c319dc716d8df9",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/JPG/fr_FR/a7a2f8df8b466122c5af01c9cfeb01d8.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/WEB_e9dfa2246bdfdcad72a454f90a6f557b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/WEB_3a73f9609edb4ce1bfad6926de4e2b57",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/WEB_fd349e170967a1d1daaa77002ebdbbb6"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_17_C",
+  "reference": "ALT_CORE_B_MU_17_C",
+  "id": "01HKAFJP7PRWDSK2HXR108B1XQ",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/JPG/es_ES/c222b628a38862c9f94dae2a76fa9aa5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/JPG/en_US/e21650dec579a55da1d314a71d3e5006.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/JPG/fr_FR/a7a2f8df8b466122c5af01c9cfeb01d8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/JPG/it_IT/78e34028e694a68fb868e81015086097.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/JPG/de_DE/05f0bbf39b9ce0035ccfc297dcb0616d.jpg"
+  },
+  "name": "Aja",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "5",
+    "FOREST_POWER": "4",
+    "MAIN_EFFECT": "{H} Chaque joueur met la carte du dessus de son deck dans sa zone de Mana (en tant qu'Orbe de Mana épuisé)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-109-C-FR"
+}

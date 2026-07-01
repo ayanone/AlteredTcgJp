@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_08_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7823AFZ80AGBA8Q24KSR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7ZMM2EGNWQ1ZJ94SP0WJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7ZMM2EGNWQ1ZJ94SP0WJ",
+          "text": "Letzten Endes sind wir alle nur Geschichten."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZNCSNQ6FVW7EN0EGNEB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7ZNCSNQ6FVW7EN0EGNEB",
+          "text": "Among the Lyra, there aren't many of us who don't place ourselves under a Matriarch's authority. Of course, we only keep up the masquerade so that we don't have to suffer for our sacrilegious rebelliousness. We join in with all the bowing and generally keep a low profile. But deep down, it's disobedience that drives us. They've positioned themselves on a pedestal for far too long, arguing that they're the only ones who can converse with the Muses. But even the Nine Sisters must also answer to Memory, and that's exactly who we serve. That's why we must operate on the margins of their rule, in silence and in secret. We have our own objectives, not the ones they dictate to us from up on their throne. That's why, when the audience is ready for it and the situation is right, we sometimes like to share stories that are usually kept quiet – the ones that the skalds conveniently remove from their repertoires. Stories must not be subject to harsh restrictions. They should be free to make their way throughout the world. They need to find an echo in the minds of those that listen to them. But shhh... don't just go telling them left, right and center. Choose your audience carefully. Because stories have power within them. They can bewitch, disrupt and challenge beliefs. The most important thing, though, is that they must never be forgotten."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZN00Z7AKEKBY6SGBB3P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7ZN00Z7AKEKBY6SGBB3P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZKVZECN31CV7JFX8PQB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7ZKVZECN31CV7JFX8PQB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZM7EF539KNXDTPM5VKD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7ZM7EF539KNXDTPM5VKD",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB7823AFZ80AGBA8Q24KSR",
+      "reference": "ALT_COREKS_B_LY_08_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4dc7229c35147ae52bcd",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Künstler"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6155020e0a5842f78420",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/de_DE/d651de0f1bb9463aa6239c40c2e048a4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/ALT_CORE_B_LY_08_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/ALT_CORE_B_LY_08_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/ALT_CORE_B_LY_08_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_08_R1",
+  "reference": "ALT_COREKS_B_LY_08_R1",
+  "id": "01HN5TXRAN8WNJ4R6P8SCMX3BA",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/en_US/d52826306fc10c42379d07f53f37e45c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/de_DE/d651de0f1bb9463aa6239c40c2e048a4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/es_ES/f2dbd5777b5df042d251cba9d99e76b9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/it_IT/928aa02e0ab639a51614d194af90dc7d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/fr_FR/0a6fea6e54ce8958af1fe8fe70f4b6d6.jpg"
+  },
+  "name": "Lyra-Skalde",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "#{H} Du darfst eine Karte aus deiner Reserve für [Nachschub] ablegen.# (Lege die oberste Karte deines Decks in die Reserve.)",
+    "ECHO_EFFECT": "#{D} : Die nächste Karte, die du in dieser Runde spielst, kostet {1} weniger.# (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-067-R-DE"
+}

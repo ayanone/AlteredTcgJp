@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_42_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7WVVKJ5NZ39CSBVV5EP2JW6WRZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25WZRECDX3WP0M45QAFH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25WZRECDX3WP0M45QAFH",
+          "text": "Well, they didn't mean literally."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25XRT85CEDZW5J28ZMR5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J25XRT85CEDZW5J28ZMR5",
+          "text": "Hmm, that noise doesn't exactly fill me with confidence. You could describe it as a sort of piercing cracking sound, and the first comparison I think of is the swooshing of a rope snapping and whipping through the air before the big top collapses. Except I'm not at the circus, but on an icy creek. Creek, ice, circus... well, they don't exactly rhyme, but they sound a bit similar. If Fen had been here, she would definitely have analyzed the musicality of the sound. But all I hear is a sinister omen. I immediately look down at the ice under my feet. Even though Nyala has passed by here, I don't think the ice is breaking up because of her skates. No, there are deep gashes that were made by something bigger and heavier.\n\nSkis or a sled perhaps? No, much bigger. A sleigh? I must say that the tracks have an elegant character, all chaotic interlacing and rampant traceries. But the stripes starting to radiate from them... Er, there's nothing refined or harmonious about those. They're all anger and black bile. I go to warn Nyala, who is still performing axels and toe loops without noticing that the lake is cracking. But suddenly, I hear children yelling and laughing near the bank. I turn towards them, feeling knots in my stomach. They don't seem to be aware of the danger around them. I try to make my mind up between the skater and the kids before rushing towards the little scamps and getting ready to throw random ideas of warmth over them to protect them from the cold. Glancing back, I see the ice give way under Nyala. I wanted to break the ice with her so we could patch things up. But this isn't what I had in mind."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25XD0KHAMW4GZN3RSVW5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25XD0KHAMW4GZN3RSVW5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25W3VJ9EV90DP1KAT6PA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25W3VJ9EV90DP1KAT6PA",
+          "text": "AURAQ"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25WF5BM4YHP0V00WCS3F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25WF5BM4YHP0V00WCS3F",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "7WVVKJ5NZ39CSBVV5EP2JW6WRZ",
+      "reference": "ALT_ALIZE_B_LY_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/49fcf4ae5f954219c6ae",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disruption"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b1e3f506f027b4e1d0dd",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/en_US/eb50a994eb20c5b8bd20e42b03ab7af7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_2aa59a81bdb10404830a5cd76f2190cf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_dd7d9e26c76106bb83b2db4b31ff23d2"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_42_R2",
+  "reference": "ALT_ALIZE_B_LY_42_R2",
+  "id": "01J1Q4P4SA983VFNNBWVRZT9T5",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/de_DE/3ea619f8e78c8632661bca4e0a9b0f3b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/es_ES/f175f76dca6fef874260a47017046e42.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/it_IT/ca27d9777db6b46d82205c0b7855d854.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/fr_FR/5429b4cdc9e01e14d1e440b91516f425.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/en_US/eb50a994eb20c5b8bd20e42b03ab7af7.jpg"
+  },
+  "name": "Break the Ice",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "[[Fleeting]].  I cost {2} less if #you control three or more Characters.#  Send target Character to Reserve, then exhaust it ({T}). (Exhausted cards can't be played and have no Support abilities.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-048-F-EN"
+}

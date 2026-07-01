@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_43_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5JAWYZZ0Z4867S1T7N5NCTQY1K",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25Z31Q3QFWQQDSJ55C0N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25Z31Q3QFWQQDSJ55C0N",
+          "text": "There's no such thing as bad weather, only bad clothing."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2602FNYZ8RA6PS4G593S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2602FNYZ8RA6PS4G593S",
+          "text": "MATRYOSHKA waterproof jacket and down jacket, pink/blue\n\nTested in the harsh conditions of the Silg in the foothills of the Enosha peninsula, the Storfit line from The West Ridge® includes a range of water-repellent and insulated clothes conceived by fashion designer Venera Ritz. Suitable for casual hikes or lengthy expeditions in the mountains and polar regions, Storfit clothing is breathable and waterproof. It regulates perspiration while providing effective protection against the elements. Down-filled and ultra-resistant to protect both seasoned explorers and novice mountaineers, Storfit is lightweight, compressible, and can withstand temperatures down to -49°F.\n\nA range of accessories are compatible with the Storfit collection, from extra-thick hats to special cold-weather knitted scarves. For maximum protection, combine your Matryoshka jacket or down jacket with the Matryona compact base layer and Matryosha fleece, also available in pink/blue.\n\n20% instant rebate for all Storhvit explorers."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25ZEK7GYHN74BH6BC1Y0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25ZEK7GYHN74BH6BC1Y0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25YCV6JEY83M9FPMB4NP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25YCV6JEY83M9FPMB4NP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25YRT68WW461K0T5KK1V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25YRT68WW461K0T5KK1V",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "5JAWYZZ0Z4867S1T7N5NCTQY1K",
+      "reference": "ALT_ALIZE_B_LY_43_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Expedition Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3360f41c23b5f94167cd",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Gear"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/34c4280101761cabb008",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/en_US/0f9e009492c479b8a5eec8ca3fb2252d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_7770bce90f20095343d5a5cc7056564a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_ded96dd95ea45267682cb63009777587"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_43_C",
+  "reference": "ALT_ALIZE_B_LY_43_C",
+  "id": "01J1Q4P4SA983VFNNBWVRZT9T8",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/de_DE/d5e6dfef08d77346ee1e326ed99658c4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/it_IT/8e20533c903989b8b6e45c209005be95.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/fr_FR/c65bb1b6a90557f7325b22619839c282.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/es_ES/c792361458edf9730f91ac1cfab545b4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/en_US/0f9e009492c479b8a5eec8ca3fb2252d.jpg"
+  },
+  "name": "Winter Outfits",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "The {V}, {M} and {O} of Characters in my Expedition are equal to their highest statistic."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-049-C-EN"
+}

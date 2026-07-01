@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_18_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79D38HQS80EVDG95AFZB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8BMMP2G4KPFYHWY5JB7W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8BMMP2G4KPFYHWY5JB7W",
+          "text": "Wenn ein solch furchterregendes Wesen in deinem Weg steht, ist es nur natürlich, einen Schritt zurückzutreten."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BP3RVNXCSHFPYEWCVCQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8BP3RVNXCSHFPYEWCVCQ",
+          "text": "Though still invisible, the abominations leave furrows in the long grass. The Black Wave sometimes regurgitates unspeakable creatures, and the Yzmir's job is to stop them from attacking the people. I say it back to myself over and over again to give me courage... Will two of us be enough? Baba Yaga mounts her mortar and flies off towards the monsters, her laugh piercing the air like a shrieking bird of prey. There are so many aberrations: I see at least seven, not counting any others that may be hidden. We need reinforcements. I start to utter incantations, channeling as much Mana as I can without destabilizing the area. Floating above the melee, Baba rains down fiery lashes over the clearing as thick black smoke rises up into the sky.\n\nAnswering my call, Sakarabru appears before me, shaking the ground as he lands. I cling to the railing of the forest hut as my legs buckle from the impact, and I watch the stone colossus unfold to his full height. The mineral blue of his skin glows faintly in the moonlight, then turns to pale purple as his ghostly arms appear. His eyes open half-way and start to lock on to the intruders. As he straightens up, the ground pitches, shakes and wobbles. Slowly, his mouth opens and he begins to roar. And with nothing but his voice, he bends the tall grass and reveals the chimeric monsters attacking us. Even they realize they are no match for him. They start to retreat, run off, and head for the hills. Excellent. Now that they're scattered, they'll be easier to track down and neutralize. Come on, Taru, it's our turn!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BNCD5CQ1FKWZYH2K226",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8BNCD5CQ1FKWZYH2K226",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BJXG587FQ2G5RC8DHYB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8BJXG587FQ2G5RC8DHYB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BKQPB42QMRPTV6Q26D2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8BKQPB42QMRPTV6Q26D2",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79D38HQS80EVDG95AFZB",
+      "reference": "ALT_COREKS_B_YZ_18_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/dcecd365a03a8a4db80f",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Gottheit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cd5387cf115a038fd98c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/53730d3c1d63ae5d7f2f",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:53+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Sakarabru said \"Your opponent's Expedition facing mine moves backwards one region.\"  Future printings will say \"Your opponent's Expedition facing me moves backwards one region.\""
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b68a25a4244318379a75",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:37:54+00:00",
+      "question": "What happens if Sakarabru is played during the tiebreaker?",
+      "answer": "In the Arena, Expeditions can't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_18/JPG/de_DE/92f0f79e1c8259c97de6afc77c0091cd.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/ALT_CORE_B_YZ_18_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/ALT_CORE_B_YZ_18_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/ALT_CORE_B_YZ_18_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_18_C",
+  "reference": "ALT_COREKS_B_YZ_18_C",
+  "id": "01HN5TXRKZVK7YXJRTHSR9H679",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_18/JPG/de_DE/92f0f79e1c8259c97de6afc77c0091cd.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_18/JPG/es_ES/c7574e04dc862f83f351d4040c66f80a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_18/JPG/it_IT/19cc3fe8f1833fb896e230d4cae3a613.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_18/JPG/fr_FR/792e68b2da7624ee9f4eb152db48397b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_18/JPG/en_US/eb8d388d8737c4dc560a13813b29e645.jpg"
+  },
+  "name": "Sakarabru",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MAIN_EFFECT": "{H} Die Expedition deines Gegners, die mir gegenübersteht, bewegt sich eine Region zurück."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-167-C-DE"
+}

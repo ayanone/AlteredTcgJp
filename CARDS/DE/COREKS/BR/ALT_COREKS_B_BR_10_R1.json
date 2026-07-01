@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_10_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77Z4W7XRK0SN5025DTRX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7XPMYXE80DPX5CC71NM2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7XPMYXE80DPX5CC71NM2",
+          "text": "Großmutter wäre stolz."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XQ8CXV6RHF3FJA0QXEZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7XQ8CXV6RHF3FJA0QXEZ",
+          "text": "\"The true nature of stories is to be intrinsically changeable. A story is a chameleon, a shapeshifter. Through being told, stories transform. With additions, removals, different morals, and endings either cruel or diluted. Stories, like ideas, need to live and breathe. That's why some die, while others adapt. And sometimes, they even come back to life. This was already true in ancient times, before the Confluence shuffled things around to confusion. And it's still true today, as we slowly start telling them again. Even the end of the world hasn't stopped them from spreading, despite what amounts to a terrible extinction.\n\nOriginally, Little Red Riding Hood's life ended in the belly of the wolf. Then other authors came along, and through them she survived, by way of a huntsman who suddenly came to free her. And when the survivors of the calamity got hold of the story, they made it a reflection of humanity itself, which had been torn apart by an invisible monster. The Tumult, in the guise of the wolf. But then other storytellers added their own twists to the tale. In the most recent versions, Red has recovered from her injuries. She's taken up arms to put a stop to the Big Bad Wolf's devastation. The moral of the new story is clear: we Asgarthans are just like her. We've been at the mercy of the Tumult, but we must realize it is by no means an inevitability. Using our imagination, we can defeat it—by calling on the huntsman, or simply by rewriting the story.\"\n\nYezdan Nand, Humanitas Fabularum, \"Preface\", 372 AC"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XPXHNNV1MZECC85NZ7E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7XPXHNNV1MZECC85NZ7E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XNZBG2KPAXDZPPBZECW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7XNZBG2KPAXDZPPBZECW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XPBH8937SG4E0KVJZ3B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7XPBH8937SG4E0KVJZ3B",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77Z4W7XRK0SN5025DTRX",
+      "reference": "ALT_COREKS_B_BR_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a43a00170dc0cb00ccfe",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Abenteurer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/24ba80277b30181a8e5d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/f223ddd9ee88ffe196a0",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:52+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Red (Rare) said:\n[SEASONED].  At Dusk, if I have 3 or more boosts — Draw a card.\n\nFuture printings will say:\n\"[SEASONED].  At Dusk — If I have 3 or more boosts, draw a card.\""
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/f4337c7376d02c562ee7",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-23T10:37:52+00:00",
+      "question": "Can I draw a card thanks to Red (Rare) ability if she gains her 3rd boost at Dusk, thanks to another effect? ",
+      "answer": "Yes. Red effect should read \"At Dusk — If I have 3 or more boosts, draw a card.\" indicating that the check of the number of boosts is happening when her effect is resolved, not when it's triggered."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_10/JPG/de_DE/e06f8d082966053e57021e4ea2c01740.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_10/ALT_CORE_B_BR_10_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_10/ALT_CORE_B_BR_10_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_10/ALT_CORE_B_BR_10_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_10_R1",
+  "reference": "ALT_COREKS_B_BR_10_R1",
+  "id": "01HN5TXR7F3QHXA0DNEFZM2QA3",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_10/JPG/it_IT/8ff418d3fb1b42ccae9231ca11d8f6a3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_10/JPG/es_ES/955c00786b544989678e50722c3f7641.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_10/JPG/de_DE/e06f8d082966053e57021e4ea2c01740.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_10/JPG/en_US/eb681ca4e47134c70ea0a190ae76f893.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_10/JPG/fr_FR/51ee697b8b427544372fc0a134c8add4.jpg"
+  },
+  "name": "Rotkäppchen",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "[Erfahren]. (Ich behalte meine Verstärkungen, wenn ich in die Reserve gehe.)  #Zum Abend — Falls ich mindestens 3 Verstärkungen habe, ziehe eine Karte.#"
+  },
+  "isSuspended": false,
+  "isErrated": true,
+  "isBanned": false,
+  "collectorNumber": "BTG-040-R-DE"
+}

@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZR0K5GHFF337X93KK98",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5T6PYW20SDT887S638JT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5T6PYW20SDT887S638JT",
+          "text": "When you listen to the voice of the Wind, it always carries you where you're meant to be."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T7ABFGR5ZKTZ8ETTZZR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5T7ABFGR5ZKTZ8ETTZZR",
+          "text": "392 AC - HahahaHAHAHAHA! The laugh of Asmodeus echoes in the night, while the ground breaks apart and starts to boil all around us. Molten lava flows from the cracks, lighting up the darkness with a hellish glow. BAAAOUUUWWWW! In the distance, beyond the mountains and rivers, Crowbar takes out his electric guitar and starts to play a riff so powerful that it gives me chills. The notes seem to drift through the air to us like little birds crossing time and space. I draw on my Ignescence, my inner fire. I give free rein to my inspiration and let my spirit roam unhindered, gathering all the ideas that spring up. The Sandman comes out nearby, scattering dream dust over the expanse. A Cloth Dancer twirls above our heads, suspended from a cloud...\n\nI let myself transcend. In this moment, I no longer exist. There is only the music and the threshold of the dream. I let myself burn. I let myself go up in flames. And when my mouth finally opens, the flames that smolder within my heart erupt into rousing chants. Fwot fwot. Fuuum, dadadum. A deep, rumbling bass line cuts through the night. Booom, booom. The notes spread out, and then… Krrang, krrang! An intense drumming breaks out, beating time and creating mini-earthquakes. Crowbar suddenly launches into a furious solo. The treble notes streak across the sky like lightning, flirting with ultrasonic notes. In an outpouring of Mana, I start to sing, switching from alto to coloratura soprano. All around us, ghostly dancers start to headbang and sway in time to the music. Colors burst forth from the instruments. Fleeting images appear in the air. And through all this, I will transform the world!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T6Z9Z65B99EWSYCA8N5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5T6Z9Z65B99EWSYCA8N5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T61JVEQXTJDEKVZ6AVW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5T61JVEQXTJDEKVZ6AVW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5T6C0J0XQMRS0M4PX40B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5T6C0J0XQMRS0M4PX40B",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HNGY4ZR0K5GHFF337X93KK98",
+      "reference": "ALT_CORE_B_LY_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Hero"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/dfaba3b8125b3ff35636",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_03/JPG/en_US/f7f9659f979a9861432990c14323d0af.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_03/ALT_CORE_B_LY_03_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_03/ALT_CORE_B_LY_03_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_03_C",
+  "reference": "ALT_CORE_B_LY_03_C",
+  "id": "01HKAFJNRA3YZ6YZZ4S724E4B9",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_03/JPG/it_IT/f4798b8579f93e696717a31bf3607eae.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_03/JPG/fr_FR/5d8d3e7f65e17cc5d77657883be95be2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_03/JPG/de_DE/5dcd5c694e55d2fecdfafc9c0b03387d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_03/JPG/en_US/f7f9659f979a9861432990c14323d0af.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_03/JPG/es_ES/eaf4d0ddc6feebeb929bb891b2980ebf.jpg"
+  },
+  "name": "Fen & Crowbar",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "During Morning, draw only one card. Then, put the top card of your deck in your Mana zone instead of a card from your hand.  At Noon — [Resupply]. (Put the top card of your deck in Reserve.)  Ignore my abilities during the first Day."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-063-H-EN"
+}

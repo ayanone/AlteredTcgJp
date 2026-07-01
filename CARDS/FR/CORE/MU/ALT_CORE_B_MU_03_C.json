@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY505H6PA6YX0VPZ58XJCE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5WD9Z9RR9BYFY32YBBGK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5WD9Z9RR9BYFY32YBBGK",
+          "text": "Si on donne à la forêt, alors elle saura se montrer généreuse en retour."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WE2DMNKQRX8ZWXPZ1S2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5WE2DMNKQRX8ZWXPZ1S2",
+          "text": "392 AC - Les rayons du Soleil filtrent à travers les branchages, tombant depuis la canopée en patchworks moutonneux. C'est comme un vitrail sur le sol, un camaïeu indistinct de vert et de jaune, qui ondoie au rythme du vent. Je m'étire, sifflotant alors que nous avançons dans la dense forêt. Devant moi, Kiddo cisaille et tranche, taille et fend sans discontinuer. De ses pattes ravisseuses, elle élague les buissons épineux comme si c'étaient des faucilles, libérant un passage à travers les futaies aiguisées. À sa suite, je désintègre les ramures tronçonnées, libérant leur Mana pour le réinvestir dans les plantes que nous avons meurtries. Derrière moi, les bosquets se mettent de nouveau à pousser, à bourgeonner et à fleurir. Et une fois que je suis passée, c'est comme si nous n'avions jamais emprunté ce chemin à travers les ronces et les halliers. Comme si nous n'avions jamais été là. Régénérée, la forêt continue de bruire de ses sons habituels.\n\nAlors que nous débouchons sur une clairière, je regarde autour de moi en écarquillant les yeux. Au-dessus des fourrés spinescents, de gros fruits juteux à l'aspect étrange poussent en lourdes grappes jaunâtres. Je m'approche de l'une d'entre elles, intriguée. Je tends les mains, et Orchid coupe l'une des tiges, faisant chuter un chapelet de fruits. Je l'ausculte par le biais de l'Altération, observant les idées qui le composent. Nulle trace de \"Poison\"... Satisfaite, je sors mon couteau et entaille l'un des fruits, qui se met à suppurer un jus couleur émeraude constellé de pépins. Je le renifle, puis lape le suc qui coule sur mon poignet. Immédiatement, une saveur acidulée et herbeuse sature mon palais. Hmmm. Je croque dans le fruit, réfléchissant à comment il pourrait se marier avec du poisson ou bien des fruits de mer. Il faudrait d'ailleurs lui trouver un nom. Une idée, Kiddo ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WDPQRMQYP46GFZE2SZ0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5WDPQRMQYP46GFZE2SZ0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WCFAR9E5J374YSWVNS2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5WCFAR9E5J374YSWVNS2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WCV3WKM6C3RTTE1HWJ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5WCV3WKM6C3RTTE1HWJ7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HNGY505H6PA6YX0VPZ58XJCE",
+      "reference": "ALT_CORE_B_MU_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cbe3be5294048b28e4de",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/6916e098d89fe186d9c4",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-07-10T10:37:52+00:00",
+      "question": "If my Hero and Companion Expedition both move forward due to {V}, what happens?",
+      "answer": "Your Expeditions progress simultaneously, and you then resolve the effects in the order of your choice. (You draw a card, put a card in Reserve, then you draw a 2nd card and put a 2nd card in Reserve.)"
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/65231b96f4a708798d48",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-05T10:37:52+00:00",
+      "question": "If I move forward due to winning in {V} and {M} statistics, does it activate the effect of Rin & Orchid?",
+      "answer": "Yes! You move forward due to every statistic where you have more than your opponent, if you were in that Region type."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_03/JPG/fr_FR/e341af9cf9cdb3b64296ad350a8893ae.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_03/ALT_CORE_B_MU_03_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_03/ALT_CORE_B_MU_03_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_03_C",
+  "reference": "ALT_CORE_B_MU_03_C",
+  "id": "01HKAFJP63PYSKCM61GJX4RC4G",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_03/JPG/es_ES/8be4c1b7dd0bbfa65a65262cf15c0ba1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_03/JPG/de_DE/af299a4449f094b51ac601985b82797d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_03/JPG/en_US/28a7ab8d0bfbc92f031293d005c610e5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_03/JPG/fr_FR/e341af9cf9cdb3b64296ad350a8893ae.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_03/JPG/it_IT/aa61bc90ead39e7800de683679b9e9e9.jpg"
+  },
+  "name": "Rin & Orchid",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Lorsqu'une de vos Expéditions avance grâce à {V} — Piochez une carte, puis mettez une carte de votre main en Réserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-093-H-FR"
+}

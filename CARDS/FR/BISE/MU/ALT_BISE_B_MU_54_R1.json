@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_54_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7DFB4YJRC78KBSVKXPGQG3G7VR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A7B3Q9PGG9PG0JF4HDPF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A7B3Q9PGG9PG0JF4HDPF",
+          "text": "Chaque jour qui passe sans l'apparition d'une Taupetaraude est une bénédiction."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7BQFW4FJ1QCKCS6WVVG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A7BQFW4FJ1QCKCS6WVVG",
+          "text": "393 AC -  Essoufflé·e, je m'assieds sur une barrière qui délimite deux plantations — ici citrouilles, et là courgettes —, fatigué·e de la remontée et du détour que j'ai dû faire par les Flèches Yzmir. Les Mages avaient débattu un long moment, suffisamment en tout cas pour que Spike s'endorme dans ma capuche. Au terme des délibérations, le collège occulte avait autorisé, pour cette fois, l'utilisation de Merlin. Puis les deux Eidolons, magicien et corgi, avaient tous deux disparu, emportés par un portail menant sûrement aux profondeurs de l'Œil. Je ne m'étais pas non plus attardé·e. Je me masse le cou tout en observant les champs, laissant derrière moi la gravitas des Yzmir pour me replonger dans la tranquillité indolente que j'affectionne tant. Les cucurbitacées ont bien grandi depuis mon dernier passage à la Ferme, avec un rendement pour le moins impressionnant... Et l'utilisation de la Sève en tant qu'engrais n'était pas étrangère à ce gain de vitalité.\n\nJe vois l'Eidolon de Flore émerger de son potager, armée de son arrosoir. Elle passe en sifflotant entre les cultures — tomates grosses comme des melons, mûriers aux airs d'hortensias — avant de m'apercevoir subitement. Elle me fait un signe de la main, tout sourire, et s'approche, tenant son chapeau de paille pour l'empêcher de s'envoler. Alors que je reprends mon souffle, elle vient s'asseoir sur une souche, non loin de moi. Nous échangeons quelques nouvelles, bien entendu, comme nous le faisions au pays, mais je n'oublie pas de sortir de ma besace les bulbes et les herbes que j'ai récupérés dans le Sous-Bois. Elle me remercie chaudement et les glisse dans la poche de son tablier. Elle me tend en échange un petit linge plié. Alors que j'ouvre le paquet, la fragrance des fraises qu'il contient me fait saliver. Elles aussi semblent s'être gorgées de Sève et de sucs. J'en croque une, et sent ses saveurs saturer mon palais, son goût ravir mes sens... Flore éclate de rire avant d'en saisir une à son tour. Peut-être que là-bas, en Anthea, la véritable Flore est en train de rêvasser de ce moment partagé, ou se remémorera cet instant comme un rêve...\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7BDDRQQDPY6J4QQYZ04",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A7BDDRQQDPY6J4QQYZ04",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A79GTY5WEW8AVP58M138",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A79GTY5WEW8AVP58M138",
+          "text": "ARJUN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7ATT031MET2Y2WXMCS0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A7ATT031MET2Y2WXMCS0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7DFB4YJRC78KBSVKXPGQG3G7VR",
+      "reference": "ALT_BISE_B_MU_54_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1bda876d73688b429197",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druide"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/54e0ebe4267927cdad48",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/fr_FR/98813743c6f0bbafe4888cdf64b77670.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_0237c95f62eb13186c16b67ca2552254",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_6cfb9513d59332144169acafa4e4a43e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_b831bf0af6f1678d4b56526c349b7d20"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_54_R1",
+  "reference": "ALT_BISE_B_MU_54_R1",
+  "id": "01JB1YGPBPADMTYDQAXKW1DEP2",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/it_IT/be4c1adbb7cad74766c6214140e2a90b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/en_US/f0b0c999b4be669901055dc4c187e04e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/es_ES/60dfd48d7190968317a84c4264131ef5.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/de_DE/45048107a4e8c4307219ea507efca96e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/fr_FR/98813743c6f0bbafe4888cdf64b77670.jpg"
+  },
+  "name": "Flore, Maraîchère Attentive",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "ECHO_EFFECT": "{I} À Midi — Un autre Personnage ciblé en jeu ou en Réserve gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-058-R-FR"
+}

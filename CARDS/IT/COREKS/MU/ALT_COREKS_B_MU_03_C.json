@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB784GR278XBNR8TAJ191W",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME81XVBEQA7ZFBPG4CJENJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME81XVBEQA7ZFBPG4CJENJ",
+          "text": "La foresta ti dà sempre qualcosa in cambio, se sai dove cercare."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81YW30CQJ4FYJ48DZZ2A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME81YW30CQJ4FYJ48DZZ2A",
+          "text": "392 AC - The Sun's rays filter down through the branches, falling from the canopy in fluffy patchwork patterns. They paint a stained-glass window on the ground, hazy shades of green and yellow that ripple to the rhythm of the wind. I lengthen my stride and whistle as we make our way through the dense forest. In front of me, Kiddo cuts, slices, snips and chops without stopping. Using her beautiful forelegs like sickles, she prunes the thorny bushes and clears a path through the prickly undergrowth. Following behind, I break up the cut branches, releasing their Mana so I can put it back into the plants we have wounded. Behind me, the plants start to grow, bud and flower again. And once I've passed through, it's as though we had never beaten a path through the brambles and brush. As though we had never been there. Now regenerated, the forest continues to rustle with its usual sounds.\n\nAs we emerge into a clearing, I look around and take in the sight. Above the thorny undergrowth, large, juicy and strange-looking fruit hangs in heavy yellowish clusters. Intrigued, I approach one of them. I hold out my hands, and Orchid cuts one of the stems, causing a string of fruit to fall. Using Alteration, I examine it and study the ideas it's composed of. No trace of \"Poison\"... Feeling reassured, I get out my knife and cut into one of them, which releases an emerald juice containing tiny seeds. I sniff it, then lick the juice running down my wrist. My mouth is filled with a tart, grassy flavor. Mmmm. I bite into the fruit, wondering if it would go well with fish or shellfish. And we need to find a name for it. Any ideas, Kiddo?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81YAS1YECTSYBRB0N8A9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME81YAS1YECTSYBRB0N8A9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81WT99PEGHRF55EEJNYJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME81WT99PEGHRF55EEJNYJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME81X9YR6PH4DKY1DV2VHT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME81X9YR6PH4DKY1DV2VHT",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HPMB784GR278XBNR8TAJ191W",
+      "reference": "ALT_COREKS_B_MU_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/38e00ba4ed84929fb6fc",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/7ede0042ca5c7170af9d",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-07-10T10:37:52+00:00",
+      "question": "If my Hero and Companion Expedition both move forward due to {V}, what happens?",
+      "answer": "Your Expeditions progress simultaneously, and you then resolve the effects in the order of your choice. (You draw a card, put a card in Reserve, then you draw a 2nd card and put a 2nd card in Reserve.)"
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/fdded9c61526b4c17d23",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-05T10:37:52+00:00",
+      "question": "If I move forward due to winning in {V} and {M} statistics, does it activate the effect of Rin & Orchid?",
+      "answer": "Yes! You move forward due to every statistic where you have more than your opponent, if you were in that Region type."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_03/JPG/it_IT/ace29b0cf8bdb344fe168d74fb2ef492.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_03/ALT_CORE_B_MU_03_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_03/ALT_CORE_B_MU_03_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_03_C",
+  "reference": "ALT_COREKS_B_MU_03_C",
+  "id": "01HN5TXRP8CH9H6SG3NQ95VYPQ",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_03/JPG/fr_FR/9f562b58b496d69f5c74517c78f02c2c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_03/JPG/de_DE/3d60558fc0c4cfac397ceb3c5987e279.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_03/JPG/es_ES/c39c5e146fd740c569cde7e249afe3f7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_03/JPG/it_IT/ace29b0cf8bdb344fe168d74fb2ef492.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_03/JPG/en_US/f1f76e326605bf3357ff3fa9aa9e926b.jpg"
+  },
+  "name": "Rin e Orchidea",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Quando una delle tue spedizioni avanza per via di {V} — Pesca una carta, poi metti una carta dalla tua mano nella Riserva."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-093-H-IT"
+}

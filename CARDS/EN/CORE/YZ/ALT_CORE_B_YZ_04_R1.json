@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_04_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50CATVCGFNFAFV4WGP9S",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH63CRJ1H6F57BX085E2R3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH63CRJ1H6F57BX085E2R3",
+          "text": "So far behind, and still so much to learn!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63DWPB11Y3DQPZR12WY5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH63DWPB11Y3DQPZR12WY5",
+          "text": "The gate half-opens onto the gardens of the Kadigir. I move from the windswept coastline to the tranquility of the Yzmir sanctuary. But a storm still rages within me. Anger, guilt, bereavement... The emotions writhe around inside me like snakes. I start to walk along the leafy paths, amid sights and sounds that others might find very strange. The arboretum contains many plants that have been transmuted by the Tumult: trees with extraordinary shapes and colors, the most exotic flowers imaginable... Strange birds twitter on the branches. But nothing can soothe the distress I feel. I suddenly find myself at the entrance to the occult library but hesitate before pushing open the doors. I'm not looking forward to what I need to do. Gritting my teeth, I enter the building and start looking around for the young Disciple I've come to find.\n\nI bow to the receptionist, and he returns my greeting by tracing a few Signs in the air. Everyone is maintaining the silence, as etiquette requires, but all I want to do is scream. I find Fasano carrying a heavy pile of books. As usual, he wants to do the right thing, including rushing around to prove his worth. A grimoire falls to the ground, then another one, and he scrambles to pick them up under the irritated stares of nearby Initiates. I pick up one of the books and place it on top of his pile. His face lights up when he recognizes me, but the glow quickly fades as he notices my pained expression. I see his smile vanish as he begins to understand. I don't even need to speak the bad news. His elder sister won't be coming back. His knees buckle and his hands release all the grimoires, sending them tumbling to the floor."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63DAK08Q00XE77VWP8KM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH63DAK08Q00XE77VWP8KM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63BK1S71DCAFJH16VRD4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH63BK1S71DCAFJH16VRD4",
+          "text": "Afanas"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63C7YPQRRBGQ2K59VVC7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH63C7YPQRRBGQ2K59VVC7",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50CATVCGFNFAFV4WGP9S",
+      "reference": "ALT_CORE_B_YZ_04_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3317c98aa9c28ec15d93",
+      "reference": "APPRENTICE",
+      "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
+      "name": "Apprentice"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/de0b5ff01e6eb1d0ba73",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mage"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/26f5f4cb50948198578e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/7ab6072364a29c3e075c",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:56+00:00",
+      "question": "If a card that has an effect over the next card played \"this Afternoon\" is somehow played outside of the Afternoon, what happens?",
+      "answer": "\"This Afternoon\" refers to the Afternoon of the current day, so there are two possibilities : 1. The card is played before, such as during Noon, in which case it will apply to the next corresponding card of the Afternoon. 2. The card is played after, such as during Dusk or Night, in which case it won't have any effect."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/JPG/en_US/16444f99eeba6a2e33f59739edd0795d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/ALT_CORE_B_YZ_04_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/ALT_CORE_B_YZ_04_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/ALT_CORE_B_YZ_04_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_04_R1",
+  "reference": "ALT_CORE_B_YZ_04_R1",
+  "id": "01HKAFJNZ76QEKW3ZGS5VMXAZP",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/JPG/fr_FR/d2ba00f6082ac4b3b32a1c5b5ef9695b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/JPG/es_ES/6b37ad8de15453e033e19d9b0c15e559.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/JPG/de_DE/f6d22dee57e2052ed5ba999d5500b943.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/JPG/it_IT/c521deced0eb26a3060d43fdd719189c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/JPG/en_US/16444f99eeba6a2e33f59739edd0795d.jpg"
+  },
+  "name": "Studious Disciple",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "#{R} The next Spell you play this Afternoon costs {1} less.#",
+    "ECHO_EFFECT": "{D} : The next Spell you play this turn costs {1} less. (Discard me from Reserve to do this.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-155-R-EN"
+}

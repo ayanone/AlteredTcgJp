@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_25_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50B43RZ0K3S1QGZ26304",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH61W2JSKRAZNVK8BF1CY2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH61W2JSKRAZNVK8BF1CY2",
+          "text": "Some lessons stick better than others."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61X3PM7B76D83GAPMDZJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH61X3PM7B76D83GAPMDZJ",
+          "text": "The light of the campfire is barely visible in front of me. I sneak between the bushes, trying to make as little noise as possible. As I draw closer, I can hear the muted sounds of a discussion, a few raised voices and muffled laughter. Progress is slow, but I eventually arrive at the edge of the clearing. I can clearly make out three figures huddling by the fire. And my target is definitely one of them. Now seems like a good time. I don't know if he'll try and fight back, so I might as well go all out. I pull out a few paper seals from my inner pocket and draw my blade. Using Alteration, I smother the flames to plunge the area into darkness. I take advantage of the brief moment when they are blinded by the sudden blackness to pounce.\n\nI throw the paper seals on the ground, and the imprisonment Glyphs they contain start to crackle and glow around my target. From each of the notes, reams of paper burst out, creating a prison of leaflets and sticky notes around the young Bravos. His eyes widen, but the prison cell of energy is now forming a thick shell. And the more he tries to free himself, the stickier his jail becomes. He isn't the one I need to worry about; it's his companions. With my blade drawn in one hand, I brandish my Aegis detective badge with the other, and it has the desired effect. The two men let go of the pommels of their swords. To stop any protests, I reach into my jacket and take out the arrest warrant I was given. This document has been signed by the Court's highest authorities. No one would dare to go against its authority anyway. At least in theory..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61WJYZ3P2TX80C1HJ7CJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH61WJYZ3P2TX80C1HJ7CJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61V012J5C95ZXQE1WHA4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH61V012J5C95ZXQE1WHA4",
+          "text": "???"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61VHMTVBWF531H8Z0QKA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH61VHMTVBWF531H8Z0QKA",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50B43RZ0K3S1QGZ26304",
+      "reference": "ALT_CORE_B_OR_25_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/62cb6c4fa08bf672e9db",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disruption"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7d2a9c912f3e6ef44e87",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/en_US/ddc1bc997649c151d391244096f4b1fa.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/ALT_CORE_B_OR_25_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/ALT_CORE_B_OR_25_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_25_R1",
+  "reference": "ALT_CORE_B_OR_25_R1",
+  "id": "01HKAFJNYAZHNHT03HNE5H47AH",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/de_DE/50e2715d86d85147a7f12a43b5e50c3a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/fr_FR/2e944e93cb84542e1fa6f83b81d2eb1e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/en_US/ddc1bc997649c151d391244096f4b1fa.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/it_IT/496937cced6f173ad754db5796269293.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/es_ES/ef8ad46f6abf192f743d2cb8bf9d7838.jpg"
+  },
+  "name": "Sticky Note Seals",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Choose one:  • Send to Reserve target Character with Hand Cost {4} or more.  • Discard target Permanent with Hand Cost {4} or more."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-145-R-EN"
+}

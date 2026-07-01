@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_52_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/04YDG6Y7J380GAKQVGKXZTB056",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4SMR8784D2N79J46G10",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4SMR8784D2N79J46G10",
+          "text": "Per esplorare la città, gli avventurieri hanno bisogno di rifornimenti giornalieri dalla superficie."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4T1QB782AY94W546ZQH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4T1QB782AY94W546ZQH",
+          "text": "393 AC - I plonk my butt down heavily on a small pile of stones, while Booda, tongue lolling, lies down all stretched out. I look up and sigh as I see the sky in the form of a small circle no bigger than a ringby ball… Yep, there's a fair distance still to go. A long trek before we get there safe and sound. I look all around me. The other guys in the expedition are not doing much better. To be fair, we've been trudging around down here for days, and our sense of time is completely out of whack. The result is that we're seeing shadows everywhere, not getting much sleep, and there's a constant feeling that we're always being watched… Yes, there's been some cool moments where my parkour skills have been useful, but after being repeatedly rejected, my morale is not exactly at its highest. In fact, it's so low that it's starting to burrow even further underground…\n\nI suddenly hear a screeching sound from a side passage, and I get up despite my aches and pains. A skater jumps out of the duct and lands in the middle of the crowd. She continues to skate turns while chucking cans of Sap Soda to us. I catch one mid-air as she gracefully spins around. I have no idea who called her, or why a Talarian courier has been given this kind of job. But what I do know is that it's a damned good idea. I crack open the can and take a huge gulp. The skater continues to weave in and out of us without stopping, while showing off with a skid and trick or two. She makes sure everyone has a can, then winks at us before leaving with her supplies for another express delivery. OK, I don't know where this came from, but I strongly support the initiative!"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4SVQAPJR2Y3HVNEPVBK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4SVQAPJR2Y3HVNEPVBK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4RPYVXKKPMNRM9SRY8W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4RPYVXKKPMNRM9SRY8W",
+          "text": "KOJO"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4SE6ACD5ANFJW7C8J8C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4SE6ACD5ANFJW7C8J8C",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "04YDG6Y7J380GAKQVGKXZTB056",
+      "reference": "ALT_BISE_B_BR_52_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ae1d32d3f00256d8dada",
+      "reference": "MESSENGER",
+      "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+      "name": "Messaggero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ee85a940672283799a3a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/it_IT/ff8c05a70f721f89a129c30feca0cfea.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/WEB_77933466c0c12cbaf9465833c1125730",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/WEB_a79f853979b02026b509706d135fbc2b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/WEB_98d18a1557a74ac76b365b65766182d5"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_52_R2",
+  "reference": "ALT_BISE_B_BR_52_R2",
+  "id": "01JB1YGPBAW9W7FA6Y7SGZMSD9",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/es_ES/a4238b583989e0a13949dc8001956cc6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/de_DE/5537fbbe8c881367243724eea32533f9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/en_US/fc9600ebe7d9f23ebb159ab87aae1c2b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/it_IT/ff8c05a70f721f89a129c30feca0cfea.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_52/JPG/fr_FR/61b6fc801594bc91634f14281262bd47.jpg"
+  },
+  "name": "Pattinatrice di Talaria",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "#3#",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "[Esploratore] {1}. (Puoi giocarmi dalla mano per {1} con \"{h} Mandami nella Riserva\".)  {J} Un personaggio bersaglio in gioco #o nella Riserva# ottiene 1 rinforzo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-024-F-IT"
+}

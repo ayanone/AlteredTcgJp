@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_26_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79AWAQ85RQQZ4DAD4831",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME88FNQSER17QP5NWZ24GA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME88FNQSER17QP5NWZ24GA",
+          "text": "Per la prima volta dopo secoli, il Portale del Solstizio è stato aperto. Per la prima volta dopo anni, l'umanità scoprirà cosa si nasconde oltre i cancelli."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88H26182PMW7DKE98XFB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME88H26182PMW7DKE98XFB",
+          "text": "The heavy doors of the Solstice Gate open with a roar. I can't look away. It's like I'm paralyzed by how historic this event is. Next to me, Tocsin sits cross-legged and watches the sudden flight of hundreds of doves. My hands are sweaty, my throat is tight. Down below, the Aegis battalions start to move. It's the moment of truth. After more than 20 years of waiting for this moment, now it has finally arrived. The first to go through are the Bravos fyrds, followed by General Sekifu's soldiers, then General de Graaf's troops. The air transports are there as well, drifting above our heads under the joint authority of Commodores Jeanty and Nagaya. And there's the Ouroboros, of course, under the supervision of Admiral Singh. I suddenly feel Tocs' hand on my shoulder, which snaps me back to reality.\n\nI turn to him and nod. It's neither the time nor the place to be overawed by the magnitude of the task ahead. I breathe in deeply and strike my shield with my fist, while my Alter Ego raises his horn. He blows into it and produces a powerful note that echoes above the rooftops. After regaining my composure, I call on the Coalescence. The doors of the Gestalt now open, just as the doors of Asgartha did earlier. With my mind, I reach out to all the recruits I have trained over all these years. I show them gratitude and camaraderie; I communicate courage and pride. Like a vast plain dotted with campfires, I feel their spirits answer my call one by one. I sense the same emotions from them that I'm feeling myself: fear, of course, but also elation and excitement."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88GCJH8C6CDFYY2PAR1H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME88GCJH8C6CDFYY2PAR1H",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88EAM0295C2CRAD5DVPQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME88EAM0295C2CRAD5DVPQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88F1BSX6Y90B6HK2655Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME88F1BSX6Y90B6HK2655Q",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB79AWAQ85RQQZ4DAD4831",
+      "reference": "ALT_COREKS_B_OR_26_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5953e156ebd021f319dc",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Stratagemma"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f51612a981a4ff7b0335",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_26/JPG/it_IT/9df5a35a1c7ddaa2e73d786bf1f37090.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/ALT_CORE_B_OR_26_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/ALT_CORE_B_OR_26_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_26_C",
+  "reference": "ALT_COREKS_B_OR_26_C",
+  "id": "01HN5TXRHC10YZ5JHQRZPSTP8V",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_26/JPG/it_IT/9df5a35a1c7ddaa2e73d786bf1f37090.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_26/JPG/es_ES/ced0f26642f771b0af0463e9388ccea0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_26/JPG/en_US/ae70d44dc0dabeb70dc1abfa5ef5ff32.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_26/JPG/fr_FR/1f2f73b52aeb7aec305f6179c1710b78.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_26/JPG/de_DE/ac06feab7652f1614cb356ed817f99f1.jpg"
+  },
+  "name": "Aprire i Cancelli",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Crea due pedine Soldato [Recluta Ordis 1/1/1] in ciascuna delle tue spedizioni."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-147-C-IT"
+}

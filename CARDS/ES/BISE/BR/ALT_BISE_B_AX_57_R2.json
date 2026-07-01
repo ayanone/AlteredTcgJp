@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_57_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2AW22WEHK48JXBG64EV4XPBH5K",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4AV4MXVK07TGJ46ZRT2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4AV4MXVK07TGJ46ZRT2",
+          "text": "Ya no está defectuoso, pero todavía se puede perfeccionar."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4B6D7W59EFPFNQVJJYV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4B6D7W59EFPFNQVJJYV",
+          "text": "393 AC - Designing Automata that have limited duties is relatively easy. My Smiters have quite clear instructions, just like Farfetch. They have a primary function, and they perform it successfully. Well, mostly successfully. Where problems arise is when you try to give them a wider range of roles and functions. The more you ask them to be versatile, the more complex their cryptex has to be, and there's the rub. Calculation power, efficiency… everything has to be scaled back slightly. That's what happened to the previous iteration of the prototype. Because it needed to compute thousands of items of data at any given moment, it couldn't properly process the influx of data. The result was slow calculation times, latency and a response time close to zero… Crash, bang. I place a hand on its reinforced abdomen. If only I could give it the grace of the Ballerina models…\n\nBut those operate according to a preset choreography. Here, it was a matter of giving it adaptability, almost a proto-consciousness, basically. Its head tilts in my direction as I float next to it on the platform I borrowed from the Axiom managers. The Sap that powers it pulses in its central core and circulates around its body. Of course, I've replaced all the odds and ends I'd kitted it out with in Storhvit — as you'd expect, given my Lyra past — and replaced them with shiny new parts… But I knew that its inner design needed a lot of work, even though I'd added loads of features and significant improvements, including a stabilizer to optimize support. It could even run now, which was no mean feat. I give it a reassuring smile. We'll find something to make you perfect, don't worry."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4B0HF8WDQ10XR6RG87F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4B0HF8WDQ10XR6RG87F",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4AGS265RTDNMR5MX276",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4AGS265RTDNMR5MX276",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4APVW06MNSXABWYRSDJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4APVW06MNSXABWYRSDJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2AW22WEHK48JXBG64EV4XPBH5K",
+      "reference": "ALT_BISE_B_AX_57_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bcc3a33233166e30ac73",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3004ce7b5137504ed215",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/es_ES/d1bb79080086aa5d8e0cecdf3b24c2b7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_1209dc81b7155e172fa92612eae069d4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_d65ed2e0673a2c4b0407b226786e92a7",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_3c3eb50ebb228ff6a5cdb00a644fc8f0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_57_R2",
+  "reference": "ALT_BISE_B_AX_57_R2",
+  "id": "01JB1YGPB6T61E0YAFG5S1GH7Y",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/de_DE/f604c3c67bd1e89b36d5931c8468ba2e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/it_IT/9b15ad8dae8597a3e22ea9a802b27caa.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/es_ES/d1bb79080086aa5d8e0cecdf3b24c2b7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/en_US/39cd8354629af349a1f96f20279061db.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/fr_FR/58f91ef2c5a88d4e519e873c458c285a.jpg"
+  },
+  "name": "Prototipo mejorado",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{R} Puedes gastar #1 contador# de #una carta que controles o que esté en tu reserva# para preparar dos orbes de maná.",
+    "ECHO_EFFECT": "{I} #Cuando juegues otro personaje# — Gano 1 potenciador, hasta un máximo de 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-011-F-ES"
+}

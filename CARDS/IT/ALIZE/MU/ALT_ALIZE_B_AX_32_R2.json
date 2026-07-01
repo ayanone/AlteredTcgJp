@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_32_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5WPJ06DBGF9WWV84C5QGH7AS8W",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J232PS85G8P3YRTPVQWQ0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J232PS85G8P3YRTPVQWQ0",
+          "text": "Una reliquia lasciata da una civiltà passata."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2335EMXFB714DP7WBCFS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2335EMXFB714DP7WBCFS",
+          "text": "Mi siedo lontano dagli altri ingegneri, con un panino in mano. Naturalmente ne do metà a Marmo, perché non si accontenterebbe di un po' di crosta. E come al solito, lo trangugia prima ancora che io abbia ingoiato il primo boccone. Sotto, nella parziale oscurità della gola, gli specialisti dell'energia stanno controllando gli ultimi collegamenti. È stato davvero complicato adattare le nostre attrezzature alla tecnologia del titano e in ogni caso è meglio mantenere una certa distanza di sicurezza, nel caso in cui qualcosa esploda o, peggio ancora, la macchina parta davvero. È tecnologia degli Antichi? Risale davvero a prima della Confluenza? Non sono uno storico, quindi non posso rispondere a queste domande, ma sono comunque molto incuriosito.\n\nSo solo che il titano non si serve del kelon per funzionare. Sierra e Treyst hanno studiato per molto tempo una piccola reliquia inerte per cercare di capire come poteva funzionare questa tecnologia. E quando io e i ragazzi abbiamo tirato fuori dal ghiaccio alcune taniche di liquido giallo miele, quei due sbarbatelli hanno praticamente fatto i salti di gioia. È kelon solare? Un pezzo di pomodoro mi cade sulla giacca; impreco e Marmo lo prende al volo. Mentre cerco di far andare via la macchia, sento gli specialisti dell'energia accendere le pompe e aprire le valvole. Osservo il liquido ambrato scorrere nei tubi, facendosi strada sotto il ghiaccio. Un tecnico recupera i dati dalle sonde. Marmo inizia ad abbaiare appena sente delle vibrazioni nel terreno e all'interno del muro ghiacciato. Poi, all'improvviso, il ghiaccio si rompe..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J232XY6W5QFAQWRBYQ2J1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J232XY6W5QFAQWRBYQ2J1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2325QYB2XWDX6BYHY6KP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2325QYB2XWDX6BYHY6KP",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J232EVFGFTVXHA7FS7495",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J232EVFGFTVXHA7FS7495",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "5WPJ06DBGF9WWV84C5QGH7AS8W",
+      "reference": "ALT_ALIZE_B_AX_32_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/86e6c53bac3102a35299",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5499d9e4dd1b0d1f91a9",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/it_IT/ac81d75ce624813b0bbe103f729d3c40.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/WEB_9cb2810aa3a22c03af54da620086f2cf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/WEB_aee6e5c21388d55b2e3e324e45b5328c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/WEB_deeca5bfb5bf3eb9bd985d02b921c44b"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_32_R2",
+  "reference": "ALT_ALIZE_B_AX_32_R2",
+  "id": "01J1Q4P4RNYPV5A8A1013CMJT6",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/de_DE/7dbf5223ad4573ed5b32d9c3658d68e8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/fr_FR/93ef9fb8938a99e0f329c6ac6119e65b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/it_IT/ac81d75ce624813b0bbe103f729d3c40.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/en_US/86c7ef5d865f9832f2d03f42482cfe3d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/es_ES/3367c57b62df29d31ffd97df9ab326c8.jpg"
+  },
+  "name": "Macchina nel Ghiaccio",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "Quando vado nella Riserva da un luogo qualsiasi — Consumami ({T}). (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)  {H} Mandami nella Riserva."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-003-F-IT"
+}

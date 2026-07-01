@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_28_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77XZR7H1Y4KZA9FRBMBA",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7X0TV366SH6R4KESQBV1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7X0TV366SH6R4KESQBV1",
+          "text": "« Désolé, mon pote. C'est pas qu'on cherche la brouille. Ça doit être un effet secondaire de notre blocage... »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7X1BTAA2X0DEVW5F627V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7X1BTAA2X0DEVW5F627V",
+          "text": "Le tank avance au sein des immensités sauvages. Le sol tremble à chacun de ses pas, et une petite voix en moi se demande si le Kraken peut nous entendre. Je regarde par-dessus mon épaule. Le Rempart d'Asgartha est loin désormais, une fine ligne se découpant sur l'horizon. Si j'avais su que je me retrouverais ici un jour... Ok, reste concentré sur l'objectif, Bash. Notre rôle est simple, et si tout se passe bien, on va pas être trop exposés. J'ai clairement pas envie de me retrouver face à un Léviathan de je-sais-pas combien de mètres de haut avec des tentacules et une gueule pleine de dents... Donc déployer ces Brouilleurs blindés pour repousser le Tumulte et couvrir l'avancée des troupes Ordis et Bravos, ça me va... Foncer tête baissée en première ligne, sans façon. Je laisse ça à d'autres.\n\nTreyst me lance un coup d'œil depuis l'habitacle. Je lui fais un signe de tête depuis ma position pour lui signifier qu'il y a pas d'embûche en face de lui. Pour cette mission, il a troqué son araignée mécanique contre ce mastodonte de métal, et quelque part, je me dis qu'il a eu raison. Je me sens un peu à poil à côté du véhicule, sans toutes ces plaques en acier trempé pour me protéger. Quand je pense qu'on a tous les deux signé pour faire partie de l'avant-garde de l'Axiom. Qu'est-ce qui m'a pris ? Des rêves de grandeur ? Quelque chose à me prouver ? Une soirée trop arrosée ? Je saute par-dessus un tronc d'arbre affaissé, et le Brouilleur l'enjambe à ma suite. C'est quoi mon problème, j'avais pas envie d'une retraite paisible ? Je souris sous ma visière baissée. Si je visais la simplicité, ça se saurait depuis le temps..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7X1240PKMWT10AE9MT9D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7X1240PKMWT10AE9MT9D",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7X08G67FVT4TG9AP4ASB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7X08G67FVT4TG9AP4ASB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7X0JE930T3KD2Z0YB5MX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7X0JE930T3KD2Z0YB5MX",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HPMB77XZR7H1Y4KZA9FRBMBA",
+      "reference": "ALT_COREKS_B_AX_28_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d69bc79adc65ad62b7eb",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/dc60253f18d856c2d896",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_28/JPG/fr_FR/4f67c4941557eef6687c6d9cdfaf0733.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_28/ALT_CORE_B_AX_28_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_28/ALT_CORE_B_AX_28_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_28/ALT_CORE_B_AX_28_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_28_R1",
+  "reference": "ALT_COREKS_B_AX_28_R1",
+  "id": "01HN5TXR5ZG845ZP425Y6MPG40",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_28/JPG/es_ES/fe66aa5561b47fa3a204845b5f111c8a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_28/JPG/it_IT/bcfef2851d591d1782a6464518ae975f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_28/JPG/de_DE/e94dc109a912f7fc327d7fa3faf3ff94.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_28/JPG/fr_FR/4f67c4941557eef6687c6d9cdfaf0733.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_28/JPG/en_US/a3ecced47c341426de1b2c6b27873199.jpg"
+  },
+  "name": "Brouilleur Blindé",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{J} [Sabotez]. (Défaussez jusqu'à une carte d'une Réserve.)  #Lorsque je quitte votre zone de Repères — [Sabotez].#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-025-R-FR"
+}

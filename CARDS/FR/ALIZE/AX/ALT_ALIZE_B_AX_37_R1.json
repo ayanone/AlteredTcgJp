@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_37_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2G807SJR1R8CARRN7PJ85HMQ23",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J239M022QVPBSXFQRM3W9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J239M022QVPBSXFQRM3W9",
+          "text": "Il faut bien que quelqu'un endosse le poids des responsabilités."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23A5RE1EBS42PM6NA42X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J23A5RE1EBS42PM6NA42X",
+          "text": "J'ai pris de l'avance en quittant la taïga, tirant profit de mon araignée mécanique pour escalader la paroi vertigineuse. Ses pattes ont percé la roche pour s'y fixer, rendant l'ascension jusqu'ici presque aisée. Je soupire et masse mes cuisses pour faire circuler mon sang dans mes jambes. Pendant quelques instants, alors que je contemple les paysages en contrebas, je me revois aux côtés de Paju, lors de notre baptême de l'air, alors qu'on regardait à travers la baie vitrée pour contempler du ciel toute l'étendue d'Arkaster. Rossum pose une main sur mon épaule. Bien sûr qu'il sent mon trouble et mon émotion. Fen lui a mis l'une de ses écharpes autour de son cou, et lui a appris à enfiler des moufles. Je ne peux m'empêcher de pouffer en voyant son accoutrement, et notamment son cache-oreilles en moumoute. Ma Chimère tourne soudain la tête vers la falaise, intriguée, et scrute ce qui se trouve sous nous.\n\nJe me retourne comme je peux pour moi aussi regarder en bas, même si ça me fait un mal de chien. Rattachée à une corde, je vois une porteuse escalader la muraille naturelle. Grâce à ses crampons, elle se balance de corniche en saillie avec une facilité déconcertante. Elle se hisse, utilisant son piolet et son grappin avec une dextérité virtuose. Je n'ai que peu eu l'occasion de voir des porteurs de Svarograd en chair et en os, et jamais jusque-là en action. Et je dois dire que leur réputation n'est pas usurpée. Même encombrée d'un lourd paquetage, celle-ci se déplace sans l'once d'une hésitation. Il n'y avait rien de surprenant, cependant. Toute sa vie, elle avait dû être habituée à monter de lourdes charges jusqu'aux hauteurs de l'île volante d'Enosha. Eh bien... moi qui pensais avoir un peu d'avance, je dois dire que je me suis bien fourvoyé"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J239W18XEC5XAHQ2AX69A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J239W18XEC5XAHQ2AX69A",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2393GDM4G9CCCGFR7J5P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J2393GDM4G9CCCGFR7J5P",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J239CM0KT3FPGSN2WH68T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J239CM0KT3FPGSN2WH68T",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2G807SJR1R8CARRN7PJ85HMQ23",
+      "reference": "ALT_ALIZE_B_AX_37_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/fda6e76a78fa43f1f54f",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ec00d7eacf3897e1f11b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/065f2afbf69140ca139b",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:10+00:00",
+      "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
+      "answer": "Yes, an Exhausted Resupply counts as a Resupply."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/fr_FR/79d98062f9190915dd9660279315c4f2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_b54cc629947078e00d7406002fc8be63",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_043d733f0dbbb18c1dc2147665ca6d8b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_2dc52b769d21191704f9154656caba92"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_37_R1",
+  "reference": "ALT_ALIZE_B_AX_37_R1",
+  "id": "01J1Q4P4RTGYQGABCPS4EW5484",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/de_DE/4528fba31a65efe0db7c019571e2e052.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/fr_FR/79d98062f9190915dd9660279315c4f2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/it_IT/41e76f91945a15639d4172a6618914f0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/es_ES/9d9ca495d3d6ad576086eef63a2f4935.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/en_US/11d3e8e850b0fb7b4d45f3424078378f.jpg"
+  },
+  "name": "Porteuse Intrépide",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "#{J}# [Ravitaillez Épuisé]. (Mettez la première carte de votre deck en Réserve, puis épuisez-la {T}. Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-008-R-FR"
+}

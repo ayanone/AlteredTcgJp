@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_50_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1Z67EYB9888F98D3PZ7RFNG8D7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A6Z16RCJY2AKT1MFW1W3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A6Z16RCJY2AKT1MFW1W3",
+          "text": "À la surface, la pollinisation par les beilleraves est un atout majeur pour développer les cultures des Muna."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6ZQW78078QBXA89EXQ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A6ZQW78078QBXA89EXQ5",
+          "text": "393 AC - Je me réveille en sursaut, avec un arrière-goût de fraise dans la bouche. Dans mon rêve, j'étais debout, au beau milieu d'un champ de citrouilles dont seule Cendrillon aurait pu se plaindre de la taille. J'avais un pulvérisateur à la main et j'aspergeais méticuleusement les plants, retournant la terre avant d'y vaporiser un liquide qui semblait avoir été mélangé à des paillettes d'or. Soudain, j'avais entendu un bruit — ou plutôt un bruissement — et je m'étais tournée subitement vers un parterre, situé juste derrière des rangées de courges. Tout était gigantesque : fleurs, tomates, panais, salades, choux-fleurs, haricots verts... au point où je me demandais si c'était les légumes qui avaient grossi ou moi qui avait rapetissé. Là, sur un talus, des pousses étaient en train de s'ébrouer, secouant leurs feuilles. Le terreau noir qui les entourait était en train de gonfler, comme si quelque chose souhaitait s'en extirper. Un mulot, ou une taupe, peut-être ?\n\nJ'avais retiré mon chapeau de paille et regardé la botte, ressemblant à un bouquet de pissenlits, se secouer elle-même. Puis un autre plant en avait fait de même, juste à côté, suivi d'encore un autre. Soudain, les tubercules avaient jailli de terre, tous ensemble, dans un effort concerté. C'étaient des betteraves, ou presque. À les voir vrombir dans l'air, j'avais vu que les bulbes étaient munis de pattes, et que leurs feuilles faisaient office d'ailes. C'étaient en réalité des insectes, mi-abeilles, mi-betteraves : un gros corps rond et rouge, une tête d'insecte, le tout animé d'un vol circulaire et bourdonnant. La joyeuse sarabande s'en était allée vers un autre champ, avant de creuser la terre pour se ficher ailleurs, dans un coin peut-être plus tranquille. Il n'était pas rare de voir des phasmes dans les marais de Kiragata, en formes de feuilles ou de brindilles, mais jamais je n'avais vu un insecte se camoufler sous la forme d'un légume... Il fallait absolument que je raconte ce rêve bizarre à Celestino, avant que son souvenir ne s'estompe avec le jour."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6ZDA5CEJF8JD78T625W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A6ZDA5CEJF8JD78T625W",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6YD8XVVA0W2F4GFQ7RA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A6YD8XVVA0W2F4GFQ7RA",
+          "text": "FLORE"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6YQ03P6Y18MPJA2HTA1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A6YQ03P6Y18MPJA2HTA1",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1Z67EYB9888F98D3PZ7RFNG8D7",
+      "reference": "ALT_BISE_B_MU_50_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e12b96a067f6131e90c3",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/dd749777569628a4c07c",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plante"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5bfb64b73a9d9df2a838",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/fr_FR/625a45609b44936f2edad2a78d12ca7c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_75ba3676ba7dca5560ccb9511c48dfbe",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_57af396206cdacd09c53aee9b5a998a9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_3dbdf283ffeb3c6dcfebcb99b6adccd9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_50_R1",
+  "reference": "ALT_BISE_B_MU_50_R1",
+  "id": "01JB1YGPBNB8J0VP19NC8TN171",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/de_DE/4ec573808861d9fa7bc594f42c4821fe.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/it_IT/040362818b6abc1b0d4c2715f96a9d79.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/en_US/dbab82bf41e7e2c73211670e0a67ee3f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/es_ES/dee7316b0a1d5d852a0ec59f2718e8ea.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/fr_FR/625a45609b44936f2edad2a78d12ca7c.jpg"
+  },
+  "name": "Beillerave",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#{R} Je gagne [[Ancré]].#",
+    "ECHO_EFFECT": "{I} À Midi — Je gagne 1 boost, jusqu'à un max de 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-055-R-FR"
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_28_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50ETVHVN7W4W8P8HX7NG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH66XWA7AKKCB716TC5XB0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH66XWA7AKKCB716TC5XB0",
+          "text": "Boney Legs, she's called, and her hut is one reason why."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66Z21T8X9274J40ZMJD6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH66Z21T8X9274J40ZMJD6",
+          "text": "I make my way over to the raised front steps of the isba, following the long ribbed legs the cabin is perched on. I could see from afar that Baba Yaga was at home, as there was a plume of smoke coming from the chimney. But I'm still surprised when I open the front door. Facing me, comfortably seated in an armchair, is a Muna drinking a cup of tea, while the witch is in the kitchen preparing what looks like – or rather smells like – a borscht. The Muna beckons me to sit down opposite her. She is sitting cross-legged, one foot dangling casually as she sips at her concoction. I remember her name: Saskia, if I'm not mistaken. It's not unusual for Muna to seek out Baba Yaga. The Eidolon was also responsible for watching over the expanses of forest...\n\nYet there's something a little off about the look on the young Muna's face. I can sense danger, even though there's nothing in the room to suggest it. The lace doilies, the dried flowers hanging from the rafters, the kitchen utensils neatly arranged above the wood stove... Everything has an old-fashioned, almost rustic charm, but nothing that would suggest any sort of threat. Except Baba Yaga, of course. So that means it's the Muna's presence that I find unsettling. I sit down on a chair, pushing aside the tartan covering it. Saskia gets up and places a porcelain plate next to me with some sugar-crusted pryaniki on it. The hut's wooden frame creaks with each movement of the isba. Nothing seems out of the ordinary. But beneath the smell of cumin, nutmeg and star anise, and behind the other guest's fixed smile, something sinister is brewing..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66YFB7070VNB10A56DD1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH66YFB7070VNB10A56DD1",
+          "text": "Baba Yaga's home in the forest is called an isba, a type of Russian wooden hut, but this witch's isba is no ordinary cabin. Mounted on chicken legs, this hut wanders the forests, turning and moving in every direction. Any hero brave enough to enter it will be questioned by the witch to judge their worthiness. If she is satisfied, she will happily offer them food and shelter – and perhaps even gifts and advice."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66WP1Y7MBZ6JENQXBJDA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH66WP1Y7MBZ6JENQXBJDA",
+          "text": "Lindiwe"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66X9D23YT7FQFQEM6W9P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH66X9D23YT7FQFQEM6W9P",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY50ETVHVN7W4W8P8HX7NG",
+      "reference": "ALT_CORE_B_YZ_28_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/02ddffeff55a6619f528",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Landmark"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0dfeba3dbcba186b7d44",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/JPG/en_US/be9925e50a818418002bab7f3d2199fb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/WEB_7ad19e4e387d8f5ee14537926dc8f1ee",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/WEB_de26dc97c43a821f1302211818756922"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_28_R1",
+  "reference": "ALT_CORE_B_YZ_28_R1",
+  "id": "01HKAFJP5NAXSSE89PD76TBSA7",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/JPG/de_DE/ec8866da0df23fda831a4bd39bfc1326.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/JPG/it_IT/85963f70f6b7b5d3687e4079ef2d61c9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/JPG/es_ES/1aab3ac5d57b933e05ea23d1349f6c1c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/JPG/en_US/be9925e50a818418002bab7f3d2199fb.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/JPG/fr_FR/fa1c079e3b3ab0e1db3f3c05cd50aeac.jpg"
+  },
+  "name": "Baba's Isba",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{J} Draw a card.  {T}, Sacrifice a Character: [After You]. (End your turn as if you had played a card. You may still play cards later this Day.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-178-R-EN"
+}

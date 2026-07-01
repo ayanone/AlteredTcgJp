@@ -1,0 +1,165 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_22_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZAXB3YNWRMRTNQE3X9C",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5SF7Z0K465M5JZJC0NQ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5SF7Z0K465M5JZJC0NQ7",
+          "text": "Attention à ce que tu souhaites. Il est des dangers que même les Bravos préfèrent éviter."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SFSAX621YAFTMR5FZYC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5SFSAX621YAFTMR5FZYC",
+          "text": "Les nuages noirs tourbillonnent au-dessus de la vallée, crépitant d'éclairs. Affrontant la pluie et les vents déchaînés, je me tiens sur la corniche, extirpant de moi le peu de Mana qui me reste. Dans la paume de ma main, Surge est réduit à une simple étincelle qui lutte pour exister dans ce monde. Et je ne peux le laisser s'étioler ainsi, par ma faute. Durant mon combat face au Roi Singe, à bout de force et dos au mur, j'avais puisé plus que de raison dans les forces de mon Alter Ego. Pendant une fraction de seconde, j'étais devenu la foudre. L'espace d'un instant, j'avais pris Sun Wukong de vitesse et arraché la victoire. Mais à quel prix... Luttant contre l'épuisement et l'abattement, je convoque la tempête, et ce qui se meut en son sein. Qu'importe qui répondra à mon appel. Tout ce que je souhaite, c'est le feu du ciel.\n\nLes nuages s'entrouvrent comme une houle, et une silhouette sinueuse en émerge. Ses yeux me toisent, tandis que ses cornes luisent comme des flammes immobiles. Je me fige, écarquillant les yeux face à l'Eidolon qui s'est manifesté en face de moi. Oubliant l'eau qui ruisselle sur mon visage et le froid qui me transit, je pose un genou à terre et lève la main pour lui présenter l'étincelle vacillante qu'est devenu Surge. Le dragon gronde comme roule le tonnerre. Sa crinière danse dans l'air comme s'il était l'incarnation du typhon. Des éclairs se mettent à lacérer les cieux, alors que le vent se charge d'une odeur d'orage. Et je me mets à implorer, du fond de mon être. Je fais une prière face au cyclone. Au-dessus de ma tête, les cumulus s'ouvrent et se mettent à tournoyer. Je ferme les yeux, attendant d'être frappé par la foudre."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SFGRQCC6WXWY5ACN73E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5SFGRQCC6WXWY5ACN73E",
+          "text": "Il n'est pas sage de provoquer le courroux de Shenlong. Gouvernant l'ouragan, la foudre et la pluie, il peut faire déferler le déluge et ravager les cultures s'il n'est pas correctement apaisé. Dans la mythologie chinoise, Shenlong est le dieu-dragon de la tempête, aux côtés de trois autres types de \"Long\". Ces esprits draconiques ne sont pourtant pas des entités néfastes. Ce sont elles qui fertilisent le sol et permettent aux récoltes d'être florissantes."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SEMKSXDASR0WX2Q25MP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5SEMKSXDASR0WX2Q25MP",
+          "text": "Atsadi"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SEX0120CASV2RPV33E7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5SEX0120CASV2RPV33E7",
+          "text": "385 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZAXB3YNWRMRTNQE3X9C",
+      "reference": "ALT_CORE_B_BR_22_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b2011695211d6b883452",
+      "reference": "DRAGON",
+      "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+      "name": "Dragon"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2c5348baaeaa1fe57532",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/951f597ecbd6163ca6ad",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/JPG/fr_FR/f455994b251487fccce68b7d90b9603d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/ALT_CORE_B_BR_22_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/ALT_CORE_B_BR_22_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/ALT_CORE_B_BR_22_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_22_R2",
+  "reference": "ALT_CORE_B_BR_22_R2",
+  "id": "01HKAFJNQ6T0MY7SZ58F2K2BHG",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/JPG/it_IT/679c89f543a13a36f6c9b894d6c14c04.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/JPG/en_US/785dc539d9c213bf3678a9c988695f3b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/JPG/fr_FR/f455994b251487fccce68b7d90b9603d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/JPG/de_DE/29d5cd6006c4056d9ba3b025b7d7fa6d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/JPG/es_ES/1e37241f69e99f759b12dc715c6ec538.jpg"
+  },
+  "name": "Shenlong",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "8",
+    "MOUNTAIN_POWER": "8",
+    "FOREST_POWER": "8"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-053-F-FR"
+}

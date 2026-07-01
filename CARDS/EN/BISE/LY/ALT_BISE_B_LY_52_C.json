@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_52_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1CRNAEP4698T09XQXKXAEAVBHH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A5S8ERXQW2S8SQXACBTP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A5S8ERXQW2S8SQXACBTP",
+          "text": "\"Make some noise for all the brave folks pulling Sap up from the depths!\" — Orbec"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5SRC8TH8V07D7KRYHY2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A5SRC8TH8V07D7KRYHY2",
+          "text": "393 AC - Orbec plays a note on his keytar. A single note that rings out like a horn sounding in the mist. One, two. One, two; one two. We all start playing on his signal, and his skilled fingers draw a complex melody from his instrument. Our keytarist was the hardest to recruit, refusing two separate invitations to join the band. Orbec always loved to play the diva, always acting standoffish and clearly expressing his hesitation. He wanted us to win him over. He wanted to be wanted. But I was sure he was the one, and I courted him aggressively so he would deign to take an interest in us. Then he moved into the Ouroboros with a list of conditions and requirements as long as his arm, which most other people would have tossed aside without a second thought. Tam was tearing out her hair just listening to his demands, shouting \"Who does this guy think he is?!\" loud enough to rattle the whole backstage area.\n\nBut watching them play together now, I know I made the right choice. Of course, we have to deal with his snooty attitude and disdainful, often conceited personality. But that's the character he plays, and we do the same when we don our stage outfits and perform for an audience. The rest of the time, he reads his cheap airport novels or studies his sheet music religiously, in an equally haughty silence. Stoic, or even laconic in the eyes of some, he seems to want to stay hidden behind his shades at all times, acting as though he wasn't there. As though he were invisible, a sort of ghostly witness to the events around him. Maybe he even thinks of himself that way, considering the surprised look he gives us every time we ask him his opinion. But when he's on stage, it's hard to look away from a performer who takes up so much space and does so much to be the center of attention. And really, that's all we ask of him…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5SG6VA21G6KGF6BRN6F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A5SG6VA21G6KGF6BRN6F",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5RRGBRMEG1GHPNZ5BPP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A5RRGBRMEG1GHPNZ5BPP",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5S0FJ0SA1Z212A6GVFA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A5S0FJ0SA1Z212A6GVFA",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1CRNAEP4698T09XQXKXAEAVBHH",
+      "reference": "ALT_BISE_B_LY_52_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c4f8b9ea9e7c0b6797d1",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artist"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c4d81fbca8dc770e79c9",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/en_US/b48ae1ae5e3a1c933c936a3444eefedc.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_8f2e7c867842ac802522cba21434a01e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_ddf9d63a25e441d7911b7a2b4c5a861c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_f26af1f6d95eea09d5f11447789e4266"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_52_C",
+  "reference": "ALT_BISE_B_LY_52_C",
+  "id": "01JB1YGPBFNZN87D698ZMZT2VD",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/it_IT/549099a854d530d10d8ed4fd6c72b79b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/de_DE/c830d80d9aec854fdb69c2a974162ddb.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/es_ES/ececfd7e65a10888cc537f180abd54bf.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/en_US/b48ae1ae5e3a1c933c936a3444eefedc.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/fr_FR/6cacd3a4db7fa2501a62b32d264eeb1c.jpg"
+  },
+  "name": "BLISS Keytarist",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "At Dusk — If I'm [[Boosted]], reveal the top card of your deck. If it's a Character with a base statistic of 0, draw it. Otherwise, discard it.",
+    "ECHO_EFFECT": "{I} When you play another Character with a base statistic of 0 — I gain 1 boost, up to a max of 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-040-C-EN"
+}

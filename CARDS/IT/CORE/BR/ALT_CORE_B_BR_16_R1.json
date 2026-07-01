@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_16_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZAAYKWBZV2K91RBTSYX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5S3CZ0GDG84WDBQQB7VE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5S3CZ0GDG84WDBQQB7VE",
+          "text": "\"Sembra che Thot non mi abbia mai visto duellare.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S44N7GB7XM7YDD7QDD9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5S44N7GB7XM7YDD7QDD9",
+          "text": "Sitina takes up position in the chalk-drawn circle before slowly, precisely unsheathing her swords. She then stays on guard, blades spaced apart, head tilted slightly to one side. Her breathing is calm, controlled. Yet I can already sense the threat simmering beneath her apparent tranquility, her predatory instincts lying dormant in her resting muscles. Like a panther slowly waking up, working up an appetite for the hunt. I circle her, arms crossed, closely watching her posture and the tension in her limbs. I nod, satisfied. All around us, other swordsmen stop and quietly approach, interrupting their training to watch the show. Seeing a Phoenixian Blade Dancer in action is a rare and precious opportunity. Sitina remains utterly still. Like an ebony statue, she waits…\n\nI snap my fingers, and all at once, she begins to move. Slowly at first, her blades tracing arabesques in the air. Her sequences are meticulous, her pacing impeccable. I smile. I snap my fingers again, and she speeds up. Her swords spin, beginning to whir. Her twirling is flawless, her steps confident as she swirls around, slides, leaps, and cleaves. Sitina is staring into space. Her mind is no longer in control, but in exaltation. Her dance is becoming a trance. One last snap of my fingers, and she is unleashed. I sense the duende taking over. I draw my blade and start performing complex katas before her eyes. Instinctively, Sitina measures up my movements and begins to replicate them perfectly, without the slightest delay. We dance gracefully, mirroring one another. I see her blades take on a crimson gleam, leaving red trails in their wake like so many glowing ribbons. Well, then… let's see how far she can go."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S3RK7P426G2B9FPC7FY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5S3RK7P426G2B9FPC7FY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S2V44M7AGHXYXHWNZJN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5S2V44M7AGHXYXHWNZJN",
+          "text": "Basira"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5S34AQMRJ184RZXGKXWP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5S34AQMRJ184RZXGKXWP",
+          "text": "390 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZAAYKWBZV2K91RBTSYX",
+      "reference": "ALT_CORE_B_BR_16_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/26d1c720c727a8a3f27a",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldato"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cc245d73d4a3117b19e9",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/1dd2da16a590d48edda9",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-28T10:37:36+00:00",
+      "question": "Can I first resolve the \"When I'm played from Reserve\" ability of Bravos Bladedancer, to have her lose [FLEETING], before resolving her \"When I enter play from anywhere\" ability to have her gain her 5th boost?",
+      "answer": "You resolve all your reactions in the order of your choice!"
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/JPG/it_IT/6498ab18c6847a334332e4487e1b8da4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/ALT_CORE_B_BR_16_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/ALT_CORE_B_BR_16_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/ALT_CORE_B_BR_16_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_16_R1",
+  "reference": "ALT_CORE_B_BR_16_R1",
+  "id": "01HKAFJNPCQS0CAV7GQFFWSE7R",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/JPG/it_IT/6498ab18c6847a334332e4487e1b8da4.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/JPG/de_DE/2207b919c1b9bfdbb969341bdc0bcb25.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/JPG/es_ES/87d18bc9e7b0c3513cb90ac3b0878758.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/JPG/en_US/e7956345d04df713369074cb24b445f5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/JPG/fr_FR/3b7f6dbc1ac8fddbc125a608d9ae215e.jpg"
+  },
+  "name": "Lama Danzante Bravos",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "[Temprato]. (Mantengo i miei rinforzi quando vado nella Riserva.)  {J} Ottengo 1 rinforzo.  #{R} Se ho 4 o meno rinforzi, perdo [[Fugace]].#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-035-R-IT"
+}

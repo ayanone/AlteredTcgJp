@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_17_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79A2AC3HVRKHT268AFJ4",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME87EKCGSAMXQ2HMSPMKBC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME87EKCGSAMXQ2HMSPMKBC",
+          "text": "She'll be followed long after she's gone."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87FT1SCZ7QN2RZCTNFZN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME87FT1SCZ7QN2RZCTNFZN",
+          "text": "I salute and stand en garde as Jeanne takes up position in front of me. There's a determination in her eyes that could easily be mistaken for severity. But I can honestly say I have never faced such intensity, such presence, such poise. And it comes to her naturally, as easily as the air that we breathe. Her bearing is impeccable, her posture excellent. And as she takes a few steps towards me, I step backwards as a reaction to her determination, fortitude and radiance. But I can't let myself give up ground. I strike, and she stops my attack with the flat of her shield. I lunge again, and she parries my strike with the edge of her sword. She shows no hesitation, no fear. Her goal is victory, and she goes all-out to achieve it.\n\nIn my last lesson, she had talked to me about her way of seeing things. She believed she was only an instrument, dedicated to completing a mission that was so much bigger than herself. And she believed that all the soldiers of the Aegis needed to adopt this same mindset. There was no room for doubt. We just needed to keep going until this destiny was fulfilled, until the world was free of the Tumult's clutches... The undertaking was a noble one. It had to be our moral compass at all times, our guiding light when the way forward wasn't clear. If Jeanne had led our troops, I know I would have followed her to the end of the world. But it was time for someone else to take her place, to free humanity from its imprisonment. Could I carry the standard? Did I have enough charisma to get everyone to rally around me? Her strike clangs against my shield and I stagger backwards. It's time I proved myself."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87F7D3DZCHHNH2GV71X3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME87F7D3DZCHHNH2GV71X3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87DAXPAV6KDH72FJCN0B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME87DAXPAV6KDH72FJCN0B",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87DY966FX98HKX253YT0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME87DY966FX98HKX253YT0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79A2AC3HVRKHT268AFJ4",
+      "reference": "ALT_COREKS_B_OR_17_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/84c36d33421314ca9b89",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6b7b58fbc61aaf92d8e0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/52ba44d99b184b6163d9",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-01T10:37:41+00:00",
+      "question": "What happens if Jeanne d'Arc moves from an Expedition to another, because of Hooked for example?",
+      "answer": "Nothing special! The Expedition zone includes all the expeditions from all players, so Jeanne d'Arc does not leave the Expedition zone."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/a04c107e30c6e67a16f6",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-07-10T10:37:41+00:00",
+      "question": "What happens when Jeanne d'Arc goes to Reserve at Night?",
+      "answer": "1. During Rest, your card of Jeanne d'Arc goes to Reserve along with all your (non-Anchored, non-Asleep, etc...) Characters.  2. This triggers her effect 3. Once you've finished resolving step 1, you resolve the effect, creating two Ordis Recruit tokens.  4. Since your Characters already left, the tokens don't go to Reserve until next turn (at which point they will be removed from the game, being tokens)."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_17/JPG/en_US/c9ab167fed2f961d52ecdf5422b63f0c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/ALT_CORE_B_OR_17_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/ALT_CORE_B_OR_17_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/ALT_CORE_B_OR_17_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_17_R2",
+  "reference": "ALT_COREKS_B_OR_17_R2",
+  "id": "01HN5TXRGBXP4XC25AVNS1QCTQ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_17/JPG/es_ES/3138a469102e9a7618d27f56441dd637.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_17/JPG/de_DE/cc5c32fafdc534b0330c22507fd4d97e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_17/JPG/it_IT/2de8e448859910eab2493ac163f88d2c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_17/JPG/en_US/c9ab167fed2f961d52ecdf5422b63f0c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_17/JPG/fr_FR/74ad6cef1fe89ea448f73a76cb22ee9b.jpg"
+  },
+  "name": "Jeanne d'Arc",
+  "elements": {
+    "MAIN_COST": "#5#",
+    "RECALL_COST": "#5#",
+    "OCEAN_POWER": "#3#",
+    "MOUNTAIN_POWER": "#3#",
+    "FOREST_POWER": "#3#",
+    "MAIN_EFFECT": "When I leave the Expedition zone — Create a #[Brassbug 2/2/2] Robot# token in each of your Expeditions."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-137-F-EN"
+}

@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z8ZCQXSCSY2EJ8A16MB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5REEQRXG0J4R8J9M6AT2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5REEQRXG0J4R8J9M6AT2",
+          "text": "Seuls les méritants pourront atteindre, sous ma direction, la véritable transcendance."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5REXNPNDP3N2HK4KG5HX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5REXNPNDP3N2HK4KG5HX",
+          "text": "392 AC - Je contemple les eaux furieuses, tandis que le ressac m'asperge copieusement. L'eau chuinte au contact de ma peau, là où Kaizaimon serpente sinueusement, attendant patiemment qu'il soit l'heure de sortir de sa cachette. Dans l'obscurité spectrale, les flots rugissants frappent la falaise, tandis qu'un éclair zèbre le ciel déchaîné. Autour de moi, les autres combattants Bravos sont prostrés, dissimulés et aux aguets. Je les vois pester contre le froid et l'eau qui s'insinue profondément dans leurs vêtements, mais aucun ne moufte. Je souris. Ce ne sont pas deux ou trois gouttes qui nous feront chanceler ou trembler. Tout à coup, Kai se déverse hors de mon épiderme en un nuage rougeâtre, comme une brume de sang. Peu à peu, mon oni se solidifie, retrouvant son apparence originelle. Il se met à flotter au-dessus du promontoire où nous nous sommes réfugiés, en attendant de resserrer l'étau de notre embuscade.\n\nIl observe le ciel, et j'en fais de même, juste à temps pour voir un griffon transpercer les nuages. Il se dirige vers la plage, Sigismar sur son dos. Ça veut dire qu'il n'est pas loin derrière. Je fais craquer mon cou et mes phalanges. Tout autour de moi, les autres guerriers s'étirent lentement. Certains font rouler leurs épaules, d'autres tirent leur lame hors de leur fourreau. Je me retourne vers eux pour les gratifier d'un sourire, et ils me le rendent. Oh, mais ce ne sont pas des sourires bienveillants, mais des rictus carnassiers. Et c'est tant mieux. Aujourd'hui, j'ai besoin  qu'ils soient des démons. Je hurle à leur attention, brandissant mon poing alors que l'ouragan fait rage. Ils rugissent en retour, certains faisant résonner leur arme sur leur bouclier. L'ennemi sera redoutable. L'adversité sera formidable. Mais c'était cela qui faisait vibrer les Bravos. Viens donc, Kraken ! Nous sommes prêts !"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RENN41TZ0MDDCN1YYT5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5RENN41TZ0MDDCN1YYT5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RDY38RHT4368VW8VYAE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5RDY38RHT4368VW8VYAE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RE6PXF2DSPPNPWNSFRD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5RE6PXF2DSPPNPWNSFRD",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HNGY4Z8ZCQXSCSY2EJ8A16MB",
+      "reference": "ALT_CORE_B_BR_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/de61c4cc789b76f2212b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_03/JPG/fr_FR/cd971517ea4ec64d2262e36f6f1f3961.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_03/ALT_CORE_B_BR_03_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_03/ALT_CORE_B_BR_03_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_03_C",
+  "reference": "ALT_CORE_B_BR_03_C",
+  "id": "01HKAFJNMSVFS2WW580N4EVJ54",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_03/JPG/it_IT/8e65e8d43f66ef75ffda79770a542f49.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_03/JPG/de_DE/3b09e3a9c46a61266f2854fa961b48e1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_03/JPG/en_US/b27b8cb40203be36c7b02facdc3406b7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_03/JPG/fr_FR/cd971517ea4ec64d2262e36f6f1f3961.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_03/JPG/es_ES/8562c0be6906c21a9288e6fe0cc452b5.jpg"
+  },
+  "name": "Basira & Kaizaimon",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Lorsqu'un Personnage que vous contrôlez gagne au moins 1 boost — Vous pouvez m'épuiser ({T}) pour donner 1 boost à un Personnage ciblé. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-033-H-FR"
+}

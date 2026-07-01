@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_63_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4N83E775ST953TQCCXNZZRM797",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4HDQP9PWKHDFAA1CS45",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4HDQP9PWKHDFAA1CS45",
+          "text": "L'uso della linfa altererà il corso della scienza così come la conosciamo."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4HSSBGFV8V97TPV5C1A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4HSSBGFV8V97TPV5C1A",
+          "text": "393 AC - A listless Rossum picks his way through the narrow walkways of the refinery — a hard-working fortress, all clad in steel, vibrating with sirens, illuminated by flashing lights, foggy with industrial fumes… I follow in my chair as we make our way along the large ducts and cable conduits to the control room. The power doors open to let us through, and I find Subhash, all sullied with oil and grime. Like many other mechanics, he was requisitioned for maintenance operations. I pet the head of Marmo, who had come to greet me, tongue lolling, before going to nibble playfully on my Alter Ego's ankle. Bash is standing just off to the side of the engineers huddling around the plans, looking worried or focused, I'm not sure which. This must be the final check before pressing the button… The refinery has been at a standstill for five weeks as it's reconfigured and transformed from a Kelon refinery to a Sap operation.\n\nAll the Axiom community's brightest minds are clustered around the table. They check, recalculate, adjust and recalculate again. Following directions, the workers below connect, divert, disconnect and reconnect… Bash yawns, and I empathize. But just as I decide to go and see him, the group raise their heads. A consensus seems to have been reached. All they need is a signal. The technicians at the controls anxiously lower the switch levers. Slowly, the change begins. The pumps start up, and fluid flows back and forth. The conduits leading from the City of Scholars emit a strange sound… an odd sucking noise, a bit like a drain. In a gloopy eruption, Sap rushes into the vats, spurting out in fits and starts. Then the gurgling turns into a regular humming sound. After a few minutes that seem like hours, the architects of this technological marvel start hugging, congratulating and embracing each other as applause rings out."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4HK1ZAEX0ZKHQ4RGN6E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4HK1ZAEX0ZKHQ4RGN6E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4H1FVWSYMV7VDMVG9C5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4H1FVWSYMV7VDMVG9C5",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4H76DC3K2ESZKDY5DSG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4H76DC3K2ESZKDY5DSG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "4N83E775ST953TQCCXNZZRM797",
+      "reference": "ALT_BISE_B_AX_63_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente Fulcro"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2be6c485f16e4b671805",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Costruzione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/813420aac534bbd66b14",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/it_IT/215a94d15a7b414590c447b00f8594bb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/WEB_a624c77d71597e3b4f75387d82ab2fd0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/WEB_86673627b1cca3df653102bc093b5e25"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_63_R2",
+  "reference": "ALT_BISE_B_AX_63_R2",
+  "id": "01JB1YGPB82STV8A33FYP2YXY7",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/en_US/bfadd07252cf953f6e9ac864e3119793.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/fr_FR/2e7082d5fdb9d42796a3369cf9e32fb4.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/de_DE/cfb0e5b36e6a9860cd8b492bbd498765.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/it_IT/215a94d15a7b414590c447b00f8594bb.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_63/JPG/es_ES/444fea627ec28ee75c661592777e3208.jpg"
+  },
+  "name": "La Raffineria",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Quando una carta lascia la tua Riserva durante il pomeriggio — Ottengo 1 segnalino Linfa.  {T}, spendi 3 dei miei segnalini Linfa: i personaggi nella tua Riserva ottengono 1 rinforzo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-016-F-IT"
+}

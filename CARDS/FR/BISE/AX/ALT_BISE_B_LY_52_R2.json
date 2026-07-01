@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_52_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1CRNAEP4698T09XQXKXAEAVBHH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A5S8ERXQW2S8SQXACBTP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A5S8ERXQW2S8SQXACBTP",
+          "text": "« Faites du bruit pour les courageux qui extraient la Sève des profondeurs ! » — Orbec"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5SRC8TH8V07D7KRYHY2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A5SRC8TH8V07D7KRYHY2",
+          "text": "393 AC - Orbec appuie sur son keytar. Une note, qui se réverbère comme un cor qui sonne dans la brume. Un, deux. Un, deux ; un deux. On se met tous à jouer suite à son signal, et ses doigts virtuoses arrachent une mélopée complexe à son instrument. Le claviériste avait été le plus compliqué à recruter, refusant par deux fois la proposition de rejoindre la formation. Orbec avait toujours aimé jouer les divas, faisant sa mijaurée, exprimant clairement son hésitation. Il voulait être séduit. Il voulait être désiré. Mais j'étais sûre que c'était lui, et je lui avais fait une cour appliquée afin qu'il daigne s'intéresser à nous. Puis, il avait posé ses bagages sur l'Ouroboros avec une liste longue comme le bras de souhaits et de desideratas, que d'autres auraient mouchés sans autre forme de procès. Tam s'était arraché les cheveux en entendant tout ce qu'il réclamait, et son \"mais il se prend pour qui, celui-là ?\" avait résonné dans toute la loge.\n\nMais aujourd'hui, à les voir jouer ensemble, je sais que j'ai fait le bon choix. Bien sûr, il faut supporter ses airs guindés et son caractère dédaigneux, voire pédant. Mais c'est son personnage, comme on revêt tous nos vêtements de scène quand on se présente devant le public. Le reste du temps, il lit ses romans de gare ou étudie religieusement ses partitions, dans un silence tout aussi pontifiant. Stoïque, ou même laconique selon certains, il semble vouloir tout le temps se cacher derrière ses lunettes, faisant comme s'il n'était pas là. Comme s'il était invisible, sorte de témoin fantomatique des événements. Et peut-être même pense-t-il l'être vraiment, vu l'air surpris qu'il affiche à chaque fois qu'on lui demande son avis. Mais quand il est sur scène, difficile de regarder ailleurs tellement il emplit l'espace et fait tout pour être le centre de l'attention. Et en réalité, c'est tout ce qu'on lui demande..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5SG6VA21G6KGF6BRN6F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A5SG6VA21G6KGF6BRN6F",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5RRGBRMEG1GHPNZ5BPP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A5RRGBRMEG1GHPNZ5BPP",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5S0FJ0SA1Z212A6GVFA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A5S0FJ0SA1Z212A6GVFA",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1CRNAEP4698T09XQXKXAEAVBHH",
+      "reference": "ALT_BISE_B_LY_52_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/faa316938dc6cc527344",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artiste"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/91a97c4356fae1509bf6",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/fr_FR/202633c9505fd4c5082f062def86b88f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_8f2e7c867842ac802522cba21434a01e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_ddf9d63a25e441d7911b7a2b4c5a861c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_f26af1f6d95eea09d5f11447789e4266"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_52_R2",
+  "reference": "ALT_BISE_B_LY_52_R2",
+  "id": "01JB1YGPBG3B1S37T9RRG0K51V",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/it_IT/13d7f4ebb5a1badf221006c84c1d4175.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/fr_FR/202633c9505fd4c5082f062def86b88f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/de_DE/b386116797f81365526b9a993392933d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/en_US/e37e3a7bc9bbfcc1f5ee458829871c2e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/es_ES/79bd7df3039b06aca278f6849d691b6c.jpg"
+  },
+  "name": "Claviériste de Bliss",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "Au Crépuscule — Si je suis [[Boosté]], révélez la première carte de votre deck. Si c'est un #Robot# ou un #Permanent#, piochez-la. Sinon, défaussez-la.",
+    "ECHO_EFFECT": "{I} #À Midi — Choisissez l'un :#  • Je gagne 1 boost, jusqu'à un max de 3.  • #{T} : Je gagne 2 boosts#, jusqu'à un max de 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-040-F-FR"
+}

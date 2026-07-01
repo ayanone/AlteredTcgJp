@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_16_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YW01DVSQ2JVYAT5A6CE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QNHFE2WQR26C5995AC8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QNHFE2WQR26C5995AC8",
+          "text": "Kein Blechkäfer würde ohne Rüstung im Tumult überleben."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QNZEK5K0XETBRARAYD2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5QNZEK5K0XETBRARAYD2",
+          "text": "Tessalit hammers the armor several times to knock it back into shape. She curses when she sees the state of the cabin, then pulls on the panels to realign them as best she can. Around her, Brassbugs are hard at work all over the fuselage, welding and cutting in a shower of sparks. It's crazy to think she's part of the Fulcrum, the Guild responsible for preparing the vehicles and equipment that the Expeditionary Corps will be using. I can't help but feel a little jealous. But Paju and I have a different ambition. We've decided to become pilots as soon as a position becomes available. The foreman has asked us to spend the whole day helping to repair an airship that has clearly seen better days. I suppose to a certain extent, pilots should know how their vehicles are supposed to function, so I suck it up and get to work.\n\nI use my kelonic bolt-popper to lay the groundwork, removing each rivet so she can access the inside of the vehicle. Axiom Armorers supply the best armor for these ships, and the Ordis Scribes place Glyphs on them to protect them as much as they can from the Tumult, but it doesn't stop them from taking a beating every time they stray too far into the altered lands. Tess slides down the aircraft fuselage to join me, then offers me her flask so I can take a few swigs. Don't have to ask me twice… It somehow reassures me to have talented mechanics like her around. When we're pilots, it will be great to know we can count on them. But it's too soon to be thinking of that, anyway. There's an exam to pass first, and then who knows how many years of training before I can actually fly. "
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QNRKKRWR6ACG2WQ1NBE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QNRKKRWR6ACG2WQ1NBE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QN51EPA8VKBVNFC9ZYR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5QN51EPA8VKBVNFC9ZYR",
+          "text": " Treyst"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QNBA42XJZXK95HJPBRJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QNBA42XJZXK95HJPBRJ",
+          "text": "372 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YW01DVSQ2JVYAT5A6CE",
+      "reference": "ALT_CORE_B_AX_16_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/732f96f1b4c5e3ed33b9",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingenieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/32fbcace93718634e717",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/JPG/de_DE/bca8299e150df803ee1dbee4b7042345.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_16_R2",
+  "reference": "ALT_CORE_B_AX_16_R2",
+  "id": "01HKAFJNJZN3KF3R64QWRHRB8H",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/JPG/de_DE/bca8299e150df803ee1dbee4b7042345.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/JPG/es_ES/0938d813983f7811af4ecbd6559dc95a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/JPG/it_IT/5aab5e003145fd7ced70379f8c409792.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/JPG/en_US/94cdcc37f9b29773095ef84e53da421a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/JPG/fr_FR/e733f058ca0047f0a3032f5ef10d2e41.jpg"
+  },
+  "name": "Gießerei-Rüstungsspezialistin",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{R} Erschaffe eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-013-F-DE"
+}

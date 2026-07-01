@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_33_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7AZTSXD2DA880T8E95G6FVMXQJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J286YYW8X5QHK7XT1FSMN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J286YYW8X5QHK7XT1FSMN",
+          "text": "Come un cane con l'osso."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J287ZRWQEXN2D32BZM0XZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J287ZRWQEXN2D32BZM0XZ",
+          "text": "Vieni qui, tu! Se pensi di potermi sfuggire, piccolo furfante, ti sbagli di grosso. La creatura dalle zampe palmate si muove a zig-zag tra gli alberi, saltellando e di tanto in tanto scivolando sulla pancia per prendere velocità lungo i pendii innevati. Nella sua borsa trasporta gingilli di ogni tipo rubati dall'accampamento, compreso l'anello che mi ha restituito Hasret. Quell'anello suscita in me troppi ricordi dolceamari: dal giorno in cui Hasret lo accettò da me, cercando di nascondere le sue emozioni dietro un muro di sarcasmo e indifferenza, alla notte in cui me lo restituì, sapendo che i nostri giorni insieme prima della mia partenza stavano per finire... Non permetterò mai che un dannato uccello me lo rubi. Usando l'heka, imprimo un glifo sul tronco di una vecchia betulla; ne salta fuori un branco di segugi, che guaisce e abbaia con eccitazione.\n\nChe la caccia abbia inizio! I cani iniziano subito a fiutare le tracce e partono all'inseguimento. Quel ladruncolo di un uccello sarà anche riuscito a seminare me, ma non sfuggirà ai miei cani. Fen ha fatto bene a chiedermi aiuto. Mi aveva incaricato di trovare il nido di quel ladruncolo, dove custodiva il maltolto. E ora i miei segugi lo stanno raggiungendo. In preda al panico, lascia cadere alcuni oggetti, che si posano sulla neve con un lieve tonfo. Ma per quanto veloce possa correre, finirà per essere messo all'angolo. All'improvviso sento stridere e grugnire. Smetto di correre e vedo i Tre Porcellini che sgambettano verso di me. Sembrano inseguiti da un pericolo inenarrabile. Mi maledico, sapendo bene che non posso andarmene senza aiutarli. Fischio ai cani per mandarli verso l'accampamento. Poi urlo agli eidolon, evocati da chissà chi, di seguire subito i miei cuccioli."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J287C3YZ75RDJXP1KFDEH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J287C3YZ75RDJXP1KFDEH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J285XNE7JV0BSS2JX2E45",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J285XNE7JV0BSS2JX2E45",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J286BFR72R38KP0K6RWY3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J286BFR72R38KP0K6RWY3",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7AZTSXD2DA880T8E95G6FVMXQJ",
+      "reference": "ALT_ALIZE_B_OR_33_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/321fc271b7aeca3f0296",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6b8ed4ec00b696ffb535",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/it_IT/14e9811423b9230ac8c37589b820026b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/WEB_6a25159b76166c05336d62ad4ec67d52",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/WEB_97ca6e54d7799911c27da02da3155f40",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/WEB_191193460a7c1e2dff0483e89baeeea0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_33_R2",
+  "reference": "ALT_ALIZE_B_OR_33_R2",
+  "id": "01J1Q4P4SKAF9A6PP6VDW6X2NX",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/it_IT/14e9811423b9230ac8c37589b820026b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/es_ES/b6d93048d17916582436357f4b928e44.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/en_US/73f33eb28da0d8ec93db2d17b4e65bae.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/fr_FR/c342c356bc8507b11a21da8b7c3591ea.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/de_DE/96b7550b274b7d528614b693ecf55706.jpg"
+  },
+  "name": "Segugio",
+  "elements": {
+    "MAIN_COST": "#1#",
+    "RECALL_COST": "#1#",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "#1#",
+    "MOUNTAIN_POWER": "#1#",
+    "MAIN_EFFECT": "{J} Se la mia spedizione è indietro, ottengo 1 rinforzo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-071-F-IT"
+}

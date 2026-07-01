@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_22_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50E61APRFD92P8JQYBQR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH661NKB1Z4SBNRA789DM0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH661NKB1Z4SBNRA789DM0",
+          "text": "Diese Nachricht wird sich in fünf Sekunden selbst zerstören."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6634EE6837W7XXK8R1Y2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH6634EE6837W7XXK8R1Y2",
+          "text": "I wander through the tight alleyways of Svarog Village, passing under the large drapes that protect the stalls from the daylight. Visitors crowd into the yellowish shade of the market, browsing for spices, seafood and metal parts that the Axiom produce and distribute for the people. But I'm not interested in any of these trinkets. What I want is to blend into the crowd. Behind me, the spy has been following me for quite a while. Who does he work for? Kuwat? Wanjiru? I'd love to know, but my only goal right now is to shake him off. And the cart passing by gives me the ideal opportunity to do it... I conjure the idea of \"Break,\" and place it on the cart's axle. With a resounding crack, the cart collapses, and crates tumble into the canal below.\n\nI use the commotion to disappear into an alley, conjuring other ideas to graft onto my body. Long, straight black hair starts to grow out of my head, my skin turns paler, and my cheekbones widen. I mingle with the throng of pedestrians as I head towards the Auction House. If he keeps following me after all this trickery, I'll still have time to turn into a gust of wind or play with the memories of everyone who saw me... As I turn the streetcorner, I see the spy looking all around him, obviously panicked. If the Qorgan or any other cabal wants to keep tabs on me, they'll need to find someone better than this. After checking that I'm no longer being followed, I resume my journey to the rendezvous. Finding forbidden books is so rare that I wanted to take all the precautions I possibly could."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH662DJ6NQ7GRBZXD9WWRQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH662DJ6NQ7GRBZXD9WWRQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66046984F4X7BSMAEEQF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH66046984F4X7BSMAEEQF",
+          "text": "Lindiwe"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66106A2Z803YAP9SBS87",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH66106A2Z803YAP9SBS87",
+          "text": "381 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50E61APRFD92P8JQYBQR",
+      "reference": "ALT_CORE_B_YZ_22_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a3c5327b9b04ef5c1f74",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Unterbrechung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d463803bb527187f5a2c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/JPG/de_DE/1e00ee731c88b68185b7e2dd7863e30e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/WEB_9ff49616f03e665a4476d8cf4d09bd00",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/WEB_d18a92617f6cf2d507c17600acb46f9c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_22_C",
+  "reference": "ALT_CORE_B_YZ_22_C",
+  "id": "01HKAFJP4JZ7PT2D7ZD47R3CXJ",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/JPG/fr_FR/deba34d52caf7ccd4227918fb710d8da.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/JPG/de_DE/1e00ee731c88b68185b7e2dd7863e30e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/JPG/en_US/059c072121ce3f419b479bed594fa75f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/JPG/it_IT/f228b334a79efff6684b8194f53f9a55.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/JPG/es_ES/8a910240c2191a069f12e32fda8a99e8.jpg"
+  },
+  "name": "Spionage",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Vergänglich]]. (Lege mich auf die Ablage statt in die Reserve, nachdem mein Effekt abgeklungen ist.)  [Sabotage], dann [Nachschub]. (Lege bis zu eine Karte deiner Wahl aus einer Reserve ab. Lege die oberste Karte deines Decks in die Reserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-171-C-DE"
+}

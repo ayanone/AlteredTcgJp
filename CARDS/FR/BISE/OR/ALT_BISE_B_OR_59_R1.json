@@ -1,0 +1,162 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_59_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5DNDKAK98090095T14MSC9KXEE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A9ZHDBKEAFFC5NC9XHH5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A9ZHDBKEAFFC5NC9XHH5",
+          "text": "« La messe est dite pour votre cuisine ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA090A5E3VAK6A12KFS2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1AA090A5E3VAK6A12KFS2",
+          "text": "393 AC - Je referme le rapport des botanistes et me lisse la barbe, tout à mes réflexions. La Sève. Elle avait été acceptée et démocratisée d'emblée, quelques semaines après sa découverte, sans véritablement prendre toutes les précautions nécessaires. Or, quelque chose avait causé le déclin de la Cité des Sages. Et ce pouvait très bien être cette fameuse substance. Rien dans ces feuillets ne semblait indiquer une quelconque nocivité, mais cela ne prouvait pas pour autant son innocuité. Je tapote le bois de mon bureau, pensif. C'était une chose de l'utiliser comme les Axiom le faisaient, mais de là à l'incorporer si rapidement dans notre alimentation... Non, ce rapport n'était nullement suffisant. Avec gravité, je tire de ma pile de papiers la demande de mise en quarantaine. Hestia n'allait pas être contente, comme elle n'avait pas apprécié que je lui impose une inspection sanitaire surprise. Mais je ne pouvais prendre le risque d'exposer les forces d'exploration à un potentiel danger sanitaire.\n\nJe signe la proposition de décret et y place mon sceau personnel. Fermer le Mess allait envoyer un message clair à la population. Et si cela pouvait provoquer une suspicion vis-à-vis de la Sève, alors tant mieux. La méfiance était de mise, et il fallait appuyer sur ce point. Je tire un autre feuillet de la pile, cette fois-ci destiné à la Ferme Muna. Il allait aussi falloir proscrire l'utilisation du liquide dans les cultures, pour traiter le mal à la racine. J'allais forcément écorner ma popularité, déjà bien mise à mal, mais c'était un sacrifice que je devais faire pour le bien commun. Cependant, dans le cas de la Ferme, je ne comptais pas demander une fermeture administrative. Plutôt envoyer un avertissement clair et effectuer une transition progressive vers des récoltes dénuées de substances à risque. J'espère que mes préconisations trouveront un écho à l'hôtel de ville, et que nous légiférerons dans le bon sens..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9ZXD6QPDZJ85TH9M4FY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A9ZXD6QPDZJ85TH9M4FY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9XPCFF36QBD9QBD0MX5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A9XPCFF36QBD9QBD0MX5",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9Z56ZCQNMFEP0B89108",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A9Z56ZCQNMFEP0B89108",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "5DNDKAK98090095T14MSC9KXEE",
+      "reference": "ALT_BISE_B_OR_59_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a4f853b511da56a5bf25",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/652053cc8a2701e00aa6",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manœuvre"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/01028d835ef69163e914",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_59/JPG/fr_FR/a6792fe3f3fef1a5f54ba9780a1d0e69.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_59/WEB_8917b523ef47269421c2b176336f5684",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_59/WEB_4663993137546be7baba926bb3dbe9de"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_59_R1",
+  "reference": "ALT_BISE_B_OR_59_R1",
+  "id": "01JB1YGPBXPP0J7SWB4N1XQ9B6",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_59/JPG/es_ES/5c29629d19276020c97ae13dd5a77d02.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_59/JPG/de_DE/2530cb337781572b383d713ce4e90198.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_59/JPG/en_US/207ca5ded82ddf99e2146ba0cfe1aa9b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_59/JPG/fr_FR/a6792fe3f3fef1a5f54ba9780a1d0e69.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_59/JPG/it_IT/d7b944a90dd535bb0db76f513028e38e.jpg"
+  },
+  "name": "Retrait de Licence",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "[[Fugace]].  Choisissez l'un :  • Défaussez un Personnage [[Boosté]] ciblé #de Coût de Main {3} ou moins.#  • Défaussez un Permanent ciblé #de Coût de Main {3} ou moins.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-082-R-FR"
+}

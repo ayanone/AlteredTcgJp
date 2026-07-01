@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_44_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1T4SBR2ZWV8QRR1QPAK2XD1EFJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24R54084YYNF27X2TN89",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24R54084YYNF27X2TN89",
+          "text": "No existe la suerte, solo la preparación."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24RRTMHRAMV2VN12R43W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24RRTMHRAMV2VN12R43W",
+          "text": "Tengo curiosidad, lo admito. Mucha… ¡quizá demasiada! Pero bueno, así soy yo, ¿no? Cuando vi a Skadi dejar descuidadamente su bolsa de equipo junto al campamento y salir a dar un paseo, me pareció una oportunidad insuperable. Miradita a la izquierda, miradita a la derecha. No hay nadie: a rebuscar entre su equipo se ha dicho. Encuentro muchas cosas que debe usar para cazar y vivir en las montañas. Cuerda, mosquetón, piedra de afilar… Pero hay otra cosa que me llama la atención de inmediato: un par de botas. Son de color rojo brillante, tienen un diseño extraño y piden a gritos que me las pruebe. Y como soy tan educado, no me puedo negar. ¿Qué tiene de malo? Además, necesito saber si son de mi talla. Sin dudarlo más, me calzo una bota. Parece adaptarse a mi pie, pues crece a lo largo y ancho hasta envolverlo como una media. Genial, ¡son comodísimas!\n\nUn extraña perilla se enciende en el tobillo y parpadea en rojo. Eso es, Kojo, los cosas que parpadean en rojo hay que toquetearlas siempre. ¿Será para ajustar la temperatura? Una bota caliente: ¡vaya invento! Bueno, calefactada, más bien. Giro la perilla para ver qué hace y de la suela brotan púas. ¿Eh? ¿Para eso servía? Bueno, no están calefactadas, pero siguen siendo estupendas. Estos crampones de alpinismo podrían ser muy útiles. Y como no puedo evitarlo, me pongo a buscar otras propiedades ocultas. Giro la perilla hasta la siguiente muesca. ¡Fium! Sale una llama en forma de cuchilla de una hendidura en mitad de la suela. Retrocedo un poco, sorprendido. Ostras, ¿eso es un patín de hielo? De repente, alguien me toca el hombro y sé que me han pillado. La muy puñetera de Skadi tiene los brazos cruzados sobre el pecho y me mira con desaprobación."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24RE24SQKGSV6ARKSQN9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24RE24SQKGSV6ARKSQN9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24QHV218S11SYSWARZAZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24QHV218S11SYSWARZAZ",
+          "text": "KOJO\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24QWMVAZAX11FVDY9JG4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24QWMVAZAX11FVDY9JG4",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "1T4SBR2ZWV8QRR1QPAK2XD1EFJ",
+      "reference": "ALT_ALIZE_B_BR_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanente de expedición"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1f6137e151274a11cf10",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Accesorio"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5523b72527e63e605135",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/es_ES/18af88931b029be26476839a5568344b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_279571b768bb272a3ff12c59a0520f95",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_7035156d55cac81037a43930cb962eb4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_44_R2",
+  "reference": "ALT_ALIZE_B_BR_44_R2",
+  "id": "01J1Q4P4S494FQQRQ8V7F8JMWW",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/it_IT/16f0c01bc845299fc39ed8ffbb4bcd4a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/de_DE/6a4f2c54b447e3a77796654b27a3bda9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/es_ES/18af88931b029be26476839a5568344b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/a7e3aaf11b996e002543e0fda2b36aef.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/fr_FR/e77f9fd77312c1586662c1bbeb6be088.jpg"
+  },
+  "name": "Botas profesionales",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "#{R} [Reabastece].# (Coloca la primera carta de tu mazo en la reserva.)  Cuando mi expedición avance — Un personaje objetivo en mi expedición pierde [[Fugacidad]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-031-F-ES"
+}

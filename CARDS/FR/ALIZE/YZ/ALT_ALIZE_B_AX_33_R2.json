@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_33_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3C718R6M4G80BV0BQ93R9Z70PM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J233ZSMTKEYNDGAGPGWCB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J233ZSMTKEYNDGAGPGWCB",
+          "text": "Il s'envole vers d'autres cieux !"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J234D0Y2Y147EXZ9VFPCJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J234D0Y2Y147EXZ9VFPCJ",
+          "text": "Une brume épaisse a commencé à souffler sur le lac, et on y voit désormais que dalle. Marmo est en permanence scotché aux basques de la jeune Lyra, jouant avec elle, et s'assurant que rien de fâcheux ne lui arrive plus. Et je pense pas que ça dérange la petite fille. Mais il va bien falloir qu'on retrouve sa petite caravane si on veut qu'elle regagne sa famille. Bon, pas le choix. Je sors de son étui mon Construct et me mets à réagencer ses touches. Un petit macareux aussi mignon que frêle apparaît devant moi, agitant les ailes. Mais il a endossé le réacteur dorsal d'Icare, et je compte bien le propulser loin au-dessus des nuages pour qu'il puisse nous dire ce qu'il voit, et surtout vers où aller. Il se met à sautiller sur la banquise, à battre des ailes frénétiquement et de manière un peu pataude. C'est surtout ses roquettes qui vont lui permettre de s'élever...\n\nIl prend un peu de vitesse, et soudain, tandis que ses réacteurs s'enclenchent et viennent vitrifier la glace derrière lui, le petit oiseau bondit dans le ciel en transperçant les nappes de brouillard. Il laisse dans son sillage un nuage de vapeur, et je le retrouve loin là-haut, en train de s'élever comme une fusée. À cette hauteur, il devrait rapidement pouvoir déceler la présence d'une procession Lyra, et aussi trouver la direction du Cais Adarra... Je souris. Marmo m'apporte le moniteur portatif avant même que je le lui demande. Sur l'écran, je peux voir les premiers relevés topographiques que le macareux est en train de nous envoyer depuis sa position. La carte est sommaire, mais je distingue clairement les dénivelés, les anfractuosités... Là, un cortège humain. Probablement des gens du Clan de la petiote. Je soupire de soulagement. Mais quelque chose d'autre attire immédiatement mon attention. On dirait une gigantesque entaille qui traverse le lac gelé, comme une immense balafre. Un canyon.."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2346P1CCCNMABH5CSDX3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2346P1CCCNMABH5CSDX3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J233HYBGV8XXMYBG626VN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J233HYBGV8XXMYBG626VN",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J233SDGJS0H9YSYKWCTJG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J233SDGJS0H9YSYKWCTJG",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "3C718R6M4G80BV0BQ93R9Z70PM",
+      "reference": "ALT_ALIZE_B_AX_33_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d2a141ac275166970617",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/402677e8a55ebefa7587",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/f23bbb389e783e996bd4",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:18+00:00",
+      "question": "Can the effect of Rocket Puffin ready a card in another player's Reserve?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/fr_FR/640b5f0658cc66baa6aeba9eac4d5374.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/WEB_eed071ded32d9e10882d6c5bf5344b0f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/WEB_5f1bcef6e3f59c90cd503e3724a02868",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/WEB_3e4d7880f08bcd659501480cec544a5f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_33_R2",
+  "reference": "ALT_ALIZE_B_AX_33_R2",
+  "id": "01J1Q4P4RPMZ8VWX4YR153F1Y3",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/fr_FR/640b5f0658cc66baa6aeba9eac4d5374.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/en_US/c1976987dd7aa4fc19f69aeedbaca8e0.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/de_DE/0fad90b2633f1b93e0d0bee88a2f76d5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/it_IT/84db63848b70c8ad8d434f477b26a990.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/es_ES/4bb302a0e8896372e7aa871206f30bd0.jpg"
+  },
+  "name": "Macareux à Roquettes",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "{J} Vous pouvez redresser une carte épuisée en Réserve. #Si vous le faites, je gagne 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-004-F-FR"
+}

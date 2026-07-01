@@ -1,0 +1,175 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_06_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YTXXSX5KMCQ1MF02T79",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QAB722CEVKKXBX8G8Z7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QAB722CEVKKXBX8G8Z7",
+          "text": "À chaque coup de marteau, Ogun forge le destin des Axiom."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QAPM154SA00NZXDF3BS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5QAPM154SA00NZXDF3BS",
+          "text": "Le feu crépite tandis qu'Ogun frappe le métal. À chaque impact, les étincelles jaillissent et chutent autour de lui en une pluie embrasée. Sa large main enserre son marteau, ses coups puissants et précis résonnent au sein de l'atelier. Je l'observe alors qu'il plonge le lingot qu'il forge dans l'eau, regarde la surface du liquide bouillir dans un nuage crachotant de vapeur. Il me fait un signe de tête, et j'active mon Construct. Je pianote, combine les symboles qui sont à sa surface. Le morceau de métal qu'il martelait consciencieusement se met à rougeoyer de nouveau alors que je ravive sa température grâce à l'Altération. Il pose la barre incandescente sur son enclume et se met à la rudoyer de nouveau. Le métal se craquelle tandis qu'Ogun, à chaque choc, chasse les impuretés du minerai.\n\nÀ demi hypnotisée par le métal rutilant et les étincelles qui grésillent, je repense à ce que l'Eidolon m'a dit : \"Tu as un don pour l'Altération\". Est-ce que c'est la voie que je dois choisir ? Ne pas pouvoir intégrer le Fulcrum avait été dur à encaisser, mais peut-être que devenir Altératrice m'ouvrirait les portes des Corps expéditionnaires ? Ogun dépose le pain de métal sur l'établi et y appose son poinçon, son Vévé. En utilisant mon Construct, je le refroidis jusqu'à lui donner sa forme définitive. L'Eidolon lève les yeux dans ma direction. Il semble lire sur mon visage mes hésitations, mes doutes. J'essaie de les chasser de mon esprit. Je prends le lingot d'acier et le pose sur la pile de ceux qu'il a déjà façonnés. Je saisis une pièce d'acier et l'embrasse, comme il est de coutume quand on fait appel à lui. Satisfait, il se désincarne lentement tandis que le Mana suinte hors de lui et se répand dans l'air..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QAGB22QR520DCBAG29Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QAGB22QR520DCBAG29Q",
+          "text": "Orisha de la mythologie Yoruba, de même qu'un des loas vaudou en Haïti, Ogun est le patron des forgerons. Dieu des métaux, du feu et de la guerre, il est dit que c'est le premier Orisha à être venu sur Terre. Sous son épithète d'Ogun Feray, il combat la misère, et a juré d'aider ceux qui avaient besoin de son aide. De ce fait, il incarne l'idée du progrès et d'une humanité domptant son environnement."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q9ZA57YMRDNMP22JP8A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5Q9ZA57YMRDNMP22JP8A",
+          "text": "Sierra"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QA5CHVA5QXBBZP7K4WE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QA5CHVA5QXBBZP7K4WE",
+          "text": "383 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YTXXSX5KMCQ1MF02T79",
+      "reference": "ALT_CORE_B_AX_06_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d60e10e9217606c97a3d",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/38d75a8a2bf42c63c001",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0aab48ef64c39212f010",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/f8691b61488b06f861e7",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-01T10:37:49+00:00",
+      "question": "Does Ogun boost the Plants in Reserve?",
+      "answer": "No: Characters in Reserve are not \"controlled\"."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/fr_FR/7bfa82364d8b855ae8ed1735e9260499.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_06_R2",
+  "reference": "ALT_CORE_B_AX_06_R2",
+  "id": "01HKAFJNHSBDMFCQ5JMAD8PYW8",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/de_DE/c839baecf3cdf873611f614a6c8a1a3b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/es_ES/f53a081f76e3cbeaf94186e8f2a55de5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/en_US/3c2794f19b83bc4e4e99002d937f54a4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/it_IT/6b1b62ca9d80d667c996977aab9228dd.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/fr_FR/7bfa82364d8b855ae8ed1735e9260499.jpg"
+  },
+  "name": "Ogun",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{J} #Les Plantes# que vous contrôlez gagnent 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-011-F-FR"
+}

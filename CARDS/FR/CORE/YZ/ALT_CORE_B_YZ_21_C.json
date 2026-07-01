@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_21_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50E3RC4J5J09AR48Q6FC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH65WB32F4QDAH50FVKH8F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH65WB32F4QDAH50FVKH8F",
+          "text": "Il est temps de dire au revoir au Kansas."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65XXAWP9TZRPG9HMGA07",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH65XXAWP9TZRPG9HMGA07",
+          "text": "La martengale se pose sur la balustrade, et se met à lisser ses oreilles avec ses pattes. Je me tourne vers le petit animal, croisement d'une martre, d'un lapin et d'un geai, m'interposant entre lui et Ozma. Il a l'air chétif et malingre, mais ce ne sont là que des apparences trompeuses. Je sais pertinemment qui se cache derrière cette forme intentionnellement quelconque. Je salue Loki d'un signe de tête, mais il se contente de lécher sa paluche, tout en posant ses yeux dorés sur moi. Que peut-il bien vouloir ? Quelle raison l'a poussé à quitter son domaine pour pénétrer dans le nôtre ? Alors que j'approche, il rabat sa longue queue touffue, sur laquelle est suspendu un message. De sa canine, il défait le nœud qui retient la petite missive et la laisse choir dans ma main, m'octroyant un semblant de sourire qui illustre parfaitement son tempérament facétieux.\n\nJ'ouvre le mot et entreprends de déchiffrer son écriture couvertes de ratures, de gribouillages et de fautes d'orthographe. Je lis et lis encore, déroulant le parchemin qui s'allonge sans fin. Il se perd en conjectures, en circonvolutions stylistiques et en apartés sans queue ni tête. Lasse de ses enfantillages, je passe — ou essaie de passer — directement à la fin... pour me rendre compte que c'est une bobine infinie. Je l'admoneste tandis qu'il se roule sur la rambarde, manquant à deux ou trois reprises de tomber dans le vide. Puis il se résout enfin à me laisser poursuivre ma lecture. Écarquillant les yeux, je parcours enfin du regard le fond du message. D'un geste de la main, je matérialise une tornade pour l'envoyer bouler vers son propre royaume. Je me tourne vers Ozma, qui m'interroge du regard face à ma réaction pour le moins explosive. Si Loki disait vrai, certaines vilaines choses étaient en train de se tramer dans l'ombre..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65X5P0EA85VZKDDH4NHF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH65X5P0EA85VZKDDH4NHF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65TV51PAVRQPK9XMRNPD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH65TV51PAVRQPK9XMRNPD",
+          "text": " Dorothy"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65VJZ3NFC3Z4Q384M73T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH65VJZ3NFC3Z4Q384M73T",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50E3RC4J5J09AR48Q6FC",
+      "reference": "ALT_CORE_B_YZ_21_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3a85ac3ecdb437c2f56f",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2de4f43df9ee8ea36d9f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/87e8a33660debe6fc4de",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:48+00:00",
+      "question": "Can I play a Spell if there's no valid target?",
+      "answer": "Yes. Note that your Characters may be valid targets for this Spell."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_21/JPG/fr_FR/16849caddf7730cbb11dcc8850b0baee.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_21/WEB_266fce66842b7dcbd366992fc758f65a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_21/WEB_09aa59abd0ff62063f1e8069d60d4416"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_21_C",
+  "reference": "ALT_CORE_B_YZ_21_C",
+  "id": "01HKAFJP4DF3A9576BMJZHTRRV",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_21/JPG/de_DE/1c810e1b33c820f920f7ed8842f331a6.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_21/JPG/es_ES/97300b921b361d48a0bec68b18247908.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_21/JPG/en_US/33593c25dfdea12f87d331088b1ab3a2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_21/JPG/it_IT/f2486b78fe03dfd061d70d83b832e986.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_21/JPG/fr_FR/16849caddf7730cbb11dcc8850b0baee.jpg"
+  },
+  "name": "Zou !",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Envoyez en Réserve un Personnage ciblé de Coût de Main {3} ou moins."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-172-C-FR"
+}

@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_58_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5B3CZCDETM8X6SZYFFA854DZ27",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4BVPF9R71XRJG9HH6GY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4BVPF9R71XRJG9HH6GY",
+          "text": "Ce n'est pas du Kélon, mais cette Sève te fera du bien, promis."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4C6PQQRY0BJJGDGW7DE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A4C6PQQRY0BJJGDGW7DE",
+          "text": "393 AC - J'aime beaucoup les Scarabots. Ne me demandez pas pourquoi, c'est comme ça. Oh, en fouillant bien dans la caverne qui me tient lieu de caboche, je suis sûr qu'il reste un peu du travailleur laborieux que j'étais avant. Et s'il y a d'autres ouvriers infatigables, c'est bien eux : ces petites bestioles industrieuses et étonnamment empathiques. Alors quand j'en trouve un qui souffre d'un problème, je saisis ma trousse à outils et j'essaie de le réparer. Un geste de solidarité — pour ne pas dire de fraternité — envers nos fidèles compagnons, qui nous facilitent bien la tâche partout où nous les amenons. J'ai beau rabrouer tous ceux qui m'apportent leurs modèles cassés, je ne peux m'empêcher de tenter de les remettre en état. C'est comme ça, je vous dis. Et depuis que j'ai vu l'envers du décor de la Fonderie, je sais à quel point ils participent à son bon fonctionnement, en coulisses. Ils sont la cause de l'absence de fuite, du bon entretien global...\n\nCe matin, en entrant dans mon atelier, je manque de marcher sur l'un d'eux. Bon, j'avoue, la moitié de la faute me revient, vu le désordre ambiant. Heureusement, après avoir farfouillé de sa truffe humide,  Marmo aboie pour m'avertir de sa présence, avant que je pose le pied dessus. Après avoir lâché une bordée de jurons, je me rends compte que le Scarabot ne bouge pas d'un iota. Je le ramasse et l'examine. Sa protection dorsale est couverte de crevasses, laissant ses mécanismes internes sans protection, et des fuites commencent à ronger ses circuits. Ça sent mauvais. Très mauvais. Je le pose sur mon établi, tandis que Marmo geint à mes pieds. T'inquiète, vieux. Je gère. La première chose à faire, c'est de lui redonner son intégrité. Je saisis mon pistolet à Sève pour m'en servir comme un pistolet à colle. Il y a très longtemps, il paraît que les Anciens appelaient cette technique le kintsugi...\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4C11P8VNV1Z11PSPPHG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4C11P8VNV1Z11PSPPHG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4BH7V15Q2PWJVJCEQSQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A4BH7V15Q2PWJVJCEQSQ",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4BP387J7G7E83SSJTCH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4BP387J7G7E83SSJTCH",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "5B3CZCDETM8X6SZYFFA854DZ27",
+      "reference": "ALT_BISE_B_AX_58_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ea3ee1024f5020114683",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manœuvre"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/36edb5821c8aa57c371d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/fr_FR/d1918ea4d045ea0622ac74805f69f825.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/WEB_ae8370d122898b5454f2b5faa9da6a63",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/WEB_73d75f9d8ba5119e966f1157a6527109"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_58_R2",
+  "reference": "ALT_BISE_B_AX_58_R2",
+  "id": "01JB1YGPB6T61E0YAFG5S1GH87",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/es_ES/e8f33a5eda0a0b7a203009446b107bba.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/de_DE/0ecb9b4c78a858c45728ab3928f54efb.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/it_IT/1f65f7c6ae8d07f57e7d68ce0749f470.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/en_US/f6880f464decc7e3f9c5f8018f717f7a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/fr_FR/d1918ea4d045ea0622ac74805f69f825.jpg"
+  },
+  "name": "Botfix",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[Rafraîchissement].  Vous pouvez dépenser 1 compteur d'une carte que vous contrôlez ou dans votre Réserve pour créer un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-012-F-FR"
+}

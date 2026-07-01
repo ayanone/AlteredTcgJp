@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZW5RPSETD10DQ85SE09",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5W85MVPNPB7GRH4CQXED",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5W85MVPNPB7GRH4CQXED",
+          "text": "La natura deve essere nutrita per poter esprimere appieno la sua generosità."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W8YBC13PXJPQ08F2GDR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5W8YBC13PXJPQ08F2GDR",
+          "text": "392 AC - Nauraa stares hungrily at the surface of the water. He stays very still, eager to see if something will take the bait on my fishing rod. I sigh discreetly and pull my straw hat down over my face. I can't imagine any fish would dare get any nearer with an oversized fox staring down into the water, drooling at the idea of wolfing it down. Nauraa slowly turns toward me, responding to my thought with a soft growl. I open one eye and smile at him, sticking out my tongue teasingly. He moves his position, turns his back on me and pretends to sulk. He can be so sensitive sometimes. He lies down all stretched out with his muzzle between his front paws. Ah, it's siesta time… And we need it, he and I. It's hard to believe we were fighting to get out of this swamp just a few hours ago.\n\nI look at Nauraa's red fur and the scabs of coagulated blood on it, which now serve as badges of the harsh ordeals he's had to endure. By meeting here, we have turned this place into a beautiful if short-lived paradise. Around us, silvery dragonflies thrum between the reeds, little water spiders skate nonchalantly across the pond surface... If the Tumult were to blow through here again before the Expeditionary Corps arrives, everything we've stabilized would be destroyed and thrown into chaos. But everything is peaceful for now, and we need to enjoy it. Plop. The float sinks into the water, and I grab the fishing rod, ready to pull the line in. But all I can do is watch in horror as Nauraa leaps into the pond like a bull in a china shop."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W8JNP0V4V9EXY3Q7D4J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5W8JNP0V4V9EXY3Q7D4J",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W7C73ART1D20RSGC1KG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5W7C73ART1D20RSGC1KG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W7R48P08VZ37EX5XZXV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5W7R48P08VZ37EX5XZXV",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HNGY4ZW5RPSETD10DQ85SE09",
+      "reference": "ALT_CORE_B_MU_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9d0720de827ae9df6770",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/370ee56de13dc8e8a8c7",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:57+00:00",
+      "question": "When is Teija & Nauraa's boost placed on the Character?",
+      "answer": "After the card has joined the Expedition (it can therefore trigger effects such as 'When I gain 1 or more boosts — \")"
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_01/JPG/it_IT/3529915e69e899b0ef962404cd9a5fb7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_01/WEB_154bab74f782203b11af8778d4d1058f"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_01/HERO_THUMB_ef78f632656cb16bfc450ed20bf5b8d6"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_01_C",
+  "reference": "ALT_CORE_B_MU_01_C",
+  "id": "01HKAFJP60XPBBEKX3MV3SJ8HH",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_01/JPG/de_DE/a025037e3966ee6586648f323656c297.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_01/JPG/it_IT/3529915e69e899b0ef962404cd9a5fb7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_01/JPG/es_ES/ccd543c62126e8879f568c918d88287c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_01/JPG/fr_FR/ffc025ebddeb11eddf91f5a0479920bb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_01/JPG/en_US/f7a75cbde161ca62bd43d53f1b7ba46f.jpg"
+  },
+  "name": "Teija e Nauraa",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Il primo personaggio che giochi ogni pomeriggio ottiene 1 rinforzo[]. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-091-H-IT"
+}

@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_41_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7PW3Y4H22X95VBPGEBXXJED8QS",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23G0E5RARSGYG18VAZVR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23G0E5RARSGYG18VAZVR",
+          "text": "Unos suministros valiosos. Ojalá la tapa no estuviera congelada..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23GF5W0YKGDTZRWM6DCJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23GF5W0YKGDTZRWM6DCJ",
+          "text": "Miro al cielo y veo cómo desde el zepelín cae un kit y luego otro. Los paracaídas se abren uno a uno y caen hacia el punto de lanzamiento, a unos cientos de metros de nuestra posición. Observo las telas ondeando al viento y las cajas selladas que transportan. Una de ellas lleva el logotipo de la Cornucopia, lo que significa que son provisiones. El emblema de la otra es de nuestra facción, por lo que probablemente contenga material técnico para reemplazar el equipo que ha quedado destrozado durante nuestros viajes. Llega en un momento muy oportuno. Le paso los prismáticos a Rossum, que también echa un vistazo. Le encantó caminar por la nieve los primeros días, hasta que se percató de que la humedad le provocaba pequeños fallos mecánicos. Ahora pasa más tiempo aferrado a mi vehículo para evitar que se le mojen las articulaciones.\n\nEn fin, no tiene sentido quedarnos de brazos cruzados. Deberíamos darnos prisa antes de que el frío arruine todo este equipo nuevo. Pulso el botón de encendido de mi araña y esta cobra vida: sus patas empiezan a temblar. La cabina se eleva con una sacudida, y acciono la palanca para ponernos en marcha. A cada paso, las patas tantean el suelo. Solo asumen todo el peso del armazón cuando notan que hay suficiente resistencia. Es un proceso lento y tedioso, pero no puedo permitirme caer en una grieta. Más adelante, en el claro elegido para depositar las provisiones, diviso el resplandor verde de las cajas de metal. Ahora que las tengo a la vista, apago a distancia las balizas que nos ayudan a localizarlas fácilmente. Bueno, Rossum, ¿qué crees que nos ha enviado Papá Noel esta vez? Mi compañero se encoge de hombros a modo de respuesta."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23G7AA5HSN6ZQEEGAJ1N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23G7AA5HSN6ZQEEGAJ1N",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23FFW0T0FY2KWMX2M50K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23FFW0T0FY2KWMX2M50K",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23FRJ7Q63TFKYV9GSY85",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23FRJ7Q63TFKYV9GSY85",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "7PW3Y4H22X95VBPGEBXXJED8QS",
+      "reference": "ALT_ALIZE_B_AX_41_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/41517e7fe4083d81bc6c",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuro"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0427ffb4a3a06c4f4aa7",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b2484083dec23ef3ad4c",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:12+00:00",
+      "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
+      "answer": "Yes, an Exhausted Resupply counts as a Resupply."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_41/JPG/es_ES/7a38674fe00d1a22bd07a22658d1cf03.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_41/WEB_b353c597cf25047dd12b196d0782e210",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_41/WEB_7e4e517d8267eb2f3d32859c36a7bafa"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_41_R2",
+  "reference": "ALT_ALIZE_B_AX_41_R2",
+  "id": "01J1Q4P4RV2A0EQ68788JASAZ8",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_41/JPG/en_US/0370fbbb0752cc2c7dc5c905336f028b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_41/JPG/fr_FR/2f008af64556685dbcb3fb299ea2bd1e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_41/JPG/it_IT/da9dce8a6a8c0203bb3cd7f6a8d3cf5f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_41/JPG/es_ES/7a38674fe00d1a22bd07a22658d1cf03.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_41/JPG/de_DE/703184a0667f46db8a84ef07238bd006.jpg"
+  },
+  "name": "Entrega congelada",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "#[Reabastece y agota].# (Coloca la primera carta de tu mazo en reserva y luego agótala {T}. Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-013-F-ES"
+}

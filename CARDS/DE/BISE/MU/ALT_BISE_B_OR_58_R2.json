@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_58_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2DPCHZNQ2G9W29V43S4H1VS55Y",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A9VY93TXB6G131H1BANP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A9VY93TXB6G131H1BANP",
+          "text": "Drei Federn. Jedes Mal, wenn du eine verbrennst, wird sie dir helfen."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9WQEJT8388ZXQ3A54RF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A9WQEJT8388ZXQ3A54RF",
+          "text": "393 AC - I roar as the Mesektet hauls itself out of the depths and emerges from the abyss like an arrow loosed towards the sky. As I fight the exhaustion and chaos, and shake my head to get rid of the black spots occasionally appearing at the edges of my vision, I try to stabilize its trajectory. Its hull rips out a pontoon before bursting out of the Crow's Eye and into the silent sky. Are we in the clear yet? I slow the ship until it's floating above the Screed. Jeez, what the hell attacked us in the depths? No, I shouldn't think about that. I need to suppress the fear tying my guts up in knots. I slap myself to snap out of the shock. Around me, soldiers are trembling, their eyes wide with terror. Some are whimpering, while others try to stop their teeth from chattering. They too came face to face with the darkness. They too looked into the void's eyes. And the void stared back at them in turn.\n\nPull yourself together, Gul. Now is not the time to waver. One more push. Everyone is counting on you. The priority is to get rid of the affliction. The priority is to heal as many as I can. I blink and try to remember what happened. But the more I try to remember and try to access my memory, the more painful my headache becomes. It's as if my recollection of the last few hours have been stolen. It's like a part of my brain has been removed. I can't do things in half measures. I have more than 200 soldiers in critical condition to heal at the same time. So, come to me, Simurgh. Take flight. Spread your wings and rain seeds of healing down on us. Come to me, Simurgh. I open my eyes and see the Eidolon materializing above the Screed, breaking through the clouds. Rain seeds of healing down on us…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9WBBPMR8NDPDXZ9HKMH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A9WBBPMR8NDPDXZ9HKMH",
+          "text": "The Simurgh, or Simorgh, is a mythological bird from Persian and Kurdish cultures. The form of this gigantic bird, which can carry a camel or elephant, has changed over time. In earlier depictions it had the body of a dog with lion's claws, wings and a plant tail rising vertically. In other versions, it looked more like a Phoenix. The Simurgh was so old, immortal even, that it had witnessed the earth's destruction three times. According to the Persians, it bestowed fertility and would seal the union between the sky and earth. It roosted in Gaokerena, the Tree of Life. "
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9SZ9K1R25PC0C67EBVD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A9SZ9K1R25PC0C67EBVD",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9TB28X9WZVEJC6A24CR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A9TB28X9WZVEJC6A24CR",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2DPCHZNQ2G9W29V43S4H1VS55Y",
+      "reference": "ALT_BISE_B_OR_58_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a03c3c0b55c2196c1596",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Tier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/fb4ec5ebe5ee5f4a322a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_58/JPG/de_DE/9cb8515b1ef201e397ededdcf7100a3d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_58/WEB_c225f7eacf761205d61aee66ed41e585",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_58/WEB_2dadc52686e4f793de7b2810f96c8556",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_58/WEB_77c1394da4f840699832547183a94469"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_58_R2",
+  "reference": "ALT_BISE_B_OR_58_R2",
+  "id": "01JB1YGPBXPP0J7SWB4N1XQ9B0",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_58/JPG/es_ES/a09010af9c534ade134c1d8f4805a72c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_58/JPG/it_IT/9695be9414fb7636cdd1bea63f99afa6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_58/JPG/de_DE/9cb8515b1ef201e397ededdcf7100a3d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_58/JPG/en_US/2588107068e824f14406452faf994cc6.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_58/JPG/fr_FR/f3a0cfd13475b8d5762a139cb6cf9771.jpg"
+  },
+  "name": "Simorgh",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "[Gigantisch].  {J} Falls du weniger Karten in deiner Reserve hast als ein Gegner deiner Wahl, ziehe eine Karte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-080-F-DE"
+}

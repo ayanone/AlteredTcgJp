@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_63_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4BCTSGJNW083HTMH5GFR715JEE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A87M28BSG5BW21AHBRRT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A87M28BSG5BW21AHBRRT",
+          "text": "Die Natur findet immer ihren Weg."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A88AHV5CBCVGZE6P579H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A88AHV5CBCVGZE6P579H",
+          "text": "393 AC - It's so incredible that a whole ecosystem has evolved here, virtually without sunlight. Yes, at this depth, the sun's rays still filter down through the canopy and the enormous networks of roots, but the light is soft and diffused at best. Above my head, an arch of plants covers bluish blocks with gold veins. It's strange that they managed to get this far. I suppose it's possible they grew here directly. Well, maybe I'll need to do a bit of climbing so I can take a closer look. Below me, where no light is shining, the stones look almost black, whereas they're closer to a midnight blue actually. But the problem is that I need to cross a bed of pink mold, and that stuff made me sneeze for an entire afternoon the last time I tried to walk over some.\n\nAnyway, when it's time to go, it's time to go. I take the silk shawl hanging on my belt and wrap it around my face to filter out the pollen that my footsteps are going to kick up. It would be a real shame to find out I'm allergic to this stuff, considering it's almost everywhere. Well, for now, I have an experiment to do. I open myself to the Skein in this place and try to make contact. Immediately, the masses of leaves above my head turn pink, as if mimicking the idea of the Spindle Tree in my head. The roots and trunks are veined with gold, just like the dark blocks. And suddenly, I understand the truth of this biotope. I understand that this habitat wasn't colonized by invasive plants from the surface. It's like an extension of the City, which took over this place. And deep within this network of consciousness, there's a presence that's opening its eyes."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A87ZNA6EZG6NPWG6BW5J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A87ZNA6EZG6NPWG6BW5J",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A86YGFMX41VZE7HF9E5H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A86YGFMX41VZE7HF9E5H",
+          "text": "RIN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A879933RQSN14WFK2KC7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A879933RQSN14WFK2KC7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "4BCTSGJNW083HTMH5GFR715JEE",
+      "reference": "ALT_BISE_B_MU_63_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Bleibende Wahrzeichenkarte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6ad8fd4172c874031381",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Ort"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/334acc939c189f41bbb4",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/de_DE/b861c863deb0cf921c5e22b44b021dce.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/WEB_034a9ae15c116800f0f4bb0645375a48",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/WEB_6228e26bfecac34d5e7f8dffd55b7a57"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_63_R2",
+  "reference": "ALT_BISE_B_MU_63_R2",
+  "id": "01JB1YGPBSVNFH1P9D1KPG382E",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/de_DE/b861c863deb0cf921c5e22b44b021dce.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/es_ES/bdc99dc2891fa4dbf38776133731447f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/it_IT/74f794c532e5b43f6ee646ab54bad6a8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/fr_FR/a5ee5da7728429b13cb2068a0343ad9d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_63/JPG/en_US/48d0de816a1ba9c6663101eadd704e01.jpg"
+  },
+  "name": "Das Dickicht",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "{T} : Der nächste Charakter, den du in dieser Runde in {V} spielst, erhält 1 Verstärkung."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-067-F-DE"
+}

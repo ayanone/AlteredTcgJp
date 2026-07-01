@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_50_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/73KB7K5C648MSBM7PCZHCFVX6M",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A8X3670D9F9KCQADZYQQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A8X3670D9F9KCQADZYQQ",
+          "text": "Ha la fastidiosa tendenza a dare i numeri."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8XV47CW7KT17T35PYEG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A8XV47CW7KT17T35PYEG",
+          "text": "393 AC - Each time a name is called, the accountant scribbles and makes a note on his long scroll. Number of rations, amount of Kelon allocated, equipment provided… He records who is assigned where and notes the headcount for each team. We need these detailed accounts to streamline our logistics. Not many know this, but the Storhvit expedition was costly. We had to stretch ourselves to the limit and optimize gear allocation based on needs while scrutinizing each mission to provide only what was strictly necessary. We consciously refrained from asking for Asgartha's support, as that could have painted the Rediscovery Endeavor as too much of a financial drain. And we can't afford those optics with elections on the horizon. We need to stack all the odds in our favor, even if that means tightening our belts. Even if that means making some expeditions harder, or even putting them in danger.\n\nAnd I'd had to make lots of concessions. The fact that Sigismar had used his connections to tighten Isura's purse strings hadn't helped. But thanks to Mack, I'd had the time to make arrangements and adapt my complex financial package, through alternative subsidy sources and by drawing on my own funds where needed. I couldn't really blame him, actually. He thought he was doing the right thing, and was unaware that I was diverting some of the capital to achieve Avkan's dream. But that didn't stop us from being close to bankruptcy… I sigh. As the treasurer continues to meticulously inventory the expenses, I have an uncomfortable feeling that I'm missing something, or that I'm forgetting something crucial. I mutter to myself and try as best I can to set that nagging feeling aside."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8XFBZKHZJ67B1JPD45S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A8XFBZKHZJ67B1JPD45S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8VANJN8X35D23YZXWZ4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A8VANJN8X35D23YZXWZ4",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8WRJ6GMKC6KFBY935WN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A8WRJ6GMKC6KFBY935WN",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "73KB7K5C648MSBM7PCZHCFVX6M",
+      "reference": "ALT_BISE_B_OR_50_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2199ad8156d6b005ed71",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Burocrate"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/60b8d8c63d5530bdfe2b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/it_IT/aba497b935197dfc6fab958c278ae60a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/WEB_9e1a2ab9f9249df46116e89857ab4c20",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/WEB_c6f8aa7f5f2261908ff9c5e5e8b4078b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/WEB_4d3e6da838cc6b48060db36da7d4a6f8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_50_R1",
+  "reference": "ALT_BISE_B_OR_50_R1",
+  "id": "01JB1YGPBTT5JGRK84ET2EKYT8",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/de_DE/b6056ee354b1562f92c97970f0459fba.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/it_IT/aba497b935197dfc6fab958c278ae60a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/en_US/74b10a85ec59e30bac88b8282da1da16.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/fr_FR/4c19d8fd2dd97621744a138616ec307f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_50/JPG/es_ES/c47708e4ce9eb946c547db58f9702497.jpg"
+  },
+  "name": "Contabile Ordis",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{R} Puoi spendere 1 dei miei rinforzi per far ottenere [[Dormiente]] a un personaggio bersaglio. #Puoi conferirgli 2 rinforzi.#",
+    "ECHO_EFFECT": "{I} Quando un altro personaggio si unisce alle tue spedizioni — Ottengo 1 rinforzo, fino a un max di 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-073-R-IT"
+}

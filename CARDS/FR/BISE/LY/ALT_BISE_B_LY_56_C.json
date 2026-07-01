@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_56_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/31QBDJT2Z49PWSPTZDY54H20Q5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A62M076FEKNWQYG6HK63",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A62M076FEKNWQYG6HK63",
+          "text": "« Je ne pouvais laisser les fils du destin me séparer de ma fille. » — Efrén"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A638E4KZA83BTKJD27ZD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A638E4KZA83BTKJD27ZD",
+          "text": "393 AC - Je tourne la tête pour regarder derrière moi, alors que nous descendons furieusement dans les ténèbres de la Cité des Sages. Papa est derrière moi, usant de ses fils pour se balancer de bloc en bloc. C'est dingue qu'il puisse tenir le rythme, alors que je file à pleine vitesse sur la monoroue que j'ai demandé à Aby de fabriquer pour moi. Je saute, dérape, mes prothèses fixées sur l'essieu pour me donner le maximum de manœuvrabilité. Mais plus que de l'étonnement, c'est de la fierté que je ressens. Je ne savais pas qu'il avait les tripes et les talents nécessaires pour s'embarquer dans une odyssée telle que la nôtre. Je l'avais toujours connu désinvolte et paresseux, prompt à bailler quand il tenait les rênes de notre roulotte, et à faire la sieste dès qu'il le pouvait. Quant à ses dons d'Altération... Son Ignescence est forte, bien plus que la mienne, qui a été réduite à peau de chagrin à force d'utiliser mon Construct.\n\nParfois, je le vois envoyer l'un de ses pantins vers une corniche pour récupérer un quelconque artefact, avant de le rapatrier vers lui, avec dans ses bras la babiole ou le précieux butin. À d'autres moments, il invoque des poupées bien plus costaudes, et parées au combat. J'avais souvent vu les marionnettes qu'il utilisait pour ses spectacles. Il les avait sculptées de ses mains en or, et les connaissait sous toutes les coutures, du moindre défaut de fabrication à la texture du bois qui avait servi à leur conception. Et même leur personnalité. Mais ces mannequins-là m'étaient inconnus. Je sentais qu'ils étaient vieux et bourrus, comme s'il les avait remisés il y a bien longtemps et les avait enfin sortis du placard. C'est comme si mon père avait retiré le masque noir qu'il utilisait pour ses spectacles, et me montrait une nouvelle facette de lui. Une facette que je n'avais jamais vue jusque-là..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A62ZSYEADN4ADQ2PQBYE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A62ZSYEADN4ADQ2PQBYE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A61YSXDTY9RRYSNGJPNG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A61YSXDTY9RRYSNGJPNG",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A629W27Z41CMPJMG5GR5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A629W27Z41CMPJMG5GR5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "31QBDJT2Z49PWSPTZDY54H20Q5",
+      "reference": "ALT_BISE_B_LY_56_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4ce65e947a5d8a648bbd",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artiste"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/48821a4342349d11d183",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/fr_FR/04de1bb8e042706da1bf04b6570c643c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/WEB_2f3ac3708301e585ce49e2878dc246c4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/WEB_8cfdddb4efb79bffd853a1faad2f0d9e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/WEB_e40ebd4886f5a4afc6ecbd62b7d148e8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_56_C",
+  "reference": "ALT_BISE_B_LY_56_C",
+  "id": "01JB1YGPBH0XD1TSVEEW83VGES",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/es_ES/040b0de8002fb1ee1821eacaa3325e8a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/de_DE/22365c6ce563ddd4b715fdd11dd37467.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/en_US/bf0efc9c34e31e53506b4367d8802286.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/it_IT/c914c6c3d4adb2af7b4c143fdb2329f4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/fr_FR/04de1bb8e042706da1bf04b6570c643c.jpg"
+  },
+  "name": "Efrén, Marionnettiste",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{H} Lancez un dé. Sur :  • 4+, [Sabotez].  • 1-3, [Ravitaillez]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-044-C-FR"
+}

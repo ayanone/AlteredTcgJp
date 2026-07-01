@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_37_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2G807SJR1R8CARRN7PJ85HMQ23",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J239M022QVPBSXFQRM3W9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J239M022QVPBSXFQRM3W9",
+          "text": "Qualcuno deve pur farsi carico del pesante fardello della responsabilità."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23A5RE1EBS42PM6NA42X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23A5RE1EBS42PM6NA42X",
+          "text": "Ho percorso molta più strada dopo aver lasciato la taiga, grazie al mio ragno meccanico con cui ho scalato la ripida parete rocciosa. I suoi piedi bucavano la roccia e vi si attaccavano, il che ha reso l'ascesa relativamente facile fino a questo momento. Sospiro e mi massaggio le cosce per far circolare il sangue nelle gambe. Per qualche istante, mentre scruto il paesaggio sottostante, mi torna in mente Paju accanto a me durante il nostro primo volo, quando guardavamo oltre il vetro e riuscivamo a vedere tutta Arkaster dall'alto. Rossum mi mette una mano sulla spalla. Percepisce il mio dolore e le mie emozioni, naturalmente. Fen gli ha messo al collo una delle sue sciarpe e gli ha insegnato a indossare i guanti. Non posso fare a meno di ridere per come è bardato, soprattutto con quei paraorecchie di pelle di pecora. La mia chimera si volta improvvisamente verso il dirupo, incuriosita, e osserva qualcosa sotto di noi.\n\nMi giro anch'io per guardare in basso meglio che posso, anche se mi fa un male cane. Vedo una portatrice attaccata a una corda che scala la parete. Utilizzando i ramponi, si lancia da una sporgenza all'altra con una facilità allarmante. Si issa usando la piccozza e il rampino con una destrezza magistrale. Mi è capitato raramente di vedere i portatori di Svarograd in carne e ossa e non li avevo mai visti in azione fino ad ora. Devo dire che la loro reputazione è ben meritata. Anche se trasporta un pacco pesante, si muove senza la minima esitazione. Non c'è da sorprendersi, ovviamente. Per tutta la vita deve aver trasportato carichi pesanti fino alle alture dell'isola volante di Enosha. Pensavo di avere un vantaggio, ma ovviamente mi sbagliavo."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J239W18XEC5XAHQ2AX69A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J239W18XEC5XAHQ2AX69A",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2393GDM4G9CCCGFR7J5P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2393GDM4G9CCCGFR7J5P",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J239CM0KT3FPGSN2WH68T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J239CM0KT3FPGSN2WH68T",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2G807SJR1R8CARRN7PJ85HMQ23",
+      "reference": "ALT_ALIZE_B_AX_37_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a2e89499f70701837aec",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Avventuriero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4aa1466d5770875c718b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/7c0b4493f6bcbbb5f74e",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:10+00:00",
+      "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
+      "answer": "Yes, an Exhausted Resupply counts as a Resupply."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/it_IT/9cda5ffb93b91d12b839cfc6bde69b1c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_b54cc629947078e00d7406002fc8be63",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_043d733f0dbbb18c1dc2147665ca6d8b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_2dc52b769d21191704f9154656caba92"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_37_R2",
+  "reference": "ALT_ALIZE_B_AX_37_R2",
+  "id": "01J1Q4P4RTGYQGABCPS4EW5487",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/it_IT/9cda5ffb93b91d12b839cfc6bde69b1c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/de_DE/aca2f207947207ed68008bbb242e574c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/es_ES/ce2af4de4ac2bdb614c8c4f110b9bae9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/fr_FR/cd67e12059a226cf02f61f1b154d8fcc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/en_US/a82306cd82323c7d433e677201960257.jpg"
+  },
+  "name": "Portatrice Audace",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "#{J}# [Rifornisci-Consuma]. (Metti la prima carta del tuo mazzo nella Riserva, poi consumala {T}. Le carte consumate non possono essere giocate e non hanno abilità di supporto.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-008-F-IT"
+}

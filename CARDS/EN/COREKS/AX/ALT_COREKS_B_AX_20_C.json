@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_20_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77WVY7M6YSE8DVN7SQ40",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7WM5D5DMT8J3MSHY07TR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7WM5D5DMT8J3MSHY07TR",
+          "text": "Get over here!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WMP19W4F8Y23S7Y9TFB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7WMP19W4F8Y23S7Y9TFB",
+          "text": "Oddball seems to be as excited as me as I press the button. He flits around the Automaton, happy to make a new friend. \"FarFetch\" Mk-1 starts up, jolting as it comes to life. I've been working on this prototype for two years – two years of overtime hours and sleepless nights. I cross my fingers, hoping that the test will be successful. FarFetch extends its massive body in a jerky motion. Even though it's less elegant than \"Ballerina\" Mk-1, which is still sitting in the workshop, its sturdiness makes it an ideal candidate for this test session. I active my Construct and use it to tell the Automaton to move toward the testing area. Relieved, I watch it step forward and get into position. Oddball floats next to it for encouragement. OK, this is the moment of truth.\n\nI rearrange the buttons of my Construct and tell the Automaton to target the empty Kelon cylinder that I've placed at the other end of the test area. FarFetch turns toward it. Good, it identified it on its own. After a few more rotations, I tell it to release its telescopic grapple. My Construct whirs again under my fingers. Grab. Cylinder. Immediately understanding the instructions, it sends out its pincer toward the target… and misses it by an inch or so. I bite my lip. But before I can do anything else, it lifts its other arm and shoots out its second grapple, this time hitting the mark. I do a little jump of joy when I see the line retracting with the kelonic battery in tow. I give the prototype a little hug as Oddball chirps with excitement. The Automaton turns to look at me as if trying to understand why I embraced it."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WMERJJA9JXF6CSBEE58",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7WMERJJA9JXF6CSBEE58",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WKM3216TH4BGXQTRR06",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7WKM3216TH4BGXQTRR06",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WKYV9MXKW0QJ11SZ59M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7WKYV9MXKW0QJ11SZ59M",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB77WVY7M6YSE8DVN7SQ40",
+      "reference": "ALT_COREKS_B_AX_20_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4f6e90cd29105163b372",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maneuver"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/78585f2c07cf033e19c9",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_20/JPG/en_US/bb5a44a5ed39f4815d7053018f4b2f6d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_20/ALT_CORE_B_AX_20_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_20/ALT_CORE_B_AX_20_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_20_C",
+  "reference": "ALT_COREKS_B_AX_20_C",
+  "id": "01HN5TXR4R9KXPRQZKSY70XCC7",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_20/JPG/it_IT/70ccf7c92bb43fc52a7bb62ebd7058a3.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_20/JPG/en_US/bb5a44a5ed39f4815d7053018f4b2f6d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_20/JPG/de_DE/0c35004df52f1e0e1060662e5f8038a4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_20/JPG/es_ES/c4392f3f45c5843fca64cdee92a3727e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_20/JPG/fr_FR/8065b6a59bb5b78f597c4c0c84cc2111.jpg"
+  },
+  "name": "Hooked",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Target Character switches Expeditions."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-020-C-EN"
+}

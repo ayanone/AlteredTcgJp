@@ -1,0 +1,169 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_05_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z965XP33KRAEDFZK3YR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5RHEVYXMYMWCMYH8EXDX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5RHEVYXMYMWCMYH8EXDX",
+          "text": "Pequeño de estatura, grande de corazón, enorme espíritu aventurero."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RHZBEAKYRXJS4VT6TZF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5RHZBEAKYRXJS4VT6TZF",
+          "text": "The new recruits crowd around the table to lean over Issun. The little fellow, no taller than a thumb, stares them down proudly with his hands on his hips. Some of them openly mock his size, not stifling their laughter one bit, as well as the tiny sword that Tinker Bell forged for him, no longer than a toothpick. They can jeer all they want, but they'll find out soon enough how tough he really is. Issun is used to being looked down on and being taunted. And having discussed it with him, I know it doesn't faze him anymore. Year after year, the newbies underestimate him, and year after year, they come up short against the little man, who is worth any twenty of them combined. He climbs up on top of a wooden cup and starts shouting through his megaphone to be heard by the young students, most of whom are still kids.\n\nWhat they don't realize is how hard it is to fight such a small opponent. To them, he's just a little munchkin they can flatten with their hand like a common fly. Or so they assume. He's fast, moving as quickly as a tiger beetle. He's also strong, with the ability to jump several yards from a standstill. And if he manages to crawl inside your clothing or the hollow of your ear, say hello to severe injury. I've seen Issun subdue giants and defeat mastodons. One time, I even acted as a delivery vehicle for him to sneak onto a Fagn abomination. There's a clear lesson in all this, of course: Never underestimate even the most insignificant opponent. And those recruits are about to learn that the hard way."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RHPF4S2ZBN92KB5N0C6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5RHPF4S2ZBN92KB5N0C6",
+          "text": "The hero of a very popular Japanese tale, Issun-bōshi is a little boy who's just a couple of inches tall. Yet his lifelong dream is to become a samurai. To achieve that dream, he decides to travel to the imperial capital. Using a bowl as a ship and a pair of chopsticks to row with, he sets off on a journey down the river, along with a sewing needle for a sword. During a stop at a temple, he encounters a girl being attacked by an oni. When he intervenes, he gets swallowed whole. But once inside its stomach, he jabs it with his needle, forcing it to spit him out and run away."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RGYJ3X4Y9E1FJ1WVBMZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5RGYJ3X4Y9E1FJ1WVBMZ",
+          "text": "Basira"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RH60YNZRKSCJXHPQJGD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5RH60YNZRKSCJXHPQJGD",
+          "text": "385 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4Z965XP33KRAEDFZK3YR",
+      "reference": "ALT_CORE_B_BR_05_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1ad544c90d4859015622",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d81cf33a31906fa81f38",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/24f91785324de3afb76e",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:41+00:00",
+      "question": "If I discard Issun-bōshi for its Support Ability, then play a Character, when is the boost placed on the Character?",
+      "answer": "After the card has joined the Expedition (it can therefore trigger effects such as 'When I gain 1 or more boosts — \")"
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/JPG/es_ES/f5ac8d467d8dda95d2f9b7d70f7eeb05.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/ALT_CORE_B_BR_05_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/ALT_CORE_B_BR_05_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/ALT_CORE_B_BR_05_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_05_R2",
+  "reference": "ALT_CORE_B_BR_05_R2",
+  "id": "01HKAFJNN192HXB0WE8K1PFSWT",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/JPG/de_DE/0253626a7cfe1ff31ae2e789e3770b30.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/JPG/fr_FR/c29de4d7ee19dff652ce82367a8b89c4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/JPG/es_ES/f5ac8d467d8dda95d2f9b7d70f7eeb05.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/JPG/en_US/fe78216d6b26ff2620a577ba5d7dfa2c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_05/JPG/it_IT/1fbd97249e65bf8e8a8ab985e2fada69.jpg"
+  },
+  "name": "Issun-bōshi",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "#{R} Un personaje objetivo gana 1 potenciador.#",
+    "ECHO_EFFECT": "{D}: El siguiente personaje que juegues este turno gana 1 potenciador. (Descártame de la reserva para hacer esto.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-034-F-ES"
+}

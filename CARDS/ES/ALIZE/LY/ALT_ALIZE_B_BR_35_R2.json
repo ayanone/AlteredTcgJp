@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_35_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6Z9ZYMB0M28T8REHSCFYFKGDY9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J248JT3KZ5TSM898VYPKG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J248JT3KZ5TSM898VYPKG",
+          "text": "«Será un esfuerzo colectivo; ¡ha de ser una empresa conjunta!»."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2494699W2Q9VRNGC7PPQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2494699W2Q9VRNGC7PPQ",
+          "text": "Miro a mi alrededor, intentando comprender la magnitud del desastre. Todo ha quedado sepultado bajo la nieve casi hasta donde alcanza la vista. Donde los Alteradores habían despejado un camino para subir la empinada ladera ahora no hay más que un tapiz blanco. Pero no hay tiempo que perder, de modo que empiezo a buscar. Hundo mi sonda en el manto helado y noto que llega profundo. Luego avanzo unos pasos y repito el proceso. Nada, al igual que antes. Han pasado más de cinco minutos desde que llegamos, diez desde que se produjo la avalancha. Y los minutos siguen pasando. Vuelvo a perforar la gruesa capa de nieve compactada y, de repente, noto cierta resistencia. Me quito el guante y uso los dedos para silbar. Casi de inmediato, Chaghagan llega a mi lado, pala en mano, dejando profundos surcos en la nieve por sus pesados pasos. Le muestro dónde cavar y luego continúo con mi tarea.\n\nBajo la sonda una y otra vez. Subo la pendiente y de vez en cuando echo un vistazo atrás: Chagha sigue cavando. Unos metros por encima de nuestras cabezas, el Alter Ego del ingeniero de Axiom da vueltas y pita. El tiempo parece detenerse, pero también avanzar más rápido que los granos de un reloj de arena rojo. Por suerte para nosotros, el Alter Ego había conseguido lanzar balizas para indicar el paradero aproximado de las víctimas. De lo contrario, su destino se habría decidido mucho antes. Chagha por fin desentierra algo. Parece un animalillo de pelaje blanco, probablemente una de las especies locales de la región. Aprieto los dientes para no maldecir. Mi esperanza era encontrar a uno de los nuestros. Chaghagan coge el animal que acaba de liberar y justo debajo aparece otro, que se sacude. No puedo evitar sonreír al fijarme en la mata de pelo rosa del trazacaminos, y me pregunto qué apuesta habrá perdido para tener que teñírselo de ese color…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J248VT78MYQFKQ5T6YPJV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J248VT78MYQFKQ5T6YPJV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J247QBTE4DB80MN4YVMME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J247QBTE4DB80MN4YVMME",
+          "text": "BASIRA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2484YCDVWZ1B2CJW0J5B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2484YCDVWZ1B2CJW0J5B",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "6Z9ZYMB0M28T8REHSCFYFKGDY9",
+      "reference": "ALT_ALIZE_B_BR_35_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b4a6e121012d7ee0ac28",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/02250ba3ea97ab57ea50",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/es_ES/8f414b450d1b5183a1fdd8e386b02c29.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_aaa6686002e7acd962fbd6ba1553b83e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_e17e17996b43565b3ff9397cc1defa39",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_5ec0e03b5a1389a867d4128c6c1b0f40"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_35_R2",
+  "reference": "ALT_ALIZE_B_BR_35_R2",
+  "id": "01J1Q4P4S1E6BR3CRG4TVW2HEW",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/de_DE/8330c613584a721408ac3214d84f8e1b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/it_IT/d4b0825457592af04e01b3b2512dc27b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/es_ES/8f414b450d1b5183a1fdd8e386b02c29.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/fr_FR/9fe12926e4f303ee3e37646e9be28dff.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/en_US/bd0a1dea67f69ec7cd478db976240c70.jpg"
+  },
+  "name": "Trazacaminos de Bravos",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{J} Gano 1 potenciador #por cada personaje con [[Fugacidad]] que controles.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-023-F-ES"
+}

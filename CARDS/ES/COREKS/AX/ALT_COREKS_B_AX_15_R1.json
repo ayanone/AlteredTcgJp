@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_15_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77WBGJTYM1H00J4G2YEK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7WD59KW7HM1DJJYSKGYB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7WD59KW7HM1DJJYSKGYB",
+          "text": "A veces, mantener a raya el Tumulto impide que otros Alteradores materialicen sus eidolones. Una pena, pero es necesario."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WDQZAMWEAY439NCK79T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7WDQZAMWEAY439NCK79T",
+          "text": "I collapse when I reach the top of the mountain. The Jammer gives me an amused look while she sets up her antenna. She must have arrived a while ago, judging by how far along she is with it. Considering what that climb did to me, I obviously need to do more physical exercise. I take some deep breaths, then take a few swigs of water as I look around. All these landscapes are certainly a change from the Foundry. At this altitude, we're above a sea of clouds, and a few stars are beginning to appear above our heads. Comfortably sitting on a rock, Marmo wags his tail while watching the transmitter. I let out a little grumble. The traitor could have waited for me. After a brief pause, I put down my backpack and take out the rest of the equipment. They could have chosen a summit that was easier to get to. We could have used an aerodyne…\n\nThe Jammer grabs the connectors I placed on the ground and starts to hook everything up. Once it's up and running, the antenna will emit special waves at a frequency that's supposed to push back the Tumult – or at least to prevent it from appearing. Although I don't fully understand the science behind this contraption, I remind myself that it'll be useful when we're far from Asgartha. As long as it works, you won't hear me complaining… OK, time to connect it to the Kelon cylinders. Once I've done that, I watch the dish deploy and rotate so it's pointing at the sky. That's a good start. Three more to set up. I turn to the ridge we need to follow and the long journey that awaits us tomorrow. But tonight I'll be sleeping in a bivouac under the stars and eating grilled sausages for dinner."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WDFYKFDNDP5TRF1X0ZN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7WDFYKFDNDP5TRF1X0ZN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WCPF19360WB31W9W1VN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7WCPF19360WB31W9W1VN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WCZ0MTX407GEF0PC3YS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7WCZ0MTX407GEF0PC3YS",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77WBGJTYM1H00J4G2YEK",
+      "reference": "ALT_COREKS_B_AX_15_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/fddcbc35c86bf28aed17",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingeniero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4e370de135c8b883bb9f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_15/JPG/es_ES/27f31712a3bec452db810cdb6197a621.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/ALT_CORE_B_AX_15_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/ALT_CORE_B_AX_15_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/ALT_CORE_B_AX_15_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_15_R1",
+  "reference": "ALT_COREKS_B_AX_15_R1",
+  "id": "01HN5TXR43BMC1GQRCMPDPE7AX",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_15/JPG/it_IT/6f3d4c4af6a5c9c3bd022e2799924302.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_15/JPG/es_ES/27f31712a3bec452db810cdb6197a621.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_15/JPG/en_US/4e4069848cdc0a7b26e23c7560d28f10.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_15/JPG/de_DE/b7951dd09d7fd3a246e9f9bd35eb2f11.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_15/JPG/fr_FR/e44a6a8f09efffac1ee38edeb536ced4.jpg"
+  },
+  "name": "Codificadora de Axiom",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{H} [Sabotea]. (Descarta hasta una carta objetivo de una reserva.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-016-R-ES"
+}

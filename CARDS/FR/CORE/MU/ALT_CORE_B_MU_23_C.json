@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_23_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY507PAJ3A6P1H2XDRMW2G",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y4ES4XMR4JWZPAVZ23B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5Y4ES4XMR4JWZPAVZ23B",
+          "text": "« Qu'est-ce qu'il vous faut ? »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y5A8DFN4DJRHGX3QJHR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5Y5A8DFN4DJRHGX3QJHR",
+          "text": "Je pousse de toutes mes forces, mes pieds patinant dans la boue. De l'autre côté de l'attelage, le marchand tire comme il peut sur la bride de son raton laveur géant. Petit à petit, la roue de la carriole se désembourbe et se met de nouveau à rouler sur les routes détrempées. Je souffle longuement alors que l'épicier itinérant me fait signe d'approcher. En montant la pente gadouilleuse, je vois Spike passer discrètement sa tête entre un tonneau de bois et une pile de caisses emmaillotées. Je lui souris, tandis qu'il entame sa danse de la joie. La moindre de nos victoires l'a toujours mis dans un état d'euphorie proche de l'ébriété. Le camelot de la franchise Cornucoopia me tend une gourde, et je m'empresse d'y boire quelques gorgées. Je dois dire que Kimo a été d'une agréable compagnie ces derniers jours.\n\nEn échange d'un peu d'aide pour charger sa charrette, il a offert de me déposer au prochain carrefour. Contre une place à son feu et une portion de ses rations, il m'a proposé de vendre ses produits aux divers marchés que nous avons croisés pendant qu'il négociait et troquait quelques-unes de ses autres marchandises. Et le soir venu, il me racontait ce qu'il avait vu durant toute sa carrière, et ce que ça signifiait de faire partie des Muna. Il n'avait pas été dupe. Il avait bien vu que j'avais moi aussi été éveillé·e. Il s'étonnait pourtant que personne n'ait pris le temps de m'expliquer ce que ça signifiait, et tout ce que cette étincelle impliquait. Alors qu'il cuisinait le contenu de ses bocaux et conserves, il m'avait conseillé de me rendre au Fuseau, pour que des officiants puissent me former plus avant. Et peut-être allais-je y aller. Mais pour l'instant, j'étais amplement satisfait·e de ce petit bout de chemin à ses côtés."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y4WRTMDEK7SSAMNR1PR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5Y4WRTMDEK7SSAMNR1PR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y3FKKJVVNNDY5GDNG00",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5Y3FKKJVVNNDY5GDNG00",
+          "text": "Arjun"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y3X97PSE49J9QSBP015",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5Y3X97PSE49J9QSBP015",
+          "text": "384 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY507PAJ3A6P1H2XDRMW2G",
+      "reference": "ALT_CORE_B_MU_23_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/979614deb7a865a13de0",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Citoyen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e41189f72026af0f34e0",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/fr_FR/2e04bd94a172a0f54f0edc7b3490e3fa.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/ALT_CORE_B_MU_23_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/ALT_CORE_B_MU_23_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/ALT_CORE_B_MU_23_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_23_C",
+  "reference": "ALT_CORE_B_MU_23_C",
+  "id": "01HKAFJP8JGWWM6GR699Q787AF",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/fr_FR/2e04bd94a172a0f54f0edc7b3490e3fa.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/it_IT/4172c345430b7e0301f02b8309570b42.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/en_US/985fe7bb65bc7b94d4d8631ac0207ddc.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/es_ES/2629f3c12b9b0dab6228010481cc2de6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_23/JPG/de_DE/237e4e818fdc3f2a281e79441b649dbf.jpg"
+  },
+  "name": "Marchand Muna",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{R} [Ravitaillez]. (Mettez la première carte de votre deck en Réserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-100-C-FR"
+}

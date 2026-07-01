@@ -1,0 +1,148 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7J0DM9YSVX910BKV5VCEZYX2A8",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A6PGB47RR8JCRGSKEX3T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A6PGB47RR8JCRGSKEX3T",
+          "text": "La nature se doit d'être nourrie pour exprimer toute sa bienveillance."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6R1JXCNY2W9K2ZNC7VQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A6R1JXCNY2W9K2ZNC7VQ",
+          "text": "392 AC - Nauraa fixe la surface de l'eau avec avidité. Il ne bouge pas, essayant de voir si quelque chose mord à l'hameçon de ma canne à pêche. Je soupire discrètement et rabats mon chapeau d'osier sur mon visage. Je ne sais pas quel poisson va oser s'approcher alors qu'un renard démesuré examine les eaux, salivant d'avance à l'idée de le dévorer. Lentement, Nauraa se tourne dans ma direction, répondant à ma remarque mentale par un léger grondement. J'ouvre un œil et lui souris, lui tirant la langue d'un air taquin. Il réajuste sa posture, me tourne le dos en feignant de me faire la tête. Ce qu'il peut être susceptible, parfois. Il s'allonge de tout son long, posant son museau sur ses pattes avant. Ah, l'heure de la sieste... nous en avons bien besoin, lui et moi. Difficile de croire qu'il y a quelques heures encore, nous étions en train de batailler pour nous extirper de ce marécage.\n\nJ'observe la fourrure rousse de Nauraa, les croûtes de sang coagulé qui sont autant de stigmates de la dureté des épreuves qu'il a dû endurer. En nous retrouvant en ces lieux, nous avons fait de la zone un petit paradis aussi sublime qu'éphémère. Autour de nous, des libellules argentées vrombissent entre les roseaux, de petites araignées d'eau glissent nonchalamment à la surface de la mare... Si le Tumulte venait de nouveau à souffler ici avant que les Corps expéditionnaires ne s'investissent, tout ce que nous avons stabilisé sera anéanti, jeté en pâture à la dysharmonie. Mais pour l'instant règne une sérénité dont nous devons profiter. Plop. Le flotteur s'enfonce dans les eaux, et je saisis la canne à pêche, prête à tirer sur la ligne. Juste à temps pour voir avec horreur Nauraa bondir dans l'étang, tel un éléphant sautant dans un magasin de porcelaine."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6PTE6RHGNQY1TWX4A9X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A6PTE6RHGNQY1TWX4A9X",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6NV0STM2D7JYTH0V3RR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A6NV0STM2D7JYTH0V3RR",
+          "text": "TEIJA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6P5B07X0ETM1YGQMF5R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A6P5B07X0ETM1YGQMF5R",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "7J0DM9YSVX910BKV5VCEZYX2A8",
+      "reference": "ALT_BISE_B_MU_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/37a061ed4efd0c7e141d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_01/JPG/fr_FR/23d6df6b67cabc69534be7d9e2a6e7c5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_01/WEB_01a2657e27710980481bebaf25467de7"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_01_C",
+  "reference": "ALT_BISE_B_MU_01_C",
+  "id": "01JB1YZYDKGBQDA3RXDDNNYYGY",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_01/JPG/it_IT/62ad22b0f63f03836072225a45ec9862.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_01/JPG/en_US/2e207fd4486f15913aee705082569664.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_01/JPG/de_DE/70cb91154e673683de2d051605add403.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_01/JPG/es_ES/465dcda1cfc082940e0ac92f9cd28687.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_01/JPG/fr_FR/23d6df6b67cabc69534be7d9e2a6e7c5.jpg"
+  },
+  "name": "Teija & Nauraa",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Le premier Personnage que vous jouez chaque Après-midi gagne 1 boost[BB]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-052-H-FR"
+}

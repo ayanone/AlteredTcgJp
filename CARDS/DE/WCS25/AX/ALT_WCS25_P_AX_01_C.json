@@ -1,0 +1,143 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCS25_P_AX_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2TYPKM0YET91B98NQC4EKBQ9B7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JYRGVWHTVTJVPXR153793GYP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JYRGVWHTVTJVPXR153793GYP",
+          "text": "„Ich kenne keine größere Belohnung, als mitzuerleben, wie etwas zum Leben erwacht, das man selbst erschaffen hat.“"
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWJAX2YGM6S8BWJJG8B2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JYRGVWJAX2YGM6S8BWJJG8B2",
+          "text": "392 AC - Under the lake's oily surface, iridescent bubbles rise slowly from the depths in strange clusters, like thousands of undulating jellyfish. They bump into each other, burst, merge and divide before breaking through the pulpy surface with a hiss and belch of colorful miasma. I feel the pressure of the Tumult all around me, releasing ideas with each swell that breaks through, ideas seeking to express themselves in the world by any means possible. There's clearly something pulsating at the bottom of the lake. Maybe it's a Tumult singularity buried hundreds of feet below me. All I can do is protect my boat from its devastating effects by using my Construct to individually remove the parasitic ideas beginning to sprout on its hull. It will be a hard crossing. The boat's kelonic motor is sputtering under the effects of the ideas jostling and pounding against it.\n\nI hope Oddball is doing all right. I probe into the distance, feeling his psyche answer me with a few short, miserable beeps. With my own senses, I can feel how badly his frame has been damaged by the intrusive ideas. Through our bond, I create the Eidolon of a Salvager at his side. My Alter Ego slows down, clearly relieved to have a pit stop – and he'll really need it to restore his armor, too. I leave him as I hear the first sounds of welding echoing in the twilit forest where he had been maneuvering, slaloming between the tree trunks. As for me, I'm not out of the woods yet either. Navigating this goopy lake is an interminable process, with the constant risk that, at any moment, a bubble could capsize the boat and throw me into the syrupy waters."
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWJ2NDR4KMH0303XB741",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JYRGVWJ2NDR4KMH0303XB741",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWH39EHF9N25VSSETSSF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JYRGVWH39EHF9N25VSSETSSF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JYRGVWHJGHYSBBMGZZN421QW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JYRGVWHJGHYSBBMGZZN421QW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "2TYPKM0YET91B98NQC4EKBQ9B7",
+      "reference": "ALT_WCS25_P_AX_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Held"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/WCS25",
+    "@type": "CardSet",
+    "id": "01JTJV0RDYYPKJ3EH4M68H4RKT",
+    "reference": "WCS25",
+    "name": "World Championship Series 2025"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/26b4615a75e33416a79f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_01/JPG/de_DE/a099f401f225e9f1964a9e430c6c6a43.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCS25_P_AX_01_C",
+  "isOwnerless": false,
+  "reference": "ALT_WCS25_P_AX_01_C",
+  "id": "01JTJV3C86H560ZB3E51Y8CH15",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_01/JPG/fr_FR/51dd3227be6fb3d08e19d2212504377f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_01/JPG/en_US/26bcae2b600a48ac9875889a70cd6b9b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_01/JPG/it_IT/9aeb295a3f6acd3935656ef5527ee528.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_01/JPG/es_ES/c921453c0715c18cdcf922c0d9da1cdc.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_01/JPG/de_DE/a099f401f225e9f1964a9e430c6c6a43.jpg"
+  },
+  "name": "Sierra & Botball",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "MAIN_EFFECT": "Wenn du eine Bleibende Karte mit Handkosten {3} oder mehr spielst — Du darfst mich erschöpfen ({T}), um eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl zu erschaffen."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "WCS25-AX-01-C-DE"
+}

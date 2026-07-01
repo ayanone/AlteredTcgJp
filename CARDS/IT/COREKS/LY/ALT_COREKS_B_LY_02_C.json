@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_02_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB781JEVQACTAX1R57NS82",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7Z5YR20WEY97AXD5WEBQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7Z5YR20WEY97AXD5WEBQ",
+          "text": "La vera bellezza sta al di fuori delle convenzioni."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Z6NJR207PCD2SHD8CBG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7Z6NJR207PCD2SHD8CBG",
+          "text": "392 AC - Kibble leaps from floating stone to suspended rock and launches himself in my direction. He drifts through the air as the fickle gravity carries him toward me. He's crackling with Mana, even though that's left his fur all disheveled like a ball of wool caught in a storm of static electricity. He has stored more than enough for us to stabilize the area. I catch him and give him a big cuddle, feeling his Mana overflow and pour into me. He places his paws against my nose to stop me from covering his muzzle with red lipstick and glitter. Oh, poor thing. Aren't you happy to see me? But I'm fully aware that time is running out. All this fizzing Mana is eager to be incarnated in the world. Yes, little one. Let's go, everyone on stage! It's showtime!\n\nOur hug is a release, an explosion. I let my spirit wander and let my imagination flow out of me like wine from a wineskin. The newly freed ideas swirl out of my psyche. It's like a detonation, a shock wave that spreads out for miles around. And all around, I feel reality changing, transforming under the will of my inspiration, which I deliberately let run wild. My imagination expresses itself and imprints itself, shaping the world as ideas and Mana blend, weave and tangle in a burst of energy. In reality, the cataclysm of our meeting is like a miniature Confluence, but one that's guided and controlled. And my goal is to ensure that anyone who comes into my territory will be captivated and inspired by its beauty. I think of silks, prints, flat areas of color and strong contrasts. Yes, I want everyone who sets foot here to feel like they've stepped inside a work of art!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Z6AMFYPYQ0YYSEWSPXG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7Z6AMFYPYQ0YYSEWSPXG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Z4XP5JJB1KPZB2Q521G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7Z4XP5JJB1KPZB2Q521G",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Z5J0MY4FMMWTWJDSWZF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7Z5J0MY4FMMWTWJDSWZF",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HPMB781JEVQACTAX1R57NS82",
+      "reference": "ALT_COREKS_B_LY_02_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1421296315f2212a6ff2",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/06b1eddc23a427074ae7",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-07-10T10:37:36+00:00",
+      "question": "Do the \"When played from Hand/Reserve\" abilities of the card played by Auraq activate? ",
+      "answer": "Cards played from the top of the deck activate their {j} abilities (not the abilities from Hand nor Reserve)."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b5f07b8071a1e4c6a5ae",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-11-13T10:37:36+00:00",
+      "question": "If an effect, such as Robin Hood, increases the cost of my cards, do I need to pay mana when I play them via Auraq & Kibble's effect?",
+      "answer": "A free card remains free!  Playing a card for free means bypassing its cost entirely, which is different from reducing it to zero."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_02/JPG/it_IT/2888e685d351464c3483f82b57e55a47.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_02/ALT_CORE_B_LY_02_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_02/ALT_CORE_B_LY_02_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_02_C",
+  "reference": "ALT_COREKS_B_LY_02_C",
+  "id": "01HN5TXRA1T00YQ3ZB7MPWRTZ3",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_02/JPG/it_IT/2888e685d351464c3483f82b57e55a47.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_02/JPG/de_DE/08a838cca468d5569fe57ab733f63af6.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_02/JPG/es_ES/65c173bf275c4ff0407f06904fde4f80.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_02/JPG/en_US/45330962b7e9052bed720a6798a9526f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_02/JPG/fr_FR/bdd93312209fab06288dc5a25ae84c9a.jpg"
+  },
+  "name": "Auraq e Crocchetta",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Quando giochi un personaggio con una statistica base pari a 0 — Ottengo 1 segnalino Prestazione.  At Noon — You may spend five of my Performance counters to reveal the top card of your deck. You may play it for free or put it into your hand. (Don't activate any {h} abilities.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-062-H-IT"
+}

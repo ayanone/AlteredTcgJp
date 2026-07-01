@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_60_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2W8VYBMT0F8J8VA62F4HK6GNVY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1ACHJTWESTZKKSMT55Z1C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1ACHJTWESTZKKSMT55Z1C",
+          "text": "Toda realidad tiene su parte de ilusión."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACKM81WF07MEX7MTD3BP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1ACKM81WF07MEX7MTD3BP",
+          "text": "393 AC - I quickly close the cabin door behind me and wrap my scarf around my neck as I try to stop myself from shivering. Brrrr. The refrigerated greenhouse of the Ouroboros is as chilly as ever… But as I look around me, I feel overcome with bitter disappointment because Saskia doesn't seem to be here. Moyo turns to me and puts his finger to his lips to tell me to be quiet. I gingerly make my way to the living room and sit down in an armchair as quietly as possible. Near the crackling fire, I see Saskia's assistant working on her experiments. She'd suggested I help her, of course, but my obligations as an Exalt prevented me from taking on additional responsibilities. Anyway, Moyo is cool. He's curious and hardworking, and he'd been immediately fascinated with the Moths — obsessed, even. He hums happily as he works, seemingly putting his heart and soul into it.\n\nI watch him manifest the Eidolon of a courier, picking up a can of Sap Soda on the way, because why not combine business with pleasure? He talks to her as if it were all perfectly normal, inviting her to take an interest in his work and look through the microscope. Then he takes a Moth egg from a petri dish and places it on the tip of his finger like a grain of sand. He then blows over it, making it flutter towards the Eidolon. I activate my Irises. The egg moves like a speck of dust, a simple particle… but Moyo floods it with a clamor of ideas, which he expertly draws from the bubbling currents that roar beyond the Veil. When the egg lands on the Eidolon's skin, I witness an explosion. The dust sucks up the courier's ideas and reconstructs them to feed the imago of the Moth contained in the egg. Moyo turns towards me with a smile as a Moth flutters around where the Eidolon once stood. He's managed to short-circuit the insect's whole reproductive cycle."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACJ0YTGFABKG71KBR1HN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1ACJ0YTGFABKG71KBR1HN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACGP8WYBGTZ1X81BN3C1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1ACGP8WYBGTZ1X81BN3C1",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACH4C41J129JEXPBTR27",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1ACH4C41J129JEXPBTR27",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "2W8VYBMT0F8J8VA62F4HK6GNVY",
+      "reference": "ALT_BISE_B_YZ_60_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ba44ae7406ef3c73672f",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disrupción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8370938bfd731d128eaf",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_60/JPG/es_ES/c98a1d530fb06bc7babf089e31a9ef53.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_60/WEB_b76dcba68a4c195a8f87faf1360b2aa5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_60/WEB_a43685dde71d57b8b4ed966d7e7c6f2a"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_60_C",
+  "reference": "ALT_BISE_B_YZ_60_C",
+  "id": "01JB1YGPC3BBYBGD2CHXATDXB6",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_60/JPG/es_ES/c98a1d530fb06bc7babf089e31a9ef53.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_60/JPG/en_US/86a77803ce044bae879db29b8ec1ab48.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_60/JPG/fr_FR/e1f657b03d3c99e8252c64cdc3f3fac2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_60/JPG/de_DE/05350edd7686ad783748a6161240f801.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_60/JPG/it_IT/bbdc79d8392fda1b4306a85c3f6f337f.jpg"
+  },
+  "name": "Metamorfosis",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Fugacidad]]. (Una vez resuelto mi efecto, envíame a la pila de descartes en lugar de a la reserva.)  Descarta un personaje objetivo y luego crea una ficha de ilusión [Polilla de maná 2/2/2] en su expedición."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-099-C-ES"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_38_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1VY1NR2EF491F8HKYVXQT99BNF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J28S1988N6AGG73RC006P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J28S1988N6AGG73RC006P",
+          "text": "O procediamo o restiamo fermi. Indietro non si torna."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28TXAYQRF5CPWXQ8VAZP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J28TXAYQRF5CPWXQ8VAZP",
+          "text": "Stringi i denti e continua a mettere un piede davanti all'altro. Concentrati su questo, Sun, e solo su questo. Dimentica il dolore; il freddo è solo nella tua testa. Tenendo lo scudo dritto davanti a me per proteggermi dal vento glaciale, risalgo il pendio a un ritmo dolorosamente lento, mentre i miei stivali affondano nella polvere. E questa bufera... continua a soffiare, a turbinare e ad aumentare di intensità. Più saliamo, più la neve pungente ci sferza il viso. È come se mi strofinassero della carta vetrata sulle guance. Per un breve momento non posso fare a meno di maledire Sigismar, che è rimasto indietro per accompagnare l'ultimo gruppo di esploratori e coprire il fianco posteriore. So che voleva aiutarmi dandomi più responsabilità, ma a questo punto ne ho abbastanza di queste cosiddette responsabilità. E odio, odio nel modo più assoluto, bagnarmi i piedi.\n\nTuttavia, non ho intenzione di mollare. Riusciremo a risalire Cais Adarra e tutto ciò che ci serve per arrivarci è la forza di volontà: totale, assoluta, militare. Più volte Sig mi ha domandato per scherzo cosa ci facessi lì, quando avrei potuto tranquillamente chiedere di unirmi ai Bravos, dove il mio atteggiamento burbero sarebbe stato più adatto. Ovviamente parlava a sproposito. Ciò che contava di più per me era lo sforzo condiviso: dedicare la mia energia agli altri, non a me stessa. E in qualche modo lo sapeva. Ma questo non mi impediva di far sentire la mia voce o di lamentarmi quando qualcosa non andava bene. So che devo la mia posizione a un capriccio del mio ufficiale superiore. Chiunque altro avesse esaminato il mio fascicolo avrebbe scartato la mia candidatura senza pensarci due volte, considerando i miei noti precedenti di insolenza. La cosa peggiore è che non so ancora perché Sig abbia scelto me come sua sottoufficiale. So solo che non sprecherò l'occasione che mi ha dato."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28SMP882F35MEGFFW68X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J28SMP882F35MEGFFW68X",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28QYEY3FQR86JNDKV0PB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J28QYEY3FQR86JNDKV0PB",
+          "text": "SUNISA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28RE1JWVZ6GW13QJ0ZYZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J28RE1JWVZ6GW13QJ0ZYZ",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1VY1NR2EF491F8HKYVXQT99BNF",
+      "reference": "ALT_ALIZE_B_OR_38_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f1a98539acd2bff1cffb",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldato"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1abc8e491981458f33f8",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/it_IT/15637b1da5fd699be3f9160dc6f53163.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/WEB_f77d77e02e3eae1b8de74ef8532f2092",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/WEB_9c0e0e7ed15787e3b9e23615cb5db49c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/WEB_b6cb2ed73b46c78b4b4a5a2b53692313"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_38_R2",
+  "reference": "ALT_ALIZE_B_OR_38_R2",
+  "id": "01J1Q4P4SMDNZ8MWZ3GHV20JSB",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/de_DE/1492958e31b85e4e53169f845cef1d50.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/it_IT/15637b1da5fd699be3f9160dc6f53163.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/en_US/cacb69cdfcf448f9b23ba356136d337d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/es_ES/e594022acff2d57bee9b5f7ff87bf6c0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/fr_FR/e310432390e77da9bb45cafb7781f6ec.jpg"
+  },
+  "name": "Sunisa, Caposquadra Infaticabile",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "[Difensore]. (La mia spedizione non può avanzare durante il crepuscolo.)  Se la mia spedizione è indietro, i personaggi con [Difensore] non le impediscono di avanzare."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-074-F-IT"
+}

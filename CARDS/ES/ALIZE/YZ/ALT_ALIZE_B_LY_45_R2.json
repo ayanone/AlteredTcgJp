@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_45_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1P3DB7FPRW8E8TJPE44GNG0RPK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26401K86RFFEQPQRCMNX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26401K86RFFEQPQRCMNX",
+          "text": "En los vastos parajes se oye su retumbar."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J264R3W3JJA2ECB1DT8N0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J264R3W3JJA2ECB1DT8N0",
+          "text": "Por suerte, hay algo más que cuevas oscuras y montañas hostiles en esta región. ¡Qué aburrido sería si no! Se pueden encontrar panoramas espectaculares en cualquier recodo de un puerto, como aquí, donde el paisaje está salpicado de impresionantes peculiaridades biológicas y geológicas. Dicen que este lugar impresionante y singular se halló durante la exploración de un cañón por el que serpentea un arroyo helado. De sus orillas blancas emergen formaciones rocosas de color ocre. Estos bloques ensanchados de minerales parecen haber brotado del suelo en racimos. Al avanzar por el hielo, me parecen gigantescos ramilletes de piedras que crecen en el jardín de unos gigantes donde estos pueden recoger flores de roca de un edén blanco. También me fascina la vegetación: largas hierbas azules que se pliegan al paso del viento. Alargo la mano hacia estas plantas para disfrutar de su agradable flexibilidad. Es a la vez magnífico y extraño verlas sobresalir de la nieve y desafiar al frío.\n\nA medida que nos acercamos a los afloramientos de mineral anaranjado, empiezo a adivinar su verdadera naturaleza. Aunque son de piedra, su origen es claramente orgánico. Así pues, deben de ser una especie de híbrido mineral y floral, una suerte de coral en el que late la vida vegetal. Ciertas ramas revelan un núcleo coloreado. También se distinguen aureolas concéntricas más oscuras, como los anillos del tronco de un árbol. ¿Aparecen o adquieren determinados colores en función de un ciclo o estación? Me resultan extraños y fascinantes. Voy de formación en formación para estudiarlas más a fondo y de repente oigo un crujido ominoso en la extensión hasta entonces silenciosa. He oído rumores sobre ataques a algunos de nuestros equipos. Me mantengo ojo avizor. Sé muy bien que la belleza en ocasiones puede ser venenosa… "
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J264DZ5TTE4AS3AHBQ83H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J264DZ5TTE4AS3AHBQ83H",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26345V277KHCFNSHWFPP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26345V277KHCFNSHWFPP",
+          "text": "AURAQ"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J263JW6X9FNA9AFXKR1KQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J263JW6X9FNA9AFXKR1KQ",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "1P3DB7FPRW8E8TJPE44GNG0RPK",
+      "reference": "ALT_ALIZE_B_LY_45_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/93f8b4714970c0b2af30",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Ubicación"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8ccfa0c861141ae34648",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/9819baff988674a0c226",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:16+00:00",
+      "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
+      "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/es_ES/9657492902005f0b05a498696e1d5743.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/WEB_77b7d27e4b3fff4a63372448069fca42",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/WEB_a2351caf25f187ce38209b18ea7b1f3d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_45_R2",
+  "reference": "ALT_ALIZE_B_LY_45_R2",
+  "id": "01J1Q4P4SBPWTN13PW61X9B2AM",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/es_ES/9657492902005f0b05a498696e1d5743.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/de_DE/cc634b406135d3aadb1731f4d6bc1907.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/it_IT/cd5479ce1b1a1e2254dbc65a848a6515.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/fr_FR/25dbced52ace87b7e675ebb416d6dc1a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/en_US/4b54c8bd48b9f79068c612883d7f6a6b.jpg"
+  },
+  "name": "Tundra helada",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Cuando juegues un personaje — Si está en un terreno en el que su estadística base es 0, gano 1 contador de ordalía.  Cuando gane mi tercer contador de ordalía — Sacrifícame. Si lo haces, crea una ficha de ilusión [Dragón del eco 5/5/5] en una expedición objetivo y luego devuelve una carta de tu reserva a tu mano."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-051-F-ES"
+}

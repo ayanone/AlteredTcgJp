@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_51_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2QV1XF600Q9BXB7KPFMKBH0CXN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4545FN2550WHSXRDWY8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4545FN2550WHSXRDWY8",
+          "text": "Designé par des designers pour les aider à designer."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A45EJEJA4CG3SD7145B8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A45EJEJA4CG3SD7145B8",
+          "text": "393 AC - Je savais bien qu'Aby allait me manquer, mais pas à quel point, autant personnellement que professionnellement parlant. Que faisait-elle actuellement, d'ailleurs ? Allumait-elle toujours la bouilloire en arrivant à l'atelier ? Pliait-elle sa trottinette avant de l'adosser contre le mur d'entrée ? Avait-elle changé des choses à cet espace que nous avions partagé durant des années ? Parfois, je me surprenais à me retourner pour l'interpeller, lui montrer quelque chose, pour réaliser sur un déclic qu'elle n'était pas là. Et même si je manifestais de temps en temps son Eidolon pour effectuer des courses et des livraisons vers les profondeurs, ce n'était pas la même chose, au final. Ne pas avoir Aby dans les parages, c'était comme se voir amputer d'une partie de son intellect. J'avais pris l'habitude de lui exposer systématiquement tous mes schémas de montage, pour savoir ce qu'elle en pensait, ce qu'elle tenterait d'améliorer. Et les années aidant, ses remarques s'étaient faites de plus en plus affûtées.\n\nC'est pourquoi j'avais eu besoin d'un assistant. Son design était calqué sur celui d'une méduse lunaire, mais affublé de binocles extravagantes et d'une bouche boudeuse. Même aujourd'hui, je me demande ce qui m'est passé par la tête quand j'ai crayonné son apparence extérieure. Mais ce n'est pas la coquille qui compte, c'est ce qu'il y a à l'intérieur. Et le \"Magnum 6\", le cryptex qui dicte sa cognition, capable de millions de permutations, est probablement le plus complexe que j'ai dû élaborer. Je jette un coup d'œil dans sa direction. Ses mains préhensiles, reliées à son corps par des lacets souples et incroyablement malléables, saisissent le plan et le déroulent. Il le scanne avec son éternelle expression de vanité et de condescendance, ce qui ne manque pas de me faire sourire. Puis soudain, quand il a terminé son analyse, une ampoule sort de son châssis pour venir voleter au-dessus de sa tête. J'approche. C'est le signe qu'il a trouvé quelques points d'amélioration à mon design."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A459CA06T27Y39380ZFQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A459CA06T27Y39380ZFQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A44VPGV6ERG9VTTQBSSG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A44VPGV6ERG9VTTQBSSG",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4502NCC0AR9EKRYXEDW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4502NCC0AR9EKRYXEDW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2QV1XF600Q9BXB7KPFMKBH0CXN",
+      "reference": "ALT_BISE_B_AX_51_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b8e68b689913387e3730",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8d1531fef717f8ffdc21",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/491846c4561340a31d99",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/fr_FR/464ca6bf33365e684a7f52df17ce4573.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_70b9d2617d7cb71b447301e3fc6791e9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_51_R2",
+  "reference": "ALT_BISE_B_AX_51_R2",
+  "id": "01JB1YGPB21B646E7PKMP22XFH",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/es_ES/6a71a80aff7cedee0cb6ea62637fb8f5.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/de_DE/4fcbe1283457414d893c1655f9f18b22.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/it_IT/8835463f450823e58eb97d92bd54cfd3.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/en_US/bc38158103ac3cf8774d1838f880b6a2.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/fr_FR/464ca6bf33365e684a7f52df17ce4573.jpg"
+  },
+  "name": "Drone Designer",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#{R} Vous pouvez dépenser 1 compteur d'une carte que vous contrôlez ou dans votre Réserve pour réduire le coût du prochain Permanent que vous jouez cet Après-midi de {2}.#",
+    "ECHO_EFFECT": "{I} #Lorsqu'un autre Personnage rejoint vos Expéditions# — Je gagne 1 boost, jusqu'à un #max de 2.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-004-F-FR"
+}

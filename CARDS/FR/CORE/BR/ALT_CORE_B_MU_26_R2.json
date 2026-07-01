@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_26_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY5080X57HVSC7VFPYKF6S",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5YDA1T471DX9SCWN7XFP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5YDA1T471DX9SCWN7XFP",
+          "text": "Tout est énergie, et c'est tout ce qu'il y a à comprendre."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YE71TCGC70TXQEM2NAA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5YE71TCGC70TXQEM2NAA",
+          "text": "Elle n'hésite pas, fonçant tête baissée à travers les fourrés incendiés. Je la suis comme je peux, toussant bruyamment, essayant de me convaincre que mes maigres talents en Altération pourront l'aider. Autour de nous, les cendres tombent, nos pas soulèvent un tapis blanc et gris sous lequel couvent encore des braises rougeoyantes. La chasseresse hellequine manifeste l'idée de l'eau, et une bulle de liquide froid éclate au-dessus de nous, nous douchant par la même occasion. Immédiatement, mes vêtements imbibés se mettent à fumer tellement la chaleur est étouffante. Haletant, un douloureux point de côté vrillant mon ventre, je parviens à la rattraper alors qu'elle semble converser avec un renard. Ce dernier pointe une direction de son museau, puis détale à l'opposé tandis qu'elle s'élance de nouveau. J'aurais bien aimé me reposer quelques instants, mais le temps presse.\n\nJe grogne et me remets en route. On doit éteindre ce feu de forêt coûte que coûte, avant qu'il ne ravage le versant est et ne se propage aux sous-bois. Là-bas, il y a l'exploitation de Yurij et le corps de ferme Oowaite... et le village ne peut pas se permettre de les perdre. Nous émergeons soudain dans une zone qui ne semble pas encore avoir été touchée par la flambée. Où est donc passé le feu ?  Je le comprends soudain en voyant un petit Djinn flotter indolemment dans les airs, non loin d'un parterre de fleurs sauvages et de russules. Un acte de malveillance ? Qui donc avait osé invoquer un tel Eidolon durant la saison sèche ? Je sens la chasseresse se connecter au Skein et prononcer sa sentence. Sans hésitation ni remords, elle aspire le Mana de la créature, désincarnant les idées qui la composent avant qu'elle ne puisse causer plus de dégâts. Je me laisse tomber sur les fesses, exténué et frustré de n'avoir servi à rien."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YDSS459RP3WA167B91B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5YDSS459RP3WA167B91B",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YCDW5WY5GQBJM5X37MX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5YCDW5WY5GQBJM5X37MX",
+          "text": "Arjun"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YCV3TTB367MSEAPMDEW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5YCV3TTB367MSEAPMDEW",
+          "text": "376 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY5080X57HVSC7VFPYKF6S",
+      "reference": "ALT_CORE_B_MU_26_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/640ee14753152fb69131",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/76de75c57b0da37079c3",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/99bd956e9cf460bd69fd",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:44+00:00",
+      "question": "Can I target a token Character with Mana Reaping?",
+      "answer": "Yes! Note that they will be removed from the game when leaving the Expedition zone, so their controller won't gain a Mana Orb. "
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_26/JPG/fr_FR/21b57ba8a21b5dd36e1148062fd113ad.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_26/ALT_CORE_B_MU_26_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_26/ALT_CORE_B_MU_26_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_26_R2",
+  "reference": "ALT_CORE_B_MU_26_R2",
+  "id": "01HKAFJP95HW65NXS6DJFQ5KZP",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_26/JPG/it_IT/efd472a711d92b6ab136ffb390739c0c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_26/JPG/en_US/fae404b06a848c17b3b0d854d8b75683.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_26/JPG/fr_FR/21b57ba8a21b5dd36e1148062fd113ad.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_26/JPG/de_DE/ae746a6929aafb3b8d82a0e315fcebaf.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_26/JPG/es_ES/768ca71042e28be14e71fe6ea453e0f3.jpg"
+  },
+  "name": "Moisson de Mana",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Mettez un Personnage ou Permanent ciblé dans la zone de Mana de son Propriétaire (en tant qu'Orbe de Mana épuisé)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-118-F-FR"
+}

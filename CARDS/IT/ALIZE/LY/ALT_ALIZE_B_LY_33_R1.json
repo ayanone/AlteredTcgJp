@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_33_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/28NK97P9F59NYV14MGJW62JAVX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2579TXM8X0ZJYMP1ZYAN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2579TXM8X0ZJYMP1ZYAN",
+          "text": "Cosa si scioglierà prima? Lui o il tuo cuore?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J257X20G0PE9SJAVPEM7C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J257X20G0PE9SJAVPEM7C",
+          "text": "Finalmente Riff e io completiamo il nostro pupazzo di neve al limitare del bosco. Ammiro il nostro lavoro: un incantevole cumulo di neve fresca con i rami morti di una betulla vicina come braccia, una carota floscia come naso e pietre come occhi e bocca. Non ho potuto fare a meno di aggiungere una vecchia sciarpa rossa e un'erbaccia sulla testa per farlo sembrare un vecchietto. Se solo avessimo una pipa di legno... Dopo aver inventato una canzoncina di benvenuto per il nostro nuovo amico di neve, ci spostiamo per iniziare una battaglia di palle di neve. Riff decide di sotterrarmi ed è implacabile, così trovo rifugio in un boschetto vicino. Nascosta tra due folti cespugli, aspetto che il bombardamento si fermi. Il vento fa giungere alle mie orecchie un ritmo, una melodia sincopata di piccoli scricchiolii, come passi sulla neve.\n\nDo un'occhiata oltre la mia barriera improvvisata, aspettandomi un'imboscata da parte di Riff e pronta a chiedergli una tregua. Il nostro pupazzo di neve è ancora dove l'abbiamo lasciato, con le braccia tese verso il cielo... Avrei dovuto mettere guanti e cappello a quel poveretto. Ma ora ce n'è un altro che gira intorno a quello fatto da noi.  Ha le dimensioni di un bambino piccolo. Indossa un grande zaino e un cappello da cacciatore con paraorecchie. Un vero esploratore! Sembra molto incuriosito dalla replica che abbiamo realizzato e la guarda con attenzione. Probabilmente sta cercando di indovinare qual è il suo legame di parentela con la nostra creazione. Preferisco non uscire dal sottobosco, così posso continuare a guardare questo piccolo spettacolo. Dietro di me, sento che anche Riff sta osservando. Alla fine, la piccola creatura di neve saluta il vecchio pupazzo per poi proseguire il suo cammino. Se gli tirassi una palla di neve, parteciperebbe al nostro combattimento amichevole?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J257K9DPXBQ1295G80VSH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J257K9DPXBQ1295G80VSH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J256H1X5HXVJ93GEX49F4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J256H1X5HXVJ93GEX49F4",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J256ZX98CWJBRQ8BKS3D2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J256ZX98CWJBRQ8BKS3D2",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "28NK97P9F59NYV14MGJW62JAVX",
+      "reference": "ALT_ALIZE_B_LY_33_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/137314466c3e2c671852",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Elementale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/41033954360b6ebcda0b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/it_IT/0db61eda10edbc51a8e59050708587ab.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_bf520d8267baf4533eb5dddc4b6f02ce",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_eb5d8eab445464c60b7cf202df8c5196",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_a1d65e9e3ec766f87c0831df94298836"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_33_R1",
+  "reference": "ALT_ALIZE_B_LY_33_R1",
+  "id": "01J1Q4P4S72ESJDYMMDMPKH5NH",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/de_DE/48c461c61e2e76965f9d749b31f9189e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/it_IT/0db61eda10edbc51a8e59050708587ab.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/fr_FR/5a2b1e209a985033570ad9285ac0d738.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/e6388d9b8748f1d8b8aa5a9107d6b5b7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/es_ES/1eed6df93cf68211de1d1b1075f7ca57.jpg"
+  },
+  "name": "Pupazzo di Neve",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "#2#",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{J} A meno che io non sia in {O}, ottengo [[Fugace]]. (Se sto per finire nella Riserva, scartami invece.)",
+    "ECHO_EFFECT": "#{D}: [Rifornisci-Consuma].# (Scartami dalla Riserva per eseguire questa azione.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-037-R-IT"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_12_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77W20SR7T9CP390Y2ABR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7W92T1XJF39F0JW08N9G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7W92T1XJF39F0JW08N9G",
+          "text": "Together they can build more than just a stone house."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W9GR1ZKKM9FY25QP7P0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7W9GR1ZKKM9FY25QP7P0",
+          "text": "One of them snores loudly at his desk, while another taps a stick on his hoof as if counting the seconds. As for the third, he trots between the ranks of Apprentices, casting furtive glances at the students’ work. There is a studious silence in the classroom as students scribble, draw lines with their rulers, and measure with compasses. The Journeyman who was supposed to be supervising us summoned the Three Little Pig Eidolons to cover for him, and the pigs – well, one of them at least – are taking their jobs seriously. I get back to work on the design of my machine. There are only two hours left to finish, and I won't have much time to waste.\n\nAs I start in again on my drawing, I see one of the Eidolons – the most eager of the three – leaning over my assembly diagram. From the corner of my eye, I see him nod approvingly. Is that a sign I'm on the right track? The Three Little Pigs are known within the Axiom as great engineers and project managers. If this one's encouraging me, then… I shake my head, trying to curb my enthusiasm and refocus on my objective. For those who do well in this competition, the reward may be one of a handful of available spots in the Fulcrum, the Guild responsible for developing the technical equipment used by the Expeditionary Corps. The heavy silence in the room is a testimony to the high stakes, as is the intensity in everyone's expressions. I just hope I made the right choice by applying so soon after starting my apprenticeship."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W991QPNKXZ928E5P0VK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7W991QPNKXZ928E5P0VK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W8MSXTEMZQQ0Y8VKGW6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7W8MSXTEMZQQ0Y8VKGW6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W8VQJWP0QX091R6D4SW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7W8VQJWP0QX091R6D4SW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77W20SR7T9CP390Y2ABR",
+      "reference": "ALT_COREKS_B_AX_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/aea3b7d18d3484a2dbf3",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Engineer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e2f8e9ec136c356a9162",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/en_US/cd0dd184d78e73f95256c19fd1b30a6b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/ALT_CORE_B_AX_12_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/ALT_CORE_B_AX_12_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/ALT_CORE_B_AX_12_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_12_R1",
+  "reference": "ALT_COREKS_B_AX_12_R1",
+  "id": "01HN5TXR3K1KZ1NPAFXP6FG42W",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/de_DE/eb750fedb0f39ed78e64d2838cbcef83.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/es_ES/cc29245585547a5e538e722503835cb9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/it_IT/310b47e6d4b51123ba3399f998fa60f0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/en_US/cd0dd184d78e73f95256c19fd1b30a6b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/fr_FR/a831789d6d046d4549d41044159d33e2.jpg"
+  },
+  "name": "Three Little Pigs",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{J} If you control two or more Landmarks, I gain #2 boosts[].# (Cards in Reserve are not controlled. A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-014-R-EN"
+}

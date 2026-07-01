@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_33_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3C718R6M4G80BV0BQ93R9Z70PM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J233ZSMTKEYNDGAGPGWCB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J233ZSMTKEYNDGAGPGWCB",
+          "text": "¡Despego a la velocidad de la luz!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J234D0Y2Y147EXZ9VFPCJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J234D0Y2Y147EXZ9VFPCJ",
+          "text": "Una espesa niebla ha comenzado a extenderse sobre el lago y ya no se ve nada. Marmo no deja en paz a la joven Lyra. Juega con ella y se asegura de que no se meta en más líos. A la niña no parece importarle, pero tendremos que encontrar su caravana si queremos que vuelva con su familia. En fin, no nos queda otra. Saco mi constructo de su funda y empiezo a reorganizar los botones. Ante mí aparece agitando las alas un pequeño frailecillo de aspecto adorable e indefenso. Eso sí, lleva a la espalda la mochila propulsora de Ícaro. Pretendo enviarlo muy por encima de las nubes para que nos diga lo que ve y, lo que es más importante, adónde ir. Empieza a saltar sobre el hielo, batiendo las alas de forma frenética y torpe. Lo que le ayudará a alzar el vuelo serán los cohetes…\n\nCoge un poco de velocidad y, de repente, cuando los motores se encienden y funden el hielo a sus espaldas, el ave se eleva hacia el cielo y atraviesa el manto de niebla. Deja a su paso una estela de vapor, y yo lo observo a lo lejos en el cielo mientras se eleva como un cohete. A esa altura, debería ser capaz de divisar rápidamente una procesión Lyra y de encontrar el camino hacia el Cais Adarra. Sonrío. Marmo me trae el monitor portátil antes incluso de que se lo pida. En la pantalla contemplo las primeras lecturas topográficas que nos envía el frailecillo desde su posición. Es un mapa básico, pero se distinguen claramente los picos y las depresiones. Y en un punto, una procesión humana. Probablemente personas del clan de la niña. Suspiro aliviado. Pero hay algo más que me llama la atención de inmediato. Parece un enorme hendidura que atraviesa el lago helado como una inmensa cicatriz. Un cañón…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2346P1CCCNMABH5CSDX3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2346P1CCCNMABH5CSDX3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J233HYBGV8XXMYBG626VN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J233HYBGV8XXMYBG626VN",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J233SDGJS0H9YSYKWCTJG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J233SDGJS0H9YSYKWCTJG",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "3C718R6M4G80BV0BQ93R9Z70PM",
+      "reference": "ALT_ALIZE_B_AX_33_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6e5dcbd3cb63c6070b8e",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9d10e2afb9e357cddd08",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/8f62226e73a5bc72be48",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:18+00:00",
+      "question": "Can the effect of Rocket Puffin ready a card in another player's Reserve?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/es_ES/945f72e93feb8740c92b85cbe9a4540d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/WEB_eed071ded32d9e10882d6c5bf5344b0f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/WEB_5f1bcef6e3f59c90cd503e3724a02868",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/WEB_3e4d7880f08bcd659501480cec544a5f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_33_R1",
+  "reference": "ALT_ALIZE_B_AX_33_R1",
+  "id": "01J1Q4P4RPMZ8VWX4YR153F1Y0",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/en_US/56d48c3cc5e2e9265e4dc3b55fb91d9e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/fr_FR/23ce673e36dcb2c6cd4c6d7b0aff836f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/de_DE/84e002a993849c8ea56c673169e3b0b9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/it_IT/223437b5e3905f5d1c6392e9a70e2721.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_33/JPG/es_ES/945f72e93feb8740c92b85cbe9a4540d.jpg"
+  },
+  "name": "Frailecillo cohete",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "{J} Puedes preparar una carta agotada en reserva. #Si lo haces, gano 1 potenciador.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-004-R-ES"
+}

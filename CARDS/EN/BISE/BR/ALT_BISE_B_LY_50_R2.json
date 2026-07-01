@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_50_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7SZ6YM0ZXX8NJSKWDSCN9S6272",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A5MG9YDA4AFB0K5K9TQY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A5MG9YDA4AFB0K5K9TQY",
+          "text": "BLISS lets the fans who bring back the most Sap come up on stage with them."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5NT85J5KG9PCW9ZPMBR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A5NT85J5KG9PCW9ZPMBR",
+          "text": "393 AC - Jeez, this is just my luck. I arrive aboard the Wayfarer, they organize a concert to celebrate my arrival — okay, our arrival — and where's yours truly? On a mission. Hey, I'm down here, under the ground! Dig me up! But there's no one. No one to replace me. It's like the karma police came to cuff me at the worst possible moment. But nah, there's no way I'm missing this concert. Who's got a poster of BLISS in her room? Who knows more than everyone else combined about the Fentastic Fen? And about CB, Tamati, Orbec and Boona? I've seen them in concert twice at The Spark in Arkaster. Every time I go out to karaoke, I'm sure to ask for \"Dice Roll, Cinnamon Roll\" at least once in the course of the evening. \"Windmills\", \"Vacuity Conundrum\", \"Crushing Pumpkins\"… I know all of them by heart. So, if I can't go to the concert, then the concert will have to come to me.\n\n\"Throw your hands up in the air for everyone hauling out those amazing relics from the City of Scholars?\" That's a personal shout-out to me, man! Big up, Tam! I quickly materialize my boombox, heading down into the depths of the Maze. And the music of BLISS resonates in the immensity of the cavern, reverberating against the thousands of blocks of Tumult floating through the area. At every break, I materialize my microphone and sing in sync with the music. \"They say forget the height, they say don't look down!\" A couple of dance steps, a little twirl to match the choreography. \"Like shifting sands, like burning coals!\" Fortunately, they've decided to broadcast the concert live. I don't know how the Gestalt works, but it's cool that they can plug into other channels to give everyone a chance to… Ahhhh! I suddenly collapse to the ground as some sort of dark tongue grabs hold of my ankle and pulls, pulls and keeps pulling. Huh? I feel something wrap around me and worm its way into my mind before I even have time to cry out."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5NJXN9WC9CKED5NCYBY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A5NJXN9WC9CKED5NCYBY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5M0N4FHF0F09RSXQT9H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A5M0N4FHF0F09RSXQT9H",
+          "text": "?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5M857S12PW15SBZM4X9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A5M857S12PW15SBZM4X9",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7SZ6YM0ZXX8NJSKWDSCN9S6272",
+      "reference": "ALT_BISE_B_LY_50_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/411417388967a7fae580",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artist"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/78986fe5a813733bb4d3",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/en_US/1bccf7386241d0a11481bb4bdfdbb70f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/WEB_befc4bce46e564c74dfa0ef2eb185596",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/WEB_239fb6f42f0f0ea13404d406f881cf5b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/WEB_ed8c9b92937594db95d303a440c78cef"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_50_R2",
+  "reference": "ALT_BISE_B_LY_50_R2",
+  "id": "01JB1YGPBFNZN87D698ZMZT2V1",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/it_IT/840e3888e4a2610a0a0336c813bcb463.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/de_DE/bb48d1827bbb32fba6e51ce6cf78d220.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/es_ES/f713ee1b35c56dadff9182847406221f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/en_US/1bccf7386241d0a11481bb4bdfdbb70f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/fr_FR/507f0359aab00c8251ef85ed3d373bd5.jpg"
+  },
+  "name": "BLISS Fan",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "When a Character in your Reserve gains 1 or more boosts — I gain 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-038-F-EN"
+}

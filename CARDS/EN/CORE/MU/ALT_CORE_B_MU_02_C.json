@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_02_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZW890PNF2B0MKZSWKFV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5WANR41FRFDZ2QYXFYMT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5WANR41FRFDZ2QYXFYMT",
+          "text": "When you care for the earth, it let roots grow strong and resilient."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WBHM30ZVSTP0PRHSSH1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5WBHM30ZVSTP0PRHSSH1",
+          "text": "392 AC - Open eyes and yawwwwwwn. Everything rocking, all warm and cozy in hood. Crawl under fabric to open air. Stretch, but not get spines out. Not want to prick Arjun. Cold outside, wrap up in warm cloth before look outside. Brrrrr. Mountain. Spike miss desert. Hot in desert. Flower on head there, but here haircut all shriveled. Pull. Pull off wilted flower. Flower fall on white ground. Bye bye, flower. Brrrr. Spike go back in hood. Warm much better than cold. Oh? Arjun hand come pick me up. Spike cling hold of Arjun gloves. Mana and warmth. Meowww. Hot in Arjun hands. Slip under coat with fur. Hmmmm. Much better inside against chest. Outside, not much color. Black and white and a bit blue. Sea ice, more ice and not many plant friends. Alone here, not like forest. Here, not much to see.\n\nExcept. Oh. Little shape falling, like feather. Lands on nose. Brrrr. Cold, but funny. More feathers fall from sky. Lots of feathers, but no birds. Sky feathers? Reach out hand. Catch little white dust. Snowflake, says Arjun in head. This is snowflake. Spike smile because Spike happy. Snowflake melts. Becomes water drop. Like Alteration! But not Alteration. Snow beautiful. Beautiful but cold. Now wet! Snowflake gone! Arjun laughs. Good. Arjun happy too. Hee hee, go back inside. Enjoy warmth. Tomorrow, Arjun say Spike leave for Tumult. But not today. Today, find hot spring and have little bath with friend Vera. Drink juice and relax! Yes, nice plan. Spike like hot, Spike love splash in onsen! Arjun hand stroke Spike head. Hee hee. Here nice and warm under scarf, jacket and coat. Here even better place for sleep! Roll up in ball and close eyes. Here everything good next to Arjun. Here best place in world! Here, sleep…"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WB11JR9P407KGXTGVNP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5WB11JR9P407KGXTGVNP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W9WEMKPQGKA9PCFY5C1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5W9WEMKPQGKA9PCFY5C1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WA88YT3HRM72VBQEKMF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5WA88YT3HRM72VBQEKMF",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HNGY4ZW890PNF2B0MKZSWKFV",
+      "reference": "ALT_CORE_B_MU_02_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Hero"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8d33be67044b50c09b0f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_02/JPG/en_US/c1c6a294343b3ae9c7ce4b9773eac4cc.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_02/ALT_CORE_B_MU_02_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_02/ALT_CORE_B_MU_02_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_02_C",
+  "reference": "ALT_CORE_B_MU_02_C",
+  "id": "01HKAFJP62TD3J97G732DPM1TA",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_02/JPG/it_IT/838fe585e2e274bec97e041b4984ec85.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_02/JPG/de_DE/9d06d9ea7773620f85424c1b31b93e04.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_02/JPG/es_ES/9a05066b141535b3027403e79b6f718a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_02/JPG/en_US/c1c6a294343b3ae9c7ce4b9773eac4cc.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_02/JPG/fr_FR/84b87bc95677300fc5e94991ed4ea163.jpg"
+  },
+  "name": "Arjun & Spike",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "{T}, Discard a card from your Reserve: the next Character you play this turn with Hand Cost {3} or less gains [[Anchored]]. (During Rest, it doesn't go to Reserve and it loses Anchored.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-092-H-EN"
+}

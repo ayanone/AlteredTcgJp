@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_38_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1VY1NR2EF491F8HKYVXQT99BNF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J28S1988N6AGG73RC006P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J28S1988N6AGG73RC006P",
+          "text": "Forward or hold. There is no going back."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28TXAYQRF5CPWXQ8VAZP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J28TXAYQRF5CPWXQ8VAZP",
+          "text": "Grit your teeth and keep putting one foot in front of the other. Focus on that, Sun, and only on that. Forget the pain; the cold is only in your head. With my shield held out in front to protect me from the glacial wind, I make my way up the slope at a grindingly slow pace as my boots sink deep into the powder. And this blizzard… It keeps blowing and swirling and gaining in intensity, and the higher we climb, the more the stinging snow lashes at our faces. It feels like our cheeks are being scrubbed with sandpaper. For a brief moment, I can't help cursing Sigismar, who stayed behind to accompany the last group of explorers and cover their rear flank. I know he wanted to help by giving me more responsibilities, but at this point I've had it up to here with his so-called responsibilities. And I hate – and I mean absolutely hate – getting my feet wet.\n\nEven so, I'm not about to quit. We'll make it up Cais Adarra, and all we need to get there is willpower – sheer, uncompromising, military-grade willpower. Sig always used to jokingly ask what I was doing there when I could have easily applied to join the Bravos, where my surly attitude would have been a better fit. He obviously had no idea what he was talking about. What mattered most to me was the shared effort: dedicating my energy to others, not to myself. And on some level, he knew that. But that wasn't about to stop me from saying what I had to say or from complaining when something wasn't right. I know I owe my position entirely to my superior officer's whims. Anyone else looking at my file would have thrown my application out without a second thought considering my notorious record of insolence. The worst part is, I still don't know why Sig chose me as his warrant officer. All I know is that I'm not going to waste the chance he's given me."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28SMP882F35MEGFFW68X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J28SMP882F35MEGFFW68X",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28QYEY3FQR86JNDKV0PB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J28QYEY3FQR86JNDKV0PB",
+          "text": "SUNISA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28RE1JWVZ6GW13QJ0ZYZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J28RE1JWVZ6GW13QJ0ZYZ",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1VY1NR2EF491F8HKYVXQT99BNF",
+      "reference": "ALT_ALIZE_B_OR_38_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/68014eaff41de22d116d",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1dd1d8be485f6611fb69",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/en_US/b63c95998198d62c059fd28016b46ac6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/WEB_f77d77e02e3eae1b8de74ef8532f2092",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/WEB_9c0e0e7ed15787e3b9e23615cb5db49c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/WEB_b6cb2ed73b46c78b4b4a5a2b53692313"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_38_C",
+  "reference": "ALT_ALIZE_B_OR_38_C",
+  "id": "01J1Q4P4SMDNZ8MWZ3GHV20JS5",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/es_ES/09ec9c3abde966aa310e8079a3555811.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/de_DE/6307f8c1cf6768c8bc373c9ebf5df3d5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/it_IT/2bfbad8eb9a9e41701e50fa1fca766b7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/fr_FR/ee0a233017114ab689352d5d1797c5ff.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_38/JPG/en_US/b63c95998198d62c059fd28016b46ac6.jpg"
+  },
+  "name": "Sunisa, Dedicated Ensign",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "[Defender]. (My Expedition can't move forward during Dusk.)  If my Expedition is behind, [Defender] Characters don't prevent it from moving forward."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-074-C-EN"
+}

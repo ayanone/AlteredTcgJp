@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_51_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/606M4KVNXK9DCTBJ0WE5T4ZTAF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1AB8M9BJ9J8XAT76SP8SN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1AB8M9BJ9J8XAT76SP8SN",
+          "text": "Les infirmières du cloître ne sont pas tendres, mais elles font des merveilles, d'après ceux qui ont survécu."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AB9G9BA3BB1XHTE0TBKR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1AB9G9BA3BB1XHTE0TBKR",
+          "text": "393 AC - Je laisse à Lindiwe un soupçon de contrôle et de liberté tandis que j'observe l'infirmière œuvrer sur la Lyra. Elle recoud les idées qui ont été lacérées, greffe ce qui peut l'être pour lui redonner une semblance d'unité et de cohésion. Il n'y a pas de doute possible : l'entité qui s'est attaquée à l'imprudente du Clan Tisdhera possède un fonctionnement similaire au mien. Un appétit. Je gronde intérieurement, et mes écailles bruissent de furie et d'excitation. J'observe attentivement l'auxiliaire du Cloître plonger ses mains dans l'essence de la victime, et tandis qu'elle la rafistole, les idées de cette dernière tentent de parasiter la chirurgienne. Elle ne se laisse pas faire, bien entendu, barricadant son identité pour ne pas être dénaturée, mais les idées mordent sa chair, cherchant un support pour s'exprimer et exister. Qui — ou quoi — cherchait à se repaître d'Éther ? Il me fallait en avoir le cœur net.\n\nJe chuinte de dégoût face à la réalisation. De plus en plus, je me mets à réfléchir comme un mortel. Comme un humain. Les mots et les termes de Lindiwe s'imposent à moi. Moi-même, je vais devoir faire attention à ne pas laisser mon hôte influencer trop fortement ma cognition... Les premiers temps, j'étais resté tapi au fond d'elle, avant de prendre le contrôle... En face d'elle, la doctoresse se redresse, et conjure une méduse lunaire pour la presser. Elle utilise ses sécrétions comme un cataplasme, qu'elle dépose sur ses plaies pour les soigner. Elle a l'air grave et morose. Je l'entends dire à Lindiwe qu'elle a fait ce qu'elle a pu, et que la Lyra aura probablement des séquelles ; qu'une part de son être avait été dévorée, de même que ses souvenirs, et qu'une intervention en profondeur allait être nécessaire pour la remettre sur pieds. Un dévoreur d'idées. Quelque chose singeait ma fonction, mais semblait s'en prendre à tout ce qui passait à proximité."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AB92H991RV8TA76HS743",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1AB92H991RV8TA76HS743",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AB7SJW4CBY9BW46GMHDR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1AB7SJW4CBY9BW46GMHDR",
+          "text": "MAW"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AB878Y2345PFHRTHBHNJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1AB878Y2345PFHRTHBHNJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "606M4KVNXK9DCTBJ0WE5T4ZTAF",
+      "reference": "ALT_BISE_B_YZ_51_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8edae9b65477b6888ea3",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mage"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/49e80be661bd0c064a14",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_51/JPG/fr_FR/964c307023535415d937781163f2b3f2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_51/WEB_573f57b761bb51beeb0bc2813c2f7a11",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_51/WEB_94c60008ae5b045e5d4755da45a09bd2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_51/WEB_70b46558cbdee27ee11d293608267c5f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_51_R2",
+  "reference": "ALT_BISE_B_YZ_51_R2",
+  "id": "01JB1YGPC1XHX1QN6TM7KCH96M",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_51/JPG/de_DE/1e6eff67273f01912654f167a9c8a7ea.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_51/JPG/fr_FR/964c307023535415d937781163f2b3f2.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_51/JPG/en_US/6f4ca0a287103ba5575dc17324577ac1.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_51/JPG/it_IT/523eea0ad0c7a968168ed468f35f2cae.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_51/JPG/es_ES/641ce840e9285c32765a81ae72513490.jpg"
+  },
+  "name": "Infirmière Yzmir",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{H} Vous pouvez sacrifier un #Robot# ou un #Permanent.# Si vous le faites, je gagne 2 boosts."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-091-F-FR"
+}

@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_40_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7ZFXW1F28Y9GW9BM9NMRDSBWJ2",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25RSXSJ1ET0JW3KY3KR3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25RSXSJ1ET0JW3KY3KR3",
+          "text": "Alles, was im Leben Spaß macht, ist entweder verboten oder total irre."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25SFS0QT4FV8TSW4MFHX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J25SFS0QT4FV8TSW4MFHX",
+          "text": "Juhu! Schneller, schneller! Wow, selbst ohne Zugtier gibt das Ding Vollgas! Wer braucht schon Rentiere aus Fleisch und Blut, wenn man der Galionsfigur Leben einhauchen kann? Ich liebe den Wind, der mir die Haare zerzaust, weniger aber das ständige Schlingern – links, rechts, abbremsen, beschleunigen … Mir wird mir schon ganz übel. Zum Glück gibt es in dieser Gegend nicht viele Insekten. Ich hasse es, wenn sie mir zwischen den Zähnen oder im Hals stecken bleiben. Mit jeder engen Kurve schneiden wir tiefe Rillen ins Eis, durch die das eiskalte Wasser des riesigen Sees sickert. Upsi! Das war nicht Teil des Plans. Aber ich verdränge meine (offenbar unnötigen) Ängste schnell. Tief in meinem Inneren weiß ich, dass es den Eisfischern bestimmt helfen wird. Wenn das keine gute Tat ist, weiß ich auch nicht! \n\nVor mir sitzen die Kinder festgeschnallt im Sitz und können nicht aufhören zu lachen, als wären wir auf einer Achterbahn in einem Freizeitpark. Das nenne ich eine wilde Fahrt! Nach einem Salto vorwärts unterdrücke ich den Drang zu kotzen. Hmmm. Diese kleine Spritztour macht doch nicht so viel Spaß, wie ich zuerst dachte. Okay. Das reicht. Ich hab genug. Man sollte aufhören, wenn es am schönsten ist. Und wenn sich einem der Magen umdreht, ist es langsam nicht mehr so schön. Ich ziehe die Bremse an und springe bei der ersten Gelegenheit vom Schlitten. Natürlich rutsche ich aus und falle auf meinen Hintern, aber das ist mir egal. Mir ist so übel. Während ich versuche, mich zusammenzureißen, sehe ich plötzlich, wie einer der kleinen Racker die Handbremse löst. Der Schlitten flitzt davon und ich bleibe verdutzt zurück. Meilenweit vom Lager entfernt! Noch ein „Upsi“."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25S4R8SQR9M7QSVE9K3Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25S4R8SQR9M7QSVE9K3Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25QQ4C6R2C0CEYJEPTQY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25QQ4C6R2C0CEYJEPTQY",
+          "text": "NEVENKA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25RAJ2QT7SYH7X6Z4DG6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25RAJ2QT7SYH7X6Z4DG6",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "7ZFXW1F28Y9GW9BM9NMRDSBWJ2",
+      "reference": "ALT_ALIZE_B_LY_40_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/405f3d6b66dfdcc3bb5f",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manöver"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a294b669ad6751789902",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/de_DE/ff9eeddddc4756a28b198f48dadcbf4f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_71e54bfd0a9009355db9605e7147973c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_63dd4bd755024bafdf8c34c2099dea3d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_40_R1",
+  "reference": "ALT_ALIZE_B_LY_40_R1",
+  "id": "01J1Q4P4S9JQZW8ANWA2ZKEHD7",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/de_DE/ff9eeddddc4756a28b198f48dadcbf4f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/it_IT/1689701e9ff1efb0b59135aad842cb90.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/en_US/315292e42dfc4a89e5f40108889968d0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/fr_FR/651975ed4d32d3eaad11986ceb91028a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/es_ES/7b6e5b0c1166528877a0b49346af76d6.jpg"
+  },
+  "name": "Spritztour",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "Lege eine andere Karte aus deiner Reserve ab. Falls du das tust, erhält ein Charakter deiner Wahl 2 Verstärkungen."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-046-R-DE"
+}

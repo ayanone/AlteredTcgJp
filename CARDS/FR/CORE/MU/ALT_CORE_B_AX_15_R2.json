@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_15_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YVX4X94KM9H95TKKHHP",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QMDYHJDAXPH1BM1GJPT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QMDYHJDAXPH1BM1GJPT",
+          "text": "Repousser le Tumulte empêche parfois d'autres Altérateurs de matérialiser leurs Eidolons. Un mal nécessaire."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QMSSXCYZWPPMHDBJM2Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5QMSSXCYZWPPMHDBJM2Q",
+          "text": "Je m'effondre en arrivant au sommet de la montagne. La Brouilleuse me jette un regard amusé tandis qu'elle bricole son antenne. Elle doit être arrivée depuis un bail à en juger par l'avancée de son travail. Manifestement, j'ai besoin de faire un peu plus de sport vu l'état dans lequel l'ascension m'a mis. Je souffle, puis avale une gorgée d'eau en regardant autour de moi. C'est clair que ça change de la Fonderie, tous ces paysages. À cette altitude, on est au-dessus d'une mer de nuages, et quelques étoiles sont en train d'apparaître au-dessus de nos têtes. Marmo, quant à lui, agite sa queue en regardant l'émetteur, confortablement installé sur un rocher. Je grommelle. Il aurait pu m'attendre, ce traître. Après une brève pause, je pose mon sac à dos et en sors le reste de l'appareillage. Ils auraient pu choisir un sommet plus accessible, on aurait pu y aller en aérodyne...\n\nLa Brouilleuse s'empare des connectiques que j'ai disposées sur le sol, et commence à effectuer les branchements. Lorsqu'elle sera fonctionnelle, l'antenne émettra des ondes particulières dont la fréquence est censée chasser le Tumulte — ou en tout cas l'empêcher d'apparaître. Même si je connais pas la science exacte derrière ce bidule, je me dis que ce sera utile quand on sera loin d'Asgartha. Tant que ça marche, c'est pas moi qui vais me plaindre... Ok, il est temps de la relier aux cylindres de Kélon... Une fois l'opération terminée, je vois la parabole se déployer et tourner sur elle-même, pointée vers le ciel. C'est bon pour la première. Encore trois à poser. Je me tourne vers la crête qu'on doit suivre, et le long périple qui nous attend demain. Mais ce soir, c'est bivouac à la belle étoile, et j'ai ramené des saucisses à faire griller."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QMK9G2YQTDR06W2SE60",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QMK9G2YQTDR06W2SE60",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QKZH2AK0M13H7N9QQF6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5QKZH2AK0M13H7N9QQF6",
+          "text": "Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QM6B8CBBQSQAPTNM46D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QM6B8CBBQSQAPTNM46D",
+          "text": "386 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YVX4X94KM9H95TKKHHP",
+      "reference": "ALT_CORE_B_AX_15_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/304290dcdccc26ff2e0a",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0228d5c3c311f86f3150",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/JPG/fr_FR/4c61abb82264cc917b22ad329b227f04.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/ALT_CORE_B_AX_15_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/ALT_CORE_B_AX_15_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/ALT_CORE_B_AX_15_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_15_R2",
+  "reference": "ALT_CORE_B_AX_15_R2",
+  "id": "01HKAFJNJV2MEZY75RYZEM2ZZS",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/JPG/de_DE/1a951ce0935546764c4096f1f6b46d6d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/JPG/en_US/8166411cb956beb57e9fdd2aa90d714b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/JPG/it_IT/d0b4d7fd5562cd7292a9e129e2719d7f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/JPG/es_ES/63f25febae569db18d710b12e08916d6.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_15/JPG/fr_FR/4c61abb82264cc917b22ad329b227f04.jpg"
+  },
+  "name": "Brouilleur Axiom",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{H} [Sabotez]. (Défaussez jusqu'à une carte d'une Réserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-016-F-FR"
+}

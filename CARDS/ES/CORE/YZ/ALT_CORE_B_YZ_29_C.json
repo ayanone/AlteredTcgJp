@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_29_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50EXFCNDTF95B9HZ1SWX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH671TAMCHE2S4P8EQZ0E6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH671TAMCHE2S4P8EQZ0E6",
+          "text": "No es una simple fruslería, es un fragmento de sueño puro."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6730NB0ESTW2RDJV8TAD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH6730NB0ESTW2RDJV8TAD",
+          "text": "It's now Matera's turn to come forward. Her shoulders are tense and her steps hesitant as she collects her hammer and chisel from Flamel. She gives me a discreet glance, and I nod to reassure her. She sighs and takes a few steps towards the Megalith, which pulses with an amethyst glow. After this ceremony, she'll officially be an Yzmir Initiate. After this formality, she'll be my equal. I watch her hold her breath. In front of her, the meteor of Aether throbs intimidatingly in the gloom. She places the point of her chisel on its surface, taking care to target a little lump. Then she takes a long breath to calm her nerves, raises her arm... and strikes with the hammer. The metallic clink resounds around the vast chasm and reverberates in a thousand echoes. The fragment that was cut from the Megalith falls to the ground, and she bends over to pick it up.\n\nThis tear-shaped stone will help her channel her magic more effectively. But suddenly, I see her hesitate. Next to her, the Megalith has started to tremble and pulsate furiously. Matera quickly grabs the shard, then takes a few steps back. She jumps when Flamel places a hand on her shoulder, but quickly realizes he's just moving her aside to give me the room I need. The trembling has become a rumbling. But I'm ready. I immediately place a statuette on the ground to summon one of the guardians of the Well of Tears. Matera watches me, hugging her fragment to her chest. The Disciples and newly inducted Initiates step back and begin to utter incantations to help me. The shards of the Megalith glow in the darkness, while iridescent emanations begin to dance in the air."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH672DECKW0277SNGTSDEG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH672DECKW0277SNGTSDEG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH670MMB935X1NC4ZGDW64",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH670MMB935X1NC4ZGDW64",
+          "text": "Afanas"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6717X6RT7PHT82T9SAPJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH6717X6RT7PHT82T9SAPJ",
+          "text": "386 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY50EXFCNDTF95B9HZ1SWX",
+      "reference": "ALT_CORE_B_YZ_29_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanente"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c10f39158869f25f48a4",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Hito"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cc9c754bbe7eb2d02770",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/es_ES/ea46862e449f0b67fafb585b643ad7b7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/ALT_CORE_B_YZ_29_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/ALT_CORE_B_YZ_29_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_29_C",
+  "reference": "ALT_CORE_B_YZ_29_C",
+  "id": "01HKAFJP5RSTJNZ2BGF94XC90Q",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/it_IT/b080ba60f3051b04185e23195780b404.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/es_ES/ea46862e449f0b67fafb585b643ad7b7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/en_US/12d8da7f16dbc95d65a442bccce8c151.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/fr_FR/b49adf91dd594d86825bb37f1f8fe7a7.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/de_DE/e0163df9cb5f23ccbb9a06f84d63ffc0.jpg"
+  },
+  "name": "Esquirla de éter",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "MAIN_EFFECT": "Al mediodía — Roba una carta."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-179-C-ES"
+}

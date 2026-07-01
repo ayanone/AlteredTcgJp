@@ -1,0 +1,175 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_22_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB78064HPD1Y7PJ8ZFHDMH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7YDSEQ34WXR0B80FZD1T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7YDSEQ34WXR0B80FZD1T",
+          "text": "Bedenke gut, was du dir wünschst. Es gibt Herausforderungen, die selbst die Bravos lieber vermeiden."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YEF9M1T1G4KD2CK5SG4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7YEF9M1T1G4KD2CK5SG4",
+          "text": "Black clouds swirl above the valley, crackling with flashes of lightning. Battling the fierce wind and rain, I stand on the ledge, squeezing the last bit of Mana out of myself. In the palm of my hand, Surge is reduced to a mere spark, struggling to even exist in this world. And I can't just let him fade away because of me. During my fight with the Monkey King, worn out and cornered, I had overdrawn from the strength of my Alter Ego. For a fraction of a second, I had become lightning. For an instant, I got ahead of Sun Wukong and snatched victory. But at what cost… Fighting exhaustion and despondency, I summon the storm and all that moves within it. It doesn't matter who may answer my call. All I want now is fire from above.\n\nThe clouds part like the swelling sea, and a serpentine figure emerges. It glares at me, its horns glistening like motionless flames. I freeze, my eyes widening at the Eidolon that has just appeared before me. Forgetting the water streaming down my face and the cold chilling my body, I kneel down and raise my hand to present the flickering spark that Surge has become. The dragon growls like rolling thunder. Its mane dances in the air, as though the creature were the very embodiment of the typhoon. Lightning bolts slash across the heavens, while the wind takes on a stormy scent. And then I beg, with all that I have. I pray before the cyclone. Above my head, the clouds open up and begin to whirl. I close my eyes, waiting to be struck by lightning."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YE4QV8M700WH6489X2W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7YE4QV8M700WH6489X2W",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YD4F5SP5BAT379WC5NW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7YD4F5SP5BAT379WC5NW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YDF8H36DMPB3A4S4J0N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7YDF8H36DMPB3A4S4J0N",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB78064HPD1Y7PJ8ZFHDMH",
+      "reference": "ALT_COREKS_B_BR_22_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a287f226439f2fa34706",
+      "reference": "DRAGON",
+      "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+      "name": "Drache"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b2d77c8853aa013f86f0",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Gottheit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4c7fae4161ec1bfe8082",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/96c7b6029c6b9f2c2ffb",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-28T10:37:54+00:00",
+      "question": "If my opponent uses a Spell or ability talking about \"target Character\" and all my Characters are Tough, what happens? ",
+      "answer": "When your opponent casts a Spell or resolve an ability that can target one of your Tough Characters, they decide if they want to pay the extra mana to make one of your Tough Character a valid target. If they choose not to (because they don't have enough mana, or because they don't want to), the effect resolves as if your Characters were untargettable.  Depending on the effect, it might mean the effect may simply do nothing, or it might mean they must target one of their own Characters."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/JPG/de_DE/5127d17dc03c2c5fee4bc932606ab6f6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/WEB_6e980f3067cf165635769d19ff49ec95",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/WEB_4c6a462f6b4a57d2b420422382e6d929",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/WEB_efb5edde8d434d7152280a70b89ddbfd"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_22_R1",
+  "reference": "ALT_COREKS_B_BR_22_R1",
+  "id": "01HN5TXR8Y0583N76W7SA5M5R0",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/JPG/es_ES/0341983e95aabc984bfdbd79d9cf6b7b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/JPG/it_IT/1676f74a37c62d76a287ad60476e781c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/JPG/de_DE/5127d17dc03c2c5fee4bc932606ab6f6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/JPG/en_US/3014efcccfe2dbb3938571902b97a4a2.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/JPG/fr_FR/46de1854eb75e4ba6642094dfa8798f0.jpg"
+  },
+  "name": "Shenlong",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "#9#",
+    "MOUNTAIN_POWER": "#9#",
+    "FOREST_POWER": "#9#",
+    "MAIN_EFFECT": "#[Robust 1].# (Gegner müssen {1} zahlen, um mich anzuvisieren.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-053-R-DE"
+}

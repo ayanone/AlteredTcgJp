@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_58_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/45PMPTWZVH8NVA15GANMAAV45R",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A670M6EW58BS1QYNVBB1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A670M6EW58BS1QYNVBB1",
+          "text": "„Papa!“ – Sierra"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A68DVJBNMQP96DN1XESY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A68DVJBNMQP96DN1XESY",
+          "text": "393 AC - I hug him tightly, pressing my wet cheeks and runny nose into his jacket. But he doesn't mind. His arms embrace me and don't seem to want to ever let me go. I feel the fire of Ignescence boiling deep within me, and my soul overflowing with so many emotions that they get scrambled, switch places and battle for expression. Sobs, laughs, dizziness… Memories rise up like bubbles: sudden, uncontrollable, chaotic and blurred: The day the gates were opened, when we said goodbye while fighting back tears; when he held my hand as I was gritting my teeth with impatience to get it all over with, and when he was the only one keeping my head above water; when he came by my workshop, proud of what I'd accomplished with the Axiom, even as he admitted that he didn't fully understand the extent of my fascination…\n\nOddball's slightly jealous beep-beep brings me back to the present, and I grab him so he can share in our hug. Then, as I dry my tears, I look at my father's face, my own blissful face reflected in his glasses. And behind the lenses, I can also make out just a little bit of moisture around the edges of his eyes. Questions crowd my mind. What was he doing here aboard the Wayfarer? Did he come here especially for me? Was he going to stay? Why didn't he tell me he was coming? But I let them all fade away… and I'd never be able to put them into words, anyhow. I'm content to simply look at him, with a slight fear at the back of my mind that this might all be just a dream. But no — he's definitely right here, in the flesh. There's no need to pinch myself. My eyes linger on the little details: the curls of his mustache, his hair with maybe a few more white strands than before… Even though it's only been ten months, I feel like it's been years since I last saw him. And I realize how much I've missed him."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A679NHQ9BSWH3DZSAB8E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A679NHQ9BSWH3DZSAB8E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A66FZ3GK4KZH7HCXJ72B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A66FZ3GK4KZH7HCXJ72B",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A66QTBKCGHDS25QKAKNS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A66QTBKCGHDS25QKAKNS",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "45PMPTWZVH8NVA15GANMAAV45R",
+      "reference": "ALT_BISE_B_LY_58_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ab903f8170483fff2c44",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Beschwörung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e28223b0869b70496af9",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_58/JPG/de_DE/6124a6eba4fdaf1393661b70f1d2a7e5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_58/WEB_2a1e8f549d9eca20c75025f1fb8afbe4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_58/WEB_4db133caecb4e302d7ee9e44adbfdbd0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_58_C",
+  "reference": "ALT_BISE_B_LY_58_C",
+  "id": "01JB1YGPBH0XD1TSVEEW83VGFB",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_58/JPG/es_ES/6dab16f37543b8f25a24f34678d20997.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_58/JPG/de_DE/6124a6eba4fdaf1393661b70f1d2a7e5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_58/JPG/it_IT/2445c8cbec978f8bc0f256433590016c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_58/JPG/en_US/20c52a26a1e52676516c5c1021b48de6.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_58/JPG/fr_FR/bdd3a1370532b0ac6aac89bd988437d6.jpg"
+  },
+  "name": "Glückliches Wiedersehen",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[Nachschub]. Falls du einen Charakter auf diese Weise in die Reserve schickst, darfst du ihn sofort für {2} weniger spielen. (Lege die oberste Karte deines Decks in die Reserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-046-C-DE"
+}

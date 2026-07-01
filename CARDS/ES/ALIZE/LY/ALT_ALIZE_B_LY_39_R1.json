@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_39_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/043KPZYC778DRTE1Y29RBEP653",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25NK08P8830GRB8Q2Y6F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25NK08P8830GRB8Q2Y6F",
+          "text": "«Un truco viejo bien hecho es mucho mejor que un truco nuevo carente de efecto». —Houdini"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25PH4N6B5WPD7C1M2SGY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J25PH4N6B5WPD7C1M2SGY",
+          "text": "Oigo grititos de alegría y emoción procedentes de una tienda en mitad del campamento. Levanto una solapa de la tela de la tienda para entrar y, tras recolocar el tejido con cuidado para que no entre el frío, me cuelo entre la multitud que se agolpa dentro. Hay varias personas sentadas en una mesa en el centro de la tienda. Delante de ellos, una adolescente de grandes ojos color avellana sonríe con picardía mientras coloca unas tazas boca abajo sobre la mesa. Las mueve con rapidez y destreza, revelando de vez en cuando una figurita de un actor de Lyra. Las tazas se deslizan, intercambian posiciones y vuelven a su lugar original en un baile ingenioso pero caótico. Finalmente se detiene. Mientras los espectadores gritan enfervorizados, los que están sentados apuestan poniendo monedas delante de las tazas. Se cierran las apuestas y la chica alza una mano para pedir silencio.\n\nLuego, levanta los recipientes uno a uno. El público contiene la respiración antes de expresar su sorpresa. La figurita aparece debajo de la taza donde no se han hecho apuestas. Recoge el dinero mientras el público se ríe. Un jugador se marcha furioso, levanta la tela de la tienda y deja que entre el viento. Veamos cómo lo hace. ¿Dónde está el truco? Observo sus movimientos con atención. ¡Eso es! Son sus manos. No solo mueve las tazas; también manipula el maná. Veo corrientes mágicas alrededor de sus dedos. Intuyo lo que ocurre dentro de las tazas: la figurita oculta es absorbida por un portal diminuto y reaparece en otra taza a través de otra abertura mágica. Es un truco de prestidigitación impresionante. Ahora tengo que decidir si revelo el truco o le dejo continuar. No quiero montar una escena o, peor aún, provocar un altercado. Y es entonces cuando veo lo que lleva al cuello: la baratija que le regalé a Nev hace años. Me hierve la sangre…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25P1X5NV5NT9XGC6JSXJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25P1X5NV5NT9XGC6JSXJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25MC97N7KBBX3E6FMMKF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25MC97N7KBBX3E6FMMKF",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25N4TBMDGVGG928WQENA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25N4TBMDGVGG928WQENA",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "043KPZYC778DRTE1Y29RBEP653",
+      "reference": "ALT_ALIZE_B_LY_39_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/aa4028b124ae3d2ce7f2",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuro"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/88a8a04ab8fa90f4aae3",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/es_ES/92e9f9ba03425429a1b52c7d49b18b2d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/WEB_693c226fa48e979cf56fd220500e4182",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/WEB_7a1063669c7a5ba646d26cf63fab784d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_39_R1",
+  "reference": "ALT_ALIZE_B_LY_39_R1",
+  "id": "01J1Q4P4S9JQZW8ANWA2ZKEHCY",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/fr_FR/28ef3dfec492e851cfad335e16823452.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/es_ES/92e9f9ba03425429a1b52c7d49b18b2d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/de_DE/13b57889f90cc8161549e86e8c554746.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/it_IT/34982142b1416a0155eb9c1c191fa94a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/en_US/400e72b711885aa57aa41f9859e9c5d9.jpg"
+  },
+  "name": "Prestidigitación",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "[Recuperación]. (Si voy a la reserva después de que se resuelva mi efecto, agótame {T}.)  Intercambia la #carta# objetivo de tu reserva por una carta de tu mano."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-045-R-ES"
+}

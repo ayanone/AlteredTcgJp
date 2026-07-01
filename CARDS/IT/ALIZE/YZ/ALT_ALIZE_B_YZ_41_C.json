@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_41_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2T1QJFE4ME9T5ABVCD3DH7S531",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2BJXHPA7QXXGV5D2NFB8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2BJXHPA7QXXGV5D2NFB8",
+          "text": "Nelle poche ore della loro breve esistenza, le falene vagano alla ricerca di chi sono."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BKY5FYCS1FB020SAAKC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2BKY5FYCS1FB020SAAKC",
+          "text": "Vorticano intorno a me volando silenziosamente. Anche il loro battito d'ali non fa alcun rumore. È come se fossero lì senza essere realmente presenti, diffondendo il mana nell'aria come un turibolo che sparge il suo incenso. Qualcuno dei Muna ha capito che ruolo hanno queste falene nell'ecosistema? Potrebbero essere coinvolte nella dispersione di sostanze nel mondo, per rafforzare l'oasi? Dal mio punto di vista posso solo dire che la loro danza è uno spettacolo incantevole, quasi ipnotico. Ma c'è una cosa che ho notato: spesso, la presenza di falene di mana indica che ci sono belisenki nelle vicinanze. Appaiono come presagi, come se ci avvertissero di cambiare direzione o addirittura di tornare subito indietro. Ho visto persino intrepidi esploratori Bravos esitare a proseguire dopo essersi imbattuti in una radura piena di falene. Ma non mi spaventano affatto.\n\nForse il buon senso dovrebbe dirmi di temerle di più, ma sono inesorabilmente affascinata dalla loro esistenza effimera, dalle vite brevissime che conducono, senza lamentarsi. Sarà perché, per me, simboleggiano qualcosa di più dell'avvertimento di un attacco imminente. Le osservavo a lungo durante le mie visite alla piccola baracca di Saskia. Per me la loro presenza rievoca il profumo della camomilla, il calore del fuoco che scoppietta nel focolare e la sagoma della Muna che studia queste piccole creature a pochi metri da me. Mi basta vederle per tornare a perdermi in quei ricordi. Alzo lentamente una mano e lascio che una goccia di mana si formi nel mio palmo. Una falena si posa accanto a essa e allunga la proboscide per sorseggiare il liquido. Bevi, piccolina. Questo nettare aggiungerà qualche minuto prezioso alla tua vita."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BKD7B97ASG5SE8YAM49",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2BKD7B97ASG5SE8YAM49",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BGZ1WWC7RASR90MWWVR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2BGZ1WWC7RASR90MWWVR",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BJDEKATCWXNN8VJBBBC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2BJDEKATCWXNN8VJBBBC",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "2T1QJFE4ME9T5ABVCD3DH7S531",
+      "reference": "ALT_ALIZE_B_YZ_41_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/eada8af20793f23ab11d",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Stratagemma"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3da72cdfa91e54ea9a25",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/it_IT/6d7b3d7e9758aa68144550e6b01a7352.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/WEB_933bf14001597d7b07fa1e7c3c9690bd",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/WEB_7b20382c6064821bfea2289196096006"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_41_C",
+  "reference": "ALT_ALIZE_B_YZ_41_C",
+  "id": "01J1Q4P4SVH0BDDPS6F3F8Y5XK",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/it_IT/6d7b3d7e9758aa68144550e6b01a7352.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/en_US/d374c77f481ecb1a2fdda8130fae06c9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/de_DE/5a51bf381dae7f3b37ce29b8d606ff90.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/fr_FR/e49b659b17221dbe7657e0c3375df3b3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/es_ES/e5a0f28fb2bfc6acab716fc302853a0b.jpg"
+  },
+  "name": "Richiamo della Luce",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[Raffreddamento]. (Se vado nella Riserva dopo che il mio effetto si è risolto, consumami {T}. Non puoi giocarmi e non ho abilità di supporto.)  Crea una pedina Illusione [Falena di Mana 2/2/2] in una spedizione bersaglio."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-095-C-IT"
+}

@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_42_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7WVVKJ5NZ39CSBVV5EP2JW6WRZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25WZRECDX3WP0M45QAFH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25WZRECDX3WP0M45QAFH",
+          "text": "Questo sì che è \"rompere il ghiaccio\"."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25XRT85CEDZW5J28ZMR5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J25XRT85CEDZW5J28ZMR5",
+          "text": "Mmm, questo rumore non mi ispira molta fiducia. Lo si potrebbe descrivere come una specie di suono penetrante e scricchiolante. Mi ricorda il sibilo di una corda che si spezza e schiocca in aria prima che il tendone crolli. Solo che non sono al circo, ma su un torrente ghiacciato. Torrente, ghiaccio, circo... queste parole hanno una sonorità particolare. Se Fen fosse stata qui, avrebbe sicuramente analizzato la musicalità del suono. Ma io sento solo un sinistro presagio. Guardo subito il ghiaccio sotto i miei piedi. Anche se Nyala è passata di qui, non credo che il ghiaccio si stia rompendo a causa dei suoi pattini. No, ci sono profondi solchi provocati da qualcosa di più grande e pesante.\n\nSci o slittino, forse? No, molto più grande. Una slitta? Devo dire che le striature hanno un aspetto elegante, con intrecci caotici e decorazioni prorompenti. Ma le crepe che iniziano a irradiarsi... Non hanno proprio niente di raffinato o armonioso. Sono tutta rabbia e bile nera. Vado ad avvertire Nyala, che continua a fare axel e piroette senza accorgersi delle fenditure che si stanno aprendo sul lago. Ma all'improvviso sento dei bambini che urlano e ridono vicino alla riva. Mi volto verso di loro e mi viene un nodo allo stomaco. Non sembrano essere consapevoli del pericolo che corrono. Cerco di decidere tra la pattinatrice e i bambini prima di precipitarmi verso i piccoli birbanti e prepararmi a lanciare su di loro idee di calore a caso per proteggerli dal freddo. Guardando indietro, vedo il ghiaccio cedere sotto Nyala. Volevo rompere il ghiaccio con lei per poter ricucire i rapporti, ma non è questo che avevo in mente."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25XD0KHAMW4GZN3RSVW5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25XD0KHAMW4GZN3RSVW5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25W3VJ9EV90DP1KAT6PA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25W3VJ9EV90DP1KAT6PA",
+          "text": "AURAQ"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25WF5BM4YHP0V00WCS3F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25WF5BM4YHP0V00WCS3F",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "7WVVKJ5NZ39CSBVV5EP2JW6WRZ",
+      "reference": "ALT_ALIZE_B_LY_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f9f073fa503626679e73",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/941334d3907cc8ec82f5",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/it_IT/ac8b77220e8bc38d8826a55d9aef6102.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_2aa59a81bdb10404830a5cd76f2190cf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_dd7d9e26c76106bb83b2db4b31ff23d2"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_42_R1",
+  "reference": "ALT_ALIZE_B_LY_42_R1",
+  "id": "01J1Q4P4SA983VFNNBWVRZT9T2",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/de_DE/cbeb052260a11b680d4a25f707749274.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/en_US/f6cee6c82ba2be642db653c04368f80a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/es_ES/284c3e76f843d0282e5c4438b933abbe.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/it_IT/ac8b77220e8bc38d8826a55d9aef6102.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/fr_FR/8426fa72ca16b996da470b159570d138.jpg"
+  },
+  "name": "Crepa nel Ghiaccio",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "#[Raffreddamento].# (Se vado nella Riserva dopo che il mio effetto si è risolto, consumami {T}.)  Costo {2} in meno se ci sono tre o più statistiche base pari a 0 tra i personaggi che controlli.  Manda un personaggio bersaglio nella Riserva, poi consumalo ({T})."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-048-R-IT"
+}

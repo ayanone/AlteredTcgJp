@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z8SF4Q3K73STQJGRYCJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5RBHPH377BVJ5N1V0CQK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5RBHPH377BVJ5N1V0CQK",
+          "text": "Plus vite, encore plus vite ! C'est dans la course que notre feu s'exprime !"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RC048F22ZFX41VT69PH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5RC048F22ZFX41VT69PH",
+          "text": "392 AC - À petites foulées, je gravis la pente escarpée. Enfin, gravir est un bien grand mot. Je sais que je suis en train de monter le long de l'îlot flottant, mais le concept du haut et du bas, ça n'a aucun sens ici. De là où je suis, c'est comme si j'étais en train de courir sur du plat. Je lève les yeux. Au-dessus de ma tête, une autre île est suspendue dans les airs, à l'envers. J'y vois, tête-bêche, des troupeaux de yaks, ou quelque chose qui ressemble à des yaks, paître innocemment, avant que mon approche les fasse détaler. Avec un peu de chance... Grâce à l'Altération, je façonne à mes pieds un promontoire de roche. Il jaillit du sol et se projette vers l'autre île. Je me laisse emmener, ajustant mes appuis. Mais alors que j'approche de l'île inversée, je sens la gravité tournebouler, et m'attirer soudain vers le haut, qui devient en fait le bas.\n\nJe saute et pirouette dans les airs, retombe sur l'autre versant en roulant dans les hautes herbes. Ok, si je continue le long de cet atoll, je devrais pouvoir atteindre ma destination. Mais avant de reprendre ma course, je toque à la porte de l'esprit de Booda. Lui aussi est sur une île similaire. Je sens le vent siffler à ses oreilles alors qu'il trace à travers les plaines drues du Pays Penché. Des yaks s'enfuient sur son passage, et il feule dans leur direction pour qu'ils s'écartent de sa route. Il est pas loin. Pas loin du tout. Et il est vibrant de Mana, celui qu'il a dérobé au Tumulte. Je souris. Dans quelques heures tout au plus, on va se retrouver. Je vais utiliser tout le Mana qu'il a collecté pour stabiliser la zone et la teinter des couleurs bravos. À moins qu'un autre Exalt y parvienne avant nous. Même pas en rêve. Je me remets à sprinter."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RBSC6GNSJHCV4WSEZ5Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5RBSC6GNSJHCV4WSEZ5Q",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RB2BS4RHP1KXZR0G949",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5RB2BS4RHP1KXZR0G949",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RB9A32SBGW8ME650FY5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5RB9A32SBGW8ME650FY5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HNGY4Z8SF4Q3K73STQJGRYCJ",
+      "reference": "ALT_CORE_B_BR_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/673d93fa8b56b1be6cd4",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/2d16a2f2ef86c4b91cd0",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:42+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of \"Kojo & Booda\" said \"At Noon, if you are the first player — Create a 2/2/2 Booda Companion token in your Companion Expedition.\"\n\nFuture printings will say:\n\"At Noon — If you are the first player, create a 2/2/2 Booda Companion token in your Companion Expedition.\""
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_01/JPG/fr_FR/b04bcfd0de9b98a2ad045213ad940efb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_01/ALT_CORE_B_BR_01_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_01/ALT_CORE_B_BR_01_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_01_C",
+  "reference": "ALT_CORE_B_BR_01_C",
+  "id": "01HKAFJNMQBWA7WHAW59M2AEKN",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_01/JPG/en_US/1776853df06bc4d6eabc21e2aa9b478e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_01/JPG/fr_FR/b04bcfd0de9b98a2ad045213ad940efb.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_01/JPG/it_IT/196078229d3cbf037272ae7a132c8301.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_01/JPG/de_DE/f132faac40ed3a7798bbbfae813e5266.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_01/JPG/es_ES/c19b650e504f906920266b149d93559e.jpg"
+  },
+  "name": "Kojo & Booda",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "À Midi — Si vous êtes le premier joueur, créez un jeton Compagnon [2/2/2 Booda] dans votre Expédition Compagnon."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-031-H-FR"
+}

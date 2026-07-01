@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_42_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/37KMYRV36H8RRA8TK9YT1FDKYW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23K70E11AJHC9FCD2D3D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23K70E11AJHC9FCD2D3D",
+          "text": "Aucun des flocons ne se sent personnellement coupable de l'avalanche."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23M8WYG47JWRYQ8BXX6H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J23M8WYG47JWRYQ8BXX6H",
+          "text": "J'écarquille les yeux en regardant par-dessus la corniche. La nappe de neige s'est brisée en mille morceaux sur les rochers, provoquant une réaction en chaîne incontrôlable. Si le Recycleur et ses pilotes sont désormais hors de danger, on ne peut pas en dire autant des soldats Ordis qui ferment la marche de notre cortège. La neige torrentielle, en martelant les crêtes, a détaché de nombreux blocs de glace, qui à leur tour se mettent à chuter vers le fond de la vallée. Il faut faire quelque chose. Oddball. Ma Chimère s'est déjà élancée, avant même que je ne lui fasse signe. Je la vois descendre à toute berzingue, slalomant entre les éboulis, les panaches furieux de poudreuse et les éclats de glace aussi coupants que du silex. Telle une brume mortelle, l'avalanche ensevelit les recrues de l'Aegis, les happant comme une houle affamée déferle sur la grève. Je serre les dents.\n\nÀ chaque corps qui disparaît sous la neige hurlante, mon Alter Ego largue une balise dans une tentative désespérée de les localiser avec plus de précision une fois la vague tarie. Je ne les vois plus de là où je suis, seulement un nuage qui emplit la vallée. Mais à travers les capteurs de mon compagnon, je perçois une scène totalement différente. Des trombes de neige se meuvent encore au ralenti, s'amassant sur les contreforts rocheux. Des soldats hébétés gesticulent pour sortir de la neige... Il nous faut de l'aide, et immédiatement, si on veut pouvoir les sortir de là. En réaction à ma pensée, Oddball commence à émettre un signal de détresse sur tous les canaux officiels. Avec un peu de chance, d'autres équipes ne sont pas très loin et pourront répondre à notre demande d'assistance. Mais je ne vais pas me tourner les pouces pour autant. En usant de l'Altération, je fais de mes prothèses de petites patinettes. Et sans attendre, je m'élance"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23KSSMBCJ3P12W52HBFJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23KSSMBCJ3P12W52HBFJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23GWZA8BV0WVSFXBNNVM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J23GWZA8BV0WVSFXBNNVM",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23HS92DDW7AD4A319HQG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23HS92DDW7AD4A319HQG",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "37KMYRV36H8RRA8TK9YT1FDKYW",
+      "reference": "ALT_ALIZE_B_AX_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3cdc6c932ca112ee74dc",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8e5a8f72c9dff3d80a16",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/1d6529dfc840647cf99f",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:10+00:00",
+      "question": "Do the boosts of a Character count towards the stat limit?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/fr_FR/287f34c5e6b466087709bb7c18e5bfad.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/WEB_02b429af3e45d982c4fe0993d9c6cb6a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/WEB_acec68849c7cfc7f913a921b046fae49"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_42_R2",
+  "reference": "ALT_ALIZE_B_AX_42_R2",
+  "id": "01J1Q4P4RV2A0EQ68788JASAZH",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/de_DE/4e15c0a3d7fb64d86e521018ff8d714f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/it_IT/b980816c9ce0ed3ca6898909482fe7a5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/en_US/ed88e868b7850822dfabad8637d3a90b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/fr_FR/287f34c5e6b466087709bb7c18e5bfad.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/es_ES/e72af8406a99d5f847623eed272bcef7.jpg"
+  },
+  "name": "Avalanche",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Fugace]].  Envoyez en Réserve n'importe quel nombre de Personnages ciblés avec un total de 4 {M} ou moins."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-014-F-FR"
+}

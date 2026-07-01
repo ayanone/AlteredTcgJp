@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_31_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0A9H5NVNRX95RVGR7H477A66NR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J252R2XB64RHNFX8WMVTN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J252R2XB64RHNFX8WMVTN",
+          "text": "Perché le serve tutta questa roba? Un giorno potrebbe tornarle utile!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J253DD95JE1FBWE3XV9NN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J253DD95JE1FBWE3XV9NN",
+          "text": "Mentre esploro il fogliame, scopro qualcos'altro: grandi impronte di zampe palmate. La distanza tra un passo e l'altro suggerisce che il proprietario di questi piedi deve essere piuttosto grande. Seguo le tracce. Mentre continuo la caccia, persa nei miei pensieri, il vento fa giungere fino a me un fischio... o un gorgheggio, per essere più precisi. È ritmico, molto ripetitivo, come un motivetto che si canticchia con nonchalance mentre si fa altro. Da questa melodia stentata emerge un sentimento di soddisfazione, una dichiarazione di gioia. Mi avvicino alla fonte del suono. Riff mi copre da dietro, ovviamente. Nascosta dietro una barriera di abeti innevati, vedo finalmente una specie di radura disseminata di cianfrusaglie di ogni tipo. A terra giace un'accozzaglia di oggetti: un secchio con dentro un binocolo, una torcia, una pila di libri con sopra una tazza... Fare l'inventario di tutta questa roba sortirebbe lo stesso effetto di una filastrocca Ordis: mi darebbe il capogiro.\n\nMa non è una discarica; tutti gli oggetti sono in perfette condizioni. E poi, alcuni li riconosco! Quelle cuffie sono di Tamati! Sono state rubate dall'accampamento un paio di giorni fa. Una, due, tre, quattro cose... Con orrore mi rendo conto che questo è il covo di un ladro. E poi vedo una strana figura entrare nella radura. È un elegante incrocio tra una gazza e un pinguino. Chiaramente soddisfatto di sé, cammina ondeggiando e porta sulla schiena uno zaino pieno di oggetti vari, come quelli sparsi per terra. Indossa anche un cappello che ricordo da un'altra spedizione. E sono sicura che il suo proprietario non aveva i piedi palmati e un becco arancione. Probabilmente sta scaricando la refurtiva dell'ultimo colpo. Guardo cosa porta con sé: documenti cartografici, uova di cioccolato... No! Ha anche il mattarello che usa Estia. Come farà ora a preparare quei deliziosi biscotti?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2532Y3MXKW4TF0JZ1RGA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2532Y3MXKW4TF0JZ1RGA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2520TTBT4SNX4NFSM391",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2520TTBT4SNX4NFSM391",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J252EHJ62SJDMCY5J3YM6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J252EHJ62SJDMCY5J3YM6",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0A9H5NVNRX95RVGR7H477A66NR",
+      "reference": "ALT_ALIZE_B_LY_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/efd2b1fbe53b4a58f8a9",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/05cb9e2c3355c2957ee3",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/it_IT/72cca5bafc4cb47e3a9988da41d22267.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_4626e31df9becf5c45d500fb3bb7e8c2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_ceb98b0a2fb2f0e86727523cc289377d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_905c28b5e337d9769ef26b93c2a451aa"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_31_R1",
+  "reference": "ALT_ALIZE_B_LY_31_R1",
+  "id": "01J1Q4P4S6CG2A1GDVWHN4REPJ",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/en_US/bc4a960b318eb3290634fdfee1b71066.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/es_ES/1c3755e87a11db7819baef4dfd77c751.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/fr_FR/4a111a187da4a865a89d69cd38609f68.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/de_DE/4343121f8d6d42a4e0a0a844a1ba82cb.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/it_IT/72cca5bafc4cb47e3a9988da41d22267.jpg"
+  },
+  "name": "Pinguigazza Accumulatrice",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{J} Se hai due o più carte nella Riserva, ottengo #2 rinforzi# e [[Fugace]]. (Se sto per finire nella Riserva, scartami invece.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-038-R-IT"
+}

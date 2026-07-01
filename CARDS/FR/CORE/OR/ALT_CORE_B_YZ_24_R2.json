@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_24_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50EDJVRQ60JS7AMC42CA",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH66B58P0XYSW8231DE2HF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH66B58P0XYSW8231DE2HF",
+          "text": "« Laissez-moi vous montrer la porte. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66CRZGHGZ55T2DWZ3ARM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH66CRZGHGZ55T2DWZ3ARM",
+          "text": "Taru referme ses bras visqueux sur la tête du monstre, obscurcissant sa vue. Il lutte pour maintenir son emprise, alors que ses ventouses se collent et se décollent par intermittence. J'ai juste besoin de quelques secondes supplémentaires... La Chimère cauchemardesque claque des dents et finit par mordre l'un des appendices de mon Alter Ego. Je hoquette de douleur en sentant son tentacule se sectionner. Certes, il repoussera, mais mon estomac se tord en ressentant la détresse de mon compagnon. Puis la colère finit par prendre le dessus. Je trace des Signes dans les airs pour ralentir le flux du temps. Ces quelques instants volés vont me permettre de bannir l'aberration de Tumulte. Enfin, c'est l'idée. Autour de moi, l'espace-temps luit comme un miroir, tandis que tout se joue désormais au ralenti. Les mouvements et les sons. Taru qui couine. La Chimère qui s'ébroue follement. Les herbes qui ondulent lentement...\n\nJ'invoque le portail, qui se dilate dans la réalité comme un disque bordé d'éclairs violacés. Depuis l'autre côté de la déchirure, je peux ressentir la pression des courants de Tumulte, qui ne demandent qu'à s'inviter ici. Mais je ne les laisse pas faire. Je dessine une figure dans les airs et téléporte Taru derrière moi, avant de réaliser un complexe kata pour propulser l'aberration à travers l'ouverture. Le temps est en train de retrouver son cours normal. Il s'accélère, se défait lui aussi de ses entraves. Je frappe l'air du plat de la main pour envoyer une bourrasque en direction de la Chimère. Je vois le point d'impact et la violence du choc, même si tout se meut encore au ralenti, comme si on était dans un liquide huileux. Je relâche enfin ma mainmise sur le temps, pour voir la créature être catapultée en arrière à cause de la déflagration. Très vite, je referme le portail, avant de tomber à genoux, complètement vannée."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66BY24JT4QJ7AYTAQ54D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH66BY24JT4QJ7AYTAQ54D",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH669MTGC9HMSW3RE3T94P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH669MTGC9HMSW3RE3T94P",
+          "text": " Akesha"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH66AF2MFQT1AF2J7B332Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH66AF2MFQT1AF2J7B332Y",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50EDJVRQ60JS7AMC42CA",
+      "reference": "ALT_CORE_B_YZ_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d77c1f193863f71ad080",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/fbea374fc2ecc18de2ce",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_24/JPG/fr_FR/7b3b137e7891bd45939bed1e2c760bf2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_24/ALT_CORE_B_YZ_24_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_24/ALT_CORE_B_YZ_24_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_24_R2",
+  "reference": "ALT_CORE_B_YZ_24_R2",
+  "id": "01HKAFJP52CFGTT0G7S914MT9S",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_24/JPG/it_IT/353d735a89f3b3b157b11e7dd1056c8a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_24/JPG/es_ES/80cb18a32a54ae18494eda5f05bf7e65.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_24/JPG/fr_FR/7b3b137e7891bd45939bed1e2c760bf2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_24/JPG/de_DE/2b4c74cde6a646363fbc1d49580754b2.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_24/JPG/en_US/7cc9825c9f475d1f625f58f9361c7a2d.jpg"
+  },
+  "name": "Portail de Bannissement",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Défaussez un Personnage ou Permanent ciblé."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-174-F-FR"
+}

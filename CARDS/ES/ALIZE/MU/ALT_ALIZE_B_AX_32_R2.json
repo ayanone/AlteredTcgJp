@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_32_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5WPJ06DBGF9WWV84C5QGH7AS8W",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J232PS85G8P3YRTPVQWQ0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J232PS85G8P3YRTPVQWQ0",
+          "text": "Una reliquia de los ancestros."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2335EMXFB714DP7WBCFS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2335EMXFB714DP7WBCFS",
+          "text": "Me siento lejos de los otros ingenieros, bocadillo en mano. Por supuesto, le doy la mitad a Marmo, que no se contenta con un poco de la corteza. Y, como de costumbre, lo engulle todo antes de que yo haya dado el primer bocado. Abajo, en la oscuridad parcial del desfiladero, los especialistas en energía comprueban las conexiones finales. Fue un verdadero embrollo adaptar nuestros equipos a la tecnología del titán y, con todo, es mejor mantener un pequeño perímetro de seguridad, por si algo explota… o peor aún, por si la máquina llega a ponerse en marcha. ¿Es esta la tecnología de los Antiguos? ¿De verdad que se remonta a antes de la Confluencia? No soy historiador, así que no puedo responder a estas preguntas, pero sigo bastante intrigado.\n\nTodo cuanto sé es que el titán no funciona con kelón. Sierra y Treyst tuvieron tiempo de sobra para estudiar una pequeña reliquia inerte e intentar averiguar cómo funciona esta tecnología. Cuando los chicos y yo desenterramos del hielo unos botes de líquido amarillo miel, los dos mequetrefes prácticamente dieron saltos de alegría. ¿Es kelón solar? Se me cae un trozo de tomate a la chaqueta y maldigo mientras Marmo lo caza al vuelo. Mientras intento limpiarme la mancha de la chaqueta, oigo a los especialistas en energía encender las bombas y abrir las válvulas. Veo cómo el líquido ámbar corre por los tubos serpenteando bajo el hielo. Un técnico recupera los datos de las sondas. Marmo empieza a ladrar cuando nota las vibraciones en el suelo y dentro de la pared helada. De repente, el hielo se resquebraja…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J232XY6W5QFAQWRBYQ2J1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J232XY6W5QFAQWRBYQ2J1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2325QYB2XWDX6BYHY6KP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2325QYB2XWDX6BYHY6KP",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J232EVFGFTVXHA7FS7495",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J232EVFGFTVXHA7FS7495",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "5WPJ06DBGF9WWV84C5QGH7AS8W",
+      "reference": "ALT_ALIZE_B_AX_32_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d7bccc9c61b7bfc81e9c",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/30872f9b360f938d33fa",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/es_ES/3367c57b62df29d31ffd97df9ab326c8.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/WEB_9cb2810aa3a22c03af54da620086f2cf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/WEB_aee6e5c21388d55b2e3e324e45b5328c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/WEB_deeca5bfb5bf3eb9bd985d02b921c44b"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_32_R2",
+  "reference": "ALT_ALIZE_B_AX_32_R2",
+  "id": "01J1Q4P4RNYPV5A8A1013CMJT6",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/de_DE/7dbf5223ad4573ed5b32d9c3658d68e8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/fr_FR/93ef9fb8938a99e0f329c6ac6119e65b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/it_IT/ac81d75ce624813b0bbe103f729d3c40.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/en_US/86c7ef5d865f9832f2d03f42482cfe3d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_32/JPG/es_ES/3367c57b62df29d31ffd97df9ab326c8.jpg"
+  },
+  "name": "El gigante del hielo",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "Cuando vaya a la reserva desde cualquier lugar — Agótame ({T}). (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).  {H} Envíame a la reserva."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-003-F-ES"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_12_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79CGCWPQPGF9E7CYVVFJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8ASXQG5GW8YAJV7VN49J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8ASXQG5GW8YAJV7VN49J",
+          "text": "L'alchimie n'est pas que la transformation du plomb en or. C'est la purification de nos imperfections en vue de révéler notre vraie nature."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8AVG8M553VD2H02DWNRS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME8AVG8M553VD2H02DWNRS",
+          "text": "Je toque à la porte et entre dans la boutique. J'ai dans ma poche tous les Fleurons que j'ai pu économiser pour acheter un remède pour ma sœur. La petite clochette tinte de nouveau quand la porte se referme, et je me mets à déambuler dans un capharnaüm de potions, d'élixirs et d'ingrédients un peu inquiétants : des pattes de poulet, des yeux de grenouille, des touffes de poils, des bouts d'écorce, des fioles de mucus... À vrai dire, ça me dégoûte un peu et j'ai un peu peur. Il y a des plantes et des champignons séchés qui sentent très fort, des tubes à essai avec des liquides lumineux, des vieux livres écornés... mais aussi des têtes effrayantes, des statuettes avec des formes curieuses et déroutantes. Mais je dois pas me laisser distraire. Je dois pas me laisser impressionner par toutes ces babioles.\n\nDepuis l'autre côté de son comptoir, l'alchimiste lève vers moi un regard taciturne. Derrière ses grosses lunettes fumées, il me dévisage comme si j'étais perdue, comme si je n'avais rien à faire dans son magasin. Alors je prends mon courage à deux mains et pose sur le comptoir toute la monnaie que j'ai sur moi. Je lui explique en long, en large et en travers la maladie de ma sœur. Les larmes aux yeux, je lui demande s'il a pas une potion ou un onguent pour la guérir... Je le vois soupirer, et déboucher un à un des flacons pour en humer le contenu. Puis il mélange certaines des substances dans un petit chaudron en métal — quelques gouttes par-ci, un filet par-là — avant de touiller le tout et de verser la décoction dans une gourde. Il me la tend, ainsi que tout l'argent que je lui ai confié, en me disant qu'il n'acceptera le paiement que si le tonique est efficace..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8ATSNG3DN6ZZ251YQCZE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8ATSNG3DN6ZZ251YQCZE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8AR52X0TYNY9GQCQAYC3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME8AR52X0TYNY9GQCQAYC3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8ARW8MSZVYA4WCQN5CRD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8ARW8MSZVYA4WCQN5CRD",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79CGCWPQPGF9E7CYVVFJ",
+      "reference": "ALT_COREKS_B_YZ_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b05ed8e2df38d120a13f",
+      "reference": "SCHOLAR",
+      "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+      "name": "Érudit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/46920c0fa6bcaa99387c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_12/JPG/fr_FR/9b18192194e3f6c407f3e9583704cb7a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_12_R2",
+  "reference": "ALT_COREKS_B_YZ_12_R2",
+  "id": "01HN5TXRK7X94AM6KT4XFZTQ76",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_12/JPG/fr_FR/9b18192194e3f6c407f3e9583704cb7a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_12/JPG/it_IT/ae702639c91fec0da2064239a98bacf2.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_12/JPG/en_US/96d533e6d2b433ea7c4b55977f561880.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_12/JPG/de_DE/3b5f952e52ccdd96a0aa104bcd6ee549.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_12/JPG/es_ES/4592b50abfaca027d7b6718c23e1eecd.jpg"
+  },
+  "name": "Alchimiste du Kadigir",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{H} Je gagne #3 boosts#."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-160-F-FR"
+}

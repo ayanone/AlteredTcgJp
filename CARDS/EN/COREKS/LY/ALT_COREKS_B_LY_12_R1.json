@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_12_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB782E12STKDXKNVV6544T",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME802CBY49ZR3QM93E1GVR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME802CBY49ZR3QM93E1GVR",
+          "text": "Like the Bravos, Lyras are drawn to freedom and the distant horizon."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME803Z2SEV2AJ6W4TVNR1R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME803Z2SEV2AJ6W4TVNR1R",
+          "text": "Kibble presses his wet muzzle against my cheek, and I wave my hand to tell him to leave me alone. Truth be told, there was as much drinking last night as there was excitement, leaving me with a legendary headache that I'm now stuck suffering through. The fact that I'm on a boat only makes matters worse. That'll teach me to be overly confident and party too hard the night before a big trip. At least this holiday is off to a good start... or maybe not. A few sailors pass by me, trying but failing to hide their snickering. So, not a good start at all, really. But I'm well aware of what I must look like: green around the gills, mascara running down my cheeks... I can only blame myself for that. Ultimately, it's the swells that are bothering me, not the sailors' muttering. I try to take in a deep breath, letting the sea spray wash my face...\n\nI hear footsteps along the deck, and out of the corner of my eye, I spot a figure hopping over me as I lean over the rail towards the foam and waves below. I look up... and immediately regret it as the midday sun hits my face with its scrutinizing glare. I grumble under my breath and squint while swallowing a small trickle of bile back down. How can she be so cheerful? The sailor hangs from the ropes, perfectly in her element, as seabirds flock above the waves. Like them, she watches the white crests breaking in front of the boat as we sail across the Muir Concordia. Hmm... She seems to be watching the water's surface, as if waiting for something. Suddenly, a shoal of flying fish emerges from the waves, spreading their little gossamer wings. And for a second, I smile at the sight of it. But only for a second."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8034RH295VGAPYCHP3QV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8034RH295VGAPYCHP3QV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80017ZTFKFTVGV2X1881",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME80017ZTFKFTVGV2X1881",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME801727J2B5EB81J0SGH1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME801727J2B5EB81J0SGH1",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB782E12STKDXKNVV6544T",
+      "reference": "ALT_COREKS_B_LY_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1ac3023b0ac6d630f4d3",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Citizen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d8934804508716157d18",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/en_US/b0dbd3d5ffda590e093c358ef526ee53.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_12/ALT_CORE_B_LY_12_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_12/ALT_CORE_B_LY_12_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_12/ALT_CORE_B_LY_12_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_12_R1",
+  "reference": "ALT_COREKS_B_LY_12_R1",
+  "id": "01HN5TXRB7KS3DA8R7S4YWQYD5",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/it_IT/61ba6c0bff23bd5682a403f1638ff755.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/de_DE/2fc6464c3ed369833bfd83b37b973562.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/es_ES/846f000792b81abfe8b45c17e1b22127.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/fr_FR/6548255e08bc25dfbcf5751c42431d7e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/en_US/b0dbd3d5ffda590e093c358ef526ee53.jpg"
+  },
+  "name": "Lyra Navigator",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "0",
+    "ECHO_EFFECT": "#{D} : [Resupply].# (Put the top card of your deck in Reserve. Discard me from Reserve to do this.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-070-R-EN"
+}

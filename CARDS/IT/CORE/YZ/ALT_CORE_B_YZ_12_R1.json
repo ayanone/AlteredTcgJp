@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_12_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50D5EHS5F20477GM46XX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH64JTRCQZP66VZAHW0SZ8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH64JTRCQZP66VZAHW0SZ8",
+          "text": "L'alchimia non è soltanto trasformare il piombo in oro. È purificarsi dalle imperfezioni per trovare il tuo vero io."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64MK2DC1E6B79KYRWAFK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH64MK2DC1E6B79KYRWAFK",
+          "text": "I knock on the door and enter the shop. In my pocket are all the Florets I've saved up to buy medicine for my sister. The little bell tinkles again when I close the door, and I start to wander around a multitude of potions, elixirs and rather disturbing ingredients: chicken feet, frogs' eyes, tufts of hair, pieces of bark, vials of mucus... To be honest, I find it rather disgusting and I'm a little scared. There are dried plants and strong-smelling mushrooms, test tubes with glowing liquids, dog-eared old books... as well as terrifying heads and statuettes with strange and unsettling shapes. But I can't let myself get distracted. I can't let myself be intimidated by all these curios.\n\nOn the other side of the counter, the alchemist gives me an impassive look. Behind his big dark glasses, he stares at me like I'm lost, as if I shouldn't be in his shop. So I pluck up all my courage and place all the coins I have on the counter. I describe my sister's illness in detail. With tears in my eyes, I ask him if he has a potion or ointment to heal her. He sighs, then uncorks various flasks one by one to sniff their contents. Then he mixes some of the substances together in a small metal pot – a few drops here, a trickle there – then stirs the mixture and pours the concoction into a gourd. He hands it to me, along with all the money I gave to him, explaining that he'll only accept payment if the tonic works..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64KR66PWD7GYMDNJMBQ1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH64KR66PWD7GYMDNJMBQ1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64H7RV46HF3MSD32CBNK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH64H7RV46HF3MSD32CBNK",
+          "text": "Akesha"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64J0E646DJ3K5KJ0A7T5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH64J0E646DJ3K5KJ0A7T5",
+          "text": "384 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50D5EHS5F20477GM46XX",
+      "reference": "ALT_CORE_B_YZ_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/dd91446d4c4f3312ddaf",
+      "reference": "SCHOLAR",
+      "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+      "name": "Studioso"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5e13c3813c0199919409",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/JPG/it_IT/39e248b2e57709f1aea0f5eb6aa2cfae.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_12_R1",
+  "reference": "ALT_CORE_B_YZ_12_R1",
+  "id": "01HKAFJP0MDXV3998E15TZ6C3X",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/JPG/es_ES/516c5c8d4e0457d8c90d670dd67be423.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/JPG/de_DE/fe7c4f27094ab5c5dea3756bccab73d4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/JPG/it_IT/39e248b2e57709f1aea0f5eb6aa2cfae.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/JPG/en_US/51908e6bb0d44651c6fb5052ad307eb8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/JPG/fr_FR/52e36981b0bd91c84cc37ff78ceb8e69.jpg"
+  },
+  "name": "Alchimista del Kadigir",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{H} Ottengo #3 rinforzi[]#. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-160-R-IT"
+}

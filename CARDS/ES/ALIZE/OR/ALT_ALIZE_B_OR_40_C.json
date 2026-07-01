@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_40_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1NYM0Z188492Z9WAR01SPS8S88",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29283215X24MQSHGWK3S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29283215X24MQSHGWK3S",
+          "text": "Duérmete en el frío y quizá nunca despiertes."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2948JYTZ381CNY2YN2JZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2948JYTZ381CNY2YN2JZ",
+          "text": "Paso la mano por la pared de hielo y miro a través. Aunque están distorsionadas por el grosor del hielo, aún se distinguen las formas de un brujo de Yzmir y otro explorador, atrapados al otro lado junto a la orilla de un gran lago subterráneo. Golpeo la pared y veo que el hechicero se dirige hacia mí. Mack observa la escena a través de mis ojos y me advierte de que el hombre ya no tiene suficiente maná para hacer nada que no sea protegerse del frío. Tanteo el hielo que hay entre nosotros. Es como si hubiera aparecido al instante y no hubiera dado a estos pobres aventureros tiempo para escapar. El mismo fenómeno consume ahora rápidamente todo su calor, cubriendo sus ropas de hielo y escarcha a un ritmo alarmante.\n\nEl tiempo es esencial, ya que ambos muestran signos de hipotermia aguda. Mientras que el brujo aún consigue mantenerse en pie, no puede decirse lo mismo de su compañero, que yace en el suelo mientras sus constantes vitales se debilitan rápidamente. Tenemos que sacarlos de ahí ya. Hago una señal al narrador de Lyra, que desenrolla una cuerda para sacar a los prisioneros una vez que rompa los barrotes translúcidos de su gélida cárcel. Trazo en la pared un glifo tosco. Lleva la idea pura, poco sutil, de una explosión, que espero que baste para derribar el muro. Ya veo nuevos patrones de escarcha formándose en la superficie, señal de que el proceso de congelación aún está en curso y de que la masa de hielo solo aumentará de grosor con el tiempo. El brujo tiembla, pero en sus ojos reluce la esperanza. Infundo el glifo con maná mientras el narrador hace girar su gancho."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J292VJ3CWAQYQVX5TED00",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J292VJ3CWAQYQVX5TED00",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2913RVC4RWM9TYYZX1VT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2913RVC4RWM9TYYZX1VT",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J291N969VTTM157428DD2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J291N969VTTM157428DD2",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1NYM0Z188492Z9WAR01SPS8S88",
+      "reference": "ALT_ALIZE_B_OR_40_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e75ef1aa57240c8be4bc",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disrupción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a5a3c015a377ccc9a72e",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/es_ES/145e7d51d2dd9eb696442bb390d9f5ff.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/WEB_5da96e97aec9961cde03c79e3fe053d9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/WEB_8698b5ee26be342663239a1fbebfb064"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_40_C",
+  "reference": "ALT_ALIZE_B_OR_40_C",
+  "id": "01J1Q4P4SN8RYANNFV99ET5V3V",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/de_DE/0425a8b9117a81985b48474a67dac59f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/it_IT/ba701b62fff2c49c50ca46e4f2cf05d0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/en_US/2921ad5c65dd71a65b6d07a541ef86d9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/fr_FR/42761af7225859f8206bf9c3d6b9317e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/es_ES/145e7d51d2dd9eb696442bb390d9f5ff.jpg"
+  },
+  "name": "Hipotermia",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "Cada jugador elige un personaje que controle. Gana [[Sueño]]. (Tú eliges primero. Durante el anochecer, ignora las estadísticas de los personajes con sueño. Durante el descanso, no van a la reserva y pierden sueño)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-081-C-ES"
+}

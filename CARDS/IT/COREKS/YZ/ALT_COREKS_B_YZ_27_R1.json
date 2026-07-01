@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_27_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79DYT780WPNBCXSSG7X2",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8DCRJBW49DWRMYQGEV9M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8DCRJBW49DWRMYQGEV9M",
+          "text": "Il cielo si spalancò in un'onda tonante quando il sogno venne liberato sul mondo."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DEXF48EW9ZGJ76X9Z51",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8DEXF48EW9ZGJ76X9Z51",
+          "text": "Taru is sleeping peacefully on my chest. But I can't seem to fall asleep. I think of Kumari and how far apart we are. I remember the chaos of the battlefield as I listen to the shrill song of the cicadas. I think back to the raging water and roaring fire as I contemplate the pricks of light that dot the heavens. I recall what Afanas and Senka did during the battle against the Kraken. Even though it ultimately failed, the Battlemage had made fire rain down from the sky. I didn't have much time to study astronomy back when I was a student in the Kadigir. I had lots of other things to worry about. But I still knew the basics. Up there, in the vast sky, there were other fiery balls, other stars like the Sun...\n\nThere were also other worlds, maybe inhabited by amazing creatures like in some of the old books. Maybe Taru and the other Chimaeras came from there... Taru instinctively wraps a tentacle around one of my fingers, probably because he sensed I was thinking of him. I sigh as I look up to the night sky again. If there were people like us who lived on other planets – or even on the moon – did they also experience the Confluence? Do they also watch the dark sky like we do with our telescopes? Could they help us? I would have loved to learn the names of the stars and constellations, but I hadn't had enough time. Senka had gone to find one and send it crashing down to Earth. Well, the idea of a star at least. But down here, who really knows what goes on up there, far above the clouds?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DE0JYXNH44S2MWC531H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8DE0JYXNH44S2MWC531H",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DA7HAX3C00G7Q4D9N83",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8DA7HAX3C00G7Q4D9N83",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DBHYJX2AFCGVWT4M1XZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8DBHYJX2AFCGVWT4M1XZ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB79DYT780WPNBCXSSG7X2",
+      "reference": "ALT_COREKS_B_YZ_27_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4a641e329a1fe7e82ecf",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/bf5fe7aa66b70bef7909",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/83efbaed0cd9a0b8a5d2",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-07T10:37:37+00:00",
+      "question": "What happens if I use Celestial Blast against Tough Characters or Permanent?",
+      "answer": "You pay extra mana for each Tough target."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_27/JPG/it_IT/22faf3030312824a27827b43e8cbfd3b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_27/WEB_d176d1c17b35858573092a1dde31410b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_27/WEB_d5222db3effea2d49f43ab04d94ee310"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_27_R1",
+  "reference": "ALT_COREKS_B_YZ_27_R1",
+  "id": "01HN5TXRNCNZ1W78Q82QQMEAAC",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_27/JPG/en_US/ad53a1dba2073fe034f776eec09596d3.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_27/JPG/de_DE/422fcac9cbdd4ab8ecb95e7489953d8f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_27/JPG/it_IT/22faf3030312824a27827b43e8cbfd3b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_27/JPG/es_ES/ad0c54311ae249f52133cecddad7e2eb.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_27/JPG/fr_FR/9ece8468968512c566f550b9d596bca4.jpg"
+  },
+  "name": "Esplosione Celeste",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]]. (Mandami negli Scarti invece che nella Riserva dopo che il mio effetto si è risolto.)  Scarta fino a due bersagli, che siano personaggi o permanenti.  #Pesca una carta.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-177-R-IT"
+}

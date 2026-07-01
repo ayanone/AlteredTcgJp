@@ -1,0 +1,175 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_06_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB784R1RGXYN8SRGK04F99",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8270EFPHT8ZZFC3ZZAWB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8270EFPHT8ZZFC3ZZAWB",
+          "text": "Certains disent que les vendangeurs sont les jardiniers des arbres-mondes."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME827Z15DEB60V3VYTD7SJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME827Z15DEB60V3VYTD7SJ",
+          "text": "J'attrape la liane et me hisse comme je peux sur la branche, mon cœur tambourinant dans ma poitrine. Ne pas regarder en bas. Ne pas regarder en bas. Je souffle un grand coup pour chasser ma peur, et aussi le vertige de me retrouver si haut dans les airs. Au-dessus de ma tête, les branches du Fuseau oscillent au gré des vents, tels des nuages roses qui occultent même le bleu du ciel. Allez, encore un petit effort. Hmmpf. Je grimpe une volée de marches taillées dans le bois pour atteindre une autre branche, et me colle contre le tronc de l'arbre-monde, luttant pour ne pas avoir la tête qui tourne. Je sais que je suis arrimée avec des cordes, et qu'Orchid me surveille, prête à étendre ses ailes pour me rattraper au vol, si jamais... Non, il vaut mieux ne pas penser à cette éventualité.\n\nLentement, je dénoue le cordon qui me maintient accrochée à la via legnata, et saisis le câble qui me permettra de monter plus haut encore. À ces hauteurs, tout tangue, et je n'ose pas imaginer comment ce sera encore plus haut. Mais alors que j'essaie tant bien que mal de rassembler mon courage, après avoir vérifié plusieurs fois que mon nœud était bien solide, je vois de petites silhouettes descendre le long du tronc, leurs griffes s'enfonçant profondément à l'intérieur de l'écorce. Les minuscules rongeurs sautent, se mordillent et tourneboulent en une ronde furieuse, oublieux qu'ils sont à plusieurs centaines de mètres au-dessus du sol. Regarder ainsi jouer les vendangeurs du Fuseau me permet de m'aérer un peu l'esprit. J'aimerais bien avoir cette insouciance, ce flagrant mépris de l'altitude... À travers eux, c'est peut-être le Fuseau qui m'envoie un petit signe, pour m'encourager durant mon ascension. Allez, prends exemple sur eux, Rin. Encore un dernier petit effort..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME827F70VS64GNJ0TK4VE9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME827F70VS64GNJ0TK4VE9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8260J7B2E6XPB2VMVT6C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME8260J7B2E6XPB2VMVT6C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME826HHJ4SPQJM95EWKYX5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME826HHJ4SPQJM95EWKYX5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB784R1RGXYN8SRGK04F99",
+      "reference": "ALT_COREKS_B_MU_06_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/32316172cc8795d7b158",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/606a88ed7415c0cefb60",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plante"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0351b2733d524aef4b6a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/1c07b47117dc8a4cb7fc",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-23T10:37:56+00:00",
+      "question": "If a player controls a Rare \"Spindle Harvesters\" and a Rare \"The Spindle, Muna Bastion\", can they first boost the Spindle harvester, then benefit from that extra boost to draw a card?",
+      "answer": "Yes!  At Noon, all effects that say \"At Noon\" are triggered, then are resolved in the order of their controller's choice.  When a player resolves Spindle Harvesters, they check everything on the right side of the \" — \". If Spindle Harvesters has two boosts at that moment, its controller draws a card)."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/fr_FR/bac902eb3180d61def3073253f4038f8.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_06_R1",
+  "reference": "ALT_COREKS_B_MU_06_R1",
+  "id": "01HN5TXRPK92KKXSSDH1SNX3MJ",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/es_ES/74ba5160e4758efc3d220c4e6e3dc63a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/fr_FR/bac902eb3180d61def3073253f4038f8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/en_US/eba5918b9fd574191f49196decadca3a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/de_DE/75800968d8a83ff2c72ee1693241a3d5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/it_IT/0c9df573b056af5d7af1677876bccf5a.jpg"
+  },
+  "name": "Vendangeurs du Fuseau",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{J} Je gagne [[Ancré]]. (Au Repos, je ne vais pas en Réserve et je perds Ancré.)  #À Midi — Si j'ai au moins 2 boosts, [Ravitaillez].# (Mettez la première carte de votre deck en Réserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-095-R-FR"
+}

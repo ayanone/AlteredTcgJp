@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_07_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB784VW8BA5R0MZ9FATDKK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME82A0WCJ114H19JXFD4KT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME82A0WCJ114H19JXFD4KT",
+          "text": "„Wach auf, du faules Pelzknäuel!“"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82B1C84E2KVE5W93B6CR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME82B1C84E2KVE5W93B6CR",
+          "text": "I set down the basket of offerings at the threshold of the old forest, as required by tradition. This is how things have been done for centuries, since the day this village was established. I know the other villagers are still afraid of the forest, and I too might have been reticent to venture so far into the woods just a few months ago. But ever since I had that dream, it's as if a veil has been lifted, taking all my unwarranted fears with it. For even the old forest is part of me. I don't entirely know what that means yet. But ever since then, Alteration has come naturally to me. And Eidolons will often manifest around me, sometimes even when I don't want them to. But at this particular moment, I know full well who I wish to call forth.\n\nIn my mind, there's a snap amongst the branches. A figure drops down from the foliage of the old oak tree. It's in my imagination, of course, but with the Mana I'm breathing into them, the scene and the character I've conjured come alive. The child straightens up, gazing at me intensely from behind jet-black curls. He's wearing a headdress of twigs and leaves, a belt, and a loincloth of feathers and flax. His dark skin, smeared with dried mud, is adorned with ceremonial paints. And as I stare back at him, I feel I can identify with him. Mowgli can move freely on either side of the border, both in the world of humans and off in the feral expanses. Did he belong to both, or was he in fact rootless? He approaches the basket and checks its contents. And wordlessly, we exchange a smile. Perhaps it was a positive thing, to live on both sides of the threshold like this..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82AJ1GFK5AKYNZ6NFJWC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME82AJ1GFK5AKYNZ6NFJWC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME828T58QSP1G2FD7J38J5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME828T58QSP1G2FD7J38J5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME829H7TCSJYF1369ZEFE4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME829H7TCSJYF1369ZEFE4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB784VW8BA5R0MZ9FATDKK",
+      "reference": "ALT_COREKS_B_MU_07_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/510bf27f9fec499385e1",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druide"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/14e5d4fba4a9f8a28598",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_07/JPG/de_DE/2e9ff4a8ca5355d8728f134a3ed18df1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/ALT_CORE_B_MU_07_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/ALT_CORE_B_MU_07_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_07/ALT_CORE_B_MU_07_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_07_R2",
+  "reference": "ALT_COREKS_B_MU_07_R2",
+  "id": "01HN5TXRPS1MVWH08YJR1DK617",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_07/JPG/it_IT/71e4400a71b03110e36f703584c8472e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_07/JPG/de_DE/2e9ff4a8ca5355d8728f134a3ed18df1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_07/JPG/es_ES/a6c2015b5a34111f5f9bf0ec1fa126e4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_07/JPG/en_US/d51aba996e5ccfdd84735076df3013b5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_07/JPG/fr_FR/affc2f72cce63c0455c58651f4be3ad9.jpg"
+  },
+  "name": "Mogli",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "3"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-096-F-DE"
+}

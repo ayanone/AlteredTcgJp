@@ -1,0 +1,175 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_06_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YTXXSX5KMCQ1MF02T79",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QAB722CEVKKXBX8G8Z7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QAB722CEVKKXBX8G8Z7",
+          "text": "Mit jedem Schlag seines Hammers schmiedet Ogun das Schicksal der Axiom."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QAPM154SA00NZXDF3BS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5QAPM154SA00NZXDF3BS",
+          "text": "The fire crackles while Ogun works the metal. With each hit, sparks fly out and fall all around him like fiery rain. His broad hand grips the hammer, and his powerful and accurate strikes echo around the workshop. I watch as he plunges the bar he's forging into the water. The surface of the liquid bubbles and hisses into a steamy cloud. He gives me a nod, and I activate my Construct. I rearrange the device, combining the symbols on its surface. The piece of metal he was meticulously hammering starts to glow red once more as I raise the temperature using Alteration. He places the glowing bar on his anvil and starts to work it again. The metal cracks as Ogun expels impurities from the ore with each blow.\n\nHalf-hypnotized by the glowing metal and the raining sparks, I remember what the Eidolon told me: “You have a talent for Alteration.” Is that the path I should take? Not being able to join the Fulcrum had been hard to accept, but perhaps becoming an Alterer would open up a chance to join the Expeditionary Corps? Ogun places the bar of metal on the workbench and puts his stamp on it, his vevè. Using my Construct, I cool it so it can take its final shape. The Eidolon looks at me. He seems to be reading the hesitation and doubts on my face. I try to banish them from my mind. I take the steel bar and add it to the pile of others he's already made. I take a piece of steel and kiss it, as is customary when he is called upon. Satisfied, he slowly disembodies as Mana oozes out of him and dissipates into the air…"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QAGB22QR520DCBAG29Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QAGB22QR520DCBAG29Q",
+          "text": "An orisha in Yoruba religion and a lwa in Haitian Vodou, Ogun is the patron spirit of metalworkers. God of metals, fire and war, he is said to have been the first orisha to come to Earth. Under the name Ogou Feray, he fights poverty and has sworn to assist those who need his help. As such, he embodies the idea of progress and of humanity taming its environment."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q9ZA57YMRDNMP22JP8A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5Q9ZA57YMRDNMP22JP8A",
+          "text": "Sierra"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QA5CHVA5QXBBZP7K4WE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QA5CHVA5QXBBZP7K4WE",
+          "text": "383 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YTXXSX5KMCQ1MF02T79",
+      "reference": "ALT_CORE_B_AX_06_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1cb4cca585b830236e83",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingenieur"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1b3887959729d9899df7",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Gottheit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/09e7446fc72512cab855",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/61263b69daf758e92941",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-01T10:37:49+00:00",
+      "question": "Does Ogun boost the Robots in Reserve?",
+      "answer": "No: Characters in Reserve are not \"controlled\"."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/de_DE/cc73478650785179c2fa2f73fc8ac14d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_06_R1",
+  "reference": "ALT_CORE_B_AX_06_R1",
+  "id": "01HKAFJNHQWWZASVVXABHXGK42",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/it_IT/0ed468d9e59734bfbfdabff08c4f2070.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/en_US/7c3578af4c2b27e897a5ca65fc397b71.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/fr_FR/1b0aa7a731ec4064b3874f10c3fc5e53.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/es_ES/804ac6c01856300aedc0073fa6383baa.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/de_DE/cc73478650785179c2fa2f73fc8ac14d.jpg"
+  },
+  "name": "Ogun",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{J} #Du darfst {2} bezahlen, um eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl zu erschaffen.# Roboter, die du kontrollierst, erhalten dann 1 Verstärkung."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-011-R-DE"
+}

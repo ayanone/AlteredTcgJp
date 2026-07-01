@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_51_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6WFVNWTPGN8DE892XHAWX7AQ3E",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4QWDDD8F7QRQTTV6AQF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4QWDDD8F7QRQTTV6AQF",
+          "text": "Riposa. Ritorna all'attacco. Ricomincia."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4R9PDG402DMRT3053P3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4R9PDG402DMRT3053P3",
+          "text": "393 AC - A mass of clawed arms. An ocean of shadowy limbs trying to grab us. Kaizaimon strikes left, right and center with his knobbly mace. He swings it from side to side, breaking apart the aggressors like you'd fan away smoke from a campfire. But for every enemy banished, another ten take its place. The room we need to cross is built from smooth, dark stone, with a slight blue tint and repeating geometric patterns everywhere, from the floor to the walls to the gaps in the ceiling we'll have to reach to escape. But before we can do that, we need to create an opening. Most of my companions are not veterans. Many will fall if we retreat. I'm suddenly aware that Sidqi is watching me. He too seems to be realizing the truth of the situation. But even though there's resignation in his eyes, there's also determination just as strong. With a flash of awareness, I understand what he intends to do.\n\nBefore I can talk him out of it, he jumps into the fray to create an opening for us, no matter how small. He strikes again and again with power and precision, getting between us and the shadows. He chains together devastating hits and grapples to weaken their vice-like grip, spreading his limbs, focusing attention on himself and suffering deep wounds in the process. I yell to the others to flee while there's still time, putting aside the emotions welling up inside me. Because I know that what he's doing is sacrificing himself. An old man giving his life so the younger ones can live to see another day. With a heavy heart, I urge the stragglers to run, while Kaizaimon tightens his grip on his weapon. They are the ones who matter. He and I know it all too well. But as I go back to join Sidqi, an eager presence passes by me. Aoife throws herself into the battle too, despite my warnings."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4R2Z9HSQ1210GTHYTNR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4R2Z9HSQ1210GTHYTNR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4QGCSM9E9SSQP84JGFP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4QGCSM9E9SSQP84JGFP",
+          "text": "BASIRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4QP1Y2FHCH1RB46EQR4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4QP1Y2FHCH1RB46EQR4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "6WFVNWTPGN8DE892XHAWX7AQ3E",
+      "reference": "ALT_BISE_B_BR_51_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/432b55556f4515c94b7f",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Avventuriero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/fd0220fc4e1181bb27e3",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/it_IT/7b71c57e040f249f469a9b956c839897.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/WEB_25a5f1859f848ae14e947c08164cd949",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/WEB_eb45f1197a4d79527d9861f7347b1f63",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/WEB_cb3614922150e38005d23a666132857f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_51_C",
+  "reference": "ALT_BISE_B_BR_51_C",
+  "id": "01JB1YGPB9AP357RCTTDZ1F27H",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/es_ES/85712188cb85b017d3baabba6e1ba0eb.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/it_IT/7b71c57e040f249f469a9b956c839897.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/de_DE/75c8509255b647c0705049e2b43ef474.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/en_US/fbea88c698fb58934b16bb6d126a79b2.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/fr_FR/b972eb8b3b5cd49805f77d042eb204a4.jpg"
+  },
+  "name": "Pendekar Bravos",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "Di notte — Se ho 2 o più rinforzi, [Sabota] dopo il riposo. (Scarta fino a una carta bersaglio da una Riserva.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-022-C-IT"
+}

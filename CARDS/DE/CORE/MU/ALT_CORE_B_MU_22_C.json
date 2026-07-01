@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_22_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY507J4SE5MKVMGQRZN1XV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y1FWWSPWJCBQ7ABXBNZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5Y1FWWSPWJCBQ7ABXBNZ",
+          "text": "Wenn sie völlig ausgewachsen sind, zeigt sich, wie sehr die Dracaena von all der Ruhe und Entspannung profitiert haben."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y2B77AF3PS09Z1G8G9T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5Y2B77AF3PS09Z1G8G9T",
+          "text": "I climb the hill, relying ever more on my staff as I near the summit. The straps of my bag rub against my shoulders, and with each step, it almost seems to be getting heavier. Perhaps I'm inadvertently attaching the idea of \"Heaviness\" to it, or — much more likely — I'm simply tired. I set my pack down on the grassy ground and open my shirt partway. Even though, after three weeks on the road, my body is getting used to this new pace, I suppose I may have overdone it a bit. I lean back against a lichen-covered rock and open my pouch to grab a treat. The old woman I helped by digging her well rewarded me with quite a few provisions, but they're beginning to run out.\n\nOkay, let's go. I take a swig of water and haul my gear onto my back again. Maybe it's time to visit a human enclave to stock up? Though deep in thought, I still remember to leave a piece of biscuit for the little Chimaera that must still be following me. But just as I'm about to leave, a shadow falls from the sky. The creature perches on the rock I just left, spreading its plant wings. My eyes go wide as I recognize a dracaena, its size so imposing that merely batting its wings makes my legs wobble. It has grown so much that it now has multiple heads... all of them are turned toward me, and looking a tad hungry. I know I have nothing to fear, as they're far more partial to fruit than to meat. It must have gotten a whiff of my last apple. Well... life on the road is certainly full of surprises..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y1XF7E83VW4TNMN6JX7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5Y1XF7E83VW4TNMN6JX7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y0KKPYCEBENPAJSJZ0J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5Y0KKPYCEBENPAJSJZ0J",
+          "text": "Arjun"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Y11TSFHQZWQNRBBZADG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5Y11TSFHQZWQNRBBZADG",
+          "text": "382 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY507J4SE5MKVMGQRZN1XV",
+      "reference": "ALT_CORE_B_MU_22_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3802984b8a947efda3be",
+      "reference": "DRAGON",
+      "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+      "name": "Drache"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1fed190a095faaac3235",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Pflanze"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/553b643d6d44130c63e0",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/JPG/de_DE/eaaff3e40072a33bd90e1d8cd20e7d76.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/ALT_CORE_B_MU_22_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/ALT_CORE_B_MU_22_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/ALT_CORE_B_MU_22_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_22_C",
+  "reference": "ALT_CORE_B_MU_22_C",
+  "id": "01HKAFJP8DE5BQB0XK6CW827ZC",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/JPG/es_ES/0ff2e668071288f89fe2010483ef9347.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/JPG/it_IT/a0567ed89f761259d96e8ad2a2d5fc15.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/JPG/en_US/f4d77148c042348b74e3698f7fdc22b9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/JPG/fr_FR/1fed6320d3efd64b974d2d753775124b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_22/JPG/de_DE/eaaff3e40072a33bd90e1d8cd20e7d76.jpg"
+  },
+  "name": "Hydracaena",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "[Ewig]. (Während der Ruhepause gehe ich nicht in die Reserve.)  {J} Ich erhalte 4 Verstärkungen.  Zum Mittag — Ich erhalte 4 Verstärkungen."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-113-C-DE"
+}

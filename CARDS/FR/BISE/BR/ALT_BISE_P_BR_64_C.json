@@ -1,0 +1,149 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_P_BR_64_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4055TDG3H48RT95CH5C58AH0E7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JYNKG6FF1WT4AV71J5VDG3J0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JYNKG6FF1WT4AV71J5VDG3J0",
+          "text": "Un trait d’union entre Asgartha et le lointain"
+        },
+        {
+          "@id": "/lore_entry_elements/01JYNKG6JMAJ1VK0RTSW0JK1XT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JYNKG6JMAJ1VK0RTSW0JK1XT",
+          "text": "Je sifflote en ouvrant l’enclos, et les dotouffus entrent sans broncher. Ça va, ils se sont bien habitués, au final. Au départ des Steppes, ça avait été une autre histoire. On en avait bien bavé avec papa : chaque soir, il fallait des heures pour les parquer, les compter, rattraper les moutons égarés… Mais avec l’aide de Puff, les choses s’étaient arrangées. Je regarde le bélier, qui me toise en retour — peut-être avec un peu trop d’insistance. Je déglutis et referme la clôture, avant de prendre le chemin de la ferme. C’est bizarre, que je sois le seul qu’il tolère. En marchant, je grignote mon goûter tout en observant la ville en construction. Des habitations en dur se montent, des maisons poussent autour du mess et de la grand-place.\n\nLes rumeurs disent que Sofia a été choisie pour devenir le premier avant-poste permanent bâti en dehors d’Asgartha. Maintenant que l’Affamé n’est plus, on dirait qu’une ombre s’est dissipée de la Chape, et qu’on y respire enfin mieux. L’extraction de Sève continue, mais on raconte que la Ferme en réduit déjà l’usage, maintenant que les cultures ont bien pris et qu’il suffit surtout de les entretenir… Je m’arrête net, surpris par ce que je vois. Maman est là, devant la maison, alors qu’elle devrait être à bord de l’Ouroboros. Elle discute avec papa et une autre femme. En m’approchant, je réalise qu’il s’agit de l’Amirale Singh. Qu’est-ce qu’elle fait ici ? Tous trois se tournent vers moi alors que je descends le sentier."
+        },
+        {
+          "@id": "/lore_entry_elements/01JYNKG6GE7SR0DE1490MAYCJB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JYNKG6GE7SR0DE1490MAYCJB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JYNKG6C642XHNHZAWY608NV7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JYNKG6C642XHNHZAWY608NV7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JYNKG6D7YNXNGKJK5K2R98QH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JYNKG6D7YNXNGKJK5K2R98QH",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "4055TDG3H48RT95CH5C58AH0E7",
+      "reference": "ALT_BISE_P_BR_64_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Repère Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/62ae5c49f3790eb91e00",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f4f11d6e0f5cf21c8b67",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/fr_FR/db4e71cd228f2f6fe91e5a923401682f.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_P_BR_64_C",
+  "reference": "ALT_BISE_P_BR_64_C",
+  "id": "65KBP5Y0Q88DVB2CEWMBW94R7D",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/en_US/0dfa86bd2af62e90fd88a8afbc77ddaa.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/fr_FR/db4e71cd228f2f6fe91e5a923401682f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/de_DE/f88dacbd71a6eccfd9a2c3b1570deea1.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/it_IT/06c5d4add0dd872d2bec7ea65ee2253d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/es_ES/b70c7a2b1810e30c74f48ba095a686d8.jpg"
+  },
+  "name": "Sofia, Premier Avant-poste",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "{J} [Ravitaillez].  Les capacités de Soutien des cartes en Réserve peuvent leur donner 1 compteur de plus que leur maximum. (Les restrictions « jusqu'à un max de X » deviennent « jusqu'à un max de X+1 ».)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WEM-107-C-FR"
+}

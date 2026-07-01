@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_04_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79BSF75DRA0R3NQYVQWJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME89S9KJJDC724QCY7WK8B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME89S9KJJDC724QCY7WK8B",
+          "text": "Così indietro e con così tanto ancora da imparare!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89TN1KPKZWWGQQFZCG1W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME89TN1KPKZWWGQQFZCG1W",
+          "text": "The gate half-opens onto the gardens of the Kadigir. I move from the windswept coastline to the tranquility of the Yzmir sanctuary. But a storm still rages within me. Anger, guilt, bereavement... The emotions writhe around inside me like snakes. I start to walk along the leafy paths, amid sights and sounds that others might find very strange. The arboretum contains many plants that have been transmuted by the Tumult: trees with extraordinary shapes and colors, the most exotic flowers imaginable... Strange birds twitter on the branches. But nothing can soothe the distress I feel. I suddenly find myself at the entrance to the occult library but hesitate before pushing open the doors. I'm not looking forward to what I need to do. Gritting my teeth, I enter the building and start looking around for the young Disciple I've come to find.\n\nI bow to the receptionist, and he returns my greeting by tracing a few Signs in the air. Everyone is maintaining the silence, as etiquette requires, but all I want to do is scream. I find Fasano carrying a heavy pile of books. As usual, he wants to do the right thing, including rushing around to prove his worth. A grimoire falls to the ground, then another one, and he scrambles to pick them up under the irritated stares of nearby Initiates. I pick up one of the books and place it on top of his pile. His face lights up when he recognizes me, but the glow quickly fades as he notices my pained expression. I see his smile vanish as he begins to understand. I don't even need to speak the bad news. His elder sister won't be coming back. His knees buckle and his hands release all the grimoires, sending them tumbling to the floor."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89T0CF3MJ810C1934WF7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME89T0CF3MJ810C1934WF7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89QM93P534HA9DYZFDQF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME89QM93P534HA9DYZFDQF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89RKVRHQRQSHK26WTZWB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME89RKVRHQRQSHK26WTZWB",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79BSF75DRA0R3NQYVQWJ",
+      "reference": "ALT_COREKS_B_YZ_04_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a4d0df06df50f031a862",
+      "reference": "APPRENTICE",
+      "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
+      "name": "Apprendista"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/82379d82d2db57922fac",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mago"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/25b45d2f272554a19b21",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/fcac2e7fc89b472f3c5e",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:57+00:00",
+      "question": "If a card that has an effect over the next card played \"this Afternoon\" is somehow played outside of the Afternoon, what happens?",
+      "answer": "\"This Afternoon\" refers to the Afternoon of the current day, so there are two possibilities : 1. The card is played before, such as during Noon, in which case it will apply to the next corresponding card of the Afternoon. 2. The card is played after, such as during Dusk or Night, in which case it won't have any effect."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_04/JPG/it_IT/fd4cf5dc5c4f7159c0a23c6a6b26fb55.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/ALT_CORE_B_YZ_04_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/ALT_CORE_B_YZ_04_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/ALT_CORE_B_YZ_04_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_04_R2",
+  "reference": "ALT_COREKS_B_YZ_04_R2",
+  "id": "01HN5TXRJ76RJ5BJWT7P4RK2G1",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_04/JPG/de_DE/c6ed1009b3ecf37c93c792e8e5423cac.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_04/JPG/es_ES/eee373ed3b6081d944a7a942480e2468.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_04/JPG/en_US/85ec85b1db1b0a4a2d216d3df2c590f8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_04/JPG/fr_FR/1af875c21e191dce278fa1c27e3d63ea.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_04/JPG/it_IT/fd4cf5dc5c4f7159c0a23c6a6b26fb55.jpg"
+  },
+  "name": "Discepolo Studioso",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "#{R} Il prossimo incantesimo che giochi questo pomeriggio costa {1} in meno.#",
+    "ECHO_EFFECT": "{D}: Il prossimo incantesimo che giochi in questo turno costa {1} in meno. (Scartami dalla Riserva per eseguire questa azione.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-155-F-IT"
+}

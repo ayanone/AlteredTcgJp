@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_16_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50DJNFJ61MW32B8M88R6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH655GC9KM2HE6XA9DH4R8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH655GC9KM2HE6XA9DH4R8",
+          "text": "«Me parece que ya no estamos en Kansas»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH656ZYJ8RM8NY2AEG3WZE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH656ZYJ8RM8NY2AEG3WZE",
+          "text": "Ozma takes me by the arm and rests her head on my shoulder, pressing herself against me. I gently place a kiss on her forehead before turning to look beyond the railing of the balcony we are standing on. Beyond the Emerald City, even beyond Winkie Country and the Deadly Desert, the Dominion of the Nome King is being plagued by the Tumult. It has been ravaging the eastern lands for ages. How long before the whole of Oz is swept away? I hug my beloved, my friend, my princess. We did what we could to slow its progress, to save what we could of this imaginary kingdom. But we need humanity to stop this disaster, just as it needs us to survive. Ozma lifts her head and looks at me with kind eyes, probably feeling my anguish. I smile at her to stop her from worrying.\n\nAll we can do is help those who created us. I close my eyes, letting myself be carried away to all the versions of me that humanity has summoned. I talk to a magician on the steps of the Magisterium, and I help the Lightning Chimaera cross a dense swamp. Elsewhere, I console a child who has lost a toy, and further away, I sit beside a political adviser at the Asterion, helping to put the finishing touches to his decree on the use of Alteration... There are hundreds, maybe thousands, of versions of me simultaneously being of service in the world of mortals, and each of them is sustaining and strengthening me. I'm laughing, wiping away tears, giving a speech, contemplating the ocean... And I know Ozma is doing the same even as she holds me in her arms."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH656CSER0N6V9N2JW4KPD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH656CSER0N6V9N2JW4KPD",
+          "text": "Dorothy Gale is the main character in a long series of novels set in the land of Oz. Created by L. Frank Baum in The Wonderful Wizard of Oz, Dorothy is a young girl from Kansas who is swept away by a tornado and catapulted into the magical kingdom of Oz with her dog, Toto. Joining forces with the Tin Woodman, the Scarecrow and the Cowardly Lion, they travel together along the yellow brick road in hopes that the wonderful wizard in the Emerald City may be able to grant their wishes."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6543JFM5SC66WJ01SES2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH6543JFM5SC66WJ01SES2",
+          "text": "Dorothy"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH654VV1TZA12EZ0HZZEHP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH654VV1TZA12EZ0HZZEHP",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50DJNFJ61MW32B8M88R6",
+      "reference": "ALT_CORE_B_YZ_16_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7b1ef621e0eb06b26f92",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Ciudadano"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0718196b1f2b83e237d6",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/757fe1cf00b111d18a28",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-01-15T10:37:38+00:00",
+      "question": "What happens if I use Dorothy to target a Tough Character?",
+      "answer": "You either pay extra Mana, target another Character, or don't use her power."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/es_ES/13639a95e824feb0de12406c0b37c94b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_16_C",
+  "reference": "ALT_CORE_B_YZ_16_C",
+  "id": "01HKAFJP2YYPFGFZ7PDE8B4CTN",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/de_DE/6ec97ef1e32603710e4ba67f889a84a7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/en_US/81c02e94940c9e0a99c7aa5b15f1feae.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/fr_FR/82c7d9b37d925f8ecb46bff6fee4c12c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/it_IT/42c5ac227434f5551d0f20ca41787fa9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/es_ES/13639a95e824feb0de12406c0b37c94b.jpg"
+  },
+  "name": "Dorothy Gale",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{H} Puedes enviar a la reserva un personaje objetivo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-166-C-ES"
+}

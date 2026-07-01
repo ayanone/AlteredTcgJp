@@ -1,0 +1,184 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_19_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77ZXK52XJP5X4XF0RE91",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7Y7VWJD9ASRXWB7HRW72",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7Y7VWJD9ASRXWB7HRW72",
+          "text": "... Qui l'ose réveiller peut s'en laisser surprendre."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y8H7AE54T4KCFFJ4CAJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7Y8H7AE54T4KCFFJ4CAJ",
+          "text": "Le sol se craquelle sous la pression de la lave, qui se met à éructer du sous-sol en toux incendiaires. Des fumerolles sombres sifflent tandis que le puissant Djinn fait fondre le flanc de la falaise. Le Mana que j'investis en lui le garde manifesté, tandis que les élémentaires de basalte reculent, apeurés par le feu liquide qui menace de les dissoudre. Je me fends d'un sourire en voyant le Djinn s'ébrouer, pataugeant dans les coulées en fusion comme s'il s'agissait d'un petit bassin d'eau. Ce n'est pas l'un de ceux que j'ai croisés au sein du Parlement des Cendres. Celui-ci est plus massif, et infiniment plus impressionnant. Dans une lueur de fin du monde, vermeille et écarlate, il fait barrière de son corps, me permettant par la même occasion de préparer mon prochain assaut, qui j'espère sera le dernier.\n\nCar aussi fougueux que soit le Djinn, caparaçonné du métal qu'il tire lui-même de la roche fondue, il ne sera pas suffisant pour faire fuir les créatures qui me font face. Il va me falloir être plus démonstratif. Dans son fourreau, mon glaive pulse des idées que j'ai insufflées en lui. La crinière incandescente du Djinn commence à vaciller, comme la flamme d'une bougie danse avant de s'éteindre. C'est le moment. Je m'élance alors que l'Eidolon se dissipe en volutes de Mana. Je capte son énergie résiduelle et l'absorbe, tandis que Surge jaillit à son tour. Alors que je traverse le panache de flammes dans lequel le Djinn s'est volatilisé, mon Alter Ego charge mon épée de son énergie, accompagne ma lame tandis que je frappe. Le rocher qui se tenait devant l'Eidolon se fend en deux, de part et d'autre d'une ligne de coupe zébrée d'éclairs bleutés. Ma passe d'armes a eu l'effet escompté. Les élémentaires se recroquevillent en boules inertes avant de dévaler la pente, hors de ma portée."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y86D56XT4N601FXR54Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7Y86D56XT4N601FXR54Y",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y74PW5A4Y408KH8YZKQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7Y74PW5A4Y408KH8YZKQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y7HAH9FY778W41BWYX4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7Y7HAH9FY778W41BWYX4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77ZXK52XJP5X4XF0RE91",
+      "reference": "ALT_COREKS_B_BR_19_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e4c918938d9c823f1666",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Élémentaire"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/02ed2fed3e7b3826c69f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/334394605f5f44b8fedb",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:45+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb). If you don't, draw a card.\""
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/0d6d42ccda3de389d1b0",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:46+00:00",
+      "question": "What happens if Mighty Jinn is the target of a card that sends it to a player's hand or deck?",
+      "answer": "The controller of Mighty Jinn still has the option of sending it to their Mana zone."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/12f50268ff36cce97154",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-15T10:37:46+00:00",
+      "question": "If my (Rare) Mighty Jinn is sent to the Mana Zone by another effect (such as Mana Reaping), can I choose to draw a card?",
+      "answer": "Yes!  You may choose not to use Mighty Jinn's ability and therefore draw the card (it will still go to your Mana Zone because of Mana Reaping)."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/fr_FR/dddc7346b15ad1bb51017c4002b90555.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_19/ALT_CORE_B_BR_19_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_19/ALT_CORE_B_BR_19_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_19/ALT_CORE_B_BR_19_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_19_R1",
+  "reference": "ALT_COREKS_B_BR_19_R1",
+  "id": "01HN5TXR8J6K1006FQX4R0M760",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/fr_FR/dddc7346b15ad1bb51017c4002b90555.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/en_US/06714fd23a84258ddef9ca6f61be8df1.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/it_IT/125fac702e9e6de9b89c5c8fe0dd3a7c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/es_ES/44a413a6c428ef63594c42870d4e3e7d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/de_DE/a4e3b76d72bdee0c0385f9c011e1108b.jpg"
+  },
+  "name": "Puissant Djinn",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MAIN_EFFECT": "Si je devais quitter la zone d’Expédition, vous pouvez me mettre dans la zone de Mana de mon propriétaire à la place.  #Si vous ne le faites pas, piochez une carte.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-049-R-FR"
+}

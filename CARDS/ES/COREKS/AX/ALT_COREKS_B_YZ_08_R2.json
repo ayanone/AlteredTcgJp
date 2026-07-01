@@ -1,0 +1,165 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_08_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79C5DVER3XMAKGJRHV7P",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8A99JG87RXTQ4H2AZEY4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8A99JG87RXTQ4H2AZEY4",
+          "text": "No lee el futuro en las estrellas: elige cuál será."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8AAM48HW3GJ4K80AKAHD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8AAM48HW3GJ4K80AKAHD",
+          "text": "The Seer half-opens her eyes, and her luminescent-white irises are surrounded by a black circle with no pupil. She stares into the crystal ball as it starts to produce images from within, blurry at first but gradually becoming clearer. Like some other Exalts, we had been confined to safety as a matter of not... what's the expression? Ah yes, not putting all our eggs in one basket. If all the dyads were to perish, it would obviously be catastrophic for the rest of the so-called \"Rediscovery Endeavor.\" But curiosity got the better of me, and I really wanted to know what was happening on the battlefield. Hence the soothsayer. Through the dancing swirls imprisoned in the glass globe, I see the swell of a restless sea. I see the armies, battered by the wind and elements, eager for the wait to be over...\n\nAnd when the Kraken finally emerges, I understand its true nature and what a mistake we've made. I can't help but smile when I see its tentacles whipping the air. Of course, that should have been obvious... How did we miss that? But this new information was already raising thousands of other questions. In the recesses of my mind, speculation and repercussions hatch like nymphs... The implications free themselves like imagos from their chrysalises. But I can't waste any time. I'll sift through them sometime later. For now, I need to imprint the image of the Kraken in my memory so I can create it when the need arises. The Seer continues to study the battle. I must make sure that she doesn't turn her gaze on me. I must dive deeper; I must bury myself..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8A9YD653GAFTE1Q6CVJ6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8A9YD653GAFTE1Q6CVJ6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8A7VWHW5WM3PZ6BBN9GN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8A7VWHW5WM3PZ6BBN9GN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8A8ME13AXTS1C0HVT6JQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8A8ME13AXTS1C0HVT6JQ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79C5DVER3XMAKGJRHV7P",
+      "reference": "ALT_COREKS_B_YZ_08_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ad0b84bce1ad7cf30825",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mago"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8362ad7204ec849d54d3",
+      "reference": "SCHOLAR",
+      "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+      "name": "Erudito"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f96265f3271ec1bddc96",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_08/JPG/es_ES/c08e4b9ef9d3f5694b65f9ea8fcddfda.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/ALT_CORE_B_YZ_08_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/ALT_CORE_B_YZ_08_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/ALT_CORE_B_YZ_08_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_08_R2",
+  "reference": "ALT_COREKS_B_YZ_08_R2",
+  "id": "01HN5TXRJQNRA2J66RXMC6HCKY",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_08/JPG/it_IT/7ef490f228aec89f04236f99b713b661.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_08/JPG/es_ES/c08e4b9ef9d3f5694b65f9ea8fcddfda.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_08/JPG/en_US/415a33106995ecfa8bd0b546cd82950e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_08/JPG/de_DE/1143c9c2d15040cfce659387bdffec27.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_08/JPG/fr_FR/be7151a146031f47cdd965fac2b9e1c3.jpg"
+  },
+  "name": "Contemplaestrellas de Yzmir",
+  "elements": {
+    "MAIN_COST": "#1#",
+    "RECALL_COST": "1",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "1",
+    "OCEAN_POWER": "1"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-157-F-ES"
+}

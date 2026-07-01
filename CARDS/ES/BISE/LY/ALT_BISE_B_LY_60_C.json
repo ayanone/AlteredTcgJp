@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_60_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7WMAVBXB4N9XQSCA1DJRYDE1NV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A6CAREAA398MGG8BJVYC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A6CAREAA398MGG8BJVYC",
+          "text": "Nada eXtraño."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6CWDAK2S4GBB8T8CN2W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A6CWDAK2S4GBB8T8CN2W",
+          "text": "393 AC - I shake my paint can energetically and spray an X on the ground, after meticulously replacing the stone blocks and sprinkling a little dust back into the cracks to conceal my misdeeds. Because, pirate's honor, everybody knows that X always marks the spot where treasure is hidden. What's that, Blotch? On a map, not on the actual spot? I have absolutely no idea what you're talking about. On the other hand, there's no harm in giving little Tamati a bit of help… although he's not actually that small, especially with those big biceps. I mean, the City of Scholars is a pretty huge place. You could just about get lost there… OK, fine, everyone gets lost there. One more reason to make things a bit easier on him. QED! I grimace as I think of the face he'll probably make at the rehearsal. This will put him in such a mood!\n\nAnyway, let's get going before someone spots me and reports me! As we scamper away, I hear Blotch start to hum a little tune, and I turn to him with a slightly irritated pout. You do understand what discretion means, right? This is a stealth operation, man! A covert mission! He twists and writhes in the air, surprised at my reaction. And I realize that it's not actually him who's humming. So then… who is it? A treasure hunter who just found our loot? Nope. A kid on a field trip who got separated from the group? No, definitely not. I press my ear against a block of black stone and listen. I walk around to the other side and listen again. Yep, it's coming from the stone. As though it were a big music box, but with no lid and no key to wind it. Pretty sus, right? I knock on the smooth stone. Is somebody in there?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6CMF7F2E2C9631JZ9D5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A6CMF7F2E2C9631JZ9D5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6BSPZCR6RKHSM3QS7NW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A6BSPZCR6RKHSM3QS7NW",
+          "text": "N3V3NK4"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6C243ND47E3DSXZW34X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A6C243ND47E3DSXZW34X",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "7WMAVBXB4N9XQSCA1DJRYDE1NV",
+      "reference": "ALT_BISE_B_LY_60_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/64223071d41c9a85ee1b",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disrupción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ec1d3d7e83df045ce70f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_60/JPG/es_ES/598dd41bdca6f95cd8f4d1b3ed574f4c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_60/WEB_8a9ae2ab3a3c4167b14b670811dab989",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_60/WEB_efa377dc8b66663dd5b43b184149764c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_60_C",
+  "reference": "ALT_BISE_B_LY_60_C",
+  "id": "01JB1YGPBJ75ART9E9GCVPSPXD",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_60/JPG/es_ES/598dd41bdca6f95cd8f4d1b3ed574f4c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_60/JPG/de_DE/5ecd58e6c2ce93cdcac39a8f4abf8967.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_60/JPG/it_IT/4955c29d3f50776429a68540dcad18f1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_60/JPG/en_US/8cc9219a374d67b38440ce5422d623ba.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_60/JPG/fr_FR/6f477e5b8f6640c46e354f961f0bf25f.jpg"
+  },
+  "name": "La X marca el lugar",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Fugacidad]]. (Una vez resuelto mi efecto, envíame a la pila de descartes en lugar de a la reserva.)  Tira un dado. Envía un personaje objetivo a la posición X del mazo de su propietario, donde X equivale al resultado."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-049-C-ES"
+}

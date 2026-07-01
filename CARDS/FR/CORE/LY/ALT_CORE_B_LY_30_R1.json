@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_30_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZW236XSWNE1V2JQXKZY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5W5PCFFHWYHEGZYYJNCE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5W5PCFFHWYHEGZYYJNCE",
+          "text": "L'avant-poste mobile des Corps expéditionnaires s'élève haut, tel un rouet tissant le vent."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W6EPMZ3XRB9WVZ35W19",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5W6EPMZ3XRB9WVZ35W19",
+          "text": "Alors c'est ça, l'Ouroboros, un anneau gigantesque en forme de serpent qui se mord la queue... Et au centre du cercle, un navire-forteresse, une nef. On dit qu'il y a là-bas les meilleurs spectacles de voltige, et puis surtout des casinos bling-bling qui font cling-cling quand on gagne le jackpot aux machines à sous. Je suis Fen sur les coursives, et je me faufile entre les maçons, les ouvriers, les charpentiers et les soudeurs qui travaillent dare-dare pour aménager les zones d'habitation. Quek'part, je me dis que c'est pas mal comme endroit. À part le vertige, faut dire qu'y a tout pour se sentir chez soi : des tavernes, des gargotes, des maisons de jeux de la plus luxueuse à la plus miteuse. Je zieute au-dessus de la rambarde, et observe les petites silhouettes des badauds qui se promènent dans l'aérogare où l'Ouroboros est amarré.\n\nFen me prend la main et me dit de pas la perdre de vue. Et c'est vrai que c'est un dédale de malade. Je sais pas comment elle fait pour se repérer là-dedans. Même si je regarde les panneaux directionnels, entre la coursive de droite, le corridor de gauche, l'échelle, la passerelle, le boyau, le conduit, la galerie, la trappe, la porte dérobée, le goulet, et la petite porte rouge A38, c'est clairement pas évident de s'y retrouver. Mais quek'part, je m'y sens bien. C'est un peu comme si j'étais dans ma tête, en fait. Alors je me laisse entraîner, sans savoir où je vais. Mais c'est pas grave. C'est toujours cool de se laisser surprendre. Là, il y a un chapiteau pantagruélique, ici, un bassin avec des canards en plastique pour que les gamins puissent s'amuser. Y'a comme une ambiance de fête foraine, qui promet de s'illuminer à la nuit tombée au gré de guirlandes colorées."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W62XZ3KCHFMAC6TJDM6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5W62XZ3KCHFMAC6TJDM6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W4XP7BXBTD2402F7GNN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5W4XP7BXBTD2402F7GNN",
+          "text": "NEVENKA"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W5ATRCGARHBXXQFASQG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5W5ATRCGARHBXXQFASQG",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY4ZW236XSWNE1V2JQXKZY",
+      "reference": "ALT_CORE_B_LY_30_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a560d3cfb5445223caa1",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/409dafa0552b3edf36cc",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/aad3c5635167eec9be07",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-03-04T10:38:03+00:00",
+      "question": "What happens if I have two \"the Ourobouros, Lyra Bastion\" in play when I roll a die?",
+      "answer": "Roll three dice, then pick the one you'd like to keep."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/fr_FR/993046f45c6b77a1a13731943454f315.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/ALT_CORE_B_LY_30_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/ALT_CORE_B_LY_30_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_30_R1",
+  "reference": "ALT_CORE_B_LY_30_R1",
+  "id": "01HKAFJNVFMC9N8GSX9VAB8R7W",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/de_DE/1a38db7e4f1b91e54f3688c586c61fca.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/it_IT/d3e98813f214c62714d234a9378db424.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/es_ES/bdc220f545273dc22709d5edebdf109c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/en_US/54a3e18b5a74901c2f304fc2059edaf6.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/fr_FR/993046f45c6b77a1a13731943454f315.jpg"
+  },
+  "name": "L'Ouroboros, Bastion Lyra",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Si vous deviez lancer au moins un dé, lancez un dé supplémentaire et ignorez le résultat du dé de votre choix."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-090-R-FR"
+}

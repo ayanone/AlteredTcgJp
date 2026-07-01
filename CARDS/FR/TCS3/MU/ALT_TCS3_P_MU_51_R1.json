@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_TCS3_P_MU_51_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2TZKJ6QW769WB8YH9QAR2V6MQ3",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JV4T4QH6R6XA6HDF7R29NQB2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JV4T4QH6R6XA6HDF7R29NQB2",
+          "text": "Et maintenant, on se fait des passes ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QHKDHEAB2AYK0KE7N04",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JV4T4QHKDHEAB2AYK0KE7N04",
+          "text": "393 AC - Le Sous-Bois recèle une multitude de plantes qu'on ne trouve que rarement à la surface. Est-ce la proximité de ces réserves de Sève qui leur apporte de la vigueur, ou bien la régularité du climat que fournit l'Œil de Corbeau ? Peut-être les deux, en vérité. Toujours est-il que la récolte d'échantillons y est vraiment intéressante. Chaque bosquet abrite des espèces étranges et exotiques, chaque clairière déploie de nouveaux parterres de fleurs aux pétales inconnus. J'en fais provision pour les rapporter à la Serre, les empaquetant aussi bien que possible pour ne pas les abîmer. Je sais que les botanistes comptent sur moi pour compléter leur herbier, que certains herboristes voudront forcément les étudier pour identifier de nouveaux principes actifs, de quoi diversifier leur pharmacopée. Quant à moi, je me contenterai de leur offrir de la terre, de la lumière et de l'eau, pour le simple plaisir de les voir croître...\n\nLe nez dans un buisson, à écarter délicatement des branchages, je cueille des baies odorantes, dont je suspecte qu'elles pourraient être comestibles. Le Skein vibre soudain alors que j'en renifle une, m'avertissant de la petite présence qui approche. Il n'y a aucune hostilité, cependant. Je vois soudain apparaître à mes pieds une balle. Je lève les yeux, et — surprise — un renard coloré me regarde, en remuant sa superbe queue touffue. Non, pas un simple renard, mais un Eidolon. Les pattes tendues, il m'invite — fait rare — à saisir son Hoshi-No-Tama. Je souris. Le fait qu'il soit venu me trouver ne signifie qu'une chose : que Teija n'est pas loin et qu'elle a besoin de moi. Je me redresse, et tends mon esprit vers Spike pour l'avertir que nous allons devoir revoir nos plans pour la journée. Je saisis la balle, et le renard se met à détaler, m'invitant à le suivre. Et alors que la puissance de son artefact se met à résonner en moi, je me demande si l'Altératrice sait à quel point sa Chimère est spéciale..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QHDN0EA1C9J36A8A087",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JV4T4QHDN0EA1C9J36A8A087",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QGVNH2W10APCDTWPFGN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JV4T4QGVNH2W10APCDTWPFGN",
+          "text": "ARJUN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QH04GZXGWMF64Q857DT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JV4T4QH04GZXGWMF64Q857DT",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "2TZKJ6QW769WB8YH9QAR2V6MQ3",
+      "reference": "ALT_TCS3_P_MU_51_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4f4b331f6129f7a7d7ad",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/TCS3",
+    "@type": "CardSet",
+    "id": "01JTJS0F8GG1CAXSJ6AEK8495P",
+    "reference": "TCS3",
+    "name": "Tumult Faction Champion - Set 3"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/68110e93cd364a50e36f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/fr_FR/b88a8dae866de3936bcf0e0bd2544b7e.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_TCS3_P_MU_51_R1",
+  "isOwnerless": false,
+  "reference": "ALT_TCS3_P_MU_51_R1",
+  "id": "01JTJSFT2PMY7KGCEG0S8PPE6F",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/fr_FR/b88a8dae866de3936bcf0e0bd2544b7e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/en_US/b1395abf81979c208d02ebce4abe1b64.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/it_IT/340a12330ace0e8846b849b3e57ce1b6.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/es_ES/ad082bbd5f81ce7d5ffa79f364e7ce01.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/de_DE/ce549de14edf6866f39dbe4918b8438c.jpg"
+  },
+  "name": "Renarde Intègre",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{H} #Vous pouvez payer {1} pour défausser un Permanent ciblé de Coût de Main {2} ou moins.# Si vous le faites, son contrôleur [Ravitaille]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "TCS3-04-R-FR"
+}

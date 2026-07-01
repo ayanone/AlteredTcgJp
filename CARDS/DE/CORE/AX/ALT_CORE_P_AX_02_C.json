@@ -1,0 +1,137 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_P_AX_02_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Y3N0F4YYYRHV8TTJJV8",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J7K63K2VGG60R89MWTQABBE1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J7K63K2VGG60R89MWTQABBE1"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63KD30PVVSTW9ESBK680B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J7K63KD30PVVSTW9ESBK680B"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63K8PRPSY9B4M13G4Q34R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J7K63K8PRPSY9B4M13G4Q34R"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63JSPEQQCAQVYM8NDA19T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J7K63JSPEQQCAQVYM8NDA19T"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63JZHHFA4VRV56NCNCFAD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J7K63JZHHFA4VRV56NCNCFAD"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HNGY4Y3N0F4YYYRHV8TTJJV8",
+      "reference": "ALT_PROMO_2024_B_AX_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Held"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1e11a6511fa3d11f983c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_AX_02/JPG/de_DE/ALT_CORE_P_AX_02_C_de_DE.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_P_AX_02_C",
+  "reference": "ALT_CORE_P_AX_02_C",
+  "id": "01HFS3ZRH45FSBGT7AGTGM8MPP",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_AX_02/JPG/de_DE/ALT_CORE_P_AX_02_C_de_DE.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_AX_02/JPG/fr_FR/ALT_CORE_P_AX_02_C_fr_FR.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_AX_02/JPG/en_US/ALT_CORE_P_AX_02_C_en_US.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_AX_02/JPG/es_ES/ALT_CORE_P_AX_02_C_es_ES.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_AX_02/JPG/it_IT/ALT_CORE_P_AX_02_C_it_IT.jpg"
+  },
+  "name": "Treyst & Rossum",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "MAIN_EFFECT": "Wenn eine Karte am Nachmittag deine Reserve verlässt — Falls ich weniger als 5 Schrottzähler habe, erhalte ich 1 Schrottzähler.  Falls ich 5 oder mehr Schrottzähler habe, erhalte ich „{T} : Ziehe eine Karte und lege dann eine Karte aus deiner Hand in deine Reserve.“"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-003-H-DE"
+}

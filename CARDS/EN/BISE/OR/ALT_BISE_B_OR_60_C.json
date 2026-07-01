@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_60_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0FCHNQPTAQ9CVBM76JXZED0XX6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1AA3322DAHNQYZ8E5XM9V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1AA3322DAHNQYZ8E5XM9V",
+          "text": "You're in the army now."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA3VDCHFDVKR2TKFEZT8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1AA3VDCHFDVKR2TKFEZT8",
+          "text": "393 AC - I roll my shoulders, test out my voice and relax my jaw to prepare myself. Nosk moves in front of me, then moves again slightly to try and find the best line of sight. Basically, he's bobbing this way and that as usual, and I just smile politely, even though his constant experimentation is quite annoying. He asks me to move, and I step to one side, close to the promotional poster. Why the hell did they ask me to do this damned recruitment video? Well, obviously for my undeniable charisma and irresistible smile, but still. Even though the order came down from Admiral Singh, it had the telling whiff of someone else's involvement. It was probably a political decision from further up. The Rediscovery Endeavor clearly needed fresh blood, especially more contingents and reservists. Anyway, I need to look happy about it, especially since it'll be broadcast live.\n\nI look over Nosk's shoulder and see Sunisa having a good laugh. Go on, make fun of me. But then Nosk puts his thumb up to tell me he's ready. He does the countdown with his fingers. 3, 2, 1… I put on my most charming face, waiting for his second \"go\". For the entire first part, he'll stream memories of scenes he's witnessed, carefully catalogued and edited in his own mind. There's the new hand signal. It's my turn. Let's go. This is how it's done. I start to speak my lines, puffing out my chest. The trials of Storhvit, the discovery of the City of Scholars. A historic turning point, a vindication, a first step, blah blah blah. \"Go where no one has gone before. Enlist, for the future. Broaden your horizons. Push yourself to new heights. You too can be part of the adventure. Join us. The Rediscovery Endeavor needs… me.\" I see Nosk look up and smack his forehead in disbelief. Sun bends over in fits of giggles. And I suddenly realize how badly I messed up."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA3FWJS84RSCT6JN3WB8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1AA3FWJS84RSCT6JN3WB8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA2AK0SVQVFJZ7AJPEWX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1AA2AK0SVQVFJZ7AJPEWX",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA2P89D0YFWDW1BBEM2R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1AA2P89D0YFWDW1BBEM2R",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "0FCHNQPTAQ9CVBM76JXZED0XX6",
+      "reference": "ALT_BISE_B_OR_60_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a8508de7dd35b84d7fb0",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maneuver"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5cc4bc36b6bf31df0e03",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/en_US/9482ba7e7f54bf6432ef7ad4aa25b178.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/WEB_2b9cd82c8bf91d8ec3d72bdff5357687",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/WEB_72cc4eccabbcd9acbb1add2c6bff7306"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_60_C",
+  "reference": "ALT_BISE_B_OR_60_C",
+  "id": "01JB1YGPBYGVH2ZFZ80GRGCRMC",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/de_DE/ab8bff79c9e14634003670b4397f724e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/it_IT/eb1ca3f8bb327dc8969db0a00ebe5751.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/es_ES/fea8bba6c91c24920937d9a89c576ca9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/en_US/9482ba7e7f54bf6432ef7ad4aa25b178.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/fr_FR/4a146085351d2ac8fb386f9c4f4c7ba5.jpg"
+  },
+  "name": "Conscription",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Fleeting]]. (Send me to Discard instead of Reserve after my effect resolves.)  Target an Expedition. Create X [Ordis Recruit 1/1/1] Soldier tokens in it, where X is the number of cards in target player's Reserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-081-C-EN"
+}

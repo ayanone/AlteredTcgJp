@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_34_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/56W70HG00R81FA46RHYWTP9HHT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J289MNDJGX8F2CC4KTFY7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J289MNDJGX8F2CC4KTFY7",
+          "text": "Effiziente Ressourcenzuteilung kann Nachteile kompensieren."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28B5EX7DDWQ6HJYM34EB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J28B5EX7DDWQ6HJYM34EB",
+          "text": "Die felsigen Ausläufer am Rand der Tundra bilden gezackte Kämme, die wie riesige Korallen aussehen. Diese gewaltigen, ockerfarbenen Felsformationen sind laut der Muna halb mineralisch und halb organisch. Ich muss aber zugeben, dass ich den wissenschaftlichen Erklärungen nicht genau zugehört habe. Ich gehöre zu den Offizieren, die mit der Leitung des Aufklärungseinsatzes betraut sind. Gerade steht die Unteroffizierin vor mir, die uns die strategische Gesamtlage für die kommenden Wochen erläutern wird. Obwohl sie hier fehl am Platz wirkt, hat sie nichts von ihrer natürlichen Autorität verloren. Trotz der bitteren Kälte und dem Wind, der von der Tundra ins Tal peitscht, trägt sie immer noch die Standarduniform. Sie friert gewiss, zeigt aber nicht das geringste Anzeichen von Unwohlsein oder Schwäche. Mit aufrechter Haltung entrollt sie die Schriftrollen mit den offiziellen Befehlen und erläutert sie mit starker, fester Stimme. Sie erinnert uns an die bürokratischen Regularien und grundlegenden Gesetze, die wir bereits alle auswendig kennen.\n\nDie Reihen der Unter- und Stabsoffiziere sind deutlich stiller und konzentrierter als sonst. Sie sind von der vorbildlichen Haltung der Kommandantin beeindruckt. Hinter ihr tun ihre Assistenten ihr Bestes, um zu verhindern, dass Dokumente, Karten und Pläne von einer plötzlichen Windböe weggefegt werden. Ihre Bemühungen sind vergeblich, doch die umherwirbelnden Papiere irritieren ihre Vorgesetzte überhaupt nicht. Sie verkündet, dass sie Verstärkung vorschicken wird, um eine kritische Situation weiter draußen in der Gegend in den Griff zu bekommen. Außerdem sind alarmierende Berichte über Belisenki eingegangen, die unseren Spähern zusetzen. Ich höre genau zu, denn der jetzt folgende Teil betrifft uns direkt. Wir werden Teil der Vorhut sein und die Stellung halten, bis Verstärkung eintrifft. Sie beendet ihren Bericht und blickt uns direkt in die Augen. Eine schwere Stille legt sich über die Reihen der Anwesenden. Meine Kameraden und ich spüren alle die Bedeutung dieses Augenblicks. Sie begreift, dass ihre Botschaft angekommen ist und entspannt ihren Unterkiefer ein wenig. Noch Fragen?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28A1N2321QC3TFWF0BCZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J28A1N2321QC3TFWF0BCZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J288RWRTSPFFK1QYS5V5S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J288RWRTSPFFK1QYS5V5S",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2896F5PAHMCXJPBT5E0K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2896F5PAHMCXJPBT5E0K",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "56W70HG00R81FA46RHYWTP9HHT",
+      "reference": "ALT_ALIZE_B_OR_34_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b271150523b84782f634",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bürokrat"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d004d5c358e30b884ac0",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/df9cdf24b8aadd8ccd3d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/de_DE/b83185248fbb9eaf93140df035ede546.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d7a791c91ee3168f48750bc66fd69d2e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_29cb6ed5e3b93ca4327782464de86829"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_34_C",
+  "reference": "ALT_ALIZE_B_OR_34_C",
+  "id": "01J1Q4P4SKAF9A6PP6VDW6X2P0",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/fr_FR/6e5139c090767fec331caf089dcb775e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/it_IT/8dbd05d4147b19749e6dd96509a9f34e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/es_ES/c2813bbb6b0c759a1589b678dc443f02.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/en_US/052555d601e38e3d3735028c50a44f2b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/de_DE/b83185248fbb9eaf93140df035ede546.jpg"
+  },
+  "name": "Ordis-Aufseherin",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{J} Falls meine Expedition hinten liegt, erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in meiner Expedition.",
+    "ECHO_EFFECT": "{D} : Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Expedition deiner Wahl. (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-072-C-DE"
+}

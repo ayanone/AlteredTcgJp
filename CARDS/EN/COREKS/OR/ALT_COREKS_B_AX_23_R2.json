@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_23_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77X4QRDGD7S99PD4CY8X",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7WS6MQS8JXMDN4P7PDZH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7WS6MQS8JXMDN4P7PDZH",
+          "text": "There's an enduring legend in the Suspira quarries: the existence of another type of Kelon."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WSPPRWG54WQNS2614DF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7WSPPRWG54WQNS2614DF",
+          "text": "The Operator faces me, juggling with his Construct, as I grip my own module tightly in my hand. This duel tests our ability to manipulate our artifacts, to combine and create things quickly enough to counter our opponent's attacks. But most importantly, I need to sense what he is creating so I can react accordingly. My heart is beating so hard it feels like it will burst, even though my mind is trying to calm it down. I know the khyalo symbols, the shortcuts to use to create objects and Eidolons faster. Everything should go smoothly… But I know I'm outclassed by my opponent. What will matter most is how long I can hold on. The Operator activates his Construct, and I do the same. I'm as ready as I'll ever be…\n\nHis fingers dance around the Construct, and I try to guess what he's planning. The air becomes charged with ions. I feel a storm brewing. Instinctively, I create a lightning rod. Lightning suddenly strikes the rod and is deflected away, crackling. But he's already creating something new. This time he's constructing a net-thrower. The device materializes and launches its ropes. I manipulate my own Construct. I know I'm supposed to wait until he's summoned something and then react, but he's stronger than me. Gaining the upper hand might be the best defense… The circular saw that I create slices through the pile of ropes. The Operator's eyes suddenly widen when he sees the rail I've created on the ground. The saw advances in his direction, spitting sparks. He quickly unseals his Construct and expels a Kelon burst. The wave dematerializes my saw, and I stagger as the shockwave hits me. I see the Operator smile. I can't tell if that's a good or bad sign…"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WSEY7CA24N5JPZJYW5F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7WSEY7CA24N5JPZJYW5F",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WRE09FF8NCDK8WH1FHW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7WRE09FF8NCDK8WH1FHW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WRYJ8EZD1HNKQR0NBEQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7WRYJ8EZD1HNKQR0NBEQ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB77X4QRDGD7S99PD4CY8X",
+      "reference": "ALT_COREKS_B_AX_23_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a5a407ba99a8107fd969",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disruption"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/27e7bc1ec4a5ae2824fc",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_23/JPG/en_US/70f2a44065fcdbc4400857931e73ba71.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/ALT_CORE_B_AX_23_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/ALT_CORE_B_AX_23_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_23/ALT_CORE_B_AX_23_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_23_R2",
+  "reference": "ALT_COREKS_B_AX_23_R2",
+  "id": "01HN5TXR590A33C7HZ3C7W7W15",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_23/JPG/de_DE/a7ab5a336a57560f8fde05d6bdbf8c1d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_23/JPG/it_IT/bb556b5621412a0a74f254ea144d77e4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_23/JPG/es_ES/12c71d815a95a15884d7b14f2bf6d1c1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_23/JPG/fr_FR/94059b30a1b2b004876225001d2685ec.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_23/JPG/en_US/70f2a44065fcdbc4400857931e73ba71.jpg"
+  },
+  "name": "Kelon Burst",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fleeting]]. (Send me to Discard instead of Reserve after my effect resolves.)  Choose one:  • Send to Reserve target Character with Hand Cost {4} or less.  • Discard target Permanent with Hand Cost {4} or less."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-023-F-EN"
+}

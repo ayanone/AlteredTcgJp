@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_47_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7WFY7C7H9298H922RQRSJK3W56",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2CFD7GCF0H4A4P388NWP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2CFD7GCF0H4A4P388NWP",
+          "text": "Durant leur courte existence, elles diffusent continuellement un Mana d'une pureté incroyable dans l'environnement."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2CHSY60VF981T6PA2MZ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J2CHSY60VF981T6PA2MZ7",
+          "text": "Les papillons se mettent à danser ensemble, à tournoyer l'un autour de l'autre. À la fois une parade nuptiale et une danse macabre... Ils se suivent, font une ronde, frétillent au son d'un requiem qu'eux seuls peuvent entendre. Leur union signifiera leur mort. Mais ils sont attirés l'un vers l'autre, inexorablement, comme deux corps célestes face à la gravité. En réalité, les phalènes ne sont qu'illusion. Des créatures de pure idée. Tout à coup, dans leur jarre en verre, les deux mites de Mana se percutent. L'explosion est instantanée, propageant dans le bocal un nuage de spores physiques, nées de leur interaction fugace. Puis, à ma grande surprise, je vois les spores se condenser, se réamalgamer, jusqu'à ce que deux papillons se tiennent à nouveau devant mes yeux, mais dont les pas sont inversés. C'est comme si le temps se rembobinait. Nouvelle explosion, mise en pause, retour arrière, ralenti. Cela me permet d'observer en détail la déflagration...\n\nÀ travers le bocal en verre, je ne peux m'empêcher de regarder Akesha, dont les yeux pétillent devant ce spectacle sans cesse joué et rejoué sous son influence. C'est elle qui manipule le temps, le fait aller d'avant en arrière, d'arrière en avant, afin que nous puissions scruter toutes les étapes du processus. Un talent bien pratique. Et dangereux. Je me surprends à la dévisager plus qu'à m'intéresser au mode de reproduction des phalènes. Son teint hâlé, ses yeux dont l'éclat rappelle celui du sphène, ses longs cheveux noirs et lustrés cascadant sur ses épaules... et le sourire qui illumine son visage à chaque fois que les deux insectes évanescents s'entrechoquent... Collision, nuage poudreux. À travers la paroi en verre, ses yeux rencontrent les miens pendant une fraction de seconde qui semble durer une éternité. Elle détourne subitement le regard, et je peux discerner son trouble tandis que ses joues s'empourprent légèrement."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2CG3ZH8F187C3JZEM7N4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2CG3ZH8F187C3JZEM7N4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2CCZFQK0ASEAPXWGAZFW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J2CCZFQK0ASEAPXWGAZFW",
+          "text": "SASKIA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2CEPWFDZBP9677YJV5CQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2CEPWFDZBP9677YJV5CQ",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "7WFY7C7H9298H922RQRSJK3W56",
+      "reference": "ALT_ALIZE_B_YZ_47_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Jeton Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/30c1fcafb7eb882cf2fd",
+      "reference": "ILLUSION",
+      "id": "01J1QBG2268GSN3G0S560XZGZY",
+      "name": "Illusion"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/43bd7f7bf651ba511781",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_47/JPG/fr_FR/81d8b1c28b03d0f1315ec04a1f5032c0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_47/WEB_120b0b14319d1f63a2f1aa8f319a23fe"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_47_C",
+  "reference": "ALT_ALIZE_B_YZ_47_C",
+  "id": "01J1Q4P4SXE7Q45FWVT059K877",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_47/JPG/it_IT/c4d2a0cf7a5b784ed4734a0bd72e3f21.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_47/JPG/es_ES/64d71e8d4c37221ebbd555383ab721e6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_47/JPG/de_DE/53bd9c08e797499452e99c135f7e41ce.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_47/JPG/fr_FR/81d8b1c28b03d0f1315ec04a1f5032c0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_47/JPG/en_US/4983e225b34039194fd32eb012250488.jpg"
+  },
+  "name": "Phalène de Mana",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "(Si je quitte la zone d'Expédition, retirez-moi du jeu.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-106-T-FR"
+}

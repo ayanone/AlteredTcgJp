@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_11_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY509NB4JRXBE5NHGPHYH4",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH601K3VJ0TKZ5HXKMA9FN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH601K3VJ0TKZ5HXKMA9FN",
+          "text": "« N'abandonne jamais. Personne ne sait de quoi demain sera fait. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH602JAFWEZ39GRFAVNCG4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH602JAFWEZ39GRFAVNCG4",
+          "text": "Je sanglote sur le sol du préau, tandis que résonnent encore les rires et les pas précipités des enfants qui viennent de me chahuter. Les larmes coulent sur mes joues alors que je tiens mon genou râpé et ensanglanté. Mais ce ne sont pas mes plaies ou mes contusions qui me font mal. C'est surtout ce qu'ils ont dit sur moi et ma famille : \"On ne veut pas de toi ici\", \"Mauvaise graine\", \"Fils de traîtres\"... Ce n'est pas la première fois qu'ils m'alpaguent. J'ai déjà été poussé contre un mur, enfermé dans les toilettes tandis qu'ils me renversaient un seau d'eau glacée sur la tête. Et chaque jour, il y avait tout plein de remarques assassines, que les instructeurs peinaient à décourager. Mais je ne pouvais rien dire à Mère. Si je le faisais, elle me retirerait de l'école, et je serais de nouveau seul...\n\nUne main se pose soudain sur ma tête et je lève les yeux, essayant de sécher mes pleurs, cherchant une excuse pour ne rien laisser paraître des brimades. Je m'apprête à dire que je suis juste tombé tout seul quand je remarque que ce n'est pas un instituteur, mais l'Eidolon Ozma qui se penche vers moi. Elle se contente de me sourire et de caresser mes cheveux affectueusement. Et lorsque je bafouille quelques explications, elle pose un doigt sur ma bouche et m'enlace tendrement. Je ressens tout à coup un amour inconditionnel me traverser de part en part, une acceptation totale de qui je suis, malgré l'ignominie qui pèse sur ma lignée. D'un baiser sur mon front, elle chasse cette pensée de mon esprit, avant de me répéter que je n'ai nullement à payer pour les fautes de mes ancêtres. J'essuie mes yeux sur mes manches, et pose ma tête sur ses genoux tandis qu'elle se met à fredonner une petite comptine."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH60233M6HJ6FGHC600VYK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH60233M6HJ6FGHC600VYK",
+          "text": "Créée par L. Frank Baum dans les suites du Magicien d'Oz, Ozma est la fille de l'ancien roi, Pastoria. Transformée en un garçon appelé Tip par la sorcière Mombi, elle est élevée sans connaissance de son passé et de sa prétention légitime au trône. Après que la bonne sorcière Glinda lui a redonné sa véritable apparence, elle monte sur le trône du Pays d'Oz, en tout temps accompagnée de sa chère amie Dorothy Gale."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6008HHTA29H9KV554F25",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH6008HHTA29H9KV554F25",
+          "text": "Sigismar"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH600YQY4XVEMVMKK732TG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH600YQY4XVEMVMKK732TG",
+          "text": "368 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY509NB4JRXBE5NHGPHYH4",
+      "reference": "ALT_CORE_B_OR_11_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4d3db9bc175599ba2cb1",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Noble"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0864ab7fb3ec7c4aa21e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/JPG/fr_FR/dc164767b346a74af7904ec591641160.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/ALT_CORE_B_OR_11_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/ALT_CORE_B_OR_11_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/ALT_CORE_B_OR_11_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_11_R2",
+  "reference": "ALT_CORE_B_OR_11_R2",
+  "id": "01HKAFJNWN8F45GK9TS30XF1WV",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/JPG/es_ES/5a898ecd429fc1f084ef1fb6a7faccad.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/JPG/it_IT/959d6af791d1e531dc6a7ee699b4bc05.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/JPG/de_DE/0bc655fbeecac585e5fcedb4e6e04b09.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/JPG/fr_FR/dc164767b346a74af7904ec591641160.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/JPG/en_US/e3176ea58d795da7ced68c7c54b0829b.jpg"
+  },
+  "name": "Ozma",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "#2#",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "#2#",
+    "MAIN_EFFECT": "{J} Si vous contrôlez au moins #deux autres Personnages [[Boostés]]#, #piochez une carte.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-130-F-FR"
+}

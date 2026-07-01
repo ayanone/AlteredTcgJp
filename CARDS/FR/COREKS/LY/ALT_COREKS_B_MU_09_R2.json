@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_09_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB796H40PTHVWNJGF9T1KM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME82FPHHFXBEFD1TZM6E6M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME82FPHHFXBEFD1TZM6E6M",
+          "text": "On le regarde avec des yeux bienveillants, sans savoir ce que l'avenir lui réserve."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82GM3QY1ZYFDRZJ32MHA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME82GM3QY1ZYFDRZJ32MHA",
+          "text": "On peut parfois les voir en train de somnoler dans leur bulle charnue. Souvent, on les trouve non loin d'une branche de gui, se dissimulant par mimétisme au sein de ses fruits pulpeux et translucides le temps qu'ils éclosent. Et quand le cocon se perce, ils s'étirent et se mettent à arpenter les branches des vénérables arbres, parfois sans fouler le sol, qu'ils préfèrent moussu quand ils osent le faire. Il y en avait déjà beaucoup dans les forêts bleutées de Nutsuwa. Mais là, au sein de la Katkera, il était facile d'en distinguer à tout moment au moins un ou deux sous la canopée, si ce n'était pas toute une ribambelle de petites silhouettes blanchâtres en train de nous observer, curieuses de savoir ce que nous étions ou ce que nous venions faire ici. D'après Turuun, les Kodama sont les esprits des arbres, et en voir à profusion est le signe de leur bonne santé.\n\nNous cheminons sous la voûte végétale, Turuun à dos de yak, et moi à dos de mule. Kiddo ne doit pas être loin, mais nulle trace d'elle dans les environs. Peut-être est-elle en train de chasser, ou de repousser d'éventuels prédateurs un peu trop ambitieux. Mais je ne m'en fais pas tant que ça, au final. La route jusqu'ici, depuis les rives de Kirighai jusqu'au cœur de la forêt, a été plutôt reposante. Hormis bien sûr mes courbatures aux cuisses et mon postérieur douloureux... Au-dessus de ma tête, des Kodama gambadent le long d'une branche, et se penchent pour me regarder de leurs grands yeux innocents. Je m'adosse sur les paquetages que la mule transporte, et les salue d'un joyeux \"ohé !\". Et alors que je passe sous leur petit belvédère de bois, ils me répondent tout en me gratifiant d'un petit signe de main."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82G5KFQDQG5XD19CNEQS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME82G5KFQDQG5XD19CNEQS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82ERDVHWMJNX6CZ6CTDG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME82ERDVHWMJNX6CZ6CTDG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82F8FM8YZ2ZD9D4FEFEG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME82F8FM8YZ2ZD9D4FEFEG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB796H40PTHVWNJGF9T1KM",
+      "reference": "ALT_COREKS_B_MU_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5de56b94054fdfa95426",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plante"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/578bd170ed1b30f53957",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Esprit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4cbf86be3f0b0bc33480",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/fr_FR/a1db48bceec25906db12f5bab7387837.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/WEB_4ee0e302955b533864109b389286a7e9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/WEB_d989432d352aa21f26c93ddc7643f83e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/WEB_1d8d1b432aa3b0a9e29fbc78ff63e1f9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_09_R2",
+  "reference": "ALT_COREKS_B_MU_09_R2",
+  "id": "01HN5TXRQ3G1BB7Y5ZC870CFPC",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/de_DE/35a84bb5e2be0cc39ee3f36188fc2c1f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/it_IT/601a3026b9b1ad88c9a1cda2a6f547b7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/es_ES/1bb50a8d2c7825e05fde0943c048c617.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/en_US/cc3680474e641f59402872d6da2d198c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/fr_FR/a1db48bceec25906db12f5bab7387837.jpg"
+  },
+  "name": "Kodama",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{H} Je gagne [[Endormi]]. (Ignorez mes statistiques pendant le Crépuscule. Au Repos, je ne vais pas en Réserve et je perds Endormi.)",
+    "ECHO_EFFECT": "#{D} : Un Personnage ciblé de Coût de Main {3} ou moins gagne [[Ancré]].# (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-098-F-FR"
+}

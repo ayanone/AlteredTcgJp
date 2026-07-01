@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_05_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB781TFWJNZ95T83BNS5TE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7ZD95ZV1J1Y8MNM9ME4E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7ZD95ZV1J1Y8MNM9ME4E",
+          "text": "« Le monde entier est un théâtre. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZDZ315RFVGG3BE2ZKSD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7ZDZ315RFVGG3BE2ZKSD",
+          "text": "Ses gestes sont lents et précis, chacun d'entre eux exprimant une émotion ou un conflit intérieur. Il se tient seul sur la scène, incarnant à tour de rôle pléthore de personnages : reine, courtisan, marchand, démon, marraine... Et à chaque fois, son attitude change, sa gestuelle se modifie avec une subtile grâce. Je suspecte qu'il fasse appel à l'Altération et laisse s'exprimer en lui certaines idées pour l'aider à mieux interpréter son impressionnante galerie de portraits. Il les laisse entrer et sortir de lui comme des fluides, bousculant qui il est et modelant un instant son identité. Mais le plus fascinant, c'est que même quand il change de masque, il ne s'empêche nullement d'exprimer sa véritable personnalité. Il disparaît derrière ses rôles, et en même temps, il lance au monde sa nature profonde, la crie à son auditoire, sans se soucier de ce qu'on pense de lui.\n\nComme j'aimerais être comme lui. Il passe aisément de l'ombre à la lumière, de la grandiloquence à la retenue. Il glisse d'une identité à une autre comme s'il changeait de chemise, avec autant d'hardiesse que de délicatesse. Je sais qu'à travers l'Altération, il pourrait revêtir mille apparences, mais il n'en a pas vraiment besoin. À travers ses mimiques, ses regards, on sait instinctivement qui il est. On reconnaît les personnages qui prennent vie à travers lui. Ils sont comme de vieux amis qui viennent à sa rencontre, le temps d'une danse. Il joue la comédie, car au fond, nous jouons tous la comédie de temps à autre. Mais en fait, il fait bien plus que ça : il puise en lui la tristesse, la colère, la joie, la déception, la terreur et l'amour. Peut-être pourrais-je moi aussi revêtir un masque ? Et faire en sorte que derrière celui-ci, je puisse être véritablement moi-même ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZDMN9Q4KFERH1FJFFT2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7ZDMN9Q4KFERH1FJFFT2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZCG54ZJYA18A603JMVD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7ZCG54ZJYA18A603JMVD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZCX1H8TKX0XG7PB0TF8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7ZCX1H8TKX0XG7PB0TF8",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB781TFWJNZ95T83BNS5TE",
+      "reference": "ALT_COREKS_B_LY_05_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d088bc3b8279a6d2fdfb",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artiste"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/87c71b9be7d1535bb3a0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/JPG/fr_FR/53e7787bcd4271908336056a004c5133.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_05_R2",
+  "reference": "ALT_COREKS_B_LY_05_R2",
+  "id": "01HN5TXRAAA8QR73SZX270RMFN",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/JPG/it_IT/888f47308eb07f3c9f2aaa4475dfa8e9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/JPG/de_DE/567affbe9d4003887dc237529a12bba2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/JPG/es_ES/c6f01a4ba2c3d8f89a0936a80ac56075.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/JPG/en_US/9ee3d465a4775e6e5b750bfb1972160b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/JPG/fr_FR/53e7787bcd4271908336056a004c5133.jpg"
+  },
+  "name": "Comédien Lyra",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{J} Si vous contrôlez #au moins deux Personnages [[Boostés]]#, je gagne #2 boosts#."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-068-F-FR"
+}

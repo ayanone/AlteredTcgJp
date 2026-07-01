@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_08_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZS2JX50GCTA3GSS7EBJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5THR6QZ8V9S1TTM9PDKV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5THR6QZ8V9S1TTM9PDKV",
+          "text": "Au bout du compte, nous sommes tous façonnés d'histoires."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5TJDYWW16H2WSRNP76F3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5TJDYWW16H2WSRNP76F3",
+          "text": "Nous ne sommes pas nombreux, parmi les Lyra, à ne pas nous placer sous l'autorité d'une Matriarche. Bien entendu, nous entretenons la mascarade pour ne pas souffrir de cette indocilité sacrilège : nous nous confondons en courbettes, tout en nous faisant discrets. Mais en notre for intérieur, c'est la désobéissance qui nous anime. Depuis trop longtemps, elles ont fait de leur position un piédestal, arguant qu'elles seules peuvent converser avec les Muses. Mais les Neuf Sœurs doivent elles aussi rendre des comptes à la Mémoire, et c'est précisément elle que nous servons. C'est pour cela que nous devons évoluer à la marge de leur joug, en silence et en secret. Nos objectifs sont les nôtres, pas ceux qu'elles nous dictent depuis les hauteurs de leur trône. C'est pourquoi nous aimons parfois, quand le public semble mûr et le contexte propice, partager des histoires habituellement tues : celles que les skalds retirent par commodité de leur répertoire. Les histoires ne doivent souffrir d'aucun diktat, et être libres de se mouvoir dans le monde. Elles doivent trouver un écho dans les esprits de ceux qui les entendent. Mais chut, ne les racontez surtout pas à tout va. Choisissez votre auditoire avec soin. Car les histoires portent en elles un pouvoir : elles peuvent ensorceler, bousculer et remettre en cause. Tout ce qui importe, c'est qu'elles ne soient pas oubliées."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5TJ2M3GSZQ97JN4CNSKZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5TJ2M3GSZQ97JN4CNSKZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5TH18YSTAK81V7ERBWA4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5TH18YSTAK81V7ERBWA4",
+          "text": "???"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5THD8ER6BDVCTN0Z9450",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5THD8ER6BDVCTN0Z9450",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZS2JX50GCTA3GSS7EBJ",
+      "reference": "ALT_CORE_B_LY_08_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b42ad02d1c63508299fb",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artiste"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/393584c581ac41c301f4",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/JPG/fr_FR/749fd23c7c686aae85b1eea146dea078.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/ALT_CORE_B_LY_08_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/ALT_CORE_B_LY_08_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/ALT_CORE_B_LY_08_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_08_C",
+  "reference": "ALT_CORE_B_LY_08_C",
+  "id": "01HKAFJNRT9BS4DHQ8YD6C5DXV",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/JPG/es_ES/47fea9d1bf3376fb8ac182c5731f4581.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/JPG/de_DE/b0a707b7b698eb812c5249aa826289c7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/JPG/it_IT/3c8faaf9ab9873cf1f0176fd9be9b724.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/JPG/en_US/a3e0882de5289360a6783b085d641a47.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/JPG/fr_FR/749fd23c7c686aae85b1eea146dea078.jpg"
+  },
+  "name": "Skald Lyra",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "3"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-067-C-FR"
+}

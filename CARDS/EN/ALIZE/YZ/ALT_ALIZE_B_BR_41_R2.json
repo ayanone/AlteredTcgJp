@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_41_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/70Z17XKV0J8QQRKC2F5KA5PJCQ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24JZAWZRKDAQXF5E7QWW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24JZAWZRKDAQXF5E7QWW",
+          "text": "He summons the mightiest beings just for the sake of an epic duel."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24KHNCJGM9RQZ6MNVZ5T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24KHNCJGM9RQZ6MNVZ5T",
+          "text": "Four. I watch the figure of Eros disappear as I count down. The god's wings molt in clouds of feathers that drift in the air before vanishing, carried away by the winds. Three. In his wake, the other Eidolons also disappear, like candles being snuffed out one by one. But they have done their job: They bought me the time I needed. As they disintegrate, the Eidolons release the ideas that shaped them. I feel them boil against my skin, and I feed on them. They fill my entire body. Two. As I keep my sword planted in the ground like a lightning rod, Surge slams into my blade again and again, filling the air with static energy. Flame and lightning. One. Engorged with ideas, I feel them being absorbed by my psyche, by my body. I don't need to think; I just need to express who I am to influence the world around me. I just need to listen to my instincts.\n\nZero. Lightning bolts begin to streak across the ice, shattering it in their path. Wherever the lightning splits and breaks the ice, steaming water gushes forth, bubbling up from underground. The pressure I've been holding back is finally released, and with it, all my violence. Under a heavy, scalding rain, I materialize a new Eidolon. Forged from the ashes of the ones before, it glows with searing heat. It won't bend as it faces the swarms of Belisenki. Come closer, if you dare. The creatures teem in the air like moths at night over a bonfire. Are they even aware of the threat? Will they throw themselves into the flames? Around me, waterspouts rise from the ground in furious spirals before collapsing in hot showers. The Belisenki swirl around me like starlings. I can feel them hesitating. Too bad for them, because I won't hesitate."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24K8J4GRRSH09DSNGAS7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24K8J4GRRSH09DSNGAS7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24JBKFHNQT7XF2PAWTB1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24JBKFHNQT7XF2PAWTB1",
+          "text": "ATSADI\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24JNRM6ST1TH6Z1WKD0F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24JNRM6ST1TH6Z1WKD0F",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "70Z17XKV0J8QQRKC2F5KA5PJCQ",
+      "reference": "ALT_ALIZE_B_BR_41_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0833a12f510188d1878f",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c13f113bd6321b4354fc",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/82359ed75012e16e2d21",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:17+00:00",
+      "question": "If I play a Character with a {j} ability using Mana Flare, while I have an effect triggered by playing a spell (such as Afanas), in which order do I resolve them ?",
+      "answer": "First, you finish resolving the Spell (playing the Character). Then, the active player (you) resolve all their reactions triggered by playing the spell and the Character, in the order of their choice. (This may include effects such as \"When you play a Spell —\", \"When you play a Character —\", {h}, {j}, {r} abilities, etc). "
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/en_US/176ddb8dc425c612a2f42277c3cf5a9d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/WEB_4088e5b0878c75dd2ab32c8716884a54",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/WEB_8dc2e2ba263e003c4b425dce57e2e4d7"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_41_R2",
+  "reference": "ALT_ALIZE_B_BR_41_R2",
+  "id": "01J1Q4P4S3CD549S9SSC7PCM67",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/es_ES/35f7493c664ff1c8cfdb3e1e956ae8b4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/fr_FR/516314e67ac7e95ada2c35194d3b2bb2.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/en_US/176ddb8dc425c612a2f42277c3cf5a9d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/de_DE/8b2c73cd00121cacf46b73111b5fed13.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/it_IT/3d9661e93702dd8d479576ae3ab5346b.jpg"
+  },
+  "name": "Mana Flare",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "[[Fleeting]]. (Send me to Discard instead of Reserve after my effect resolves.)  Immediately play a #Spell# for {5} less."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-030-F-EN"
+}

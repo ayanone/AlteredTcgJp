@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_59_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4N9AT5J92R940R4N5XQ2F5R1HJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A54PQ6EGCM0JKSQ8FCD2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A54PQ6EGCM0JKSQ8FCD2",
+          "text": "A cabezazos seguro que te gana..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A55XGC3EZARN73B7XSTD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A55XGC3EZARN73B7XSTD",
+          "text": "393 AC - It's a waste of time. Like snakes, the moving shadows attack us relentlessly. By my side, the Muna Alterer slashes with her cutlass, protecting her giant fox as best she can. Behind me, Auraq does the same with the furball that acts as her companion. As for Surge, he's well sheltered in my jian. I frown. The shadowed tongues are mainly targeting our Alter Egos… Why? As soon as the question comes up, I silence it. I don't need to know why. Others can figure that out later. My task — my only priority — is the here and now. And right now, I need to destroy my assailants. I summon Surge's Mana and my own. Annihilation and victory is all that matters. Next to me, the two Alterers suddenly turn towards me. I see alarm in their eyes, but I don't care. I'll summon whatever I need to silence the threat. Teija, visibly scared, shouts something to me, but I don't hear her. Auraq narrows her eyes, but instead of fear, I see slight annoyance there.\n\nAround me, heads emerge from the ground one by one, crammed with sharp teeth. The long necks unwind like carnivorous plants and start to shred, lacerate and gulp down the shadows. Then I suddenly feel an intrusion, like small veins taking root in my body. Teija. What's she trying to do? Stop me from giving it form? Her mind slips into mine, encouraging me to send it away. No, even though the temptation is strong, I must stay focused on the ideas that make up the Lernaean Hydra if I want to summon it. I fight on two fronts, but I can't let her stop me from achieving my goal. In a final burst, my will finally prevails, and I open my eyes to gaze on my creation. I hear Auraq's laugh echoing around the cavern after seeing what I've summoned. It's nothing like the bloodthirsty monster I had in mind. The Muna had managed to get around my defenses and implant her own ideas in my imagination. Oh well, this thing will have to do."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A54XM3D1D5WEGN8DVNAG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A54XM3D1D5WEGN8DVNAG",
+          "text": "The Lernaean Hydra is a creature from Greek mythology with the body of a dog or dragon and poisonous blood. It has multiple serpent heads that grow back when cut off. As the second of his 12 Labors, Heracles is given the task of killing it. He succeeds with help from his nephew Iolaos, who cauterized each neck after Heracles cut the head from it."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A547KFQ319H1YK4JTRRK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A547KFQ319H1YK4JTRRK",
+          "text": "ATSADI"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A54FD4CH3SZNZWP3PK6X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A54FD4CH3SZNZWP3PK6X",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "4N9AT5J92R940R4N5XQ2F5R1HJ",
+      "reference": "ALT_BISE_B_BR_59_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4b40f7024191d64e3a2f",
+      "reference": "DRAGON",
+      "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+      "name": "Dragón"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b0997c941b694328a847",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_59/JPG/es_ES/1a52c79c3c122048780a54306ed800e9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_59/WEB_aa44f2b973e520385db431e2f742b6fa",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_59/WEB_e4b4efbf415537276ddb4e8ecbbed316",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_59/WEB_b5e53e8143e2ea4f47a0f4032e99a9e2"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_59_R1",
+  "reference": "ALT_BISE_B_BR_59_R1",
+  "id": "01JB1YGPBCMXTAYG3FZV3BEC8M",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_59/JPG/es_ES/1a52c79c3c122048780a54306ed800e9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_59/JPG/de_DE/bf60175c5466e0e5bcbdc24553c6f781.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_59/JPG/it_IT/eb2f3e3b4c95f062cfca6bb5a544f0b4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_59/JPG/en_US/c58b06da35540c98cf6761efec0d7115.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_59/JPG/fr_FR/a46d97b4de8dfd710f4bd1f06940c8a0.jpg"
+  },
+  "name": "Hidra de Lerna",
+  "elements": {
+    "MAIN_COST": "#5#",
+    "RECALL_COST": "#5#",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "{J} Gano 1 potenciador por cada orbe de maná en tu zona de maná."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-028-R-ES"
+}

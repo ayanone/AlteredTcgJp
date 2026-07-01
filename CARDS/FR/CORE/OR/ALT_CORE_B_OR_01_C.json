@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY508M7GR2VQE4MVDVBAF3",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5YW1H0DJC4J26YXM01S4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5YW1H0DJC4J26YXM01S4",
+          "text": "« Suivez-moi, compagnons ! Si nous travaillons de concert, rien ne pourra nous arrêter ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YWZNE60NQ77WN7779TZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5YWZNE60NQ77WN7779TZ",
+          "text": "392 AC - Wingspan glapit en direction de notre assaillant, tandis que mon épée s'abat sur une autre Chimère qui nous attaque par le flanc. Je jette un rapide coup d'œil vers Sunisa, dont le bouclier présente déjà plusieurs éraflures. Mon aide de camp couvre notre côté gauche, essayant de repousser de la pointe de sa lance les créatures du Tumulte qui nous prennent d'assaut. Elles sont nombreuses, et leur multitude ne semble pas vouloir tarir. Pour autant, nous devons tenir bon pour permettre au convoi de passer le col. Une patte griffue heurte mon bouclier, lacérant sa surface. Je sens le poids de son attaque sur mon épaule, mais parviens à encaisser le choc en serrant les dents. J'écarte la créature, appuyant de toutes mes forces pour la faire déguerpir. Wingspan parvient à l'attraper dans son bec, l'envoie valdinguer un peu plus loin.\n\nLes bêtes qui nous encerclent feulent, aux aguets, attendant qu'une occasion se présente. Je dois profiter de cette brève accalmie pour faire basculer l'échauffourée à notre avantage. Wingspan déploie ses ailes et prend son envol, ses lourdes ailes propulsant de puissantes bourrasques. Les créatures bondissent en arrière. Maintenant. Je plante ma lame dans le sol, puisant dans le Mana de mon Alter Ego. De ma main libre, je trace un Glyphe dans les airs, avant de l'apposer sur le sol. L'Eidolon de Maibritt se matérialise devant moi, brandissant son épais pavois pour me fournir un couvert. Elle n'est pas seule. Une autre recrue Ordis se manifeste à ses côtés. Hallebarde et lance dardent les rangs des créatures du Tumulte. En concentrant mon Mana, j'invoque depuis mon imagination un torrent de feuilles de papier. Elles virevoltent, emplissent l'air comme un blizzard papillonnant. Partout où une page se dépose, elle s'y colle, comme si elle était couverte de glu. Je souris en voyant que les créatures finissent prises au piège dans un amas de feuillets collants."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YWG27P53HR04JFYF47P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5YWG27P53HR04JFYF47P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YV4CAC4BFT37XB6BX3H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5YV4CAC4BFT37XB6BX3H",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YVKG2AKD7E99CEZSADC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5YVKG2AKD7E99CEZSADC",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "01HNGY508M7GR2VQE4MVDVBAF3",
+      "reference": "ALT_CORE_B_OR_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/677f1d48ff56f903862b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/JPG/fr_FR/324a868c471eb334b99205b8c94246f4.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/HERO_THUMB_2b3966dee10b73e5c94df30cdc327dc7"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/HERO_WIDE_57ea11e069a699df24955688f1247b29"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/WEB_c4424b7abf20989cbb30a260a802724c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_01_C",
+  "isOwnerless": false,
+  "reference": "ALT_CORE_B_OR_01_C",
+  "id": "01HKAFJNVK19S8CP6JE98T9T4W",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/JPG/fr_FR/324a868c471eb334b99205b8c94246f4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/JPG/en_US/949b429181a983f2b79f9053bb1c3272.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/JPG/it_IT/62cc6e97645af8b329e773e153b2927e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/JPG/es_ES/06784fa2091b1be1d3dc0d7a86e38231.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/JPG/de_DE/1b866ba1ada42f0ce35c6e43e92fbd8f.jpg"
+  },
+  "name": "Sigismar & Wingspan",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "À Midi — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Expédition Héros.  Ignorez ma capacité le premier Jour."
+  },
+  "isSuspended": false,
+  "isErrated": true,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "BTG-121-H-FR"
+}

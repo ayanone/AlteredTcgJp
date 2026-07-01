@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_63_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5ZXNM2R9GH9THT1J0NM05XSZ7X",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A6KTE45C7C1H1MM3SMAT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A6KTE45C7C1H1MM3SMAT",
+          "text": "Day or night, the music of BLISS reinvigorates weary hearts and bodies."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6N5A64AY0A1P9A8W9PE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A6N5A64AY0A1P9A8W9PE",
+          "text": "393 AC - I check my makeup one last time in the mirror — blush, eyeliner, mascara, eyeshadow, glitter — and quickly dab at the corner of my lips with one finger to clean up a stray bit of lipstick. Then I emerge from backstage for my last rehearsal before the big night, walking carefully among the coiled cables and those running across the stage. The sound techs check the equipment and connections while the lighting crew run their usual tests. The neon lights go up as I step up to my mark, a simple \"X\" of black tape on the stage. Looking back, I see the name of our group, \"BLISS\", appear in flashing letters outlined in multicolored neon. I breathe out deeply to ease my nerves. As usual, my stage fright is right there, like a knot in my stomach. And I know it'll stay there until the first few notes start to ring out.\n\nI adjust my earpiece and grab the mic to adjust the height. Then I talk with the sound techs for a minute, running through some vocalizations to set the monitor and amp levels. I warm up my voice, and exhale once again to quiet the anxiety in my guts. I turn to the horizon, where a bright sunrise is starting to glow. Yesterday, we flew over the camp at midday to announce the concert. We threw confetti into the crowd to delight the explorers with the first track from our new album and help set the tone. I'm sure a lot of them will show up here tonight, to trade a little bit of their precious free time for some real entertainment. We'll have to really put on a show to avoid disappointing them. I feel the knot tightening up again, and again I exhale. Nearby, Crowbar is tuning his guitar. Tamati and Orbec are chatting over cups of Sap soda… I smile as I realize, like I always do, how lucky I am to have these folks with me."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6MWVDH7M27C32T74EQV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A6MWVDH7M27C32T74EQV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6K7TAEBTJDWK5223ANQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A6K7TAEBTJDWK5223ANQ",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6KG0T35MXQYWWH19P18",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A6KG0T35MXQYWWH19P18",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "5ZXNM2R9GH9THT1J0NM05XSZ7X",
+      "reference": "ALT_BISE_B_LY_63_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Landmark Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8d5ac8a73324551b3323",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6de4d8c83165bb764399",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_63/JPG/en_US/74c1e54b30a642943871047957691b31.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_63/WEB_fc82d96a2b8b9a4e9dc6172ec800d2c5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_63/WEB_08eb113248f3b0fe15424aa1a0e7b425"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_63_C",
+  "reference": "ALT_BISE_B_LY_63_C",
+  "id": "01JB1YGPBKEFCQKEA8X5SEW61T",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_63/JPG/es_ES/d681d34ea7d7bcbc0b8d531c4b2c84a1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_63/JPG/de_DE/f31cd4b072d05763105f96754794e993.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_63/JPG/en_US/74c1e54b30a642943871047957691b31.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_63/JPG/fr_FR/c7684601e92fc8ff6d170ccf96ed5290.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_63/JPG/it_IT/da637b5005df08f639512d7a161f646b.jpg"
+  },
+  "name": "The Stage",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "When you play a Character with a base statistic of 0 — I gain 1 Performance counter.  {T}, Spend 3 of my Performance counters: The next Character with a base statistic of 0 that you play this turn loses [[Fleeting]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-050-C-EN"
+}

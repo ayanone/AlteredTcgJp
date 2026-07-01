@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_31_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50BTSQ2G1BKSY77S1J89",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH62PZH5H0QT77T4V5Y018",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH62PZH5H0QT77T4V5Y018",
+          "text": "Protéger le peuple d'Asgartha est le plus grand honneur qui soit."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62RBMT7YBZZ0BYQNC319",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH62RBMT7YBZZ0BYQNC319",
+          "text": "Je balaie du regard les rangs des nouvelles recrues. Toutes connaissent l'enjeu. Jadis cadets, elles peuvent désormais prétendre au rang de troupier, si elles passent les deux années probatoires. Je sais que la majorité d'entre elles réussiront à intégrer les contingents de l'Aegis haut la main. Et même si certaines sont recalées, ces dernières auront la possibilité, au lieu de retourner à la vie civile, de prétendre à un poste d'auxiliaire logistique ou administratif, et ainsi de gagner leur Losange... Mais si la tension est grande, c'est pour une autre raison. Elles sont nombreuses à briguer un poste au sein des Corps expéditionnaires. Et pour cette position particulière, les places seront chères, et seules les meilleures pourront y accéder. Je scanne l'assistance. Les autres instructeurs ont lancé les paris sur lesquelles auront cette chance, et qui sera major de promotion cette année.\n\nMême si je ne m'abaisse jamais à participer à ce genre d'enfantillages, je ne peux m'empêcher de jauger mes recrues. Mon rôle sera aussi de déterminer qui parmi elles aura l'étoffe de passer officier. Amensisa a la poigne nécessaire, et Sunisa cette aisance naturelle qui lui fait tout réussir, mais c'est Osoyo qui a pour moi la meilleure marge de progression. Le jeune homme n'est peut-être pas le plus éloquent ni le plus talentueux, mais il a de la patience et de la discipline. C'est une force tranquille, certainement, mais il y a dans son regard la dureté de l'acier. Ses yeux sont en permanence fixés sur l'objectif, avec une niaque que j'ai rarement vue chez quelqu'un d'aussi jeune. Les recrues se mettent au garde-à-vous alors que les officiers d'état-major entrent dans le mess. L'Amiral Singh, suivie du Commodore Jeanty... mais aussi Sigismar. Un sourire pédant sur le visage, avec la suffisance que seule la noblesse peut allouer, il dévisage à son tour chaque recrue."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62QNGY7DFMVZVX0517N4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH62QNGY7DFMVZVX0517N4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62NN4X46VKACWAN0PX74",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH62NN4X46VKACWAN0PX74",
+          "text": "Sigismar"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62PA91CH3GNPY00514SC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH62PA91CH3GNPY00514SC",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "01HNGY50BTSQ2G1BKSY77S1J89",
+      "reference": "ALT_CORE_B_OR_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Jeton Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9665c1af2cab08a5333d",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a7fdfbb0fc1115e3f128",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/6884974da21d21e38d11",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-03-01T10:37:49+00:00",
+      "question": "What are the differences between the two Ordis Recruits?",
+      "answer": "The difference is only in the gender of the Character and the illustration, and has no game effect. In German for example, cards that mention \"Ordis Rekrut\" can create \"Ordis Rekrutin\" instead."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_31/JPG/fr_FR/ac1c7cf3c8d95cf6f7e4f9947d7e903a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_31/WEB_e12f281bf3f13f71dc36b7f9934120d8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_31_C",
+  "reference": "ALT_CORE_B_OR_31_C",
+  "id": "01HKAFJNYZAM3CC2KCXB5QB4HE",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_31/JPG/es_ES/e3c80513789ddb7e62ee9f368362e70b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_31/JPG/de_DE/0f801ed90f863b6ce7a8e2b02222e52e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_31/JPG/en_US/7b62d819e24b09c5e493ffc4c67c6958.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_31/JPG/fr_FR/ac1c7cf3c8d95cf6f7e4f9947d7e903a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_31/JPG/it_IT/6319db0c9c3d96e63a601810ed7b0d5e.jpg"
+  },
+  "name": "Recrue Ordis",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "(Si je quitte la zone d'Expédition, retirez-moi du jeu.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-183-T-FR"
+}

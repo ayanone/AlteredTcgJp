@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_41_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7HC4SEN5BN9FWRFBMSXF1QWEDR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2972AT468M3XXV8JQTZ3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2972AT468M3XXV8JQTZ3",
+          "text": "\"How may I help you?\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J298BSP44NT818QSJ03P0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J298BSP44NT818QSJ03P0",
+          "text": "I enter the ice palace, which has been heavily reinforced with Alteration. Outside, the colors are fading from the sky, and while it's still light for now, night will be falling before long. Clerks and couriers bow as I pass, and I return their greetings, though I don't have much time for niceties. I head for the main dais in the back office and approach the liaison officer. The young woman runs her fingertips over the letters, deciphering the Braille letters that she receives before passing them on to the relevant people or departments. I cough slightly to announce my presence, and she stops reading. I enter my personal Glyph in her registry, and she checks it with her fingertips before handing me two Paper Heralds. One is from the Admiralty, and the other… The other is from my sister back in Arkaster.\n\nI first unseal the snake-shaped origami and deftly unfold it to reveal Admiral Singh's initials. As my eyes scan the message, I feel a knot forming in my stomach. The Ouroboros has detected Tumult waves coming in our direction, and they will hit our location in a few days. I immediately set off for General Sekifu's offices. It's a race against time. The general staff must be informed right away of the evacuation order. The orders instruct us to immediately head to the Cais Adarra and take shelter within the Oasis. My steps echo on the floors of the temporary citadel, and there at the entrance is Sunisa, who seems to instinctively sense my concern. And for once, she refrains from any clever comments. I notice that I'm still holding my sister's letter in my hand. I'm afraid this missive will have to wait."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J297PFE3XXDHA4SY0962P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J297PFE3XXDHA4SY0962P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29557BB9JCSGSRZ783VB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J29557BB9JCSGSRZ783VB",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J295QCVDGJKVR51F2E0XX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J295QCVDGJKVR51F2E0XX",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7HC4SEN5BN9FWRFBMSXF1QWEDR",
+      "reference": "ALT_ALIZE_B_OR_41_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/63ebe54f2c3ca96237d2",
+      "reference": "MESSENGER",
+      "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+      "name": "Messenger"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2575a5e4af30a065b78c",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7f0a2a6b42d302ba3646",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/en_US/02e1ba808f5dd07d317e07e7a32cc8fa.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/WEB_595dab3c3726788db827bf0f892c36a9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/WEB_71a93891ced06e9a8d9f45b649d396b4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/WEB_535b4b6bcfbe88bb0a536e95d35fe340"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_41_C",
+  "reference": "ALT_ALIZE_B_OR_41_C",
+  "id": "01J1Q4P4SN8RYANNFV99ET5V44",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/fr_FR/a57f85dd4e1c3e0418141b46a5685825.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/de_DE/9dfbd8e3725e7f6414876b168b34d168.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/it_IT/95fac6bcfba43125a55ae0be4726df42.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/es_ES/0abb7aa354761dd6144aff975b5bae0b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/en_US/02e1ba808f5dd07d317e07e7a32cc8fa.jpg"
+  },
+  "name": "Ordis Liaison",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{J} Each other Character you control gains 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-078-C-EN"
+}

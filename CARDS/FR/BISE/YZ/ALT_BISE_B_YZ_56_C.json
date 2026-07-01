@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_56_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0J2MED98DS9YDAA8J8RZAQWR3H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1ABYQD5MWADP5JVWK9PNE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1ABYQD5MWADP5JVWK9PNE",
+          "text": "La Cité a une âme, et elle est affamée."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AC0VBRE64QJF0EY6ZQ9V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1AC0VBRE64QJF0EY6ZQ9V",
+          "text": "393 AC - Les derniers ingénieurs Axiom traversent les portails, et ces derniers se referment avec un bruit de succion. Mais même si Lindiwe voudrait tourner la tête pour s'assurer que tous sont passés, je ne lui en laisse pas l'opportunité. Je ne m'intéresse pas à eux. Ils sont le cadet de mes soucis. Je suis bien trop occupé à observer l'ouverture qui s'est dessinée dans la paroi. Soudain, dans un bouillonnement vaporeux, une masse sombre en émerge, explosion de fumée sinueuse et chuintante. L'ondée noire s'entrouvre d'abord sur un œil fendu et vorace, puis une gueule carnassière, cerclée de dents acérées. Te voilà donc, abomination. Elle exhale la faim, la famine. Une langue préhensile sort de la bouche, sondant les environs, tandis que des mains affublées de doigts effilés et crochus jaillissent du tourbillon de nuages noirs. Elle se précipite sur la Sève qui continue de couler là où les prospecteurs ont percé la citerne.\n\nElle s'en repaît goulûment, comme une bête, sans une once de bienséance. Elle plonge les mains dans la substance pâteuse et les ramène à sa bouche, sa langue léchant sans vergogne, comme si elle était taraudée par une fringale démente et irrépressible. Oh, comme je te comprends, engeance. Combien je t'offre ma commisération. Mais en la voyant de près, je voyais bien que sa nature était différente de la mienne. Ainsi, sa priorité était la Sève. Mais dans ce cas, pourquoi s'en prendre à ceux qui s'aventuraient ici-bas ? Parce qu'ils en avaient consommé, et que le liquide coulait dans leurs veines ? Non... Il y avait autre chose. J'avais senti comme la Sève était assimilée par un organisme humain, comment elle était métabolisée. Non, il y avait quelque chose de compulsif dans son comportement boulimique. Lindiwe étrécit les yeux tandis que je prends appui sur ses Iris, à la recherche de ce qui peut expliquer sa gloutonnerie, son avidité impérieuse..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABZ6BZ05SCDMGWHQJE2J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1ABZ6BZ05SCDMGWHQJE2J",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABXWJH1EZWW5T837803D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1ABXWJH1EZWW5T837803D",
+          "text": "MAW"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABYAPJH08YGRD7AH1302",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1ABYAPJH08YGRD7AH1302",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0J2MED98DS9YDAA8J8RZAQWR3H",
+      "reference": "ALT_BISE_B_YZ_56_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6f19be32091968f08851",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Esprit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ce55b96fc8a1e6814624",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/fr_FR/8823a2d9ca6c43ce5d59a817ce96fc5e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_C",
+  "reference": "ALT_BISE_B_YZ_56_C",
+  "id": "01JB1YGPC2Q3NTVGMMSJ2VZ6ZY",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/es_ES/3c3499ca942416d8069263ad602fe48c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/it_IT/9120cfe28ed157ddfc8483ed967cc0c6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/de_DE/533a7638d4ac6fcf85465de3242f6026.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/en_US/2c1f06235ef9731ccc521cbc32ec93f4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/fr_FR/8823a2d9ca6c43ce5d59a817ce96fc5e.jpg"
+  },
+  "name": "L'Affamé",
+  "elements": {
+    "MAIN_COST": "9",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{H} Défaussez toutes les autres cartes en jeu ou en Réserve.  Lorsqu'une carte va dans la défausse — Je gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-096-C-FR"
+}

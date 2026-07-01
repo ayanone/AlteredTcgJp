@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_46_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6BAZX3FHGJ9FFSJDF6QG3FDE5P",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23W1MGEHZ0V0ZF78XZ40",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23W1MGEHZ0V0ZF78XZ40",
+          "text": "Nelle caverne e negli anfratti, geme e ci chiama."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23WM03ZGXTCVHG8FT33E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23WM03ZGXTCVHG8FT33E",
+          "text": "Parcheggio il mio ragno e scendo sulla cengia con qualche difficoltà. Per un breve momento provo una sensazione di vertigine, probabilmente a causa del vento che soffia sulla rupe. Non mi è mai successo, nemmeno quando ero nella cabina di pilotaggio di un'aeronave. La portatrice appoggia l'attrezzatura e la fissa a terra con delle cinghie, poi mi raggiunge all'ingresso della cavità. Dico a Rossum di aspettarmi e lui ubbidisce, anche se sento che è chiaramente ansioso. Alzo una lanterna per far luce all'interno della grotta; le pareti si illuminano immediatamente. Gesso, ghiaccio e pirite. Ma c'è una luce che proviene dalle profondità delle gallerie. All'improvviso, vedo una farfalla svolazzare vicino al mio viso e faccio un balzo. Tiro un sospiro e guardo la portatrice, ma lei non sembra volermi prendere in giro per lo spavento.\n\nMentre scendiamo lungo un pendio umido, le pareti si illuminano di un bagliore etereo. Anche se non ho mai visitato il Kadigir, è così che mi immagino il Magistero, con punti luminosi che costellano le pareti. Bioluminescenza... Sono licheni? O un'altra forma di vita? Entriamo in caverne sempre più ampie e alcune sono così luminose che non ho nemmeno bisogno di tenere la lanterna accesa. Mi avvicino a una colonna che si erge tra un gruppo di stalagmiti. Quando appoggio una mano sulla sua superficie, mi rendo conto che si estende fino al soffitto e si ramifica, come se fosse il tronco di un albero. Guardo le luci sulle pareti e sul soffitto. È come uno sciame di lucciole o fuochi fatui... Mi sembra di essere in un giardino o in un frutteto, ma composto esclusivamente di minerali. La portatrice mi tocca il braccio e indica l'acqua che inonda il pavimento della grotta. Ha ragione, si sta alzando a vista d'occhio..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23WB09GGRSSCX0QF967V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23WB09GGRSSCX0QF967V",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23VD42KRJQAF4DXKR7FD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23VD42KRJQAF4DXKR7FD",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23VQYZJ23NC3Q6GJ6TRX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23VQYZJ23NC3Q6GJ6TRX",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "6BAZX3FHGJ9FFSJDF6QG3FDE5P",
+      "reference": "ALT_ALIZE_B_AX_46_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente Fulcro"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b6bb9993450b2dc83326",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Sito"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/41819f70271824d28c58",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/0d1806febecbdf33a117",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:13+00:00",
+      "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
+      "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/it_IT/119aebadc42404258cadacc55d24c913.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/WEB_6d76ca6e557e4d824b84e7fe14d42385",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/WEB_2bd8a292af18d582eb246bc805b1c798"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_46_C",
+  "reference": "ALT_ALIZE_B_AX_46_C",
+  "id": "01J1Q4P4RXESM7EW214EN53FJ4",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/es_ES/8f88e5abc31a255443ab3c7585e878ec.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/de_DE/0a95993a1c6e5af3912f33ea83897de4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/en_US/c19b8ccd6106c727a502a601472d248b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/fr_FR/d500a0434c1ab19638c4da081a61feaa.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_46/JPG/it_IT/119aebadc42404258cadacc55d24c913.jpg"
+  },
+  "name": "Cavità del Gelo Perpetuo",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "Quando una carta va dal tuo mazzo o dalla tua mano nella Riserva — Ottengo 1 segnalino Prova.  Quando ottengo il mio terzo segnalino Prova — Sacrificami. Se lo fai, crea una pedina Illusione [Spirito del Drago 5/5/5] in una spedizione bersaglio, poi ripristina tutte le carte nella tua Riserva."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-016-C-IT"
+}

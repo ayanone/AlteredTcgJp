@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_24_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZB4ZJHZR084MCQJ31DE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5SJXJ92JXW7KNHM6DFCC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5SJXJ92JXW7KNHM6DFCC",
+          "text": "Depuis de nombreux siècles, Kaibara veille sur Asgartha."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SKGN8VRCB78CWZ93FBZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5SKGN8VRCB78CWZ93FBZ",
+          "text": "Ça fait plus d'une dizaine de minutes que Teija est assise en tailleur, alors que je ronge mon frein. Sur la plage, le plan est en train de voler en éclats. Des soldats Ordis se font emporter par les flots tumultueux, et le Kraken s'en donne à cœur joie avec ses tentacules et ses geysers d'encre noire. Je fais les cent pas, essayant de me contenir. Mais le fait de savoir que Gul est là-bas, en train de souffrir le martyre... Non, faut pas que je pense à ça. La Muna m'a demandé de lui faire confiance. Elle m'a dit qu'elle allait s'insinuer dans le réseau de Mana pour faire appel à un allié qui pourrait nous sauver la mise. Quand est-ce qu'il va arriver, bon sang ? Mais alors que je vais de nouveau lui demander où elle en est, Tei ouvre les yeux et fronce les sourcils. Puis un léger sourire illumine son visage.\n\nJe lève soudain les yeux au ciel, hoquetant de surprise. Une ombre plane au-dessus de nous ; une ombre tellement grande qu'elle gonfle et chasse les nuages sur son passage. Puis la forme colossale transperce la voûte nuageuse. Kaibara. Le Léviathan fond sur nous, son cri emplissant le monde comme une complainte. Teija me hurle quelque chose que je peine à entendre, mais je comprends. Instinctivement, je me mets à courir, Booda sur mes talons. Je sprinte, esquive les rochers qui émaillent le chemin. Quand la baleine approche et se met à longer ma position, mon sang ne fait qu'un tour, et je saute dans sa direction, me jetant dans le vide. Mes mains s'agrippent à une branche, celle d'un arbre qui pousse à la surface de son épiderme. Et je tiens bon, même ballotté par les vents qui me fouettent le visage. Je peine à ouvrir les yeux, mais de ce que je vois, Kaibara est en train de foncer sur le Kraken. Comme nous tous, il a une revanche à prendre..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SK62GR19BJBYKRZ6XBA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5SK62GR19BJBYKRZ6XBA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SJAVCQBRP8EVMP3F3FG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5SJAVCQBRP8EVMP3F3FG",
+          "text": "Kojo"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SJKP94X84JPJCMWB7Y4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5SJKP94X84JPJCMWB7Y4",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZB4ZJHZR084MCQJ31DE",
+      "reference": "ALT_CORE_B_BR_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5349a21b2e22819f1b74",
+      "reference": "LEVIATHAN",
+      "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+      "name": "Léviathan"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/33031302b1e2817ced51",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/fa232437fa9064422a63",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-28T10:37:42+00:00",
+      "question": "If my opponent uses a Spell or ability talking about \"target Character\" and all my Characters are Tough, what happens? ",
+      "answer": "When your opponent casts a Spell or resolve an ability that can target one of your Tough Characters, they decide if they want to pay the extra mana to make one of your Tough Character a valid target. If they choose not to (because they don't have enough mana, or because they don't want to), the effect resolves as if your Characters were untargettable.  Depending on the effect, it might mean the effect may simply do nothing, or it might mean they must target one of their own Characters."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/JPG/fr_FR/74b4899760f5bec97cf56d19f5f81e1c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_24_R2",
+  "reference": "ALT_CORE_B_BR_24_R2",
+  "id": "01HKAFJNQE26Q6A1CE55QYR4FW",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/JPG/de_DE/cf9e693b7f9a25f4d2a50a552546bb19.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/JPG/es_ES/e08d769508bc6f7664d4d4371998bd48.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/JPG/en_US/979531bbf9af8e778de34845351ebcc4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/JPG/fr_FR/74b4899760f5bec97cf56d19f5f81e1c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/JPG/it_IT/973e939e91de952f35e79a9656cd9350.jpg"
+  },
+  "name": "Kaibara, Léviathan Asgarthi",
+  "elements": {
+    "MAIN_COST": "8",
+    "RECALL_COST": "8",
+    "OCEAN_POWER": "6",
+    "MOUNTAIN_POWER": "6",
+    "FOREST_POWER": "6",
+    "MAIN_EFFECT": "[Gigantesque]. (Je suis considéré présent dans chacune de vos Expéditions.)  [Coriace X], où X est le nombre de régions entre votre Héros et votre Compagnon. (S'ils sont adjacents, X est égal à 0. Vos adversaires doivent payer {X} pour me cibler.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-054-F-FR"
+}

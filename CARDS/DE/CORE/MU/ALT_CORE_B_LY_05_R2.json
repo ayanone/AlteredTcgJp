@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_05_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZRHP8TKS6WBFBGS6X1H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5TAXK0W2WS6VY8P89EDA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5TAXK0W2WS6VY8P89EDA",
+          "text": "„Die ganze Welt ist Bühne.“"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5TBQET096TGTJEZ5XN8P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5TBQET096TGTJEZ5XN8P",
+          "text": "His movements are slow and precise, each expressing an emotion or inner conflict. He stands alone on the stage, playing a range of characters in turn: queen, courtier, merchant, demon, godmother... And each time, his demeanor changes and his gestures transform with subtle grace. I suspect he is using Alteration and allowing certain ideas to flow through him to help him better perform his impressive portrait gallery. He lets them infiltrate and seep out like fluids, transforming who he is and shaping his identity for a brief time. But what I find most fascinating is that he never hesitates to express his true personality, even when he changes his mask. He disappears behind his roles, and at the same time, he reveals his true nature to the world, shouting it out to the audience without worrying what they think of him.\n\nHow I wish I were like him. He drifts effortlessly from shadow to light, from grandiloquence to restraint. He glides from one identity to another like others change their shirt, with as much boldness as elegance. I know that he could take on thousands of guises through Alteration, but he doesn't need to. Through his expressions and through his gaze, we instinctively understand who he is. We recognize the characters that come to life through him. They're like old friends coming together for a brief dance. He acts because, when it comes down to it, we all playact from time to time. But he's actually doing much more than that: He draws sadness, anger, joy, disappointment, terror and love from within himself. Maybe I could also wear a mask... And if I did, could I be my true self behind it?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5TBCBC20JGPTPQEQS6B4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5TBCBC20JGPTPQEQS6B4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5TA4C6DV8YRHD4D8ZAN4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5TA4C6DV8YRHD4D8ZAN4",
+          "text": "Auraq"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5TAERS6JFXHJX2VTTNG3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5TAERS6JFXHJX2VTTNG3",
+          "text": "360 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZRHP8TKS6WBFBGS6X1H",
+      "reference": "ALT_CORE_B_LY_05_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bfb5ef02bcbd74d547a3",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Künstler"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/bfbfc9ed87c117d50e93",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/JPG/de_DE/87a7390ca87ccfa1a8fe8a201857964c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_05_R2",
+  "reference": "ALT_CORE_B_LY_05_R2",
+  "id": "01HKAFJNRH5KAW2JBDJWBXTWP1",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/JPG/es_ES/04afba43c7fdeb988367f069bcb18fe6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/JPG/it_IT/802ad226398e3fda2e8013b83980304d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/JPG/en_US/1e1a95066e04447b300f0f31b1d6528a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/JPG/fr_FR/d4e1b0bfc52585f289b25337863dd2d2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/JPG/de_DE/87a7390ca87ccfa1a8fe8a201857964c.jpg"
+  },
+  "name": "Lyra-Mime",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{J} Falls du #mindestens zwei Charaktere mit [[Verstärkt]] kontrollierst#, erhalte ich #2 Verstärkungen#."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-068-F-DE"
+}

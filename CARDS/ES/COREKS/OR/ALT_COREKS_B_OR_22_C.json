@@ -1,0 +1,183 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_22_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79AGXNH7AW2Z59FAJC18",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME880WE0YWDQP4G12Y45FC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME880WE0YWDQP4G12Y45FC",
+          "text": "«La pluma es más poderosa que la espada»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8823T991TSKKX1WWXZPJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8823T991TSKKX1WWXZPJ",
+          "text": "The Eidolon opens the old grimoire, pausing to stare hard at me. It's not easy to read the emotions reflected in his bird eyes. Is he angry, or simply confused? Regardless, I need his help to decipher this cryptic and antiquated manuscript. Of all the books, those about the Tumult Nomads are probably the most precious and most delicate, in all senses of the word. But rather than being surprised that I have this valuable tome in my possession, Thoth starts to leaf through the pages, tilting his head to better decipher its contents. Then he dips his quill in the inkwell and starts to transcribe certain passages. If the fates are smiling upon us, these memoirs will contain a powerful idea we can all rally around, and towards which the very principle of the Rediscovery Endeavor could gravitate.\n\nThoth hands me page after page containing the fragments he has translated. I read them carefully, reflecting on how each bit of information could help Avkan. Of course, there are interesting mentions of the future of the lost tribe and intriguing anecdotes about the Shepherds of each caravan. But there's nothing that could lend weight to the aims of the great endeavor, or truly measure up to the scope of what we hope to accomplish. I sigh and rub my eyes. On the other side of the bay window, the sunlight of the day has turned to the coppery glow of dusk. Thoth hands me a new page. I read it once, and then once more to be sure I've understood the words correctly. \"The City of Scholars, where the source of the Tumult is engraved...\" My hands are shaking. The source of the Tumult? Finding its origin... There's no reason more compelling than that!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME881F5WXNSKP89RS8DF5S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME881F5WXNSKP89RS8DF5S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87ZFPKAQ0VT73SN861PV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME87ZFPKAQ0VT73SN861PV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8808TFTBMS6EKXN8948Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8808TFTBMS6EKXN8948Y",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79AGXNH7AW2Z59FAJC18",
+      "reference": "ALT_COREKS_B_OR_22_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8908bbc736110efb033a",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Burócrata"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3a745909222c9ef0ddcd",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deidad"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f39932fde2c6c682b919",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/60d4914b2042f2c49688",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:38:05+00:00",
+      "question": "What happens during tie-breaker if Thoth is in my Expedition, but neither player wins and there's a second tiebreaker Day?",
+      "answer": "In the Arena, Expeditions don't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant. They cannot \"fail to move forward\" either."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/2ab27321330f4ee921b7",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-01T10:38:05+00:00",
+      "question": "What does \"after Rest\" mean?",
+      "answer": "\"After Rest\" means after Characters have returned to Reserve, but before the Clean-Up when players choose which cards to keep in their Reserve and Landmarks zone."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/JPG/es_ES/701a3309e41eb81c03fd0b8d10b1db96.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_22_C",
+  "reference": "ALT_COREKS_B_OR_22_C",
+  "id": "01HN5TXRGXNRGM4VTE5DMJBE11",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/JPG/de_DE/cf5ee8b13ce824b32656b95807699f77.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/JPG/it_IT/c300a949bcc35668959b08bd38505aea.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/JPG/es_ES/701a3309e41eb81c03fd0b8d10b1db96.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/JPG/fr_FR/f0b625d874c18c50c757577e5de846d1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/JPG/en_US/2bd5b1ca44a2d2f94a9c2cec20768ece.jpg"
+  },
+  "name": "Thoth",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "Cuando mi expedición no logre avanzar durante el anochecer — Crea una ficha de soldado [Recluta de Ordis 1/1/1] en una expedición objetivo tras el descanso."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-136-C-ES"
+}

@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/39K643SV8B9F5SQF9ZD7S8AY23",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23Z8K00RCKDF79S9QYEA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23Z8K00RCKDF79S9QYEA",
+          "text": "Solo chi ne sarà degno potrà raggiungere la vera trascendenza sotto la mia guida."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23ZTKE40VR36R8BMVP9Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23ZTKE40VR36R8BMVP9Y",
+          "text": "392 AC - Guardo l'acqua agitata mentre vengo colpita da uno zampillo di schiuma. L'acqua scivola sulla mia pelle mentre Kaizaimon girovaga avanti e indietro, attendendo pazientemente il momento giusto per uscire allo scoperto. Nell'oscurità spettrale, le onde si schiantano con grandi boati sulla scogliera, mentre un fulmine sferza come una lama il cielo in tempesta. Intorno a me, gli altri soldati Bravos sono sdraiati a pancia in giù, nascosti e all'erta. Li vedo maledire il freddo e l'acqua che penetrano in profondità nei loro vestiti, ma nessuno di loro si lamenta. Sorrido. Non sarà certo qualche goccia a intimidirli. Improvvisamente, Kai affiora dalla mia pelle in una nuvola rossa simile a nebbia sanguigna. Il mio oni si solidifica gradualmente, riassumendo il suo aspetto originale. Inizia a fluttuare sopra al promontorio dove abbiamo trovato rifugio in attesa di tendere l'imboscata.\n\nGuarda il cielo e il mio sguardo segue il suo, proprio mentre un grifone squarcia le nubi. Ha in groppa Sigismar e vola verso la spiaggia. Questo significa che manca poco. Faccio scrocchiare il collo e le dita. Intorno a me, gli altri guerrieri iniziano lentamente a sparpagliarsi. Alcuni si sgranchiscono le spalle, altri sfoderano la spada. Mi volto verso di loro e sorrido. Loro fanno altrettanto. Ma non si tratta di sorrisi gentili, quanto piuttosto di ghigni rapaci. Esattamente ciò di cui ho bisogno. Oggi ho bisogno che siano dei demoni. Urlo verso di loro, scuotendo il pugno in aria mentre l'uragano infuria. Rispondono con un ruggito e alcuni battono le armi sugli scudi. Il nemico sarà formidabile e la sfida sarà estremamente intensa. Ma è esattamente questo ciò per cui vivono i Bravos. Forza, Kraken! Siamo pronti!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23ZGYS7QCNF1G8ANDRSJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23ZGYS7QCNF1G8ANDRSJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23YN9ZCHQ69EX9VQFXM3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23YN9ZCHQ69EX9VQFXM3",
+          "text": "BASIRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23YZA124MFJYX37E68ZR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23YZA124MFJYX37E68ZR",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "39K643SV8B9F5SQF9ZD7S8AY23",
+      "reference": "ALT_ALIZE_B_BR_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4d8beab1bc63d7b4528a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/it_IT/34622479d6064a08d2e979954b78cb3c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/WEB_f41387cdaa1212b428e38b15cc93cb33"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/HERO_THUMB_cd4d6d9c838eddd421b2a3b1e1bfd7ca"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_03_C",
+  "reference": "ALT_ALIZE_B_BR_03_C",
+  "id": "01J1Q5HPCJKHA6HASE49JNA2WX",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/de_DE/f64e0d0bc73a2c68db856903ecec6126.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/fr_FR/12d12587095ceaf5023f74b0181c8819.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/en_US/03f9d7221026c68e1a6cab58d3c8d2e2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/it_IT/34622479d6064a08d2e979954b78cb3c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/es_ES/0e2c54bd2311aeb6a1430a9104b84e90.jpg"
+  },
+  "name": "Basira e Kaizaimon",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "Quando un personaggio che controlli ottiene 1 o più rinforzi — Puoi consumarmi ({T}) per conferire 1 rinforzo a un personaggio bersaglio. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-019-H-IT"
+}

@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_40_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3D6H7H2JX18RDVTZP7T8KX1ZZD",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2734VRABKY4N8RN1Z70Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2734VRABKY4N8RN1Z70Z",
+          "text": "Hope springs eternal."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J273WAFAEBZQVD53A7TND",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J273WAFAEBZQVD53A7TND",
+          "text": "Radiant and resplendent, Demeter stands proudly before Admiral Singh in a garment made from flared leaves of a bright, fresh green. Her long train is trimmed at the end with ears of wheat, which in a different setting might resemble a viper's tail. But there is no venom in her attitude, only an amiable aura that gradually puts me at ease. As she faces the head of the Expeditionary Corps, she grows a seat of interlaced branches beneath her and sits down gracefully. With a smile, Temera Singh sits down in turn and raises the possibility of permanently changing Storhvit's climate. For many people, I know that crossing the region is grueling, not least because of the harshness of its interminable winter. Besides making progress quite laborious, many explorers have suffered frostbite, cardiovascular problems, hypothermia… not to mention the Belisenki.\n\nI had tried many times to stand up to those members of the general staff who were demanding that this biotope be terraformed. There had been endless meetings about it, with some of them becoming rather confrontational. That's what had persuaded the Admiral to seek the Eidolon's support, to hear her opinion and inquire as to how feasible such an operation might be. I listen to the discussion with my fists clenched tightly. Demeter listens to everyone's opinions, from the most radical to those that try to offer some semblance of compromise. I would have liked to find some kind of common ground myself, but we're talking here about drastically transforming whole environments. I bite my lip, struggling to keep my emotions in check. There's so much at stake here: habitats to be protected, species that could suddenly find themselves endangered… After listening to all the different opinions at great length, Demeter rises from her seat and gives a simple reply. We must adapt to nature; not the other way around. I feel a weight suddenly lifted from my shoulders and I let out a huge sigh of relief."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J273G8KXAXKF1ZXX3F4GV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J273G8KXAXKF1ZXX3F4GV",
+          "text": "Daughter of the Titans Rhea and Cronus, and sister to the other original Olympians, Demeter is the goddess of agriculture and the harvest. She represents Mother Earth, life and fertility, and is known as a goddess of grain, fields and sustenance. When her daughter Persephone was kidnapped by her brother Hades, she searched for her incessantly and abandoned her duties in the process. This desertion of her tasks triggered a famine so severe that Zeus was forced to take sides and demand Persephone's return."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27262JAZGWANHBR046KM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J27262JAZGWANHBR046KM",
+          "text": "TEIJA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J272N3A2XYG21VVXR5TBH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J272N3A2XYG21VVXR5TBH",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "3D6H7H2JX18RDVTZP7T8KX1ZZD",
+      "reference": "ALT_ALIZE_B_MU_40_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e334c54983a16522757b",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plant"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bbce5fab7b14cae698e4",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deity"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d0971123d4aea6da4032",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/en_US/e160f4f88340fee45fb339712647a7fb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_5a46bc801ba1feddf4d301c91a034f68",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_cc4c7a971ccbcf092cadf5503ba611f8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_f8503c17b538ce465719554a53842f5b"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_40_R1",
+  "reference": "ALT_ALIZE_B_MU_40_R1",
+  "id": "01J1Q4P4SFMDQDFFBSWBHC29JV",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/de_DE/0452abf6239edc46248041ba89336f8d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/it_IT/00f4950886e34a0abae895efd0aff96c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/en_US/e160f4f88340fee45fb339712647a7fb.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/fr_FR/93f34db99f5cba740a9bfdc888fc8377.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/es_ES/9a1053402add773bc5d18f967aacba61.jpg"
+  },
+  "name": "Demeter",
+  "elements": {
+    "MAIN_COST": "#7#",
+    "RECALL_COST": "#7#",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "6",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "#{J} Target Character gains [[Anchored]].#  If I'm in {V}, I am [Eternal]. (During Rest, I don't go to Reserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-063-R-EN"
+}

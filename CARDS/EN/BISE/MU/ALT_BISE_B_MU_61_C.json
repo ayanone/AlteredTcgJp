@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_61_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3RQ60CMQ0K80CAP31EG8EK3S8J",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A80ZFKDMQVX867RRVKJK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A80ZFKDMQVX867RRVKJK",
+          "text": "Anything goes when there are empty bellies to be filled."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A81MMG02RHRGS1N5V65N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A81MMG02RHRGS1N5V65N",
+          "text": "393 AC - I sip my drink as I wait for him. No doubt administrative formalities are taking up all his time at city hall. As I sit at the table, I watch the crowd around me. The Mess is not very full today — almost empty, in fact. Maybe very few have been given permission now that the underground exploration has hit its stride. But there are a few families, some with children still of school age. There aren't many of them, but for a handful of key people in important roles, certain exemptions had been made to keep families together. I had recently been talking with some tutors in charge of the children, and they had complained that since our arrival at the Screed, many of them had been skipping school. And that was no surprise, considering they'd been confined to the Ouroboros for months. The great outdoors was a hard temptation to resist.\n\nNext to me, two little urchins are ordering. They are lucky they can come to the Mess during off-peak hours to avoid the rush, and Hestia is always generous when it comes to children's menus. Much too generous, if you ask me. But I can already hear her telling me that proper nutrition is crucial, especially at this age, and that a level head starts with a full belly. When I see the heaping mounds placed in front of the kids, I can't help but roll my eyes and smile. The worst part of it is that Nauraa agrees with her. I can even hear him mentally agreeing deep down inside me. Thankfully, daily yields at the Farm are big enough that huge portions can be provided with no problem. I feel a hand on my shoulder and I turn around with a smile."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8195C4H3THKG7NHXDH3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A8195C4H3THKG7NHXDH3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7Z9M565HYPR1K81ZVXC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A7Z9M565HYPR1K81ZVXC",
+          "text": "TEIJA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A80M7D7AFSR7WNJNTFFR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A80M7D7AFSR7WNJNTFFR",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "3RQ60CMQ0K80CAP31EG8EK3S8J",
+      "reference": "ALT_BISE_B_MU_61_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9a260c4389849a1049c8",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/715fbfd6ae817c0afd8f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/en_US/c607544365047d3a11856b3567d61467.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/WEB_07da4e7a1ecdf4499b537ab49f3c5976",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/WEB_fc14ae450c7f49b7bbe4ac57b0bc6eca"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_61_C",
+  "reference": "ALT_BISE_B_MU_61_C",
+  "id": "01JB1YGPBRF2KJ5JP3F6R3P3AD",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/es_ES/f2275a34680bb7c70b6b25d22b97d96e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/de_DE/ea793078cf53d2b61c9420669da23bb2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/it_IT/2f64fbfb2fac0f99804356bc9b55555b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/en_US/c607544365047d3a11856b3567d61467.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_61/JPG/fr_FR/42f6bd8cd4e68f2b396ac867ca47b5c7.jpg"
+  },
+  "name": "Sustenance",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Fleeting]]. (Send me to Discard instead of Reserve after my effect resolves.)  Draw a card.  Each player puts the top card of their deck in their Mana zone (as an exhausted Mana Orb)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-066-C-EN"
+}

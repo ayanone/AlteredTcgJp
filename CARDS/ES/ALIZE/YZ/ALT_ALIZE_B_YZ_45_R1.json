@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_45_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7KKE39P1GY8MQ9QME5H5J4DG2W",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2C5BKP1YCXMTQNARCDBS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2C5BKP1YCXMTQNARCDBS",
+          "text": "Mucho después de su muerte, el Nilam seguía teniendo vida, pues se había convertido en el lugar de anidación de las polillas del maná."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2C6B0WMSG09ZW8E7QEAM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2C6B0WMSG09ZW8E7QEAM",
+          "text": "No son ramas de sauce lo que se inclina al viento, ni tampoco nubes que se arremolinan formando patrones semejantes a un denso follaje... Son racimos que contienen miles —no, ¡millones!— de polillas, que se mecen en el aire como los tentáculos de un calamar colosal varado. No ofrecen más que una ilusión de vida, un simulacro, pues el árbol del mundo que tengo ante mí está ciertamente muerto. Encajado entre las dos estribaciones del Cais Adarra, el venerable gigante parece tan lánguido como un pobre anciano. Todo resquicio de vida lo ha abandonado y es una mera sombra de lo que fue, un cascarón que se marchitará poco a poco. De hecho, su tronco ya no es de madera, sino de cristal. Si todas las polillas levantaron el vuelo en este mismo instante, solo quedaría un árbol viejo, doblado, raquítico y enfermo. Un anciano fantasmal destinado al olvido. En última instancia, aquí todo es pura ilusión...\n\nObligo a Lindiwe a alzar la mirada, y ella contempla la oscuridad que acecha entre los dos picos. En el desfiladero ha caído la noche y centellean los copos de nieve, que flotan en el aire como estrellas nacientes y menguantes. Siguiendo mis instrucciones, mi anfitriona toma un sorbo de leche de Arcolano e inspecciona los restos del árbol del mundo a través de sus iris. Su corteza transparente parece lucir cicatrices, como si estuviera cubierta de marcas de picaduras y heridas punzantes. Me percato de que la han succionado en muchas ocasiones. ¿Habrán sido las polillas? Pero lo más importante es que el árbol parece contener algo. Hay un gusano en la manzana... un parásito. Lindiwe entrecierra los ojos para darme una visión más clara de lo que se está gestando bajo su superficie. Sin duda, hay algo fuera de lugar... como una serpiente deslizándose por sus ramas y raíces. Hay algo que claramente se siente muy constreñido ahí dentro."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2C5VJWJ8XJBB2H20J8RJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2C5VJWJ8XJBB2H20J8RJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2C3A5JPF5ZACMB69G719",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2C3A5JPF5ZACMB69G719",
+          "text": "FAUCES"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2C4VY9N0Y09DH2VYMM2A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2C4VY9N0Y09DH2VYMM2A",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "7KKE39P1GY8MQ9QME5H5J4DG2W",
+      "reference": "ALT_ALIZE_B_YZ_45_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/730f9823e7021375fae0",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Ubicación"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3686b5912756634ab572",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_45/JPG/es_ES/03bf2d578d2b5940f16e0fa8758980e7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_45/WEB_47f0415b9edb3daaa72470eb7955ecc1",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_45/WEB_c58b22a14250166ef1438d61fd450458"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_45_R1",
+  "reference": "ALT_ALIZE_B_YZ_45_R1",
+  "id": "01J1Q4P4SXE7Q45FWVT059K86R",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_45/JPG/es_ES/03bf2d578d2b5940f16e0fa8758980e7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_45/JPG/it_IT/c5fed18532d26b5317b2c9703f245f33.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_45/JPG/de_DE/b93cbdd701868d404b2ebac67cfad3c4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_45/JPG/fr_FR/926f5c7089883ba0f37324ae9e747b9e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_45/JPG/en_US/1d4d2bf72740bdcc35320031e19b6c46.jpg"
+  },
+  "name": "El Nilam, árbol marchito",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "Cuando agotes una carta en reserva — Puedes agotarme ({T}) para crear una ficha de ilusión [Polilla de maná 2/2/2] en una expedición objetivo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-102-R-ES"
+}

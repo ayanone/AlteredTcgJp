@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_19_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79A71FR1DW92GDA4RQ3V",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME87NV1YCVFY50C7JTEHWA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME87NV1YCVFY50C7JTEHWA",
+          "text": "No one can escape their gaze."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87Q2P86RDSDWP4A8KZF3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME87Q2P86RDSDWP4A8KZF3",
+          "text": "The judge turns and looks at me with an unrelenting stare. Issitoq floats above the attendees like an inquisitive eye. He has listened to the cases put forward by the defense and the Libra prosecutor, and now it is time for him to deliver his judgment. His eyes light up and blue rays illuminate me from head to toe. Then his voice booms out like the roar of thunder, like the rumbling of an avalanche. The Eidolon isn't known as a lenient judge, and that's a good thing. I place a knee on the ground as I listen to the verdict: immediate removal, and expulsion for a minimum of three years. Defeated, I bow my head. Behind me, my supporters protest and shout that this is a disgrace. There's nothing they can do about it, but my condemnation will also discredit all those who supported me.\n\nIssitoq's eyes close and, like an eyeball, the Eidolon turns to face the entrance to the Court. Having delivered his judgment and announced my punishment, he slowly fades away. I silently rejoice, even though I can't show it. By my sacrifice, I have given Avkan complete freedom to approve the launch of the Rediscovery Endeavor. Through my scheming, I have silenced the protest. And what's more, the position I'm vacating will be fought over, and the resulting succession struggle will prevent the hopefuls from effectively moving against the Basileus. I won't be able to take a vacation, of course. I'll need to keep monitoring their movements and warning Avkan of their actions. But the threat they pose to the project will certainly be drastically reduced. Feigning contrition, I stand up and move towards to the exit with my head held high. There's no need to fake my pride as I take my leave."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87PFR8KT95G9Q94FK385",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME87PFR8KT95G9Q94FK385",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87MKMBN40HR91G5CGQVP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME87MKMBN40HR91G5CGQVP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87N8TRK8WJ8HMQ2F54Z5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME87N8TRK8WJ8HMQ2F54Z5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79A71FR1DW92GDA4RQ3V",
+      "reference": "ALT_COREKS_B_OR_19_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1d9f2934529a92d5b1fc",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrat"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c6f9d86d165d705a5cd3",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deity"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b40949045ffe8b22f88f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/98a160ac5e17754d718a",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:37:41+00:00",
+      "question": "What happens if Issitoq is played during a tiebreaker day?",
+      "answer": "In the Arena, Expeditions can't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant, and Issitoq doesn't block anything."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_19/JPG/en_US/304f4ca4534e5cc766cdb461c2af0524.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_19_R2",
+  "reference": "ALT_COREKS_B_OR_19_R2",
+  "id": "01HN5TXRGK9SVQYFP2DN5T78DW",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_19/JPG/es_ES/d7b4c5d2dfdf82e9f174a33cc657ede7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_19/JPG/fr_FR/24a4a66c67a4aae7c91eb908f85f2492.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_19/JPG/de_DE/6acbe901860543a6ea378d4ec7efd492.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_19/JPG/it_IT/1a1aef40cf064c4f2a998420463f020e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_19/JPG/en_US/304f4ca4534e5cc766cdb461c2af0524.jpg"
+  },
+  "name": "Issitoq",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MAIN_EFFECT": "Your other Expedition and the Expedition facing it can't move forward.",
+    "ECHO_EFFECT": "{D} : Draw a card. (Discard me from Reserve to do this.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-142-F-EN"
+}

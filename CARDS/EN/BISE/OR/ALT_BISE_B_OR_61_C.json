@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_61_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0AHR1V94A48CPA5DVCWQQB23WW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1AA6RQR6KHA0R36HAW8ZH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1AA6RQR6KHA0R36HAW8ZH",
+          "text": "The first High King of Asgartha urges us to venture forth!"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA8MBVHP2WA7E6HN05GY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1AA8MBVHP2WA7E6HN05GY",
+          "text": "393 AC - My fingers grip tighter around the edges of the scroll as I feel my stomach start to churn. I hear someone speaking to me but I can't peel my eyes from the text. I read it and reread it again and again. Everything is a blur around me, while the blood in my temples hammers rhythmically like a blacksmith's mallet. I let the parchment drop to the ground…\n\n\"There is no escape.\nMy crown is my cage.\nLike the Tumult, my prison is a snake biting its own tail.\nNo beginning, no end.\nBut to atone for my crimes, I must not break the cycle.\nSuch is my damnation, and at the same time, my rebirth.\nDo not despair, however. Those of you who still can, keep going.\nYou hold the key to renewal in your hands.\nIn Avalon, the king will awaken.\nRUNE\"\n\nI place a hand on the wall to calm down my breathing and to stop myself from falling over. My migraine returns, stronger than ever this time. It's as if someone is digging within my skull, as if something is trying to get out, trying to scream, but failing to do so… But when I try to focus on this feeling, all I get is white noise."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA7431Y4QKJMF7J7H17Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1AA7431Y4QKJMF7J7H17Y",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA5ZDKQ4R83S5MA9Q73Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1AA5ZDKQ4R83S5MA9Q73Q",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA6CKVSCXX3KHQTR1B71",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1AA6CKVSCXX3KHQTR1B71",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "0AHR1V94A48CPA5DVCWQQB23WW",
+      "reference": "ALT_BISE_B_OR_61_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Expedition Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2716ffdfe395972c9c34",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Gear"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0bf11ca155dcbeced2f7",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/en_US/724b86227a10fbcedbf1bd961b13fcab.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/WEB_b0c501b3986701957156cef1a58617d9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/WEB_96915b497519efefef25c6da85b0f10f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_61_C",
+  "reference": "ALT_BISE_B_OR_61_C",
+  "id": "01JB1YGPBYGVH2ZFZ80GRGCRMN",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/de_DE/1404add7abb450cbbcd8459aa98556dc.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/es_ES/3d06d63ff1f7f3f55c315b7891fcbe1c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/it_IT/4a4139a1186932734db9490b5bae8345.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/fr_FR/d8692838892a19918517ac5883bf50b7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_61/JPG/en_US/724b86227a10fbcedbf1bd961b13fcab.jpg"
+  },
+  "name": "Rune's Testament",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "If my Expedition would move forward, you may discard me instead to draw two cards."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-083-C-EN"
+}

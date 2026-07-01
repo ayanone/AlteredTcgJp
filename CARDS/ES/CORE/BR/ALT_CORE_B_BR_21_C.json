@@ -1,0 +1,184 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_21_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZATDQ635NVGV2SYVQ5A",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5SDDHC7T85RD6R021WXZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5SDDHC7T85RD6R021WXZ",
+          "text": "«La parte más pesada de la impetuosa guerra la sostienen mis manos»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SDZH8E6XBPDK4W5E8R8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5SDZH8E6XBPDK4W5E8R8",
+          "text": "I circle my opponent under Bedivere's watchful eye. And this challenger is no ordinary foot soldier – it's Achilles, a veteran of several wars and hero of legendary tales. The Eidolon's copper cuirass shines in the setting sun, and the tip of his lance glimmers in the twilight glow. I carefully monitor every one of his movements, searching for the slightest flaw. But that's easier said than done. Even though he's set aside his helmet and shield, the fearsome reach of his weapon is danger enough on its own. To trip him up and outmatch him with my jian, I'll need to reduce the distance between us and get inside his guard. But how? Suddenly, he strikes. I block at the last second, rotating my wrist slightly to attempt a disruption of my own.\n\nBut as I prepare to hit him, his fist clips me on the jaw and I stumble back, realizing he's dropped his weapon to more easily take me with his bare fists. I stagger, then roll to get myself back on guard. But Achilles is faster. Catching his lance on his foot, he launches it in the air to grab it, then spins it around while taking a step toward me. I dodge the shaft that almost hits me, but not the kick that lands right in my ribs. I plant my weapon in the ground to avoid falling, struggling with all my might not to give in to the panic from my gasping breath and spinning vision. When I started the fight, I had hoped I could exploit his heel, but I didn't know it would be so hard to reach."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SDPJ0KQWG2EX21KJXQ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5SDPJ0KQWG2EX21KJXQ7",
+          "text": "In the Iliad, the epic saga attributed to Homer, and the Aeneid composed by Virgil, Achilles is a Greek hero, son of Thetis and Peleus, who distinguishes himself in the Trojan War. Having been dunked in the river Styx, he is said to be invulnerable – except for his heel, the only part of his body that wasn't submerged in the infernal waters. That is how he comes to be fatally wounded by an arrow from Paris, a Trojan prince who kicked off the war by abducting the beautiful Helen."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SCVETFXF3QMC60Q3BAR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5SCVETFXF3QMC60Q3BAR",
+          "text": "Atsadi"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SD45Q9XBT201H8BDW3M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5SD45Q9XBT201H8BDW3M",
+          "text": "382 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4ZATDQ635NVGV2SYVQ5A",
+      "reference": "ALT_CORE_B_BR_21_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b51b863718f1c03d68c6",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldado"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ce03e0c00ade85473b07",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/1f82bfef901459dcb81e",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-16T10:37:35+00:00",
+      "question": "Does Tough protect Achilles from Sabotage?",
+      "answer": "No. Unless stated otherwise, Cards in Reserve have no effect, save their Support Ability (in the colored box)."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/f5c92974daa7067c0863",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-28T10:37:35+00:00",
+      "question": "If my opponent uses a Spell or ability talking about \"target Character\" and all my Characters are Tough, what happens? ",
+      "answer": "When your opponent casts a Spell or resolve an ability that can target one of your Tough Characters, they decide if they want to pay the extra mana to make one of your Tough Character a valid target. If they choose not to (because they don't have enough mana, or because they don't want to), the effect resolves as if your Characters were untargettable.  Depending on the effect, it might mean the effect may simply do nothing, or it might mean they must target one of their own Characters."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/d603ffe801176c670729",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:35+00:00",
+      "question": "If the Tough Character of my opponent is the only possible target of my Spell of ability, do I have to pay extra mana?",
+      "answer": "No. If you choose to pay extra Mana, the Tough Character becomes a valid target. If you choose not to, and there's no valid target, the effect might do nothing.\n\nDon't forget that Characters you control may be valid targets: if you choose not to pay the extra mana (or if you can't), you may have to target them!"
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/JPG/es_ES/ecc29bb1771eb715fcc11bdb6e033ee2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/ALT_CORE_B_BR_21_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/ALT_CORE_B_BR_21_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/ALT_CORE_B_BR_21_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_21_C",
+  "reference": "ALT_CORE_B_BR_21_C",
+  "id": "01HKAFJNPYHAC450AWH4TZMHZE",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/JPG/it_IT/74893a9d76eb7bf9e5edf1a079fb9276.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/JPG/fr_FR/6fcee6f35521d1d33a1c8bc14cff09a1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/JPG/en_US/f7f9f0aecf51bde57e46f6bfddba0ec6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/JPG/de_DE/758b08fafeff95acabfafa88c722f043.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/JPG/es_ES/ecc29bb1771eb715fcc11bdb6e033ee2.jpg"
+  },
+  "name": "Aquiles",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MAIN_EFFECT": "[Resistencia 1]. (Los oponentes tienen que pagar {1} para hacerme objetivo.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-051-C-ES"
+}

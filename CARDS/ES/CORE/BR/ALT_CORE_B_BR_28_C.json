@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_28_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZBH673Q0XG9HWPC4GXK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5STT7GNF6EN00J0JYMZ1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5STT7GNF6EN00J0JYMZ1",
+          "text": "La terrible bestia se achantó y tembló ante el poder de los de Bravos."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SVD30W91HGRTBQXJQSJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5SVD30W91HGRTBQXJQSJ",
+          "text": "Silje stands up straight, sticking out her chest and staring down at me. She's a full head taller than me, and I'm no runt myself. But in that moment, I feel like a bunny rabbit in the crosshairs of a not-so-friendly lion, a shivering furball that's had the misfortune of disturbing a dragon during its nap. Her eyes narrow as she stares forcefully at me. Perhaps I've been a bit presumptuous about our friendship… I take a step back, raising my hands as a sign of peace. We've stood around together plenty of times, she and I. But now it's as if all that meant nothing, as if all those hours spent waiting together were utterly hollow. Sure, we had always had a fairly clear \"good guard, bad guard\" system, and it was fun from that vantage point.\n\nBut now that I'm on the other side of the barrier, I feel weighed down by her pressure, by her powers of dissuasion. And to be honest, it kind of gives me the chills. I turn to the Phoenixian Guard who's still holding the letter, looking panicked. I delicately take it from her hand despite her protestations, and I assure her it will be delivered on time, using every signal I can to get her to turn back. Her insistence would only antagonize Silje further, anyway. Slightly worried, the Phoenixian Fighter turns around, and I look to Silje with all the solicitude and deference I can muster, brandishing the letter like a pass. Her expression slowly softens—although \"soft\" somehow seems like the wrong word—and she curtly nods as a way of saying I can pass. I clasp my hands in front of me to show thanks, and clear out as quickly as I can."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SV3ZF82B1DPYPSAS2C0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5SV3ZF82B1DPYPSAS2C0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5ST7J4AJHEH1N4WP8NE4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5ST7J4AJHEH1N4WP8NE4",
+          "text": "Venka"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5STG742FE1NTTW445HJC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5STG742FE1NTTW445HJC",
+          "text": "390 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY4ZBH673Q0XG9HWPC4GXK",
+      "reference": "ALT_CORE_B_BR_28_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/45747967da0d17b9f207",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disrupción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/16abb9ba7010a4c4fad8",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/19a64a3c51a2ee4b902c",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:40+00:00",
+      "question": "Can I target a token with Intimidation?",
+      "answer": "Yes! You could consider token Characters as having a cost of 0. However, note that they will be removed from the game upon leaving the Expedition zone, so their controller won't keep them in hand."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_28/JPG/es_ES/ce163fca9eb7d66bf556bfeff9e417f0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_28/ALT_CORE_B_BR_28_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_28/ALT_CORE_B_BR_28_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_28_C",
+  "reference": "ALT_CORE_B_BR_28_C",
+  "id": "01HKAFJNQVJQGZ7JRYY3MKJ2JD",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_28/JPG/it_IT/ed62ddc91a6f5dc94079e18e172d453a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_28/JPG/en_US/b964eb04798be810b32bc61807070019.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_28/JPG/fr_FR/e7ec00ff933a1408868168ed03ca7bb5.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_28/JPG/de_DE/7d1742ba9ad44cb58cc9e527e84a8c18.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_28/JPG/es_ES/ce163fca9eb7d66bf556bfeff9e417f0.jpg"
+  },
+  "name": "Intimidación",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Fugacidad]]. (Una vez resuelto mi efecto, envíame a la pila de descartes en lugar de a la reserva.)  Devuelve a la mano de su propietario un personaje o permanente objetivo con coste desde la mano de {4} o menos."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-056-C-ES"
+}

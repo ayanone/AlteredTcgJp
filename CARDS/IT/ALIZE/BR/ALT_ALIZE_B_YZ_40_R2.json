@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_40_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/36GAXWY9FF8RZAZ3ASETFG1R97",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2BE0BVST6GF49PCPCQ51",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2BE0BVST6GF49PCPCQ51",
+          "text": "\"Davvero agghiacciante!\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BG261E3AVRC67YGDQVF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2BG261E3AVRC67YGDQVF",
+          "text": "L'accampamento è in subbuglio. Qualcuno ha rubato le nostre scorte di sciroppo d'acero! Un'altra rapina... Chi può aver commesso questo crimine efferato? Non posso lasciar correre questo tipo di provocazione, soprattutto non di prima mattina. Tutti abbiamo il diritto di gustare un po' di sciroppo d'acero sui pancake della colazione. È una delle nostre regole d'oro. Altrimenti come potremmo avanzare nel freddo implacabile di questa regione senza essere messi fuori gioco dagli inopportuni morsi della fame? È ora di mettere fine a queste continue ruberie! Faccio un segnale a Taru e andiamo a esaminare la zona in cerca di indizi interessanti. Come previsto, non lontano dalla scena del crimine troviamo delle impronte palmate sul terreno. Questo è assolutamente inaccettabile! Taru ridacchia forte per la mia irritazione. Sappiamo entrambi che non sono una persona mattiniera.\n\nAggiriamo un alto banco di neve e ci troviamo faccia a faccia con il ladro. La mia rabbia si ammorbidisce un po' alla vista della sua andatura ondeggiante e infantile. Ma quella tenerezza sparisce in un istante appena mi rendo conto dell'entità della sua serie di crimini. Lo sciroppo d'acero non è l'unica cosa che ha rubato! Ha preso anche il cappello dell'ufficiale di servizio... e la sciarpa di Fen! Come ho detto, è del tutto inaccettabile. Gli farò rimpiangere di essere entrato nel nostro accampamento. Ma anche quando gli grido di fermarsi, prosegue per la sua strada come se niente fosse. Mi precipito verso di lui, ma cambia direzione con una velocità sorprendente. È evidente che non vuole sentire ragioni. Spingo entrambi i palmi verso di lui in un deciso gesto autoritario e lo colpisco con una folata gelida. Si ferma all'istante, intrappolato in uno spesso strato di ghiaccio. Prendi questo, brutto pennuto criminale! Così impari a rubarmi la colazione!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BFC4PD3NC3K6JJSF979",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2BFC4PD3NC3K6JJSF979",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BCZHQSZWP06ND04NPR1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2BCZHQSZWP06ND04NPR1",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BDGF0GV1NY5303FSJGX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2BDGF0GV1NY5303FSJGX",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "36GAXWY9FF8RZAZ3ASETFG1R97",
+      "reference": "ALT_ALIZE_B_YZ_40_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/cd1b6832bb17fc6d1753",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5bb4cb9a68f0162e6eaa",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/it_IT/a50dfd3f1cf29a691224799557d15134.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/WEB_966a6b9e56a3e03d39fcac747bfd6182",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/WEB_e99054ecc7cd2b7745193d7eb19e9f64"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_40_R2",
+  "reference": "ALT_ALIZE_B_YZ_40_R2",
+  "id": "01J1Q4P4SVH0BDDPS6F3F8Y5XG",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/de_DE/7465d9da92f525cd0f1a679b6c3e4738.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/en_US/38e9fe68e3c7acd3203fc41894a33400.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/it_IT/a50dfd3f1cf29a691224799557d15134.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/fr_FR/7b4aa5a9dc75c058ff8f659432db9b7d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/es_ES/3b934667b96493b1f62891d8ebf5cce8.jpg"
+  },
+  "name": "Trappola di Ghiaccio",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "[Raffreddamento]. (Se vado nella Riserva dopo che il mio effetto si è risolto, consumami {T}.)  Manda un personaggio bersaglio nella Riserva, poi consumalo ({T})."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-096-F-IT"
+}

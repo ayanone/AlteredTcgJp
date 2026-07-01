@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_P_OR_48_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/45MHG9M90N9K8VMV8WAZ3YB57X",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2DAPJQKC1SBQ8AJNN4AK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2DAPJQKC1SBQ8AJNN4AK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2DCF8HXKJDQ2VTMKS4AC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2DCF8HXKJDQ2VTMKS4AC",
+          "text": "I stare as the trunk splinters into a thousand pieces, some as big as ships. The crystallized blocks of wood smash onto the ground, sending out clouds of snow and debris all around. The shockwave is terrifying, so much so that I need to look away and hold my breath as the cloud descends upon me. And the Wind... the Wind howls like I've never heard before. Its roar spreads throughout the valley, echoing on the rocky and icy walls. Small islands of ice break off and fall, clumps of packed snow plummet down from the summits... The whole gorge is trembling, shaking and rattling as the ground buckles. I fall to my knees and protect my head with my arms as shards of ice hit me with force. I clench my teeth waiting for it to pass...\n\nThen, as the snow starts to fall again, I see a shape emerge from the shattered trunk, like a serpentine halo. I gradually begin to make out its shiny and iridescent scales. I stare wide-eyed, spellbound by the sight of a dragon freeing itself from its crystal shell. It's magnificent as it leaps up to the sky in celebration. I hear its joy, a sort of howl that rends the air like thunder. It's now gripped by jubilation rather than resentment. It's the sound of freedom regained, the power to roam wherever it pleases. I sense that it was the dragon that made this Oasis a paradise – or a hell – of ice and cold. I don't know what the future holds for the Storhvit, but in this moment, watching the dragon's mesmerizing ballet through the clouds, I can only be entranced by the spectacular display. And I feel a tear of joy freezing in the corner of my eye before it can even roll down my cheek."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2DBKDA7VF5NE3ZA5M6ZA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2DBKDA7VF5NE3ZA5M6ZA",
+          "text": "Kuraokami is a primordial dragon and Shinto deity in Japanese mythology. He is the kami of rain and snow. During the birth of Kagutsuchi-no-Kami, son of Izanami and Izanagi, the fire deity burned so fiercely that his mother died of her wounds. Izanagi was so enraged that he decapitated his son, or in other versions of the tale, cut him into several pieces. From Kagutsuchi's blood, Kuraokami was born, and was then responsible for bringing winter and precipitation to the valleys."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2D7ZPS8PYWKY81XSQK5S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2D7ZPS8PYWKY81XSQK5S",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2D8J03WBC0NMZM87CTM1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2D8J03WBC0NMZM87CTM1",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "45MHG9M90N9K8VMV8WAZ3YB57X",
+      "reference": "ALT_ALIZE_P_OR_48_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e264c56547f77c121893",
+      "reference": "DRAGON",
+      "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+      "name": "Dragon"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e839da435ec4b838629c",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deity"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a8712d6828db81db7539",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_P_OR_48/JPG/en_US/827a99049e7203d655ba323d9bf2fdea.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_P_OR_48/WEB_755342fddf2a499f86eb7f2b8b8c720a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_P_OR_48/WEB_2ccda37f170e47efdd231982098d9912",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_P_OR_48/WEB_47bea91ed69183e90c22949b57a7366e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_P_OR_48_C",
+  "reference": "ALT_ALIZE_P_OR_48_C",
+  "id": "01J1Q8X344P5ZME4ZC1HQXJW09",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_P_OR_48/JPG/de_DE/ab3f462176678ff98545fb62e53651fb.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_P_OR_48/JPG/es_ES/9196740d29ab3dcaaa304afabeb48921.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_P_OR_48/JPG/it_IT/6129ff7f1f9382199ddc099e73bcea3e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_P_OR_48/JPG/fr_FR/8d7942e0de88c88bbdd6dbd4217f540c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_P_OR_48/JPG/en_US/827a99049e7203d655ba323d9bf2fdea.jpg"
+  },
+  "name": "Kuraokami Unbound",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{H} Exhaust all cards in Reserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-109-C-EN"
+}

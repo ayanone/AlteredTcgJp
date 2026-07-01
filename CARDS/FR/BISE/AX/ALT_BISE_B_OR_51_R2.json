@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_51_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0C0YF7N47R8ZRBNQHX5TF6M44H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A90GPPG2WZBSRBT68PQS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A90GPPG2WZBSRBT68PQS",
+          "text": "Ne vous aventurez pas seul dans les profondeurs."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A917M4F20827X854QSAT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A917M4F20827X854QSAT",
+          "text": "393 AC - Je soulève la toile de la tente, manquant de me faire bousculer par la personne qui en sort. Visiblement furieuse, cette dernière tient dans sa main un ordre d'affectation tamponné. Je l'entends grommeler tandis que je rentre à sa place. Même à l'intérieur, il y a la queue. Face à moi, la commise du personnel classe ses papiers. Des piles de feuilles volantes l'entourent, formant un véritable mur sur son bureau. De son seul œil valide, elle observe et adresse tantôt un sourire goguenard, tantôt une mine sévère ou au contraire encourageante. Sous-Bois, escorte. Tombeau, relais de communication. Hôtel de ville, soutien administratif. Les missions sont données, avec chaque fois des consignes écrites. Je soupire, attendant patiemment mon tour. J'avoue avoir été surpris quand mon nom a été prononcé, et que les termes \"affectation spéciale\" ont été énoncés. On ne pouvait pas faire plus cryptique, mais c'était sûrement d'un enjeu majeur, vu le niveau de confidentialité.\n\nJe ne peux m'empêcher, tout en faisant le planton, d'étudier la carte derrière elle, celle de l'abîme, où sont épinglées les demandes urgentes de renforts. Bigre, y'en a partout. Et pas que pour les coins les plus reluisants. Je soupire et reporte mon attention sur la clergesse. Outre les montagnes de papier, la commise n'a face à elle qu'un simple tampon. Ordinairement, c'est le sésame. Celui qui décide si oui ou non on est en état d'être déployé.  C'est enfin mon tour. Alors que je me mets au garde à vous devant elle, je me présente, énumérant mon titre, mon grade, mon nom. C'est le moment de découvrir ce qu'est cette \"affectation spéciale\" dont j'ai été affublé aujourd'hui. J'espère seulement que ça va occuper toute ma journée... Elle me demande mon certificat de santé, le parcourt du regard avant d'abattre son tampon sur l'ordre de mission et de me le tendre. Je le déplie tout en sortant de la file. Mais c'est une blague ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A90WP9RSKXPCRAV0X3EE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A90WP9RSKXPCRAV0X3EE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8ZSMD5GDJGWGMN4PT34",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A8ZSMD5GDJGWGMN4PT34",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A905N58PGBA54TP2F9Q3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A905N58PGBA54TP2F9Q3",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0C0YF7N47R8ZRBNQHX5TF6M44H",
+      "reference": "ALT_BISE_B_OR_51_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/addb86d007d50046f389",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrate"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/be0ce9b1014337de1fbc",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/fr_FR/ec267114e4da2d763bf6c6601f63ea1f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/WEB_522b786cc252de1bfe0af54c8c4a797e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/WEB_0a5a037be34437ef6cb82d0949cbf9bf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/WEB_78b80db215c0c5352fc97990b0dab14c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_51_R2",
+  "reference": "ALT_BISE_B_OR_51_R2",
+  "id": "01JB1YGPBVGB6DPE03BAS3WEP1",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/it_IT/8ffcb6a0d2f184cd2704102120b45fc0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/es_ES/5f8f4cb563b980f3007ae6618905c3e1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/fr_FR/ec267114e4da2d763bf6c6601f63ea1f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/de_DE/763a4da4928969f416aa89341334a2a5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_51/JPG/en_US/ba6045375e5067507f0fab893b93fd17.jpg"
+  },
+  "name": "Commis du Personnel",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "#2#",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "Lorsque #vous# jouez une autre carte depuis la Réserve — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Expédition."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-072-F-FR"
+}

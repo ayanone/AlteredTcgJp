@@ -1,0 +1,184 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_12_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY509RWQV15G235RRXWR83",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH6059W5YP23C0EF75ZGG2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH6059W5YP23C0EF75ZGG2",
+          "text": "La simple idée de faire face au Conseil suffit à dissuader la plupart des criminels d'Asgartha."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6068JYWBKHFTMKXVB65J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH6068JYWBKHFTMKXVB65J",
+          "text": "Je lance mon dossier sur la table, et toutes les feuilles qu'il contient se déversent sur le sol de l'auditorium. Autour de moi, mes alliés politiques se lèvent d'un bond, invectivant le conseil, contestant futilement sa décision. Mais le porte-parole de la Tétrarchie martèle son bloc sonore pour faire taire les dissensions et rappeler tout le monde à l'ordre. Sur le banc adverse, les partisans de l'Effort de Redécouverte se congratulent de leur succès, tandis que le Basileus se contente de hocher la tête. Je le dévisage, prenant soin de manifester sur mon visage une expression de pur dégoût. Je dois faire bonne figure, alors je frappe théâtralement la table du poing et m'assieds en laissant choir ma canne. Il me faut comme d'habitude jouer mon rôle à la perfection. Les quatre conseillers se lèvent et quittent leur estrade, se dirigeant vers le dais pour ratifier l'ordonnance.\n\nTour à tour, ils apposent leur signature et le sceau de leur office sur l'édit de recommandation de l'Effort de Redécouverte. Devant la cohue vindicative, l'un d'eux fait signe aux sentinelles de l'Aegis de ramener l'ordre dans l'assistance, sous les huées des protestataires. Mais il est vain de récuser leur choix. Pour encore quelques mois, ils restent les dirigeants absolus de l'Ordis, et leur parole est d'évangile. C'est pour nous une nouvelle étape de franchie. Il ne reste plus que le vote populaire pour entériner tout cela. J'aimerais sourire pour célébrer la victoire, mais je me force à faire grise mine, reluquant Avkan avec des éclairs feints dans les yeux. Je le vois se lever, serrer des mains, puis se tourner vers moi pour me faire un discret signe de tête. Mais il prend bien la peine d'afficher une morgue arrogante pour dissimuler toute la gratitude qu'il pourrait ressentir à mon égard. Depuis combien d'années durait entre nous cette mascarade ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH605SAATXSP5KXAHT0KJW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH605SAATXSP5KXAHT0KJW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6045PD9EDHFESCR604G4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH6045PD9EDHFESCR604G4",
+          "text": "Waru"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH604QXZNKJ0RFFDVWBK0E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH604QXZNKJ0RFFDVWBK0E",
+          "text": "368 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY509RWQV15G235RRXWR83",
+      "reference": "ALT_CORE_B_OR_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a2a5ed7c1c673cf7d750",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrate"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/dbb5ac207e2e376f38c8",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/d21d5a3eabce9009f0b5",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:57+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of the Council said \"The {j}, {h} and {r} triggers of Characters facing me don't activate.\" \nFuture printings will say \"The {j}, {h} and {r} abilities of Characters facing me can't activate.\""
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/6793ddba5813a2b3ceeb",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:57+00:00",
+      "question": "How does the Foundry, Axiom Bastion interact with the Council?",
+      "answer": "When an effect says you can do something and another effect says you cannot, the one who says \"you can't\" applies. So if a Character is played in front of the Council, none of its effects activate, with or without the Foundry."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/02186e38b78fc0eb7cd5",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:58+00:00",
+      "question": "How does Ganesha interact with the Council?",
+      "answer": "Ganesha has no effect if he's played opposite the Council. If he's played in a different Expedition, it still cannot trigger a Character facing the council : when an effect says you can do something and another effect says you cannot, the one who says \"you can't\" applies. "
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_12/JPG/fr_FR/de241f82d60493965368736f328fc0b0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_12/ALT_CORE_B_OR_12_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_12/ALT_CORE_B_OR_12_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_12/ALT_CORE_B_OR_12_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_12_R1",
+  "reference": "ALT_CORE_B_OR_12_R1",
+  "id": "01HKAFJNWQ062K595WFCSHDHZ7",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_12/JPG/es_ES/681ef5f6ae185e915c0730c9100e9de7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_12/JPG/it_IT/90c10ba6364519939de79089b28833dc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_12/JPG/en_US/21cbe6781c00dc2619f57ffa3a0d0aef.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_12/JPG/fr_FR/de241f82d60493965368736f328fc0b0.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_12/JPG/de_DE/47b53ef5b104c2be613db481e6031993.jpg"
+  },
+  "name": "Le Conseil",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "#3#",
+    "MOUNTAIN_POWER": "#3#",
+    "FOREST_POWER": "#3#",
+    "MAIN_EFFECT": "Les capacités {j}, {h} et {r} des Personnages qui me font face ne peuvent pas s'activer."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-140-R-FR"
+}

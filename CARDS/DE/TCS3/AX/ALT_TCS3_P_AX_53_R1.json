@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_TCS3_P_AX_53_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/18GS5SSCXK8B28SEW1MZHW4A8W",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JV4T4QE24FASEMGQ2NM1CCNG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JV4T4QE24FASEMGQ2NM1CCNG",
+          "text": "Es ist keine Zerstörung, sondern „Recycling“. Behaupten sie zumindest."
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QEF7B67KYVEXV0T19RF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JV4T4QEF7B67KYVEXV0T19RF",
+          "text": "393 AC - When Bash came to ask me if I could replace him, my first reaction was to say that he had some nerve to disturb me over what was obviously just a hangover. Then I remembered the incident, his singed beard and the favor I owed him, so I agreed without saying a word. That's why I'm now crouching, climbing over pipes and squeezing between conduits to find the cause of the malfunction that has shut down the refinery for the last few hours. Of course, there's no map to help me get my bearings, just a few arrows and signs that let me know I'm on the right track. Considering that Sap delivery had stopped, it must be a pump or valve problem. We had to make do with steam to make everything work to avoid wasting any Kelon…\n\nClang. A muffled sound, followed by an irregular rattling. Sounds like a problem with the pump… or maybe pests? I position myself behind a boiling-hot pipe, taking care not to burn myself. Then I look to the side towards the source of the noise. I see three Grems attacking a regulator panel. I should have known. The problem with using your imagination to create things is that you can inadvertently create things from your subconscious that you can't control — even among engineers who tend to rely more on common sense than fanciful ideas. And these three rascals come straight from the most basic superstition. I take out my Construct from its case and ponder the best way of driving them off. And the idea that comes to me obviously involves playing a trick on them in return…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QE87GXHHBJ7D3YWQK9X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JV4T4QE87GXHHBJ7D3YWQK9X",
+          "text": "It was at the beginning of the 20th century, in order to explain the sometimes incomprehensible damage that affected aircraft, that the legend of the Gremlins was born. These bizarre creatures were used to explain equipment malfunctions, piloting errors, and technical problems experienced by aviators and aeronautical teams. For pilots in the RAF, the British Royal Air Force, sabotage was equivalent to the intervention of these mischievous imps."
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QD6JSQ509NDWTR6WD2C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JV4T4QD6JSQ509NDWTR6WD2C",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QDVSJQX1DHTVCPHCSF9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JV4T4QDVSJQX1DHTVCPHCSF9",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "18GS5SSCXK8B28SEW1MZHW4A8W",
+      "reference": "ALT_TCS3_P_AX_53_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ba0c9ab0833414915756",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingenieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/TCS3",
+    "@type": "CardSet",
+    "id": "01JTJS0F8GG1CAXSJ6AEK8495P",
+    "reference": "TCS3",
+    "name": "Tumult Faction Champion - Set 3"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3f99e739badab31109bc",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/de_DE/92d9265f86a46395773a89b6aa55e1e1.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_TCS3_P_AX_53_R1",
+  "isOwnerless": false,
+  "reference": "ALT_TCS3_P_AX_53_R1",
+  "id": "01JTJSCJQPQGS5XGCFF7M2V0HQ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/fr_FR/98e631b178203a4d74d0f48fa5435d4b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/en_US/42c62239e31aaad53066ca8f1aa8678d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/it_IT/6cd3e5ec966ffe692cdd041c10cef194.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/es_ES/bedbfbdb040995a1e4b90ac24cb4d6bb.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/de_DE/92d9265f86a46395773a89b6aa55e1e1.jpg"
+  },
+  "name": "Die Grems",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "#2#",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{R} Wähle bis zu eine Aktion:  • Lege eine Bleibende Karte deiner Wahl mit Handkosten #{5} oder weniger# ab.  • Opfere eine Bleibende Karte. Falls du das tust, erschaffe eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "TCS3-01-R-DE"
+}

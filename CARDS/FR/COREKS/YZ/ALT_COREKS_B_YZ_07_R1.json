@@ -1,0 +1,183 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_07_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79C2RXPM9M8NT30SNSSC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8A5678WAPYN31FAM0H8C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8A5678WAPYN31FAM0H8C",
+          "text": "« N'attendez pas que la magie vienne à vous, créez la vôtre ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8A6KMS7T8BBW1AD4D8A3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME8A6KMS7T8BBW1AD4D8A3",
+          "text": "Lentement, Sewati se met à réaliser son premier kata. Ses traits sont apaisés, son regard est celui d'une extrême concentration. Les premiers mouvements s'enchaînent, alors qu'il trace devant lui Signe après Signe. Ses gestuelles vibrent de Mana. Chacune d'entre elles est un moyen de donner à ses Signes un caractère tangible, de les investir à la fois de sens et de puissance. On les appelle les Mage-Danseurs en raison des chorégraphies élaborées qu'ils réalisent, mais en réalité, ce sont des pêcheurs. Chaque Signe accompli devient un appât pour les idées qui existent de l'autre côté du Voile, un aimant qui les attire en un lieu, en un point précis. Ils n'ont plus qu'à créer une légère incision pour leur permettre de traverser la barrière entre les mondes, pour les faire exister, ici et maintenant. Et c'est précisément ce que Sewati s'apprête à faire.\n\nTout à coup, l'idée de l'eau déferle dans le monde depuis l'Empyrée. Et à l'instar de tous les concepts qui viennent du monde de l'imaginaire, cette idée est pure, raffinée par tous les esprits qui la pensent en cet instant. L'eau est limpide, claire, dénuée de toute impureté. Mais ce n'est là qu'une portion de son sortilège. Un autre Signe s'active et convoque son lot d'idées, celles du tourbillon. Nourrie par l'Éther, l'eau se met à virevolter comme une toupie autour de lui, frénétique et impérieuse. Mais il reste une dernière étape pour finaliser son sort : le troisième Signe qu'il a tracé, celui du verre. Les idées s'agglutinent, finissent à leur tour par franchir le seuil. Brusquement, la tornade aqueuse se solidifie en une spirale de verre aux motifs délicats et acérés. Je me contente de hocher la tête, satisfait du résultat. Après avoir terminé son exercice, Sewati se met au repos, soufflant longuement pour chasser toutes les idées parasites qui ont franchi le Voile..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8A5YMADTW9YWQ37DGJ12",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8A5YMADTW9YWQ37DGJ12",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8A3VCFEHNJ11GPVF1FGF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME8A3VCFEHNJ11GPVF1FGF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8A4HPXWA86HDXFWZ476Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8A4HPXWA86HDXFWZ476Y",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79C2RXPM9M8NT30SNSSC",
+      "reference": "ALT_COREKS_B_YZ_07_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1ec94524ba61b32619d8",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mage"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0b256d636f63c78d1e13",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9142b0d323b5ce70530d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/0faa398e3b4b68527361",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-27T10:37:42+00:00",
+      "question": "Can I draw a card thanks to Kagiran Mage-Dancer (Rare) ability if he gains his 3rd boost at Dusk, thanks to another effect? ",
+      "answer": "Yes. Kadigiran effect should read \"At Dusk — If I have 3 or more boosts, draw a card.\" indicating that the check of the number of boosts is only happening at the moment his effect is resolved."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/fcf8576d6ff109e997fd",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:42+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Kagiran Mage Dancer said:\nAt Dusk, if I have 3 or more boosts — ...\"\nFuture printing will read:\n\"At Dusk — If I have 3 or more boosts, ...\""
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_07/JPG/fr_FR/e07388c2f1c993e3ac5ea142a1ee39f5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_07_R1",
+  "reference": "ALT_COREKS_B_YZ_07_R1",
+  "id": "01HN5TXRJJMF01T5WCND9FMCT6",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_07/JPG/it_IT/2a495459be498f3aaa48e72aba7b9f2b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_07/JPG/es_ES/51ce268a47915a8bb5866ccde4f5425c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_07/JPG/de_DE/443756f9e6c1cf6505e3d6cc60fa8664.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_07/JPG/en_US/0ae51c1b6c1a35965f29f966d4a4c0cf.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_07/JPG/fr_FR/e07388c2f1c993e3ac5ea142a1ee39f5.jpg"
+  },
+  "name": "Mage-Danseur du Kadigir",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "Lorsque vous jouez un Sort — Je gagne 1 boost.  #Au Crépuscule — Si j'ai au moins 3 boosts, piochez une carte.#"
+  },
+  "isSuspended": false,
+  "isErrated": true,
+  "isBanned": false,
+  "collectorNumber": "BTG-156-R-FR"
+}

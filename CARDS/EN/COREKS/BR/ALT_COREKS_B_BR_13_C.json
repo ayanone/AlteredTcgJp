@@ -1,0 +1,165 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_13_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77ZDKR6MG84B3SYYYNZT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7XW7YSJPE3AN6TA00JZZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7XW7YSJPE3AN6TA00JZZ",
+          "text": "\"Push through the pain. Giving up would hurt far more.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XWV44W3F2D80YZKEC7H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7XWV44W3F2D80YZKEC7H",
+          "text": "I don't know what whim inspired him to make me scale this endless mountain, but I grit my teeth without complaining. Not verbally, anyway. The peak is still far off, the heat almost unbearable. And the fact that he's strapped heavy weights to my legs and left arm doesn't exactly help matters. Each step is a trial, each flight of stairs an ordeal. But it's not for me to question Master Kappa's methods, as antiquated as they may seem. He's taken many apprentices under his tutelage over the years, and he's gained a reputation for squeezing the best out of each one, even the most ordinary lump of charcoal. Even so, seeing him casually smoke his pipe while sipping a cool tea has a way of making the most patient pupil go off the deep end.\n\nI groan, adjusting the bag of stones weighing down my shoulders as I sweat profusely. He's certainly mischievous, no doubt of that. Wise, perhaps, but that remains to be confirmed. Bedivere suggested I follow whatever training the Kappa was willing to give me. I took her at her word, but with each passing day, the tasks he assigns me get more and more absurd. Is he merely testing my patience? Or is he trying to strengthen whatever he can to offset my disability? My thoughts race as I ascend the steep slope. One thing's for sure: I'll never succeed at anything if I can't make it through a simple climb. I maintain my momentum as Surge flutters along, utterly unaffected by gravity or even distance. Unlike me, he doesn't have to endure any physical limitations… I suddenly narrow my eyes. In the end, wasn't the goal for me to overcome those limitations myself?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XWH36VHVBF4PEYASFSH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7XWH36VHVBF4PEYASFSH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XVK0YBPJCQJ5W996P7T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7XVK0YBPJCQJ5W996P7T",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XVYMERV04BZX8MD9RH0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7XVYMERV04BZX8MD9RH0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77ZDKR6MG84B3SYYYNZT",
+      "reference": "ALT_COREKS_B_BR_13_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2c95972b6ed00a6ee3be",
+      "reference": "TRAINER",
+      "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+      "name": "Trainer"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f316705788bc7ce8c066",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Spirit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7ec94e5e5cf01cfd73fd",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/en_US/82940cba5ea6b7a87cfe72ee58d499f0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_13_C",
+  "reference": "ALT_COREKS_B_BR_13_C",
+  "id": "01HN5TXR7SMKV00CAERC4SKDYG",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/de_DE/376ff1f16d9d1861017cdf0ff1320081.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/es_ES/bea1dc30f62b81e493c944f2b1906cfd.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/it_IT/610f98b49c387a98c8086f6e968d9494.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/en_US/82940cba5ea6b7a87cfe72ee58d499f0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/fr_FR/87490431cb5bd3510c0fe7f2828c6381.jpg"
+  },
+  "name": "Kappa",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "5",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "4"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-050-C-EN"
+}

@@ -1,0 +1,138 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_P_LY_02_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPF3AFC0EHW2Q6HHZQ9TAEZV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J7K63QNZYNV19CY52J9T1729",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J7K63QNZYNV19CY52J9T1729"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63QYT6H60GF51NF5D8SJP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J7K63QYT6H60GF51NF5D8SJP"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63QSSTP12NDAS112RKQ5T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J7K63QSSTP12NDAS112RKQ5T"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63QEZGVG1GSK9YP9KJ7HT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J7K63QEZGVG1GSK9YP9KJ7HT"
+        },
+        {
+          "@id": "/lore_entry_elements/01J7K63QJDWB1G99G0NJC5WB6D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J7K63QJDWB1G99G0NJC5WB6D"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HPF3AFC0EHW2Q6HHZQ9TAEZV",
+      "reference": "ALT_CORE_P_LY_02_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héroe de"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a58208f6f9e9018aacdd",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_02/JPG/es_ES/ALT_CORE_P_LY_02_C_es_ES.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_P_LY_02_C",
+  "reference": "ALT_CORE_P_LY_02_C",
+  "id": "01HH2F5TT2V339V2GP3ZYM6HWV",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_02/JPG/en_US/ALT_CORE_P_LY_02_C_en_US.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_02/JPG/fr_FR/ALT_CORE_P_LY_02_C_fr_FR.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_02/JPG/es_ES/ALT_CORE_P_LY_02_C_es_ES.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_02/JPG/de_DE/ALT_CORE_P_LY_02_C_de_DE.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_LY_02/JPG/it_IT/ALT_CORE_P_LY_02_C_it_IT.jpg"
+  },
+  "name": "Auraq y Croqueta",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "Cuando juegues un personaje con una estadística básica de 0 — Gano 1 contador de actuación.  Al mediodía — Puedes gastar 5 de mis contadores de actuación para revelar la primera carta de tu mazo. Puedes jugarla sin coste o colocarla en tu mano. (No actives ninguna habilidad {h}.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-062-H-ES"
+}

@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_13_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YVPPGA16TV3MAZC6DQH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QHZGPWGZAD3M92R1RX5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QHZGPWGZAD3M92R1RX5",
+          "text": "\"L'immaginazione è la capacità di scoperta. È ciò che penetra nei mondi invisibili che ci circondano.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QJESK20BCDXZHF54ZRC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5QJESK20BCDXZHF54ZRC",
+          "text": "I look out of the bay window, contemplating Asgartha from the deserted lecture hall. I glance nervously at the blackboards where I pinned the assembly plans I finished the night before. Ada is reviewing them, moving between the different diagrams. Now that I look at them in the light of day, they seem like the product of some feverish dream. Beyond the theory, is it even possible? I've reviewed the plans dozens of times, and nothing seems to challenge the feasibility of it… I watch the Eidolon annotate my diagrams with a marker: \"elegant aesthetics\", \"functional mechanics\", \"circuit needs redesigning\"... Ada finally turns to the control module. Next to me, Oddball seems to sense that I have sweaty hands and a thumping heart. This is the innovation that matters the most to me.\n\nI had placed a cryptex similar to the Constructs on the table, lined with the khyalo alphabet. The idea had come to me on a whim. In terms of pure mechanics, creating autonomous robotic units wasn't difficult. The real challenge was the Automata's “brain”. Building on the overall functioning of the Alteration modules, I thought it made perfect sense to use them to create an operating system for the Automata. With such an artifact, they could react to their environment, almost as if they could think for themselves… And of all the Eidolons, Ada Lovelace is the most talented programmer. She's the only one who can help perfect my idea. I watch her activate the module, inserting it into the robotic head that acts as a case. She places a cube, pyramid and sphere in front of the robot, then tells it to look at the cube. The module rearranges in real time, and the head turns to the right object, as asked. Ada smiles, visibly impressed."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QJ7BNP8W3AYFMZJ66N4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QJ7BNP8W3AYFMZJ66N4",
+          "text": "Augusta Ada King, Countess of Lovelace, also known as the \"Enchantress of Number\", was the daughter of the poet Lord Byron. But her passion wasn't poetry. Her love of mathematics drove her to design what is now considered the first computer program, and she helped Charles Babbage with his Analytical Engine, a precursor to the computer. "
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QHJWDHM16NBA8Z121Z4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5QHJWDHM16NBA8Z121Z4",
+          "text": "Sierra"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QHS49FCV53YAH5RFMDB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QHS49FCV53YAH5RFMDB",
+          "text": "388 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YVPPGA16TV3MAZC6DQH",
+      "reference": "ALT_CORE_B_AX_13_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d29d88cd502a2db0d8e5",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingegnere"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/18bb3dc06423c625ec3d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b7695a3293202bf590f5",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-16T10:37:35+00:00",
+      "question": "If Ada Lovelace places a card in Reserve such as Coppelia, is Coppelia played for free, even though that would mean two cards are played in the same turn?",
+      "answer": "Yes. (1 card per turn is a rule of thumb, specific effects can cause exceptions.)"
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/JPG/it_IT/eb767937912fdb04cd4faf9a65ef40ae.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/ALT_CORE_B_AX_13_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/ALT_CORE_B_AX_13_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/ALT_CORE_B_AX_13_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_13_C",
+  "reference": "ALT_CORE_B_AX_13_C",
+  "id": "01HKAFJNJHN45HVQ5DKR30D845",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/JPG/es_ES/1883f2eb8a829ad04dda924714d0321a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/JPG/it_IT/eb767937912fdb04cd4faf9a65ef40ae.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/JPG/de_DE/ba86c483bf983cee85f5cf1eaf79d393.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/JPG/en_US/7104951bbacd35e201ac32a15084d66c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/JPG/fr_FR/07812c9c76769936310bd766fbd491fc.jpg"
+  },
+  "name": "Ada Lovelace",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{R} Puoi mettere una carta dalla tua mano nella Riserva. Se è un permanente, pesca una carta."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-006-C-IT"
+}

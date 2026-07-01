@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_06_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY509445112YFN0PQJDBBF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5ZEN0MF952MWG0ZBHHAG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5ZEN0MF952MWG0ZBHHAG",
+          "text": "Ensemble ils apprennent, ensemble ils protégeront."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5ZFQ5P0SQY3WC7FWD3C7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5ZFQ5P0SQY3WC7FWD3C7",
+          "text": "Wingspan se pose dans la cour du Kurung, rabattant ses ailes derrière son dos alors que je glisse hors de la selle et le long de son plumage bleuté. Je flatte son encolure, ébouriffe affectueusement ses plumes, caresse son bec. C'est alors que je remarque que tous les yeux des Cadets se sont posés sur nous, interrompant les manœuvres que leur instructeur leur a dictées. Juste avant d'atterrir, je les avais vus effectuer des chorégraphies en duo. C'était une importante leçon de savoir batailler à deux ou à plusieurs, afin de ne dégarnir aucun flanc, afin que toute brèche dans les défenses soit immédiatement colmatée. Mais il semble que la curiosité ait pris le pas sur la discipline. Je les regarde observer mon griffon avec de grands yeux, tels des enfants. Et effectivement, beaucoup d'entre eux sont encore jeunes.\n\nJe m'approche d'eux et retire mon casque, amenant Wingspan avec moi pour qu'ils puissent le rencontrer. Aussitôt, les Cadets abandonnent leur entraînement pour venir découvrir et caresser ma Chimère. Et cette dernière se laisse faire, prenant bien soin de ne pas faire de mouvement brusque. Depuis toujours, mon Alter Ego a montré une grande précaution vis-à-vis des jeunes humains, jouant volontiers avec eux, en s'efforçant de ne pas les blesser. Peut-être que dans quelques années, certains d'entre eux postuleront en tant que recrues officielles de l'Aegis. Mais pour l'instant, il fallait encore qu'ils apprennent les bases. Je salue l'instructeur, qui ramasse les armes en bois que les Cadets ont laissé traîner sur le sol. Peut-être sermonnera-t-il les soldats en herbe une fois que je serai parti. Présentement, il les laisse me presser de questions, non sans un malin plaisir. Je pose un genou à terre pour leur répondre. C'est aussi là ma mission en tant qu'Exalt : servir de figure de proue pour l'Ordis..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5ZF8SC19YH1T08EH2XJQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5ZF8SC19YH1T08EH2XJQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5ZD2SKM6970MHW5J2CCZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5ZD2SKM6970MHW5J2CCZ",
+          "text": "Sigismar"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5ZDV25BJNB9Y75PGVBFA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5ZDV25BJNB9Y75PGVBFA",
+          "text": "390 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY509445112YFN0PQJDBBF",
+      "reference": "ALT_CORE_B_OR_06_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5c22e14de7bfee74df15",
+      "reference": "APPRENTICE",
+      "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
+      "name": "Apprenti"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ad7b44c8321dd8cf8452",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ebbafe18ca84dccc765b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/JPG/fr_FR/8b4268c6e8f827e5d01da53dab83c98c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_06_R2",
+  "reference": "ALT_CORE_B_OR_06_R2",
+  "id": "01HKAFJNW20P6N3JSHTKYQ1EH1",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/JPG/fr_FR/8b4268c6e8f827e5d01da53dab83c98c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/JPG/de_DE/d01cb41bfb3df5d7f9b4c959a2a41cf7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/JPG/es_ES/18c9bd511c5a9878b18badfecbdb60f3.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/JPG/en_US/c18b9c8e568e414a526d55d112c2ca4a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/JPG/it_IT/7d7924501a2477e2dd2db637b595fac4.jpg"
+  },
+  "name": "Cadets Ordis",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{J} Créez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Expédition.",
+    "ECHO_EFFECT": "#{D} : Le prochain Sort que vous jouez ce tour coûte {1} de moins.# (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-129-F-FR"
+}

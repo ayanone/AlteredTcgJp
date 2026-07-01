@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_29_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB798B7A9BDZ0B0NW1AK3B",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8598X03G8X2GJRHYYZ9P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8598X03G8X2GJRHYYZ9P",
+          "text": "Qui parle sème, qui écoute récolte."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME85AA9CPV0XABMHABHQWD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME85AA9CPV0XABMHABHQWD",
+          "text": "J'ôte mes torques bleus et les confie à Spike, en profitant pour le câliner un peu. Assise sur le talus, je retire mon furisode et le plie soigneusement avant de le poser à côté de la petite Chimère, déjà toute accaparée par l'apatite et les anneaux dorés de mes bracelets. Autour de nous, les cigales chantent à tue-tête, emplissant la vallée d'une clameur assourdissante. Une fois prête, je me dépêche de rejoindre man toncle dans la rizière asséchée. Arjun est déjà occupé·e à couper les tiges de riz, le dos voûté et la sueur perlant de son front. Je dégaine ma propre faucille et me mets à l'imiter, regardant tout du long sa silhouette corpulente saisir des bottes et les poser sur le bord du champ. Je n'arrive pas à croire que dans quelques jours, iel sera parti·e. Une fois la récolte terminée, iel prendra son baluchon, et ellui et Spike partiront vers Arkaster...\n\nJe soupire. Je commençais à m'habituer à sa présence. Durant toute mon enfance, iel avait été loin. Bien sûr, maman me parlait souvent d'ellui. Mais à part les quelques fois où iel nous rendait visite, je n'avais jamais eu le temps de lae connaître. Et maintenant, voilà qu'iel allait repartir, et cette fois, peut-être pour de bon... Je dépose un fagot aux pieds de Qaaje, qui l'amène à Astana et Celestino. Je les regarde battre les tiges au-dessus d'un bac en bois, pour en extraire le riz paddy qui sera ensuite séché, puis passé à la décortiqueuse manuelle pour en retirer la cosse... Mais quoi que je fasse, mon attention est toujours ramenée vers Arjun. C'est ellui qui m'a enseigné les rudiments de l'Altération. En son absence, je devrai continuer seule et par moi-même... Iel se retourne alors, essuyant son front couvert de transpiration. Et les larmes me montent aux yeux en voyant qu'iel porte autour du cou la cordelette couleur clémentine que je lui ai offerte."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME859TP6DVHV1EPDP90ZVG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME859TP6DVHV1EPDP90ZVG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8584GSVE04SVGZBE5WVB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME8584GSVE04SVGZBE5WVB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME858PVAJ044QWKWBCRDQN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME858PVAJ044QWKWBCRDQN",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB798B7A9BDZ0B0NW1AK3B",
+      "reference": "ALT_COREKS_B_MU_29_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1a5586b78b728f11a57c",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f74b75156320e0fa88e1",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_29/JPG/fr_FR/faaa5421111481e924285efc03e800a9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_29/ALT_CORE_B_MU_29_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_29/ALT_CORE_B_MU_29_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_29_R2",
+  "reference": "ALT_COREKS_B_MU_29_R2",
+  "id": "01HN5TXRT30X40P9KYXRRAGSWJ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_29/JPG/it_IT/b9b34f92a96a4b8997d27ab8975d332b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_29/JPG/es_ES/ac4794bb09735252f9e1688a0ca02d91.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_29/JPG/de_DE/5eb1af7d9b4c816d6640d1ce9f830d71.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_29/JPG/en_US/5d279dbad0206997ce4f8d9b74e98946.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_29/JPG/fr_FR/faaa5421111481e924285efc03e800a9.jpg"
+  },
+  "name": "Récolter",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[Ravitaillez]. (Mettez la première carte de votre deck en Réserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-114-F-FR"
+}

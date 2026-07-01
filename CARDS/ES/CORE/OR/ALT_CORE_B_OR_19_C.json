@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_19_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50AGGG3N9MMPPCHS8G3M",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH612619X5V6K9Z1KPY3NG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH612619X5V6K9Z1KPY3NG",
+          "text": "Todos somos iguales ante la mirada penetrante de la justicia."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH613JD3VZ5MVKYMJ60GQX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH613JD3VZ5MVKYMJ60GQX",
+          "text": "The judge turns and looks at me with an unrelenting stare. Issitoq floats above the attendees like an inquisitive eye. He has listened to the cases put forward by the defense and the Libra prosecutor, and now it is time for him to deliver his judgment. His eyes light up and blue rays illuminate me from head to toe. Then his voice booms out like the roar of thunder, like the rumbling of an avalanche. The Eidolon isn't known as a lenient judge, and that's a good thing. I place a knee on the ground as I listen to the verdict: immediate removal, and expulsion for a minimum of three years. Defeated, I bow my head. Behind me, my supporters protest and shout that this is a disgrace. There's nothing they can do about it, but my condemnation will also discredit all those who supported me.\n\nIssitoq's eyes close and, like an eyeball, the Eidolon turns to face the entrance to the Court. Having delivered his judgment and announced my punishment, he slowly fades away. I silently rejoice, even though I can't show it. By my sacrifice, I have given Avkan complete freedom to approve the launch of the Rediscovery Endeavor. Through my scheming, I have silenced the protest. And what's more, the position I'm vacating will be fought over, and the resulting succession struggle will prevent the hopefuls from effectively moving against the Basileus. I won't be able to take a vacation, of course. I'll need to keep monitoring their movements and warning Avkan of their actions. But the threat they pose to the project will certainly be drastically reduced. Feigning contrition, I stand up and move towards to the exit with my head held high. There's no need to fake my pride as I take my leave."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH612V95WAFEY7A9PQENX1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH612V95WAFEY7A9PQENX1",
+          "text": "The Inuit religion asserts that every being also exists in the form of a breath or spirit: its anirniq. Whether it's a human being or animal, this \"soul\" remains in the world after death and can seek revenge on whoever killed it. The only way to appease it is to perform the correct rituals, respect traditions and, above all, not break any taboos. The deity Issitoq, who takes the form of a giant flying eye, ensures that these rules are followed – and won't hesitate to punish all those who scorn them."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6114YZEWWX55XS19TFMD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH6114YZEWWX55XS19TFMD",
+          "text": "Waru"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH611NR97H5TAF54VGGK74",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH611NR97H5TAF54VGGK74",
+          "text": "365 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50AGGG3N9MMPPCHS8G3M",
+      "reference": "ALT_CORE_B_OR_19_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/269cccd9e1533284a3a9",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Burócrata"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ebb72c587bea75ff59a1",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deidad"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1ef4f8f6d3beb3d5dcec",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/94b5eb01f3b6224fa222",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:37:40+00:00",
+      "question": "What happens if Issitoq is played during a tiebreaker day?",
+      "answer": "In the Arena, Expeditions can't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant, and Issitoq doesn't block anything."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/JPG/es_ES/a23584cc80bd483770f5648b67f1922b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_19_C",
+  "reference": "ALT_CORE_B_OR_19_C",
+  "id": "01HKAFJNXHZM8NK8DNWQDX045E",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/JPG/it_IT/baa3c13d23ac1530910b84b4bd68d18b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/JPG/es_ES/a23584cc80bd483770f5648b67f1922b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/JPG/en_US/19849b6549aa887e3c68fc71ab395224.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/JPG/fr_FR/13115bd4b55b8dac74f2e1f32cad4316.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/JPG/de_DE/6570266eb9bc00c514d35d1529e27809.jpg"
+  },
+  "name": "Issitoq",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "MOUNTAIN_POWER": "4",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MAIN_EFFECT": "Tu otra expedición y la expedición enfrentada a ella no pueden avanzar.",
+    "ECHO_EFFECT": "{D}: Roba una carta. (Descártame de la reserva para hacer esto.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-142-C-ES"
+}

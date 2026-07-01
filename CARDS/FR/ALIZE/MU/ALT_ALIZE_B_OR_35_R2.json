@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_35_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6FHMPS87058P788X52X7NKE8JS",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J28D6WTRZPY9RFB87QM9J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J28D6WTRZPY9RFB87QM9J",
+          "text": "La justice est un plat qui se mange froid."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28F4TG3NTGPDQKG5QB09",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J28F4TG3NTGPDQKG5QB09",
+          "text": "Je lutte pour faire taire la douleur dans mes articulations et mon point de côté. Nous courons à perdre haleine pour rejoindre la lisière de la forêt, les Belisenki à nos trousses, et l'exercice est éreintant. La course — dans la neige de surcroît — n'est pas mon fort, et je doute qu'un exposé sur les bienfaits de pourparlers diplomatiques intéresse beaucoup nos poursuivants. Je ne vais pas tenir longtemps à ce rythme. Et le reste de mes compagnons, qui se dispersent dans un désordre à la martialité questionnable, ne constitue pas vraiment le fer de lance d'une hypothétique contre-attaque. Nous devons stopper nos agresseurs et mettre fin à notre déroute, faire quelque chose pour inverser la situation. Inspirer la peur et l'effroi chez l'adversaire, c'est pourtant bien là une des cordes nécessaires à un tribun comme moi. Ah, que n'ai-je pas plus étudié les débâcles et les retraits stratégiques pour nous sortir de ce guêpier !\n\nDevant nous, le blizzard augmente d'intensité. Cela ne va pas faire notre affaire. À moins que... Le Heka illumine mes mains tandis que je trace dans le vent les symboles dont j'ai besoin. Porté par les bourrasques, un gigantesque rouleau de papier se déploie en cercle devant nous. En son centre, Dong Da Shen se prélasse, assis sur une motte de neige, une magnifique cape bleue claquant dans son dos. Par son entremise, j'espère que la peur va changer de camp. Des idéogrammes inscrits sur le rouleau scintillent d'une flamme azur. Je me souviens que c'est un acte d'accusations que Dong Da Shen brandit. Sa voix inquisitoriale tonne, tandis qu'il pointe son sceptre dans la direction des engeances hivernales. Cela tombe à pic, car il est le dieu du froid, et son masque de peinture est le visage de l'hiver. Devant son autorité, les Belisenki se dispersent et regagnent le couvert des arbres. Bientôt viendra pour moi l'heure des courbatures et des jointures douloureuses, mais ce n'est pas une mauvaise chose, toute proportion gardée..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28EF6FZYNK512XE7M247",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J28EF6FZYNK512XE7M247",
+          "text": "Dong Da Shen est la divinité de l'hiver de Taïwan, qui instille la peur et la menace chez ses adversaires. Sans pitié, il tient les ennemis en respect. Son visage est peint avec les traits d'un tigre et d'un chrysanthème. Il est muni d'un serpent ou d'un bâton en forme de serpent pour effrayer les prisonniers du camp adverse."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28C4BTXWPTQ3R3W2AQH0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J28C4BTXWPTQ3R3W2AQH0",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28CM33HQA00AE7RTK5B7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J28CM33HQA00AE7RTK5B7",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "6FHMPS87058P788X52X7NKE8JS",
+      "reference": "ALT_ALIZE_B_OR_35_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/363174c2576285ecb603",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrate"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a879137df34b973d5677",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cce7ad735313692b4288",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/fr_FR/7a515c1ab60239aa056083ac346bba2a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_ecf931302bf5c83597e3fdca7252cd5d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_e1dcde14e0c6599e5cb23377398f2e25",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_c741a0f8a9ba8b8195551804a4859c19"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_35_R2",
+  "reference": "ALT_ALIZE_B_OR_35_R2",
+  "id": "01J1Q4P4SKAF9A6PP6VDW6X2PF",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/it_IT/babdb68596cea11d4aa8b43608719ab0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/es_ES/322058083c395adeefe033c972c3fcdc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/en_US/1bcf9a3e87589be4d49535d3eeeaf95c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/fr_FR/7a515c1ab60239aa056083ac346bba2a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/de_DE/4d4870bf6004b8aead6aa12aa4f7f82f.jpg"
+  },
+  "name": "Dong Da Shen",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "#3#",
+    "MAIN_EFFECT": "#À Midi — #Vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-076-F-FR"
+}

@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_19_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77WQKTXABTRS2MFAFC0H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7WJRY7RWR02PJN1MF9SP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7WJRY7RWR02PJN1MF9SP",
+          "text": "Savoir et sagesse doivent avancer de concert."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WK7FRMTDY6G56C9F15Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7WK7FRMTDY6G56C9F15Y",
+          "text": "Malgré sa taille imposante, Ganesh se penche délicatement au-dessus de l'homme, ajustant ses binocles amplifiantes. Ses mains se meuvent avec une lente précision, comme un orfèvre travaillant une pierre précieuse. Il observe la Greffe, cette prothèse mécanique qu'il a fixée sur l'ouvrier, vérifiant que tout est en ordre et en état de marche. Il ajuste quelques écrous avant de se redresser, satisfait, tandis que le mortel teste le bras mécanique qui lui a été apposé. Ganesh sourit en remarquant les yeux embués du jeune homme, qu'un malencontreux accident de travail avait privé de son membre. Avec ça, il va pouvoir reprendre le cours de sa vie, même s'il lui faudra la réinventer un tant soit peu, comme j'avais dû le faire moi-même. Je le vois quitter l'atelier, les yeux rivés sur sa Greffe flambant neuve. Il lui faudra de longues semaines pour s'habituer complètement à son poids, aux nouvelles sensations, à sa simple présence.\n\nJ'avance lentement vers l'Eidolon-Éléphant, qui semble me soupeser du regard. Il est toujours difficile de savoir à quoi il pense. Sa trompe s'enroule autour du siège d'opération et l'écarte doucement. Chaque pas est une souffrance, mais j'ai appris à vivre avec. Ma canne claque contre les marches tandis que je monte sur la plate-forme élévatrice pour apporter à Ganesh la prothèse du prochain patient. Façonner de telles améliorations a donné un nouveau sens à ma vie, et je me plais à aider ceux qui en ont besoin. Ce n'était clairement pas l'objectif que je m'étais fixé, mais c'est ainsi. Je dois m'en contenter. L'Eidolon tend l'un de ses quatre bras dans ma direction, m'aidant à monter les dernières marches. Je le remercie d'un signe de tête, tandis qu'une jeune femme au teint hâlé se présente."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WJZ14C5CM63G1MWKT6T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7WJZ14C5CM63G1MWKT6T",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WJ7MSNVE3D5HZK6FK3Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7WJ7MSNVE3D5HZK6FK3Y",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WJHXXEZJ54BDWR37GD5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7WJHXXEZJ54BDWR37GD5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77WQKTXABTRS2MFAFC0H",
+      "reference": "ALT_COREKS_B_AX_19_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/19af04a50db28f815bfd",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/941493f3942fed0671c5",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/5a79f47101d43414f51f",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:39+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of this card said \"For each Permanent you control, you may activate its {j} triggers\". Future printings will say \"For each Permanent you control, you may activate its {j} abilities.\""
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_19/JPG/fr_FR/0c83433f6f4c5c006e31f99d26bb99e2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_19_R1",
+  "reference": "ALT_COREKS_B_AX_19_R1",
+  "id": "01HN5TXR4N453JJVG4G50ZW755",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_19/JPG/es_ES/6086bc2b287b49c176418a78c9699125.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_19/JPG/it_IT/3b5a393e839db980405eb94080ac35d0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_19/JPG/en_US/33ccf793485830f7290749e95366d61d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_19/JPG/de_DE/0c22ba2c32aed2232bf864ebc1b2dd01.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_19/JPG/fr_FR/0c83433f6f4c5c006e31f99d26bb99e2.jpg"
+  },
+  "name": "Ganesh",
+  "elements": {
+    "MAIN_COST": "#6#",
+    "RECALL_COST": "#6#",
+    "OCEAN_POWER": "#4#",
+    "MOUNTAIN_POWER": "#4#",
+    "FOREST_POWER": "#4#",
+    "MAIN_EFFECT": "{J} Pour chaque Permanent que vous contrôlez, vous pouvez activer ses capacités {j}."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-019-R-FR"
+}

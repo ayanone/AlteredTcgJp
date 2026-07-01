@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_41_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7Q7AHS52AQ98SR4FYHVF9APDEG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25TSCQY5BFM8DHMMKGHD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25TSCQY5BFM8DHMMKGHD",
+          "text": "Alles schläft, einsam wacht ..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25VF6YBM0RAPH3C2G06Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J25VF6YBM0RAPH3C2G06Q",
+          "text": "Als ich unter dem Laub der schneebedeckten Bäume hindurchgehe, höre ich endlich wieder den Wind wehen. Während meiner gesamten Reise durch die Taiga war er gedämpft gewesen, abgeschwächt vom dichten borealen Wald, erstickt durch die Schneewehen. Ich war es nicht gewohnt, an so stillen Orten zu sein. Natürlich hatte ich hin und wieder das Knarren der Äste vernommen, die sich unter der Last des Schnees bogen. Aber selbst dann war der Ton dumpf und matt gewesen, fast unhörbar. In meinen Ohren war es wie Meer aus weißem Rauschen gewesen. Nun war es ein Trost, den Wind wieder pfeifen, rauschen und murmeln zu hören. Es war, als hätte ich lange den Atem angehalten und würde nun wieder Luft holen können. Nur wenige erkennen, wie sehr die Welt aus Musik besteht. Jeder Ton ist eine Note innerhalb einer Symphonie und der Wind trägt und verbreitet sie alle.\n\nIch lehne mich an den Stamm einer Birke, um mich ein wenig auszuruhen. Dann schließe ich die Augen und lasse mich von der süßen Melodie der Welt einlullen: dem Knarren des Eises, dem Ruf einer Eule … Ich beginne mitzusummen, bringe meine Stimme mit den Geräuschen der Natur in Einklang und spüre plötzlich, wie mein Tummo in mir aufflammt. Ich spüre Arus Anwesenheit, wie sie sich an mich schmiegt, ganz so, wie sie es manchmal während unserer Nachtwachen tat. Ihr Eidolon ist hier, ich fühle es, aber ich möchte meine Augen nicht öffnen, weil ich Angst habe, dass es verschwindet. Was sie wohl gerade tut? Qannik ausschimpfen vielleicht? Oder sich um Marang kümmern? Einige Clan-Familien hatten beschlossen zurückzubleiben, insbesondere diejenigen, die kleine Kinder hatten. Obwohl ihnen freundlicherweise ein Zuhause in Kladiver zugewiesen worden war, muss die Trennung schwer gewesen sein. So wie die zwischen Aru und mir …"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25V4BNFRNM9Z0PPGRRX3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25V4BNFRNM9Z0PPGRRX3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25T2B12MHEH5PMH5KA0N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25T2B12MHEH5PMH5KA0N",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25TEHDJ1X3KKKRM8S69G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25TEHDJ1X3KKKRM8S69G",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "7Q7AHS52AQ98SR4FYHVF9APDEG",
+      "reference": "ALT_ALIZE_B_LY_41_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d33ed7a7dc5c7619396b",
+      "reference": "SONG",
+      "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
+      "name": "Lied"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3a2de74612b4ae83632a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/de_DE/72a28f3e5bca5bce7a3983a1cdaf35ae.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/WEB_fc2732d6acb2a43995baf22665389b0b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/WEB_a1df46ae388dc428e843c27a93ea6fd1"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_41_R1",
+  "reference": "ALT_ALIZE_B_LY_41_R1",
+  "id": "01J1Q4P4S9JQZW8ANWA2ZKEHDG",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/de_DE/72a28f3e5bca5bce7a3983a1cdaf35ae.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/es_ES/b6d5ce8be6f04ad6d80da9b74ba38f4b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/fr_FR/760e00423b75f18f92210494c1d43c61.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/it_IT/cfe5bebec90da6aea1b9d5cb28f2c14c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/en_US/94525da2e38e46c10d68833fdcc3e0d7.jpg"
+  },
+  "name": "Stille Nacht",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Vergänglich]].  #Würfle einmal, dann# wähle einen Charakter. Bei:  • 4+ erhält er [[Verankert]]. (Während der Ruhepause geht er nicht in die Reserve und verliert Verankert.)  • 1–3 erhält er [[Schlafend]]. (Am Abend ignoriere seine Statistiken. Während der Ruhepause geht er nicht in die Reserve und verliert Schlafend.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-047-R-DE"
+}

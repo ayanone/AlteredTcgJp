@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_59_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4CPPYCEWAF90RAD1113APV59WQ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A69KX5ME4TFCG6C0NFS0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A69KX5ME4TFCG6C0NFS0",
+          "text": "Ready for more?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6A4EDEDGW7NAZEASC3A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A6A4EDEDGW7NAZEASC3A",
+          "text": "393 AC - Metaaaaaaaal! I step onstage, throwing up the horns with one hand and setting my pumpkin head aflame. I shout to the roaring crowd to stir up their energy as dawn timidly peeks over the horizon. After the interruption, and despite the intermission, the concert has been pretty much an uninterrupted marathon, almost long enough to play through our whole catalog… and we needed that time to make folks forget the false note we started out on. It took a good ten minutes for Fen to return to her senses. Orbec was flabbergasted, and Tamati was both furious and severely rattled. I had to jump in and convince them to give her a break and accept the situation. Because they didn't feel it. They didn't experience what she had experienced. But I did. It was like a leech had somehow gotten into her brain and started slurping up the contents of her memory.\n\nSo, yes, she was able to continue singing the rest of the set, but with each song, she was gripped with a visceral fear that she'd forget the lyrics again. We'd had to get her back on track, and encourage her. In the end, though, Fen knows perfectly well that she's not that important. The audience takes priority over everything else. And our job is to ensure a mind-blowing experience. So we're going to give them a truly epic finale! My fingers dance wildly over the fretboard as I launch into a solo that would wake the dead! I might be sore afterwards, but I don't mind. All that matters is making the most of this moment. In the midst of my wild performance, I leap into the crowd and let a sea of hands hold me aloft, and I don't miss a single soaring note. Let's finish this show with a bang!"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A69WFBQQ5FSKADR581WR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A69WFBQQ5FSKADR581WR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A691SPCVY3Y0HZ0WKK1K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A691SPCVY3Y0HZ0WKK1K",
+          "text": "CROWBAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A69B55HCBPANPXG3AZKJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A69B55HCBPANPXG3AZKJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "4CPPYCEWAF90RAD1113APV59WQ",
+      "reference": "ALT_BISE_B_LY_59_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4dbc06092a70c98dd733",
+      "reference": "SONG",
+      "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
+      "name": "Song"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ae50610040562fdbc95c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/en_US/9860e74596a6da1e247676908f142b92.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/WEB_5734e9a1916b693864cc0c8ff3e1eef7",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/WEB_af6d97fdf5010dc9a91a3be4eb68976f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_59_R2",
+  "reference": "ALT_BISE_B_LY_59_R2",
+  "id": "01JB1YGPBJ75ART9E9GCVPSPXA",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/it_IT/a75fd5afef077e942f077bc5fb9eb384.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/de_DE/86c00ac088c469615cd91c73a69d3fd3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/es_ES/834674d8bc495b9f9dc6dc43a14ef6aa.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/fr_FR/eb172a2b92511f04d98c78b64b87039d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_59/JPG/en_US/9860e74596a6da1e247676908f142b92.jpg"
+  },
+  "name": "Encore",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "#[[Fleeting]].#  Target [[Fleeting]] #or [[Boosted]]# Character gains [[Anchored]]. (During Rest, it doesn't go to Reserve and it loses Anchored.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-048-F-EN"
+}

@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_10_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB799C3MW7FVY6N9HR01BX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME86KPDK8H8SASNM4T74H0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME86KPDK8H8SASNM4T74H0",
+          "text": "«Este formulario no está cumplimentado correctamente. Por favor, pide cita para mañana»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86MYQBWC0VTBW0M9NF5F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME86MYQBWC0VTBW0M9NF5F",
+          "text": "Heavy tomes are stacked on his table among huge piles of paper and scribbled notes. I stand in front of the archivist, tapping my cane deftly to grab his attention. He looks up and scrutinizes me for a few moments, then carefully examines the signed authorization I hand over. Without saying anything, he gets up and grabs his heavy bunch of keys, then signals that I should go with him. We walk in silence through the Sanctum's maze of shelving, then head down the spiral staircase that descends into the bowels of the sprawling library. I notice that the further we walk, the dustier the shelves become, and the books they hold are more obscure and obviously less used. As I turn my head, I see the Eidolon of Kikimora sweeping an area that probably hasn't been visited for years.\n\nThe archivist stops in front of a gate and sorts through his keys to find the right one. He then shoves the precious key into the strange lock that prevents access to the restricted area where all the Sanctum's most dangerous books are locked away. As I enter the off-limits area, Mack quietly drops out of my tunic and hides out of sight. I smile at the archivist and follow him into the jumble of classified books, scrolls and tablets, all while overseeing my Alter Ego's secret search. He slips in and out of the rows of books, cursing whenever I give him instructions. \"I know what I'm doing,\" he says before cutting off all communication. Much later, as I sit on a bench in the Anthill, Mack finds me and places a heavy grimoire beside me. Nice work. I just need to decipher it and covertly take the translation to the Basileus."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86M9MJGE6XN4X4Q77Y45",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME86M9MJGE6XN4X4Q77Y45",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86JCHTAPX9P524QKFVQX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME86JCHTAPX9P524QKFVQX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86K1NYK1AYXVGW008NM7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME86K1NYK1AYXVGW008NM7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB799C3MW7FVY6N9HR01BX",
+      "reference": "ALT_COREKS_B_OR_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/17070b1aec9fb21d126e",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Burócrata"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3071e5ca2b7aec809775",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/d0579af57925033bd8a5",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:37:47+00:00",
+      "question": "What happens if Monolith Archivist is played in the Arena (during a tie-breaker)?",
+      "answer": "In the Arena, Expeditions can't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant. Therefore Defender isn't a drawback anymore."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/es_ES/f50ae24bf8c2efee7a9ef1102f95f0da.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_10/ALT_CORE_B_OR_10_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_10/ALT_CORE_B_OR_10_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_10/ALT_CORE_B_OR_10_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_10_C",
+  "reference": "ALT_COREKS_B_OR_10_C",
+  "id": "01HN5TXRFCRQQKRH052ZR2243Y",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/fr_FR/3c7514cc71404a847dbdfe7bb963081d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/de_DE/738f1e2e9518b0fb877d2c671cd6f96b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/es_ES/f50ae24bf8c2efee7a9ef1102f95f0da.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/en_US/25d66d99e8282a7a8818361f4d70af20.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/it_IT/20cfcb1c65a643f5951cef0c188b3680.jpg"
+  },
+  "name": "Archivista del Monolito",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "[Defensor]. (Mi expedición no puede avanzar durante el anochecer.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-126-C-ES"
+}

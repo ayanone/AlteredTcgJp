@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_04_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YTNWFS2PNQ3GRAPTE2J",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q8BBJJVVE6RCAFWNZRJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5Q8BBJJVVE6RCAFWNZRJ",
+          "text": "Tout comme les ingénieurs Axiom, les Élémentaires de Kélon ont le goût de la découverte."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q8PQY2DS9ZRHDVGJKF4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5Q8PQY2DS9ZRHDVGJKF4",
+          "text": "La buée recouvre déjà l'intérieur de mon casque tandis que j'émerge de l'ascenseur. J'ai envie de me gratter, mais ça va pas être facile avec ma combinaison intégrale. L'intérieur de la mine est poisseux, saturé de vapeurs soufrées. Les autres mineurs patientent dans leur scaphandre, chargés de leur barda encombrant, entre autres des marteaux-piqueurs, des pelles et des pioches. Seule la lumière de nos lampes brille dans l'obscurité, là, à mille pieds sous terre. Machinalement, j'essaie d'essuyer mon front, mais ma main heurte ma visière. Je maugrée intérieurement. Autant en finir au plus vite. J'ouvre la cage que j'ai apportée avec moi, et l'Élémentaire de Kélon en jaillit, appâté par la présence du minerai énergétique. Dans la pénombre de la mine, son épiderme est presque phosphorescent. Allez, petit, au boulot. Trouve-nous un bon filon bien juteux.\n\nAprès avoir humé l'air toxique, il se met à détaler, et je le suis aussi vite que je peux. Il tourne à gauche, puis à droite, sans s'arrêter une seconde, ses pattes dodues dodelinant de façon un peu maladroite alors qu'il avance. La bestiole est irrémédiablement attirée par le Kélon, comme un papillon de nuit vers une bougie. J'observe son dos lisse et rose, d'où jaillissent des croûtes cristallines. Tout comme l'axolotl, il a des branchies externes en forme d'antennes de part et d'autre de la tête. Ce sont ces appendices qu'il utilise pour se guider, car ses yeux globuleux ne voient pas à dix centimètres de distance. Mais il en a pas besoin pour sentir la proximité de sa friandise préférée. Il ressemble à Marmo de ce côté-là. Ils réfléchissent tous deux avec leur ventre. Il s'arrête soudain et se met à gratter la pierre. Je fais signe aux autres d'approcher. T'inquiète, petit. Si on trouve du Kélon, on t'en gardera une pépite..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q8H76M7PH9NDJ003KRF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5Q8H76M7PH9NDJ003KRF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q805Y5KQ947RBZJHCXD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5Q805Y5KQ947RBZJHCXD",
+          "text": "Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q865AZM2YJNPS3WMZVW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5Q865AZM2YJNPS3WMZVW",
+          "text": "370 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YTNWFS2PNQ3GRAPTE2J",
+      "reference": "ALT_CORE_B_AX_04_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1a094e3bffd89f18a8f3",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Élémentaire"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5936cf698d30549958e4",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/fr_FR/fc40643ff847abc698aa446f97ed5625.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_04_R1",
+  "reference": "ALT_CORE_B_AX_04_R1",
+  "id": "01HKAFJNHG4PN8JTMHCFFRCBXE",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/de_DE/f8b1f9e89ab66103a169b18fb46d0f14.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/en_US/4187ecad6c030eae62446f153489f11e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/it_IT/cd047933071571e380d9f9f3488ab8b8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/fr_FR/fc40643ff847abc698aa446f97ed5625.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/es_ES/9108b738d355dc6f78de04cd205734a3.jpg"
+  },
+  "name": "Élémentaire de Kélon",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{H} #Vous pouvez mettre# une carte de votre main en Réserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-010-R-FR"
+}

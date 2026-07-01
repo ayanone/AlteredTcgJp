@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_40_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1NYM0Z188492Z9WAR01SPS8S88",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29283215X24MQSHGWK3S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29283215X24MQSHGWK3S",
+          "text": "Wer in der Kälte einschläft, wacht vielleicht nicht mehr auf."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2948JYTZ381CNY2YN2JZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2948JYTZ381CNY2YN2JZ",
+          "text": "Ich fahre mit der Hand an der Eiswand entlang und werfe einen Blick auf die andere Seite. Obwohl sie durch das dicke Eis verzerrt sind, kann ich die Umrisse eines Yzmir-Hexers und einer weiteren Person am Ufer eines großen unterirdischen Sees gefangen erkennen. Sie sind auf der anderen Seite eingeschlossen. Ich klopfe auf die Eiswand und sehe, wie der Hexer auf mich zukommt. Mack beobachtet alles durch meine Augen und warnt mich, dass der Mann nur noch genug Mana hat, um sich vor der Kälte zu schützen – mehr nicht. Mit meinen Händen prüfe ich das Eis, das zwischen uns liegt. Es scheint, als wäre es urplötzlich erschienen und hätte diesen armen Abenteurern keine Zeit zur Flucht gelassen. Und dasselbe Phänomen nimmt ihnen nun rasch ihre Körperwärme und ihre Kleidung wird mit alarmierender Geschwindigkeit mit Eis und Raureif überzogen.\n\nJetzt zählt jede Minute. Beide zeigen schon Anzeichen einer akuten Unterkühlung. Während es der Hexer noch schafft, irgendwie auf den Beinen zu bleiben, kann man das von seinem Gefährten nicht behaupten. Er liegt auf dem Boden und seine Lebenszeichen werden immer schwächer. Wir müssen sie sofort da rausholen. Ich gebe dem Geschichtenerzähler der Lyra das Zeichen, ein Seil zu entrollen. Sobald ich die eisigen Gitterstäbe ihres Gefängnisses durchbrochen habe, wird er die Eingeschlossenen herausziehen. Ich skizziere eine grob aussehende Glyphe an die Wand. Sie vermittelt die rohe und primitive Vorstellung einer Explosion und ich hoffe, dass sie ausreicht, um die Wand zu durchbrechen. Ich sehe, wie sich auf der Oberfläche bereits neue Raureifmuster bilden: ein Zeichen, dass die Eismasse immer noch dicker wird und weiter zufriert. Der Hexer zittert, aber seine Augen sind voller Hoffnung. Ich leite Mana in die Glyphe, während der Geschichtenerzähler seinen Enterhaken hin und herdreht …"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J292VJ3CWAQYQVX5TED00",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J292VJ3CWAQYQVX5TED00",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2913RVC4RWM9TYYZX1VT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2913RVC4RWM9TYYZX1VT",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J291N969VTTM157428DD2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J291N969VTTM157428DD2",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1NYM0Z188492Z9WAR01SPS8S88",
+      "reference": "ALT_ALIZE_B_OR_40_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/605c22063d32e118eafa",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Unterbrechung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c73ca655b4291d2ff60c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/de_DE/f72e1ad59d8842030ee8749b8de7278a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/WEB_5da96e97aec9961cde03c79e3fe053d9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/WEB_8698b5ee26be342663239a1fbebfb064"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_40_R1",
+  "reference": "ALT_ALIZE_B_OR_40_R1",
+  "id": "01J1Q4P4SN8RYANNFV99ET5V3Y",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/de_DE/f72e1ad59d8842030ee8749b8de7278a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/fr_FR/da908b14c19a3e4f7ca346faf8b670ba.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/it_IT/b1bd8ad2b27a00dbc8efb3455f550eb9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/es_ES/44c1a12eb3288557b1d1a99598adcb4c.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/en_US/75a44305450d5198546e367aa4823df9.jpg"
+  },
+  "name": "Unterkühlung",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Jeder Spieler wählt einen Charakter, den er kontrolliert. Er erhält [[Schlafend]]. (Du wählst zuerst. Ignoriere die Statistiken von Charakteren mit Schlafend am Abend. In der Ruhepause gehen sie nicht in die Reserve und verlieren Schlafend.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-081-R-DE"
+}

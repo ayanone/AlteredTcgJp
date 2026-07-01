@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_42_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/00KZ04Q2RP9KMTKFJMXCV93J1Z",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J279BRA7P6MGB4J85PAW3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J279BRA7P6MGB4J85PAW3",
+          "text": "Il pericolo è dietro l'albero."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27A51YZATZ7P14FY01XV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J27A51YZATZ7P14FY01XV",
+          "text": "Se ascolto con attenzione, riesco a distinguere una serie di grida soffocate provenire dalla foresta. Il bosco è cambiato nelle ultime ore: la taiga ghiacciata sta lasciando gradualmente il posto a distese boschive prive di ghiaccio e neve... Ma non è il rifugio tranquillo che dovrebbe essere; tutt'altro. Gli alberi sono agitati, così come le piante. Ogni dendrite della Skein che dispiego viene accolto da uno shock ostile. Sarebbe un conto se si trattasse solo dell'entusiasmo della natura che si risveglia... Ma no, la foresta è ribelle, amara, feroce, come se volesse vendicarsi di qualcosa. Mi dirigo verso le grida, deviando dal mio percorso, e la foresta non ne sembra molto felice. Un rovo mi sferza il viso e le spine mi fanno sanguinare. Più mi allontano, più resistenza incontro, tanto che devo sfoderare la sciabola per abbattere fitti rampicanti spinosi e rami che trasudano veleno.\n\nEmergo in una radura buia, dove gli eidolon dei Tre Porcellini sono alle prese con radici voraci e steli stritolanti. I fusti delle piante affiorano dalla terra in subbuglio, selvaggi e minacciosi, e sferzano l'aria come serpenti, cercando di avvolgersi intorno a qualsiasi cosa riescano a raggiungere. Uno di questi afferra un ingegnere suino e lo solleva sopra la mia testa. Mi affretto a tagliare la pianta e il maiale cade a terra con un tonfo. Cosa può aver suscitato una tale rabbia nella natura? La sento attaccare con tutte le sue forze, lottare per respingere... All'improvviso mi è chiaro. Questa foresta era qui quando è arrivato il freddo ed è stata soppiantata dalla taiga. Ora si è risvegliata e vuole riprendersi questo ecosistema, lottando per ristabilire la propria presenza. Mi volto verso gli eidolon, che emanano una potente aura di paura. Grido loro di scappare e di non voltarsi indietro, mentre ricaccio indietro i rami sferzanti della foresta."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J279Q2WQR0QNKGVPGQFJ6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J279Q2WQR0QNKGVPGQFJ6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J278EDT3X4QXAPD2JV8WT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J278EDT3X4QXAPD2JV8WT",
+          "text": "TEIJA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J278Y4C0QG6S41YMY9ZTF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J278Y4C0QG6S41YMY9ZTF",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "00KZ04Q2RP9KMTKFJMXCV93J1Z",
+      "reference": "ALT_ALIZE_B_MU_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8cd66957551aa2ce56ad",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/257992f47a78bf5a8ee6",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/it_IT/969a08562ec327238b7c8b9c28e7850f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_2262155b2f5b863e293219b0f9b49411",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_d9b689e66ce65e4dde1bfe6c108f59c9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_42_R2",
+  "reference": "ALT_ALIZE_B_MU_42_R2",
+  "id": "01J1Q4P4SGG6TEVFRSKNDKQK6K",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/fr_FR/f226489d8b633d047726c0f61926b282.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/de_DE/b9545a54bef2e152148eb402c9e29236.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/es_ES/0162f66b7984e15afd6aba0757b6d571.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/en_US/fbf4cb6ab906d6ba0bb946eab5f92568.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/it_IT/969a08562ec327238b7c8b9c28e7850f.jpg"
+  },
+  "name": "Strada Smarrita",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Fugace]].  Scegli uno:  • Manda un personaggio bersaglio nella Riserva. #Se non era in {V}, il suo controllore pesca una carta.#  • Scarta un permanente bersaglio."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-065-F-IT"
+}

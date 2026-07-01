@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_06_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79BZGV0ETJX4WCQVWE38",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8A19P7E1GPNTHC2GKZMB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8A19P7E1GPNTHC2GKZMB",
+          "text": "\"Show me those pearly whites.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8A2K0Q5QT1TVW51VK0HF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8A2K0Q5QT1TVW51VK0HF",
+          "text": "With a trembling hand, I place the tooth on the summoning circle. There's trouble brewing, and I need to suppress it before the situation worsens. In the crucible of my mind, erratic and absurd ideas are already forming. I mustn't let them escape into the world. If I lose control, they could be very damaging for me and my peers. I exhale and grit my teeth, fighting against the fever and the madness. I'll have to carry out the tand-fe quickly if I want to avoid spiraling into insanity. Come, Tooth Fairy. Come, so we can move on with the deal... She suddenly appears. Her wings buzz as she lands and her scorpion tail flicks as she scans the surroundings. Then she notices the tooth and grabs it, showing her fangs to show that it now belongs to her.\n\nI roll up my sleeve and place my forearm on the table. She knows what I want. It's not the first time we've made this deal. Go on, do your worst. She swiftly plants her barb in my flesh, and I grimace with pain. A long time ago, I found out that her venom could relieve the Remanence by purging my mind of parasitic ideas from the Empyrean. For all the Yzmir, it's only a matter of time before magic takes its toll. All we can do is delay the inevitable a little bit longer, knowing full well that the day will still eventually come. And the Tooth Fairy was my way of silencing the intrusive ideas lurking in my psyche. There was a price, of course. While her toxins helped to rein in my thoughts, they were poisoning my flesh. She removes her stinger, and a drop of blood appears on my skin. My skin turns a gangrenous purple as the tumult in my mind finally relents."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8A1YYYJPG9FV1GAB350R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8A1YYYJPG9FV1GAB350R",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89ZYBQ1P3WPDHDZC5D2N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME89ZYBQ1P3WPDHDZC5D2N",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8A0M0EJ1FZYHZJ1NWNFX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8A0M0EJ1FZYHZJ1NWNFX",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79BZGV0ETJX4WCQVWE38",
+      "reference": "ALT_COREKS_B_YZ_06_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/32a42c3cf6a124f3883a",
+      "reference": "FAIRY",
+      "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+      "name": "Fairy"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/77f13e7edde4c8436838",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_06/JPG/en_US/275c7ba4e9ba41a560879f1fe459b53f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_06/WEB_cca40ee1f365517942adcb62e9d63bc1",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_06/WEB_6ab6c87e8453f02ad63133754651ea17",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_06/WEB_e6b0e7a35998761e24cee2db26eddbe5"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_06_R2",
+  "reference": "ALT_COREKS_B_YZ_06_R2",
+  "id": "01HN5TXRJFAWYWYKJFAZD1C71A",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_06/JPG/it_IT/40c2c805f4196d5acd16c6f61edfbe5a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_06/JPG/es_ES/f05d4847f163a5cbe9601e45bc63a42d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_06/JPG/de_DE/7c572c074353e7ccd9665ae4daed9e95.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_06/JPG/en_US/275c7ba4e9ba41a560879f1fe459b53f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_06/JPG/fr_FR/fdb8170d947c43fdfea557052e057745.jpg"
+  },
+  "name": "Tooth Fairy",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{H} [Sabotage]. (Discard up to one target card from a Reserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-159-F-EN"
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_20_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50DZCRM02M5NF8A5WWZG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH65QRSRNXX5PEER17A0A8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH65QRSRNXX5PEER17A0A8",
+          "text": "Son corps se met à se désagréger alors qu’elle rompt tous les ponts de Mana qui lient son essence à la matière."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65S0QB9X5SHCZ1YW7TBZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH65S0QB9X5SHCZ1YW7TBZ",
+          "text": "Matera chute, frappée de plein fouet par le tentacule du Kraken. Le Léviathan a brisé la barrière de protection de la mage comme s'il s'agissait d'une fine pellicule de verre. Son corps disloqué bascule en arrière, tandis qu'elle incante faiblement pour réparer ses os fracassés. Je la sens puiser toute la force qu'elle peut pour réparer son être, luttant pour s'accrocher à la vie, avant que les eaux furieuses ne l'entourent et ne l'emportent vers les abysses. Je sens son désespoir. Je sens sa panique. Elle ne veut pas mourir. Elle se cramponne à l'existence. Son instinct lutte — quoi de plus normal, dans sa situation ? Mais l'usage qu'elle fait de sa magie est vain. Elle est condamnée, et cette déperdition de Mana ne servira personne. Il y a mieux à faire, et d'autres à qui cette énergie pourra profiter. Notre but est de détruire le Kraken, et Matera n'est tout simplement pas de taille à se mesurer à lui.\n\nJ'observe Afanas à travers la boule de cristal. Le vieux Mage de Bataille regarde avec horreur sa protégée choir comme une poupée désarticulée. Lui peut encore être utile, s'il daigne sortir de son marasme. Je me mets à incanter et à projeter ma volonté dans le globe de verre, à travers la distance et le temps. Comme un loup se jette sur sa proie, je me mets à déchiqueter l'essence de Matera, lui murmurant d'offrir son être en pâture. Il n'y a plus d'espoir pour elle. Son maître, en revanche, peut encore bénéficier de son sacrifice. Pendant un instant, j'ai l'impression qu'elle peut lire en moi comme dans un livre ouvert, qu'elle peut distinguer ma véritable nature... Mais en fin de compte, je sens son esprit se résigner face à l'inéluctabilité de sa mort. J'arrache le Mana de sa dépouille pour le projeter vers son mentor, juste avant que la boule de cristal ne s'ébrèche."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65RBMJ7MCY8KZ6V1WF1P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH65RBMJ7MCY8KZ6V1WF1P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65PF4MRVR0N9GFZ3YRPR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH65PF4MRVR0N9GFZ3YRPR",
+          "text": " Lindiwe"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65Q33DJNXK589ZWWNFC7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH65Q33DJNXK589ZWWNFC7",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50DZCRM02M5NF8A5WWZG",
+      "reference": "ALT_CORE_B_YZ_20_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4c170523552daf5062e9",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7a1229398074f9fd5901",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_20/JPG/fr_FR/2c065ea51efd41ae7d34abb593411223.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_20/WEB_3bea2ef84e558b564477329b7efdbbd9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_20/WEB_179c908cf15b1b4020cb969f68e59432"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_20_R2",
+  "reference": "ALT_CORE_B_YZ_20_R2",
+  "id": "01HKAFJP4CC5VN20CRZ7A756T7",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_20/JPG/it_IT/c12bf79053c802918ace14b8a65bc2df.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_20/JPG/de_DE/8ea57a771b917acca581c9ee4ff9b4dd.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_20/JPG/en_US/671545418e8809bff9b5a3dd6dff96ff.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_20/JPG/fr_FR/2c065ea51efd41ae7d34abb593411223.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_20/JPG/es_ES/73efb64368b0158bf3194a8546ccd8e8.jpg"
+  },
+  "name": "Don de Soi",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Sacrifiez un Personnage. Si vous le faites, piochez deux cartes."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-170-F-FR"
+}

@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_42_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2YXS7EEVAW96XR2EPJBVY7HE9H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29AVHX5QG82HXZ6JZT07",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29AVHX5QG82HXZ6JZT07",
+          "text": "Ne touchez pas 200 Fleurons."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29BRK7WF7J8EM1QK4XY4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J29BRK7WF7J8EM1QK4XY4",
+          "text": "Le Djinn furibond est au milieu du passage, dans ce défilé étroit, un charmant petit parc de verdure qu'il a visiblement bien l'intention de garder pour lui. Il fait fondre la neige, bien décidé à batailler tout seul contre l'hiver, s'agaçant du froid qui assaille sans cesse son îlot. Je sens le regard de mes hommes dans mon dos, y perçois un air de défi. Je lève un sourcil. Très bien, je vais leur montrer de quel bois je me chauffe. Mais je ne vais pas lancer un assaut face à ce barbecue sur pattes. Je n'ai pas envie d'abîmer mon uniforme. Je croise les bras et prends mon air le plus blasé, avant de me tourner vers mes troupiers, plus par jeu que par réelle défiance. Je fais signe à ma nouvelle aide de camp de m'apporter mes affaires, et elle s'exécute promptement. Puis, comme un matador entre dans l'arène, je fais quelques pas vers la créature.\n\nJe rédige mes Glyphes sur un morceau de papier, le charge de Mana tranquillement, comme un sicaire aiguiserait ses lames. On murmure dans les rangs, et les paris se lancent. C'est là que ça devient amusant. D'un geste dédaigneux, je projette le papier sur le sol, aux pieds de l'Eidolon, comme un gant jeté. Ricanement collectif derrière moi... Je me tourne vers eux, leur adresse un sourire ironique, puis je crie en direction du Djinn enragé. Il va sans dire que l'Eidolon bondit vers moi instantanément, comme un taureau outré vers une cape carmine... et il tombe dans le piège, comme je l'avais prévu. Dans une explosion de feuillets de papier, une cage se forme autour du Djinn échaudé. Résonnent derrière moi les bravos, les applaudissements et les exclamations déçues. Les Fleurons s'échangent de main en main tandis que je salue la foule. Il me tarde de savoir quelle était ma cote."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29B9PBXK8M1ZWQDGWP2B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J29B9PBXK8M1ZWQDGWP2B",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29968B1472H8FS8DMCW7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J29968B1472H8FS8DMCW7",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29ABE9MZ59DQ0K5QN4AK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J29ABE9MZ59DQ0K5QN4AK",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "2YXS7EEVAW96XR2EPJBVY7HE9H",
+      "reference": "ALT_ALIZE_B_OR_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3b808215fd635a7bd9cb",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a07cf968f6f4ad4991de",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/0c790f9ba367778e29ce",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:20+00:00",
+      "question": "Do the boosts of a Character count towards the stat limit?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/fr_FR/9503841118e8261a3f2a04214b7f7851.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/WEB_11fb440c7d2027197b70c3d6e7d5371d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/WEB_d48f47ad302b9170ae3ef91b889013dd"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_42_R2",
+  "reference": "ALT_ALIZE_B_OR_42_R2",
+  "id": "01J1Q4P4SN8RYANNFV99ET5V4K",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/es_ES/ad168f215d579e8c205262d4d4c9098f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/fr_FR/9503841118e8261a3f2a04214b7f7851.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/de_DE/0178c3e536e45f820329fc57f535c7d8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/it_IT/290755fad637c26c6b3bd92eab7e5864.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/en_US/5347fbfe72f7d0b798aa1d8e8fcd302a.jpg"
+  },
+  "name": "Case Prison",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Fugace]].  Envoyez en Réserve un Personnage ciblé dont aucune statistique n'est supérieure à 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-083-F-FR"
+}

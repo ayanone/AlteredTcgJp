@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_38_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2GZ7G5WFB39ASTFG8M0BYZZ3KH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23BH6ZGDMD304ZP34X28",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23BH6ZGDMD304ZP34X28",
+          "text": "\"Se solo riuscissimo a trovare dei pezzi di ricambio per le parti mancanti potremmo farlo funzionare.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23C28KQJY02PPG3JS1XK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23C28KQJY02PPG3JS1XK",
+          "text": "Argh. Poso a terra la pesante scatola, piena di oggetti di tutti i tipi, poi scuoto le mani per cercare di liberarmi del dolore. Mi alzo e faccio un respiro profondo, massaggiandomi il collo dolorante. Non è facile lavorare con questo freddo, soprattutto da sola. Intorno a me, le ottonblatte vanno avanti e indietro, arrampicandosi sul corpo del mio sfortunato automa. Ho fatto del mio meglio, ma avrei dovuto sapere che non sarebbe stato nel suo elemento in questo paesaggio ghiacciato. Dopo uno sfortunato passo falso, l'ho visto precipitare nella gola come una bambola di pezza prima di schiantarsi decine di metri più in basso. Non potevo abbandonarlo lì, anche se recuperarlo sarebbe costato tempo prezioso. E anche usare materiali preziosi per ripararlo era fuori discussione. Quindi non potevo far altro che raccogliere tutti i rottami di metallo e cercare di ricavarne qualcosa.\n\nOk, ci siamo quasi. Una pioggia di scintille crepita mentre un'ottonblatta salda una nuova piastra toracica sul mio prototipo robotico. È stata recuperata da un vecchio codificatore corazzato, così come il pezzo della spalla. Ma il compito più difficile sarà creare una nuova gamba. Non serve che cammini in modo aggraziato; basterà anche una goffa andatura zoppicante per tornare all'accampamento. Sospiro e passo una mano sul telaio danneggiato. Beh, vecchio mio, ti prometto che ti rimetterò in forma il prima possibile, ma in cambio dovrai aiutarmi un po'.  L'automa inizia a muovere le dita dei piedi e improvvisamente solleva la testa. Non posso fare a meno di sorridere e accarezzo il suo esoscheletro per incoraggiarlo. Mi faccio da parte mentre cerca goffamente di alzarsi. Bene. E quando avrò finito di ripararti, prometto di trovarti un nome che ti si addica."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23BS0199353ZQG9JQ3F8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23BS0199353ZQG9JQ3F8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23APM2P5JSQG1VZEKRH7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23APM2P5JSQG1VZEKRH7",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23B2K64MHMSQ312D1D64",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23B2K64MHMSQ312D1D64",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2GZ7G5WFB39ASTFG8M0BYZZ3KH",
+      "reference": "ALT_ALIZE_B_AX_38_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/114033c0a05cec6c7a2b",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/36d6f17ffae618c6bb2a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/it_IT/5b21fbb993ab8ef0d158eca7a7796f8c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_176e74e3b9c2ebcabed125990a5f0d37",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_512573fbe1e878d1febadf43de6496e4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_4a2ca4fe0db64cb1b28dd73669ba2931"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_38_R2",
+  "reference": "ALT_ALIZE_B_AX_38_R2",
+  "id": "01J1Q4P4RTGYQGABCPS4EW548G",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/it_IT/5b21fbb993ab8ef0d158eca7a7796f8c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/es_ES/3771ac4e3163d2c93dd1db78c46cb4ac.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/de_DE/f15dfbbe1178e4e85c4c71515d22fa96.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/fr_FR/0e98f80a1685d3b4c8b1d7e33be1664d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/en_US/14673b04ce01c5b0944f9367e01161a7.jpg"
+  },
+  "name": "Prototipo Difettoso",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{J} Sacrifica una #Pianta# o un permanente. Se non puoi farlo, sacrificami."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-010-F-IT"
+}

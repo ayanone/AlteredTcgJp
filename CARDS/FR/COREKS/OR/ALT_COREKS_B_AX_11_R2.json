@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_11_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77W04DE3SRMYM3R9FG1S",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7W7WS6VWZG4Y146845ZS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7W7WS6VWZG4Y146845ZS",
+          "text": "« La façon la plus efficace de le faire, c'est de le faire. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W89QJP9NFMXE2JPGMN8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7W89QJP9NFMXE2JPGMN8",
+          "text": "L'alarme vocifère au sein du cockpit, tandis que les lumières rouges clignotent partout dans l'habitacle. Je tousse. Tout l'appareil tremble et grince alors qu'il chute en direction de la mer. Bon sang, c'était juste censé être une simple mission de reconnaissance ! Paju est inconscient sur son siège, du sang coulant sur son visage. Je bataille contre le vent qui s'engouffre à travers le pare-brise éventré, juste pour garder les yeux ouverts. Il a l'air livide. Je serre les dents et jure à plusieurs reprises. Sur ma console endommagée, lacérée par les tentacules du Kraken, les avaries sont multiples. Il n'y a plus rien à faire ici. J'ôte mes sangles et saisis mon Construct, combine l'artefact pour aboutir à la séquence que je vise. À la périphérie de ma vision, je vois le moteur gauche brûler dans un panache de fumée. Le sol est en train de se rapprocher à vue d'œil. Une secousse ébranle l'aérodyne de surveillance.\n\nJe me cramponne comme je peux et finis de matérialiser Amelia Earhart à travers le Construct. L'aviatrice prend place au poste de pilotage alors que je détache Paju et l'allonge sur le plancher de l'appareil. L'Eidolon est la seule capable de nous sortir de là. J'enlève mes gants et ouvre la combinaison ensanglantée de mon ami. Je presse mon oreille contre sa poitrine. Ouf, il respire. Dans le vacarme ambiant, je l'attache aux filets et m'attache à la rambarde. Je sens le nez de l'aérodyne se redresser... Je regarde en direction d'Amelia, qui a réussi à stabiliser l'appareil et survole à présent le Rempart. C'est bon, nous sommes sau... L'explosion me projette contre la paroi. Une horrible douleur éclate au bas de mon dos alors que je m'effondre. Tout tourne. Je suis soulevé du sol. Ma tête heurte quelque chose. Bruit blanc. Un ouragan."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W82SNRMWZVTZZDSKGK4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7W82SNRMWZVTZZDSKGK4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W7D7VAHV4RN9R0V32FD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7W7D7VAHV4RN9R0V32FD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W7NNHHF0HTFM4EF8ABM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7W7NNHHF0HTFM4EF8ABM",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77W04DE3SRMYM3R9FG1S",
+      "reference": "ALT_COREKS_B_AX_11_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d7b2f314d870e7c92a51",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/56d8661767039047d91d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_11/JPG/fr_FR/891bcced5b0e3a2049971fafb077767c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_11_R2",
+  "reference": "ALT_COREKS_B_AX_11_R2",
+  "id": "01HN5TXR3G1B3XYC0TCDNC5G05",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_11/JPG/es_ES/4de1de290f98bf9e14a568c4fad1c321.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_11/JPG/it_IT/2e21e418da4deabbe9bea1d40218dccc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_11/JPG/en_US/3aaf4b6ffad7f7ef1540c486aa4409e0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_11/JPG/fr_FR/891bcced5b0e3a2049971fafb077767c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_11/JPG/de_DE/7855d987e6f0b398e9eaaa4a94114f79.jpg"
+  },
+  "name": "Amelia Earhart",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "#{H} Je gagne 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-012-F-FR"
+}

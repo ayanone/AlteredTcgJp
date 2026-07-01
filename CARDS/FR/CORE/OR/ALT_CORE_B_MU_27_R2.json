@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_27_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY5083PJNW6747S5H8N7VE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5YG7GFRWDFJFMRAVG3DB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5YG7GFRWDFJFMRAVG3DB",
+          "text": "Après la pluie, le beau temps !"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YH3XVZ6VTFQFS45KTFD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5YH3XVZ6VTFQFS45KTFD",
+          "text": "\"Le rapport qu'entretiennent les Muna avec la nature est sans pareil. Peu peuvent en effet se targuer d'être aussi étroitement liés aux choses et aux êtres qui les entourent. De cela, nous avons collecté de nombreux indices, pour ne pas dire des preuves. Cependant, la chose n'est pas évidente au premier abord. En étudiant la philosophie Muna, on peut distinguer qu'elle est avant tout tournée vers soi. Mais n'y voyez pas un quelconque égocentrisme, bien au contraire. Les Muna pratiquent l'introspection, et de ce fait, disposent d'une connaissance de soi qui dépasse de loin celle d'un individu lambda. Je pense que c'est cette sagesse intérieure qui dicte au final la relation qu'un Muna entretient avec le monde et avec autrui. Parce qu'il est lucide vis-à-vis de lui-même, il peut se concentrer en toute conscience sur ce qu'il veut apporter à ce qui est en dehors de lui. Il connaît sa place dans le monde. Il reste bien entendu des inconnues. Ce que les Muna appellent le Skein en est une. Si ce qu'ils disent est vrai, le Mana, que nous pensions né de la Confluence, pourrait avoir existé avant le cataclysme. Mais il était alors invisible, fermement ancré dans les êtres vivants et les choses inanimées. D'après leurs dires, ce Mana serait organisé en grande toile, où tout serait interconnecté. N'étant pas Muna, nous ne pouvons pas vérifier cette information. Mais si elle se révélait vraie, cela ouvrirait de nouvelles perspectives sur ce que nous pourrions accomplir. Et pourquoi pas, trouver une solution pour stabiliser la réalité ?\"\n\nTémoignage d'Issur, 157 AC\nLors du collège décisionnaire de validation des Muna en tant que Faction"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YGNG92Q4C8CQCRG0Y5B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5YGNG92Q4C8CQCRG0Y5B",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YFASD6SFSQPATF308H9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5YFASD6SFSQPATF308H9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5YFR4D8XK330C9BPWSS8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5YFR4D8XK330C9BPWSS8",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY5083PJNW6747S5H8N7VE",
+      "reference": "ALT_CORE_B_MU_27_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/aca056100673dd75c75e",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Bénédiction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8c995a911cada9f25558",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/fr_FR/9ac4fcdc8ce646c1cb4654946f5d6be0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/ALT_CORE_B_MU_27_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/ALT_CORE_B_MU_27_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_27_R2",
+  "reference": "ALT_CORE_B_MU_27_R2",
+  "id": "01HKAFJP99YYMKVM7PT675HXBF",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/it_IT/8d5f0e6133400b464624f48679099fe4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/en_US/8ee2ed33d2532e244ebf012a7555c92e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/fr_FR/9ac4fcdc8ce646c1cb4654946f5d6be0.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/de_DE/466ff415f6181dd411968d56a5876cf3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/es_ES/43cdc40a7d580ec93d2b4f47dc5597fb.jpg"
+  },
+  "name": "Abreuver",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Jusqu'à deux Personnages ciblés gagnent chacun 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-116-F-FR"
+}

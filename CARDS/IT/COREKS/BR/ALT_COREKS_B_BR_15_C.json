@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_15_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77ZJJ9QYRD0P1B2SXDBY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7XZYQKCYYQ2KCNF585B2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7XZYQKCYYQ2KCNF585B2",
+          "text": "Solo i più audaci possono entrare nel Rifugio."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y0J83457CDX62PAR4QR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7Y0J83457CDX62PAR4QR",
+          "text": "I stretch and yawn as I walk the halls of Haven, enjoying the idleness of my leave. I had to make quite the detour to avoid the security cordon. From what I understand, Admiral Temera Singh is visiting the Bastion, but only those in the know are entitled to know what for. As I reach the atrium, I abruptly stop as a young woman rushes past me, nearly pushing me aside. I sigh, vaguely offended, but ultimately decide to let it go. Judging by the paint on her cheeks, she would seem to be carrying an important missive from the Phoenixian Guard, probably related to some issue that's way above my pay grade. But her hurriedness is not to everyone's liking. A massive figure emerges from an alcove to intervene, blocking the messenger's path. I immediately recognize Silje.\n\nThe Phoenixian Fighter grumbles and argues with the bouncer, trying her damnedest to somehow get around her. But the bouncer crosses her arms on her muscular torso, categorically refusing to step aside. I approach Silje, adopting my most impassive expression to subdue her a bit. But though she's often a bit more flexible when someone's on leave like I am, here it's like I'm hitting a wall myself. She stares me down, her nostrils flaring like a bull about to charge. She glowers, as if I were a nuisance preventing her from doing her job. Right then, I feel my bowels liquefy before her closed face. I may have overstepped in trying to interfere… and she'll surely make me pay for it in our next arm wrestling contest at the bar. Besides being tough, she's also been known to hold a serious grudge…"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y081KKWV8F7P1R2AJZY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7Y081KKWV8F7P1R2AJZY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XZA0M4WR9GKYEN2FP5M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7XZA0M4WR9GKYEN2FP5M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XZNKQ1BR3FP0ASRRKJF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7XZNKQ1BR3FP0ASRRKJF",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77ZJJ9QYRD0P1B2SXDBY",
+      "reference": "ALT_COREKS_B_BR_15_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ee80f72ab8c1cd61122d",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldato"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/909f5d0c9c0cd913b3b4",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_15/JPG/it_IT/3b542498a32bdba2836327260d5a90a0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_15/ALT_CORE_B_BR_15_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_15/ALT_CORE_B_BR_15_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_15/ALT_CORE_B_BR_15_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_15_C",
+  "reference": "ALT_COREKS_B_BR_15_C",
+  "id": "01HN5TXR813DNNH4ZETSM5AZGK",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_15/JPG/it_IT/3b542498a32bdba2836327260d5a90a0.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_15/JPG/de_DE/8c7483ccd0177fb78811474cdc193fc3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_15/JPG/es_ES/bbff1692d91870cc3cf8e50f3613a413.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_15/JPG/en_US/c0dc12c575a0146cf51d785426d23df5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_15/JPG/fr_FR/68e30b1ee723aa7dbead18865e4fe58a.jpg"
+  },
+  "name": "Buttafuori del Rifugio",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{H} [Sabota]. (Scarta fino a una carta bersaglio da una Riserva.)  {R} Ottengo 1 rinforzo[]. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-044-C-IT"
+}

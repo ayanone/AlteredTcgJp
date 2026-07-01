@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_24_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z4WRRFH9G1P2VNTCNJN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5R0308TX7C4ZFRFK4B5G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5R0308TX7C4ZFRFK4B5G",
+          "text": "Rares sont ceux qui visitent les profondeurs de la Fonderie, et encore plus rares ceux qui savent expliquer d'où viennent les Scarabots."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R0HCA3W1JTJRRD9EZBP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5R0HCA3W1JTJRRD9EZBP",
+          "text": "\"T'es la personne la plus qualifiée, Bash. On compte sur toi, Bash.\" Comme par hasard, c'est toujours moi qui écope des tâches ingrates. Je me hisse à travers l'ouverture en grognant, émergeant dans une cavité aux reflets cuivrés. Je secoue mes gants pour me débarrasser de la gelée étrange qui recouvre le sol. Marmo aboie devant moi. Ouais, ouais, j'arrive ! Je m'époussette et regarde autour de moi. Dire que les falaises situées derrière la Fonderie abritent ce genre de cavernes béantes... Depuis que la Faction y a installé son système d'égouts, il y a des décennies de ça, personne n'a vraisemblablement mis les pieds ici. Hormis les Scarabots... Tout y est enchevêtrement de câbles et de tuyaux. Des fleurs métalliques semblent y pousser, au milieu de structures étranges façonnées par les petites bêtes de métal.\n\nJe rejoins Marmo, qui agite la queue à côté d'une énorme boule de métal. C'est pas le moment de jouer à la balle... Mais alors que j'approche, je vois que la sphère est en réalité une construction des Scarabots. Et il y en a des dizaines rien qu'ici. Bon sang, ces satanées bestioles ont fabriqué leurs propres stations de charge. Je secoue la tête, incrédule. Ils m'étonneront toujours. En tout cas, ça augure du bon, je vais peut-être découvrir pourquoi une grande partie d'entre eux sont dans un état pitoyable à l'heure actuelle. Depuis quelques jours, c'est comme s'ils évoluaient au ralenti, évitant le reste de la Fonderie. Le problème, c'est qu'on en est venus à beaucoup s'appuyer sur eux pour tenir les délais et maximiser les rendements. Alors s'ils ont un souci, on a aussi un souci. Je remarque qu'ils sortent régulièrement de leurs monticules et vont tous dans la même direction, en file indienne comme des fourmis... Où est-ce qu'ils vont comme ça ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R0AH109Y8M2GYEEDWT6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5R0AH109Y8M2GYEEDWT6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QZMDBEB8X8FFE1Z2QSA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5QZMDBEB8X8FFE1Z2QSA",
+          "text": "Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QZW9ANJC0CG3AEQJ2Q2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QZW9ANJC0CG3AEQJ2Q2",
+          "text": "378 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY4Z4WRRFH9G1P2VNTCNJN",
+      "reference": "ALT_CORE_B_AX_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4c9a8c82631910af3884",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5648c511aeeadce45b57",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/4af54552eb8892dbc2f9",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-01T10:37:36+00:00",
+      "question": "What happens to the counters when the card leaves the Landmark zone?",
+      "answer": "All counters disappear, whether the card is sent to Reserve, hand, deck, or discard."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/fr_FR/8625d8342238223e80c6c1d314f31f9c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/ALT_CORE_B_AX_24_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/ALT_CORE_B_AX_24_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_24_R2",
+  "reference": "ALT_CORE_B_AX_24_R2",
+  "id": "01HKAFJNKXV950MVWSZV4E26CQ",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/de_DE/0ab13a43ec9dd22b9a3770ee6a5ff01f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/en_US/04b9b169b495eeeffdb5a4c918dfa3d9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/fr_FR/8625d8342238223e80c6c1d314f31f9c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/it_IT/a381fafd1f32da2c7d14404bc6c0b7db.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/es_ES/74360a528a2f2dc64e8b0043fbe74d16.jpg"
+  },
+  "name": "Hub des Scarabots",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{J} Je gagne 3 compteurs Kélon.  À Midi — Vous pouvez payer {1} et dépenser 1 de mes compteurs Kélon pour créer un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-026-F-FR"
+}

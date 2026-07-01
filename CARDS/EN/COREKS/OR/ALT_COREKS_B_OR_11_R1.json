@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_11_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB799FX2H0QK7GKHWTK6GP",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME86QCMM4S9T7N024QDH59",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME86QCMM4S9T7N024QDH59",
+          "text": "\"Never give up. No one knows what’s going to happen next.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86RHNRPW4TB21JS7QEQS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME86RHNRPW4TB21JS7QEQS",
+          "text": "I weep on the playground floor while the laughter and hurried footsteps of the children who have just jeered me are still echoing in my ears. I hold my grazed and bloody knee with tears running down my cheeks. But it's not the wounds or bruises that hurt me. It's what they said about me and my family: \"You're not welcome here,\" \"rotten apple,\" \"son of traitors\"... It's not the first time they have lashed out at me. I've already been pushed against a wall and locked in the toilets while they poured a bucket of icy water over my head. And every day, I've had to deal with vicious remarks that the teachers haven't really discouraged. But I couldn't say anything to Mother. If I did, she'd only take me out of school, and I'd be alone again...\n\nI suddenly feel a hand on my head and I look up, trying to dry my eyes while I think up an excuse to hide the bullying. I'm about to say that I just fell down when I notice that it's not a teacher, but the Eidolon Ozma leaning over me. She just smiles at me and strokes my hair affectionately. And when I start to mumble an explanation, she places a finger on my lips and hugs me lovingly. I suddenly feel unconditional love running through me and complete acceptance of who I am, despite the shame that my lineage carries on its shoulders. With a kiss on my forehead, she chases this thought from my mind, then reassures me that I bear no responsibility for the sins of my ancestors. I dry my eyes on my sleeves and rest my head on her knees while she begins to hum a nursery rhyme."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86QZJ6QHRC4ZN09DWR8N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME86QZJ6QHRC4ZN09DWR8N",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86P42T1BGRBBRBEFAEXJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME86P42T1BGRBBRBEFAEXJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86PSYG19PTXBVFP4R534",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME86PSYG19PTXBVFP4R534",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB799FX2H0QK7GKHWTK6GP",
+      "reference": "ALT_COREKS_B_OR_11_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ebf593b77ab8da112881",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Noble"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1e90376add627b797a01",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_11/JPG/en_US/f68797471c51409e84fe6bc0732d4a8c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/ALT_CORE_B_OR_11_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/ALT_CORE_B_OR_11_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_11/ALT_CORE_B_OR_11_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_11_R1",
+  "reference": "ALT_COREKS_B_OR_11_R1",
+  "id": "01HN5TXRFHNFVNNJSHEMDTFHG2",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_11/JPG/it_IT/0cdaedb6aa60be21733f507b725abce7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_11/JPG/es_ES/a2dc1be26baacbf4582271b08ac46a86.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_11/JPG/de_DE/d51169afd8513d81489f2cfec3e7d9ae.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_11/JPG/en_US/f68797471c51409e84fe6bc0732d4a8c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_11/JPG/fr_FR/389ec2e938513c2f34ea969eea477fa7.jpg"
+  },
+  "name": "Ozma",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "#2#",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "#2#",
+    "MAIN_EFFECT": "{J} If you control three or more other Characters, [Resupply]. (Cards in Reserve are not controlled.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-130-R-EN"
+}

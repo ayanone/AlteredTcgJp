@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_32_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2PXEAR7BA590F8J02GFXJ15WX5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26DZKVYSYA7FERJGTVM9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26DZKVYSYA7FERJGTVM9",
+          "text": "«Zzz...»."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26EP943JJR313BTDRQ2J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J26EP943JJR313BTDRQ2J",
+          "text": "He acabado apreciando la tranquilidad de un bosque nevado. La quietud suave y ahogada es perfecta para la contemplación. Mi mente se relaja con cada paso por la nieve, lo que permite a mi inconsciente reflexionar y explorar un mundo de posibilidades y soluciones para el Balaustre. El crujido sordo que producen mis pies al hundirse en la nieve es todo lo que oigo... hasta que un sonido cercano familiar me saca de mis cavilaciones. Me vuelvo hacia Pinchitos, pero no, no había sido él. Me quedo completamente quiete y escucho atentamente. La fuente del sonido está cerca y, al caminar hacia ella, voy captando más matices. Un ligero vibrato... Espera, ¿es un ronquido? ¿Quién podría estar durmiendo aquí? Detrás del tronco de un árbol encuentro a una joven recluta de Ordis tumbada y durmiendo como un bebé. No sé si un banco de nieve es el mejor lugar para una siesta...\n\nCuando alargo la mano hacia su hombro para sacudirla y despertarla, me fijo en algo que tiene en el pecho, que mira pensativo su rostro dormido. Es un champi; un hongo zzzz para ser más preciso. Enseguida me doy cuenta de que tiene el sombrero mordisqueado. Supongo que eso explica la inoportuna siesta de la soldado. Otra novata que no prestó atención durante su entrenamiento sobre los peligros del bosque. Aun así, el sombrero rojo con escamas azules de la seta debería haber sido una advertencia evidente. Tomo los guantes impermeables de la recluta y cojo la seta, que me ofrece un poco de su sombrero. No, gracias, pequeña, que acabo de comer. Además, lo sé todo sobre tus propiedades narcóticas. La guardaré para más tarde y prepararé una sopa que provoque un sueño profundo y reparador, como hacen ciertas madres con sus hijos hiperactivos. Mientras tanto, tendré que preparar una infusión para la recluta, que probablemente se despierte con un resfriado tremendo... ¿Qué hacía aquí sola?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26EAJKX4KGFPWYB9KZ1C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J26EAJKX4KGFPWYB9KZ1C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26D7WQP8446VDZ3XGZ1G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26D7WQP8446VDZ3XGZ1G",
+          "text": "ARJUN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26DKFW748BEPKNZDYSNY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J26DKFW748BEPKNZDYSNY",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2PXEAR7BA590F8J02GFXJ15WX5",
+      "reference": "ALT_ALIZE_B_MU_32_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c3ddbb579d0cfefcb1db",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Planta"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/40b8232f848ac8b7ffb0",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/es_ES/7195611d954327d9cb15be8523039f7d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_77d2e7b25d10fd6be4ec8fef331363d6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_7b406ab8ec42cd3a8c5810eb583f5ce9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_94b168a5810a5498fc6a84b06a0389ce"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_32_C",
+  "reference": "ALT_ALIZE_B_MU_32_C",
+  "id": "01J1Q4P4SDA8SPK4V8SP1KVFB5",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/de_DE/0f8f84c085da4f120370cccf2469a632.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/es_ES/7195611d954327d9cb15be8523039f7d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/it_IT/c519c9c9d852a89007bf13719f9f858f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/en_US/ae9cdcc673e5c03e2c3d26e21cb84824.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/fr_FR/ca798e88df00292cc68579406f534236.jpg"
+  },
+  "name": "Hongo zzzz",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "0",
+    "ECHO_EFFECT": "{D}: Un personaje objetivo que controles con coste desde la mano de {4} o menos gana [[Sueño]]. (Descártame de la reserva para hacer esto)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-054-C-ES"
+}

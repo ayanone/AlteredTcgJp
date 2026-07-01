@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_12_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB796TEG5BG724P3KRBZCM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME82RH63GYNNV30YMBA986",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME82RH63GYNNV30YMBA986",
+          "text": "Ahora, los vástagos de Yggdrasil cuidan de los árboles del mundo."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82SGP1GBNDTH8NKKRF7S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME82SGP1GBNDTH8NKKRF7S",
+          "text": "I leave the thatched-roof house, Spike on my shoulder, as the midday sun beams down on the fields. The village elders follow me, hopeful. For a couple of hours, they told me of all their problems, from the surprise freeze that killed the seedlings last spring, to the frequent incursions of wild beasts into their fields. Their crops were presumably also impacted by the unexpected cold, and so they were brought down to this dale, driven by hunger... I kneel down and grab a handful of dirt. I feel it through the Skein, that this soil is fertile and is begging to sustain life. But to sow it once more, the locals must get through winter and the Season of Mists... They need my help, and far be it from me to deny them.\n\nI stand in the center of the meadow and set Spike down next to me. He clings to my leg while I prepare to use Alteration. I feel my threads of Mana intertwining with those of the earth, and I focus, calling to my mind the ideas that will form a Daughter of Yggdrasil: the prolific \"Abundance\", the immense \"Generosity\", a whole string of luxuriant concepts... I propagate them, weave them together. The sentient tree spreads out before me: root and trunk, branches and foliage. She opens her eyes as her canopy is covered in flowers, then fruits. Around me, the children are the first to run toward her. The Daughter smiles at them, lets them climb her, while rustling her leaves as if laughing. I'll have to spend a great deal of Mana to make her gifts endure. I call upon the life-giving earth, upon its wealth..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82RZ2S3KQ05TVQYD7KVT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME82RZ2S3KQ05TVQYD7KVT",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82QHP9GE7R9DN8GACN90",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME82QHP9GE7R9DN8GACN90",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82R2T22QMHKKA8ZFVM08",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME82R2T22QMHKKA8ZFVM08",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB796TEG5BG724P3KRBZCM",
+      "reference": "ALT_COREKS_B_MU_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bf74c6e30eff494e6c79",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Planta"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/479e5d102410d858b6a7",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_12/JPG/es_ES/f035ad182c067f5b3c2ee46ebc38c38a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_12/ALT_CORE_B_MU_12_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_12/ALT_CORE_B_MU_12_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_12/ALT_CORE_B_MU_12_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_12_C",
+  "reference": "ALT_COREKS_B_MU_12_C",
+  "id": "01HN5TXRQET5Q7G5NYPQMEY44Q",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_12/JPG/it_IT/7d9da08a8e8c204046c169a938809d50.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_12/JPG/fr_FR/07437b9d31cdbff9ec004bd682fa8141.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_12/JPG/en_US/6823e1cb5348771ca662c043231899df.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_12/JPG/de_DE/0c957ecedb23448b0b9ef56797e887f7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_12/JPG/es_ES/f035ad182c067f5b3c2ee46ebc38c38a.jpg"
+  },
+  "name": "Hija de Yggdrasil",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MAIN_EFFECT": "{H} Un oponente objetivo roba una carta."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-104-C-ES"
+}

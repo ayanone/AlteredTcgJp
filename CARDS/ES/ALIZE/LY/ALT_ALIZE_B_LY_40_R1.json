@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_40_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7ZFXW1F28Y9GW9BM9NMRDSBWJ2",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25RSXSJ1ET0JW3KY3KR3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25RSXSJ1ET0JW3KY3KR3",
+          "text": "Las cosas divertidas de la vida o están prohibidas o son una completa locura."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25SFS0QT4FV8TSW4MFHX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J25SFS0QT4FV8TSW4MFHX",
+          "text": "¡Yupi! ¡Más rápido, más rápido! ¡Guau, incluso sin un animal, esta cosa va a toda velocidad! ¿Qué sentido tiene tener renos de carne y hueso cuando puedes dar vida al mascarón? Sentir el viento revolotear entre los cabellos me encanta, pero los bandazos constantes que marean —izquierda, derecha, frenar, acelerar— no tanto. Por suerte, no hay muchos bichos en esta zona. Odio cuando se me estampan en los dientes o se me quedan atascados en la garganta. Con cada curva cerrada, abrimos profundos surcos en el hielo por donde empieza a filtrarse el agua helada del enorme lago. Uy, eso no formaba parte del plan. No obstante, desecho rápidamente cualquier temor (obviamente innecesario) porque en el fondo sé que así ayudamos a los pescadores del hielo. Si eso no es hacer una buena obra, ¡a mí que me detengan! \n\nDelante de mí, con las correas abrochadas, los niños no paran de reír como si estuviéramos en una montaña rusa de algún parque temático. ¡Esto es lo que yo llamo un paseo tremendo! Después de una giro frontal en el aire, contengo las ganas de vomitar. Mmm. Resulta que este paseo no es tan divertido como pensaba. Bueno, suficiente, que estoy harta. Hay que saber cuándo dejarlo. Tener el estómago revuelto no es precisamente una experiencia agradable. Tiro rápidamente del freno y salto del trineo a la primera de turno. Me resbalo y, cómo no, me caigo de culo, pero no me importa, porque me encuentro fatal. De repente, mientras intento recomponerme, veo que uno de los mequetrefes suelta el freno de mano. El trineo arranca a toda velocidad, dejándome tirada a kilómetros del campamento. Vaya pifia descomunal."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25S4R8SQR9M7QSVE9K3Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25S4R8SQR9M7QSVE9K3Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25QQ4C6R2C0CEYJEPTQY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25QQ4C6R2C0CEYJEPTQY",
+          "text": "NEVENKA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25RAJ2QT7SYH7X6Z4DG6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25RAJ2QT7SYH7X6Z4DG6",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "7ZFXW1F28Y9GW9BM9NMRDSBWJ2",
+      "reference": "ALT_ALIZE_B_LY_40_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c148f0e71f8dab2e6574",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maniobra"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/59aa32a5a830ab2396a5",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/es_ES/7b6e5b0c1166528877a0b49346af76d6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_71e54bfd0a9009355db9605e7147973c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_63dd4bd755024bafdf8c34c2099dea3d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_40_R1",
+  "reference": "ALT_ALIZE_B_LY_40_R1",
+  "id": "01J1Q4P4S9JQZW8ANWA2ZKEHD7",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/de_DE/ff9eeddddc4756a28b198f48dadcbf4f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/it_IT/1689701e9ff1efb0b59135aad842cb90.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/en_US/315292e42dfc4a89e5f40108889968d0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/fr_FR/651975ed4d32d3eaad11986ceb91028a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/es_ES/7b6e5b0c1166528877a0b49346af76d6.jpg"
+  },
+  "name": "Paseo en trineo robado",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "Descarta otra carta de tu reserva. Si lo haces, un personaje objetivo gana 2 potenciadores."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-046-R-ES"
+}

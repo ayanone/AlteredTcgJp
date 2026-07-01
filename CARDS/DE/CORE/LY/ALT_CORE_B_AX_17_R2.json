@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_17_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YW3TPCCKMBZ8Z9KPPM1",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QPR0X4SZWFGKYXGY704",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QPR0X4SZWFGKYXGY704",
+          "text": "Manchmal suchen wir Gesellschaft in den seltsamsten Lebensformen."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QQ5B2WJ1CE86ECG7274",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5QQ5B2WJ1CE86ECG7274",
+          "text": "The Eidolon scrutinizes my expression, looking for the slightest reaction. My first reflex is to laugh, but I manage to suppress it. Something in the tone of his voice stops me. But what he just said is so ridiculous, so insane. Is he aware of that? I examine him in turn. Victor's legs are crossed, and his hands are completely still. He seems totally calm. By using Grafts, a young engineer from the Parallax has supposedly created robots. What did she call them? Automata, that was it. But what Frankenstein is proposing… it's madness. Breathing life into them to make them sentient? Is it even possible? He had implied that by projecting people's memories inside these metal contraptions, they could perhaps be brought to life. Could it be done? Would we even want to do it?\n\nI know full well he's read my file, and that he was referring to Paju when putting forward this idea. What he's offering is quite simply to bring the dead back to life. I limp over to my cabinet and pour myself a glass, swallowing it in one gulp to clear the lump in my throat. By tapping into my memories, I could bring Paju back to life for a while. But once I'm no longer around, no one will remember him well enough to materialize him again. I sigh. It'll soon be six years since I started managing the Graft manufacturing department, and I have the logistical means to help him with his project. I turn to Frankenstein and try to take the measure of him. He smiles. I feel like an old man in the broken body of a young man. He rises and offers me his hand. Is it time to reinvent myself again?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QPZZ5VSXRCTM5XV22N5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QPZZ5VSXRCTM5XV22N5",
+          "text": "Victor Frankenstein is a character created by Mary Shelley in her epistolary novel Frankenstein; or, the Modern Prometheus. He is a scientist seeking to unravel the secrets of life. Through his experiments, he creates a creature from human and animal parts and manages to bring it to life. Disgusted by his own creation, Victor rejects the creature, which then commits terrible crimes against the doctor's family and friends as revenge."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QPBN1Y1YK19VQS3DPJ8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5QPBN1Y1YK19VQS3DPJ8",
+          "text": " Treyst"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QPJTZWHZSMK3AFSN324",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QPJTZWHZSMK3AFSN324",
+          "text": "390 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YW3TPCCKMBZ8Z9KPPM1",
+      "reference": "ALT_CORE_B_AX_17_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f46e681a8656b98c8a4b",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingenieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c6e90239a4f81a694ca1",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/a264ab192aa539ab480a",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:38+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of this card said: \"You may activate the {j} triggers of target Permanent you control.\"  Future printings will say \"You may activate the {j} abilities of target Permanent you control.\""
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/JPG/de_DE/36a4a89d95a994a5d29f77967709062b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/ALT_CORE_B_AX_17_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/ALT_CORE_B_AX_17_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/ALT_CORE_B_AX_17_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_17_R2",
+  "reference": "ALT_CORE_B_AX_17_R2",
+  "id": "01HKAFJNK3WJB4M7RXD8Q3M52K",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/JPG/de_DE/36a4a89d95a994a5d29f77967709062b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/JPG/en_US/ea4af4afe724dd6e0057de1f4a309f4c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/JPG/es_ES/ad15a98e159d98f26eac01233bdbf1b1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/JPG/fr_FR/5a5dbd8791f12fec563363bbce5e2fd6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_17/JPG/it_IT/3a7a22b5e1d04b765b2bc08f8ea89810.jpg"
+  },
+  "name": "Dr. Frankenstein",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "#2#",
+    "FOREST_POWER": "3",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{R} Du darfst die {j} Fähigkeiten einer Bleibenden Karte deiner Wahl aktivieren, die du kontrollierst."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-017-F-DE"
+}

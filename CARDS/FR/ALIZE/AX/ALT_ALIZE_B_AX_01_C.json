@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5W64G0Y92B8JCS418EB0399Z3J",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J22YMV7EKFHGKZZ5VH5K0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J22YMV7EKFHGKZZ5VH5K0",
+          "text": "« Existe-t-il meilleure récompense que de voir ses créations prendre vie ? »"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J22Z2V15CGAS0V7HKTXXF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J22Z2V15CGAS0V7HKTXXF",
+          "text": "392 AC - Sous la surface huileuse du lac, des bulles irisées remontent lentement des profondeurs en grappes étranges, comme des milliers de méduses en train d'ondoyer. Elles se percutent, éclatent, s'assemblent, se subdivisent, avant de percer les eaux pâteuses en chuintant, éructant des miasmes colorés. Je sens partout autour de moi la pression du Tumulte, les idées qui sont relâchées à chaque gonflement qui se perce, et qui cherchent par tous les moyens à s'exprimer dans le monde. Clairement, il y a au fond de l'étendue lacustre quelque chose qui pulse. Peut-être une singularité du Tumulte, enfouie à des dizaines de mètres sous moi. Tout ce que je peux faire, c'est protéger mon embarcation de ses ravages, d'exciser une à une, grâce à mon Construct, les idées parasites qui se mettent à bourgeonner sur sa coque. La traversée va être ardue. Le moteur kélonique de la barque est en train de crachoter, lui aussi affecté par les idées qui le percutent.\n\nJ'espère que de son côté, Oddball parvient à se débrouiller. Je sonde le lointain, sentant sa psyché me répondre misérablement par quelques bips succincts. Je perçois grâce à mes propres sens à quel point sa carlingue est abîmée, infectée par des idées intruses. À travers notre lien, je matérialise à ses côtés l'Eidolon d'un Récupérateur. Mon Alter Ego ralentit, clairement soulagé de pouvoir bénéficier d'un arrêt au stand. Il aura bien besoin de ça pour requinquer son blindage. Je le laisse alors que j'entends les premiers bruits de soudure résonner dans la forêt crépusculaire où il évoluait jusque-là, slalomant entre les troncs d'arbre. De mon côté, je ne suis pas non plus tirée d'affaires. La navigation sur ces eaux poisseuses prend un temps faramineux, avec le risque qu'à tout moment, une bulle me fasse chavirer et basculer dans les flots sirupeux."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J22YWB5HRN8MEYX1P07EV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J22YWB5HRN8MEYX1P07EV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J22XNB5ZWHA6V0R2FP212",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J22XNB5ZWHA6V0R2FP212",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J22YE6CYPXAXX8473KHMM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J22YE6CYPXAXX8473KHMM",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "5W64G0Y92B8JCS418EB0399Z3J",
+      "reference": "ALT_ALIZE_B_AX_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b8e33a3d66a18597a3aa",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/JPG/fr_FR/61d279485bfb4ee6d7a462afdad5df23.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/WEB_d285a38412a7c4754e423d2c50344298"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/HERO_THUMB_8e52a83c7e7aca7df1c0e4eb8ce2aadb"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_01_C",
+  "reference": "ALT_ALIZE_B_AX_01_C",
+  "id": "01J1Q57Z42GMVB7Z60983S1HCT",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/JPG/en_US/3c3ee604cb122d12b5129f348277a74d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/JPG/de_DE/c982e30e73d6c9675e3feb6f81b2c68e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/JPG/fr_FR/61d279485bfb4ee6d7a462afdad5df23.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/JPG/it_IT/1604bb8a8a59cf9bbf0442adf9cd28c8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/JPG/es_ES/0e66b1207b588a035b03be9af16b5cfb.jpg"
+  },
+  "name": "Sierra & Oddball",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "Lorsque vous jouez un Permanent de Coût de Main {3} ou plus — Vous pouvez m'épuiser ({T}) pour créer un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-001-H-FR"
+}

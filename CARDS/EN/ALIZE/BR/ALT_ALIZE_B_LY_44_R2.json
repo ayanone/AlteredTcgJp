@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_44_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/18B3PEN0W38J0VFN7RBXM8NRJK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J261KG2PJJVCYK1M1VNYV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J261KG2PJJVCYK1M1VNYV",
+          "text": "Here to sleigh!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J262A20CKJ60ESAB3QD99",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J262A20CKJ60ESAB3QD99",
+          "text": "Red velvet quilted cushions, and solid-gold handlebars and runners, I'm sure of it. An aerodynamic shape, a finely sculpted figurehead... And those curves, those little touches of bling! Who wouldn't want that hot rod? I toss and turn in my bed, unable to think of anything else. I imagine it spinning in front of me, crowned in a soft light. It gleams with splendor. I visualize how I'm going to customize it. Pompoms? Gold glasses? Earrings? Why not a moustache? Ohhh, I want that sleigh so much, even just for a little spin. And besides, it would be an extra day off for the Eidolon. He deserves it, right? He usually just works one day a year, so he should take care of his joints! Whoosh, whoosh, Blotch and me, gliding over the ice together. My Chimera moves slightly on the wall. Oops, if I wake him, he'll be in a foul mood tomorrow morning.\n\nOf course, I'll need him to help me steal the magic sleigh. In the meantime, I need to put together a plan anyway. Should I drop down from the rooftops with a rope? Nah, too cliché, especially since the hangar doors would need to be opened... I could flag him down on his delivery route and offer him a pit stop with a couple of my special cocktails? Nah, he'd probably shoot by without even stopping. What about placing a bet on the Bifrost? Whoever wins gets the sleigh... But what do I have that I could give him if he wins the bet? I pull my hair and bury my head in my pillow to scream in frustration. Plans suck! They never work like they're supposed to, and it fries my brain every time I try to come up with one... I guess it's a big no to plans then. Improvisation always works best anyway!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J261Z9WYYMFNVEBPRMQ7A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J261Z9WYYMFNVEBPRMQ7A",
+          "text": "A sleigh is a vehicle, usually fitted with skis instead of wheels. Pulled or drawn by an external force, human or animal, it slides over the ground to facilitate the transport of people and goods. However, it should generally not be used on very uneven terrain, because it's much less practical in these conditions."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J260QMQFZHPNH2JPPVDFT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J260QMQFZHPNH2JPPVDFT",
+          "text": "NEVENKA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2617GTSCDRDZM58PNB90",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2617GTSCDRDZM58PNB90",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "18B3PEN0W38J0VFN7RBXM8NRJK",
+      "reference": "ALT_ALIZE_B_LY_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Expedition Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/62f4a80f352d54707503",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Gear"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/bde293685a96834709cb",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/en_US/e5ccfdcf142f2f7d7c06acb08550bd63.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/WEB_ccb4575781332b5698ed7c4ec64d6ccf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/WEB_1345d111af230d95ede0853cd4264082"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_44_R2",
+  "reference": "ALT_ALIZE_B_LY_44_R2",
+  "id": "01J1Q4P4SBPWTN13PW61X9B2AB",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/it_IT/911008818525bb820f1a5bd6ae5c3601.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/de_DE/99edab1d109364bf5ae87a68a01402bb.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/es_ES/d0df3a30e23c03b0aaf0179a34103df4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/fr_FR/942547fee53076da84d0251c934a83de.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/en_US/e5ccfdcf142f2f7d7c06acb08550bd63.jpg"
+  },
+  "name": "The Magic Sleigh",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "#{J} I gain [[Fleeting]].#  If my Expedition would move forward during Dusk, it moves forward one more region instead."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-050-F-EN"
+}

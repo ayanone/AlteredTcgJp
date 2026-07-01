@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_62_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2EMDJEA4WK8ZKT7WFHAKFVYEQ4",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A84QFFHNRJD09QR1XZ1N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A84QFFHNRJD09QR1XZ1N",
+          "text": "The Mess requires a farm that can consistently provide for its day-to-day needs."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A861VVFB22WVEXJX2DVS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A861VVFB22WVEXJX2DVS",
+          "text": "393 AC - The cart laden with crates of fruit and vegetables pulls up to me, and the gardener driving it asks if I want a ride. I don't need to be asked twice, so I sit down next to him. I'm exhausted after the day's hike, and this stroke of good luck has arrived at the perfect time. As the horse and cart sets off again, I look behind me one last time at the peaceful Farm. The sails of the windmill turn at a leisurely pace, fanned by the wind blowing over the Screed, while above, the dense cypress foliage stirs and rustles. The farm and tree were formed in a single action through Alteration. Barns, silos and granaries are naturally embedded in the gigantic trunk to benefit from its cover and consistent temperature. All around, Muna farmers — all very happy to have left the the Ouroboros — are working in the fields, vineyards and orchards.\n\nI turn to my savior, and we have a friendly chat about the colorful and pleasantly scented cargo he's just loaded up at the Farm: oranges and pomegranates, pumpkins and mushrooms, and even a few bouquets of flowers… Everything seems to have been cultivated with Sap. I crease my brow, deep in thought. As I expected, the goods will be distributed to various areas within the outpost, mainly to the Mess. Anything left over will be sent to the market held every morning in the main square opposite the Ordis town hall. Maybe I should bring Rin a gift basket? Lately, she's been constantly cooking delicious meals for me to thank me for having saved her during the ascent of the Cais Adarra. I smile when I think back to the excitement she feels every time she talks about food or explains her recipes. Who would have thought that besides being part of an Exalt, she's also a master chef?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A853H8BGKJ6SRV30SS14",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A853H8BGKJ6SRV30SS14",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A82J6AMP6855ZV80EFYK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A82J6AMP6855ZV80EFYK",
+          "text": "ARJUN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A83Z98P8W2PX3FYM6RJV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A83Z98P8W2PX3FYM6RJV",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "2EMDJEA4WK8ZKT7WFHAKFVYEQ4",
+      "reference": "ALT_BISE_B_MU_62_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Landmark Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8cc1e1836b8e9fb91a26",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ef3cfe2bc5bef4ef261a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_62/JPG/en_US/02d39f20e76b6238e5fca0dbe4e42fea.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_62/WEB_61caa7c11b26277f696e9d2ac8b29bba",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_62/WEB_9a769784419936370b396d08818b728c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_62_C",
+  "reference": "ALT_BISE_B_MU_62_C",
+  "id": "01JB1YGPBSVNFH1P9D1KPG381Z",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_62/JPG/de_DE/a45a0674c06fe8e42d92ed0ac809fe7e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_62/JPG/es_ES/2619f20a3546a504ce54e89e7ef7c6f9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_62/JPG/it_IT/b1ed6df5835e0048d159017cfffc687a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_62/JPG/en_US/02d39f20e76b6238e5fca0dbe4e42fea.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_62/JPG/fr_FR/54b084e34502f019c6bf7e900695646c.jpg"
+  },
+  "name": "The Farm",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "At Noon — I gain 1 Food counter per Character you control.  {T}, Spend 2 of my Food counters: [Resupply]. (Put the top card of your deck in Reserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-068-C-EN"
+}

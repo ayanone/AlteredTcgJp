@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_61_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/50EYK1RQHD82QAAX6NQDPX5HDG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1ACPYAF45XKNYZ3KJ3NJ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1ACPYAF45XKNYZ3KJ3NJ5",
+          "text": "When the Remanence strikes, ideas burst out of one's mind like water from a dam."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACQTMND7559YFKXYQD7R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1ACQTMND7559YFKXYQD7R",
+          "text": "393 AC - I look all around, feverish, dripping with sweat, and my heavy breathing echoes around the empty cavern. At least, I hope it's empty… Is it still there? Is it still chasing us? Is it lurking in the shadows somewhere, watching us? And what the hell is it, anyway? Alongside me, the two Bravos are close to exhaustion after repelling the monster's incessant attacks. They had protected me. When Afanas had left me with the two warriors that were accompanying him, I'd been stunned to find out they were versed in the art of the Naali, and that they were actually two covert Qorgan agents. That must mean that Afanas… But before I can go any further with my deductions, one of them suddenly starts trembling all over. He holds his head in his hands and begins to scream, his teeth chattering wildly. My heart sinks with dread. I know these symptoms. I'd recognize them anywhere.\n\nI drop my bag and start to rummage inside it, looking for the vial that Saskia gave me. From the corner of my eye, I see ideas starting to ooze from his mind as an attack of Remanence corrupts his brain. They spurt out and flow from his tear ducts, nose, mouth… as if he's a leaking gourd. I need to hurry. Where the hell is it? The pendekar next to him backs away as his companion's entire head becomes an inferno of ideas. It's a flood of pure concepts expressing themselves in the world, just like in the days of the Confluence. My hand grasps the glass bottle, and I rush over to him. I lean over him as I have so many times with Kumari. I uncork the vial and grab the leeches to place them on the victim's forehead, grimacing with pain as the Aether spewing out of him eats away at my flesh and my soul…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACQCGGJGCJK466PWDBV4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1ACQCGGJGCJK466PWDBV4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACMRCGJXT18119DJC2MW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1ACMRCGJXT18119DJC2MW",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACPG7EEDGHKJ8AQH9YMA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1ACPG7EEDGHKJ8AQH9YMA",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "50EYK1RQHD82QAAX6NQDPX5HDG",
+      "reference": "ALT_BISE_B_YZ_61_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b607f6d92e88faf3a712",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9b5e50bf06a9bb7353bb",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disruption"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d630940ef089e38a54dd",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_61/JPG/en_US/dae086e8232986b7a4c579a885dcb2db.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_61/WEB_964d68923e50bf727608534690d15e3d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_61/WEB_c03cea4927683f8305b089fbb2eee8da"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_61_R2",
+  "reference": "ALT_BISE_B_YZ_61_R2",
+  "id": "01JB1YGPC43YEJKFV340DMQ1PC",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_61/JPG/de_DE/e4848f76f33ea25ad04555ca666ad762.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_61/JPG/es_ES/b3e725cd9bc1c11f1941b983c579a6e2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_61/JPG/it_IT/b5567dff875f456f2c3e70dfe9a1488b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_61/JPG/fr_FR/1021d523503b34a94f5bbd8d5e61cead.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_61/JPG/en_US/dae086e8232986b7a4c579a885dcb2db.jpg"
+  },
+  "name": "Feast of Thoughts",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "5",
+    "MAIN_EFFECT": "Choose X+1, where X is my number of Arcane counters:  • Draw a card.  • Create a [Mana Moth 2/2/2] Illusion token in target Expedition.  • Remove 3 counters from target card in play or in Reserve.  • [Sabotage].",
+    "ECHO_EFFECT": "{I} When #a Character joins your Expeditions# — I gain 1 Arcane counter, up to a max of 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-100-F-EN"
+}

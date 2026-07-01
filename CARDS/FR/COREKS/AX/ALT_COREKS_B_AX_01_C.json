@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77V0Y1Q6Z184M8297VTV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7VWMC51P8J2WZRNYCRRX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7VWMC51P8J2WZRNYCRRX",
+          "text": "Existe-t-il meilleure récompense que de voir ses créations prendre vie ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7VX2TH627HDYM3DMA96G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7VX2TH627HDYM3DMA96G",
+          "text": "392 AC - Sous la surface huileuse du lac, des bulles irisées remontent lentement des profondeurs en grappes étranges, comme des milliers de méduses en train d'ondoyer. Elles se percutent, éclatent, s'assemblent, se subdivisent, avant de percer les eaux pâteuses en chuintant, éructant des miasmes colorés. Je sens partout autour de moi la pression du Tumulte, les idées qui sont relâchées à chaque gonflement qui se perce, et qui cherchent par tous les moyens à s'exprimer dans le monde. Clairement, il y a au fond de l'étendue lacustre quelque chose qui pulse. Peut-être une singularité du Tumulte, enfouie à des dizaines de mètres sous moi. Tout ce que je peux faire, c'est protéger mon embarcation de ses ravages, d'exciser une à une, grâce à mon Construct, les idées parasites qui se mettent à bourgeonner sur sa coque. La traversée va être ardue. Le moteur kélonique de la barque est en train de crachoter, lui aussi affecté par les idées qui le percutent.\n\nJ'espère que de son côté, Oddball parvient à se débrouiller. Je sonde le lointain, sentant sa psyché me répondre misérablement par quelques bips succincts. Je perçois grâce à mes propres sens à quel point sa carlingue est abîmée, infectée par des idées intruses. À travers notre lien, je matérialise à ses côtés l'Eidolon d'un Récupérateur. Mon Alter Ego ralentit, clairement soulagé de pouvoir bénéficier d'un arrêt au stand. Il aura bien besoin de ça pour requinquer son blindage. Je le laisse alors que j'entends les premiers bruits de soudure résonner dans la forêt crépusculaire où il évoluait jusque-là, slalomant entre les troncs d'arbre. De mon côté, je ne suis pas non plus tirée d'affaires. La navigation sur ces eaux poisseuses prend un temps faramineux, avec le risque qu'à tout moment, une bulle me fasse chavirer et basculer dans les flots sirupeux."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7VWVTTJX0W5SER0FHHT9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7VWVTTJX0W5SER0FHHT9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7VVCEV0VDKHC944B2A40",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7VVCEV0VDKHC944B2A40",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7VWETT2Q9P89AW840Q9D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7VWETT2Q9P89AW840Q9D",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HPMB77V0Y1Q6Z184M8297VTV",
+      "reference": "ALT_COREKS_B_AX_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4345385a1b7bc8ea02fb",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_01/JPG/fr_FR/d78b3e7de2cd94ebfc82d52dbb215d01.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_01/ALT_CORE_B_AX_01_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_01/ALT_CORE_B_AX_01_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_01_C",
+  "reference": "ALT_COREKS_B_AX_01_C",
+  "id": "01HN5TXR2AE9M3ZWKWYP5F7V7K",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_01/JPG/it_IT/97aeb4b7814ff04474c3875dbe72ba20.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_01/JPG/de_DE/2eb8741b7f1904d30b1e5b9d4fa25a09.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_01/JPG/es_ES/a4f11e21acaecc55a0ff2393839b60db.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_01/JPG/fr_FR/d78b3e7de2cd94ebfc82d52dbb215d01.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_01/JPG/en_US/6958dcd407c29a6fab4130f6dca88d2b.jpg"
+  },
+  "name": "Sierra & Oddball",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Lorsque vous jouez un Permanent de Coût de Main {3} ou plus — Vous pouvez m'épuiser ({T}) pour créer un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-001-H-FR"
+}

@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_41_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7HC4SEN5BN9FWRFBMSXF1QWEDR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2972AT468M3XXV8JQTZ3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2972AT468M3XXV8JQTZ3",
+          "text": "«¿En qué puedo ayudarte?»."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J298BSP44NT818QSJ03P0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J298BSP44NT818QSJ03P0",
+          "text": "Entro en el palacio de hielo, que se ha reforzado intensamente mediante la Alteración. Fuera, los colores se están desvaneciendo del cielo y, aunque por ahora hay luz, pronto caerá la noche. Los escribanos y mensajeros se inclinan a mi paso, y yo les devuelvo el saludo, aunque no tengo mucho tiempo para sutilezas. Me dirijo al estrado principal del despacho del fondo y me acerco a la oficial de enlace. La joven pasa las yemas de los dedos por encima de las cartas en braille que recibe para descifrarlas y remitirlas a las personas o departamentos pertinentes. Toso ligeramente para anunciar mi presencia, y ella deja de leer. En su registro estampo mi glifo personal, que ella comprueba con la punta de los dedos antes de entregarme dos heraldos de papel. Uno es del Almirantazgo, y el otro… De mi hermana que está en Arkaster.\n\nDesprecinto primero el origami con forma de serpiente y lo despliego con destreza para revelar las iniciales de la almirante Singh. Mientras escudriño el mensaje, siento que se me forma un nudo en el estómago. El Uroboros ha detectado ondas del Tumulto que vienen en nuestra dirección y alcanzarán nuestra ubicación en unos días. Me dirijo enseguida a las oficinas del general Sekifu. Esta es una carrera contrarreloj. Hay que informar de inmediato al Estado Mayor de la orden de evacuación, que nos insta a dirigirnos sin dilación a Cais Adarra y refugiarnos en el Oasis. Mis pasos resuenan en el suelo de la ciudadela provisional, y allí, en la entrada, está Sunisa, que parece percibir mi preocupación instintivamente. Y, por una vez, se abstiene de hacer comentarios ingeniosos. Me doy cuenta de que aún tengo en la mano la carta de mi hermana. Me temo que esta misiva tendrá que esperar."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J297PFE3XXDHA4SY0962P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J297PFE3XXDHA4SY0962P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29557BB9JCSGSRZ783VB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J29557BB9JCSGSRZ783VB",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J295QCVDGJKVR51F2E0XX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J295QCVDGJKVR51F2E0XX",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7HC4SEN5BN9FWRFBMSXF1QWEDR",
+      "reference": "ALT_ALIZE_B_OR_41_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/42d160aeac1cd674646e",
+      "reference": "MESSENGER",
+      "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+      "name": "Mensajero"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6d9b8ff38e883bc97c36",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldado"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e033e3b75a810f3f5695",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/es_ES/3068acb22c4b2b2496b95de2da1d8d1f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/WEB_595dab3c3726788db827bf0f892c36a9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/WEB_71a93891ced06e9a8d9f45b649d396b4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/WEB_535b4b6bcfbe88bb0a536e95d35fe340"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_41_R1",
+  "reference": "ALT_ALIZE_B_OR_41_R1",
+  "id": "01J1Q4P4SN8RYANNFV99ET5V47",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/fr_FR/d580c3b9d37f0b40b56c445762533e25.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/en_US/771b55b4da2cd164725bb963d7f95703.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/de_DE/ed5365ec7142256b3e86ecc137e1b42a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/it_IT/5b3cfdb358fd2cccae223ecd61af2f65.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_41/JPG/es_ES/3068acb22c4b2b2496b95de2da1d8d1f.jpg"
+  },
+  "name": "Enlace de Ordis",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "#3#",
+    "MOUNTAIN_POWER": "#3#",
+    "MAIN_EFFECT": "{J} Cada personaje #en la expedición objetivo# gana 1 potenciador."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-078-R-ES"
+}

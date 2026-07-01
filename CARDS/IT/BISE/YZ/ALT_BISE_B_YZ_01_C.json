@@ -1,0 +1,148 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/377XA62A4Q9YMT0G959W59TS7D",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1AAK15TSBC4J9VYR6A4A4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1AAK15TSBC4J9VYR6A4A4",
+          "text": "Qualunque sia la prova che dobbiamo affrontare, le buone maniere e l'educazione sono sempre di moda!"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAN2MXGY99DBCR0XCPW9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1AAN2MXGY99DBCR0XCPW9",
+          "text": "392 AC - I lean over Itoro and place a damp cloth on her forehead. The Lyra calligrapher manages a smile despite the pain, and I return it while squeezing her hand. For a moment, I feel like I'm back in the Cloister, looking after my sister. I hope Kumari is doing okay… Tomorrow, if there's time, I'll send her a letter and tell her all about my adventures. I'll include a few sketches I've done of the environments I've seen, and maybe I'll add a few emotions to give her a taste of what I felt. Taru interrupts my daydreaming by placing a sticky tentacle on my forearm. I know, this is no time to be lost in thought. The Tumult wave that hit the Ouroboros caused a lot of damage, as well as some mild parasitization.\n\nI place my hands on the chest of the Lyra artist, summoning a Sigil to stimulate her metabolism. Through my Irises, I perform diagnostics on her and examine her to distinguish the nature and location of the ideas that have sadly been grafted onto her. \"Ribbon\" and \"Rubber\". Her leg is indeed limp and elastic, as if all her bones have been turned to liquid and her muscles transformed into rubber. And her left hand… Where her fingers should be, she has laces of silky flesh that hang limply. Beside me, Esmeralda crosses her arms over her chest, concerned about her friend's condition. But by tapping into the Eidolon's thoughts, I can surely create an accurate mental image of what Itoro looked like before these unfortunate changes. By summoning her memories, I'll be able to restore her original appearance. OK, let's go! I turn toward Taru, who waves his tentacles. I'll need his dexterity to isolate and remove the intrusive ideas…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAKD6D9VJHEVWJ80J8RB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1AAKD6D9VJHEVWJ80J8RB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAJ828C56SCE62RTP68A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1AAJ828C56SCE62RTP68A",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AAJNFZAB2D7AM06HT5BW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1AAJNFZAB2D7AM06HT5BW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "377XA62A4Q9YMT0G959W59TS7D",
+      "reference": "ALT_BISE_B_YZ_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b526848be1da1b601b66",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_01/JPG/it_IT/26e327a3d932efc8efa2f445032071bc.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_01/WEB_4f62e101a29377c6a86b56e2920113c0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_01_C",
+  "reference": "ALT_BISE_B_YZ_01_C",
+  "id": "01JB1Z5GJMS157JAPC5KM9ZRJG",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_01/JPG/es_ES/66f48a2b13da092750e79b32bb9da8b5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_01/JPG/en_US/df302b948c291c7f8e828dab52a8374f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_01/JPG/fr_FR/5f0f345919d64038efb8068cc2fa1252.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_01/JPG/de_DE/7df65e856e2139ed922c4434768fa234.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_01/JPG/it_IT/26e327a3d932efc8efa2f445032071bc.jpg"
+  },
+  "name": "Akesha e Taru",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "{T}: [Dopo di te]. Puoi eseguire questa azione solo se sei il primo giocatore. (Termina il tuo turno come se avessi giocato una carta. Puoi comunque giocare carte più avanti in questa giornata.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-086-H-IT"
+}

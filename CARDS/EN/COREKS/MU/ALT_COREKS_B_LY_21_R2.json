@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_21_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7839E85Q6NRBB12DBSC7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME80WZSKWMPT84MZ79FETM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME80WZSKWMPT84MZ79FETM",
+          "text": "\"My fourth Unique card? No idea what you're talking about.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80XTSTHVR8531NFPBEZD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME80XTSTHVR8531NFPBEZD",
+          "text": "Other than Blotch (and he doesn't count), my best friend is Loki. We understand each other, he and I. Yeah, we play dirty tricks on each other, but I swear there's never any hard feelings! That's just how we show our affection for each other. Last time, he trapped me in a barrel of rotten fish. I stank for days after that. And so I tied him to a rock and dripped snake venom in his eyes, just to remind him of the good old days. He and I know that the world's true nature is chaos. It's all a big game of dice, and nothing has any deeper meaning. It's been like that since it all began, and it'll still be like that whatever happens, whatever semblance of order we want to give to our existence. The world will always remain a tale told by an idiot, full of sound and fury, and signifying nothing.\n\nWhen we go around wreaking havoc, something always happens anyway. Going against the grain, making sparks fly and raising hell always seems to wake up the sleeping giants. Loki has a huge grin. Yep, he and I are going to kick the hornet's nest. Because we know that underneath the calm surface, things are thrashing, squirming and writhing around like a basket of eels. And I love eels. Come to think of it, there's a street vendor who sells unadon that's out of this world on the corner of Via Keikerak and Calle Caducea. His sauce is to die for. Fen took me there one morning, and although it doesn't look like much, it's spectacular. So, what do you say, Kiki?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80XC45XKCF5PJM48V67Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME80XC45XKCF5PJM48V67Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80VTF26TTQ2YWNXGN2GD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME80VTF26TTQ2YWNXGN2GD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80WAK7CAWGTYMCV9H0PB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME80WAK7CAWGTYMCV9H0PB",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB7839E85Q6NRBB12DBSC7",
+      "reference": "ALT_COREKS_B_LY_21_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e896f7760fcac5dbe502",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deity"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5cc1b51e6f99ca528e83",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/JPG/en_US/f5284b7fb7d5cc180423fabe10774d53.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/WEB_baf047d7f3332b06dd73e8ed8faafcd8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/WEB_a5bdcca36cdcebf5cf99f8cad04fc25d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/WEB_056572f0bb37b55f21e6f2f744bf228d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_21_R2",
+  "reference": "ALT_COREKS_B_LY_21_R2",
+  "id": "01HN5TXRCKH51D3MNKGARE84M6",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/JPG/fr_FR/da3eb8e80e4070e91c8d2faf89dbf240.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/JPG/es_ES/eed1c90f8c4cf48aaf077620f825c40e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/JPG/it_IT/443c6f64cd1754bff0ff1483516a7326.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/JPG/de_DE/89e106c316f26add4692d1d886017eb2.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/JPG/en_US/f5284b7fb7d5cc180423fabe10774d53.jpg"
+  },
+  "name": "Loki",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MAIN_EFFECT": "{H} Each player discards their hand, then draws three cards."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-081-F-EN"
+}

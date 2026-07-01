@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_24_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZVEJ4C7YV5T9YGQ2YQ6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5VQ255TP2Q23J29M04XG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5VQ255TP2Q23J29M04XG",
+          "text": "Niemand erwartet ... die Schleiertänzerin!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VQT1XAMEDTDG1B289KX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5VQT1XAMEDTDG1B289KX",
+          "text": "Holding onto the smooth rope, Ehuang simulates walking in mid-air. Then, with her legs outstretched, she wraps the rope around her waist, lets go with her hands and goes round in wide circles above the rows of seats. Her expression is calm and focused, in contrast to the fear and wonder on the faces of the audience. But although this impressive act has a poetic charm of its own, it's time to inject some more life into the show. Mischievously placing a hand over my mouth, I summon the little Tanuki at the top of a pole. He always serves as my sidekick in my one-woman shows. In this story, Ehuang will be the hero, while the Tanuki and I will be the villains. As the spotlights turn to shine on the yōkai, he pulls out a huge pair of scissors from behind his back. He starts to cackle theatrically, threatening to cut the silk strips holding up the young acrobat as the audience jeers.\n\nBut before he can go through with his mischievous plan, Ehuang fires her aerial ribbons towards the little creature like whips. The strips of fabric wrap around the Tanuki, gradually turning him into a silk-wrapped mummy. Caught off guard, he falls over backwards and ends up hanging upside-down, grimacing with fear and irritation in his cloth cocoon. And as the cheers and ovations thunder under the big top, the acrobat slides along her ribbons until she touches the ground with the tips of her toes. That's the signal. From all around, jugglers, acrobats and tumblers appear out of nowhere in a euphoric spectacle. They surround Ehuang, who bows four times to the audience. As she heads backstage, I glance at my dear Tanuki, who is still suspended in the air. With a snap of my fingers, I make him and the silk ribbons disappear in a puff of petals that rain down onto the audience."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VQEZP1Q03FXF32C3QZ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5VQEZP1Q03FXF32C3QZ5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VPBJ33V9A1J1R6X2B2J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5VPBJ33V9A1J1R6X2B2J",
+          "text": "Auraq"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VPP5EHX0ZQ7M1RBPM35",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5VPP5EHX0ZQ7M1RBPM35",
+          "text": "385 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY4ZVEJ4C7YV5T9YGQ2YQ6",
+      "reference": "ALT_CORE_B_LY_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3dd2941e59d13a4d7eb2",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Unterbrechung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e652394c453c32c3f0b0",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/de_DE/f197167a049b9d8152579471d3180eb9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/ALT_CORE_B_LY_24_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/ALT_CORE_B_LY_24_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_24_C",
+  "reference": "ALT_CORE_B_LY_24_C",
+  "id": "01HKAFJNTQVBFRHE86ETCHX2M3",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/de_DE/f197167a049b9d8152579471d3180eb9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/it_IT/3f481b0f02de0e4861d1a538406b45e0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/fr_FR/fa3396384fbe307af7a6c8fd219e3fa8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/es_ES/b78a56c8d8c4492ae43054483cfb9ef7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/JPG/en_US/86f6cd9772de6ee4bbfe08aef31ad435.jpg"
+  },
+  "name": "Stoff-Kokon",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Vergänglich]]. (Lege mich auf die Ablage statt in die Reserve, nachdem mein Effekt abgeklungen ist.)  Wähle eine Aktion:  • Lege einen Charakter deiner Wahl mit [[Vergänglich]], [[Verankert]] oder [[Schlafend]] ab.  • Lege eine Bleibende Karte deiner Wahl ab."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-086-C-DE"
+}

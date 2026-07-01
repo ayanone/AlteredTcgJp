@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_41_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2T1QJFE4ME9T5ABVCD3DH7S531",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2BJXHPA7QXXGV5D2NFB8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2BJXHPA7QXXGV5D2NFB8",
+          "text": "Durante sus escasas horas de vida, las polillas revolotean portando la idea misma de su existencia."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BKY5FYCS1FB020SAAKC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2BKY5FYCS1FB020SAAKC",
+          "text": "Los insectos se arremolinan a mi alrededor y vuelan en silencio. Ni siquiera el aleteo de sus alas hace ruido. Es como si estuvieran ahí sin estarlo realmente, difundiendo maná en el aire cual incensario. ¿Alguno de los Muna habrá descubierto el papel de estas polillas en el ecosistema? ¿Podrían estar implicadas en la dispersión de sustancias para fortalecer el Oasis? Lo único que puedo decir desde mi punto de vista es que su danza es un espectáculo encantador, casi hipnótico. Pero me he dado cuenta de una cosa: la presencia de polillas de maná suele significar que hay Belisenki cerca. Aparecen como presagios, como si nos advirtieran de que debemos dar un rodeo o incluso retroceder de inmediato. Incluso he visto a intrépidos exploradores Bravos dudar si seguir adelante tras toparse con un claro lleno de polillas. Pero a mí no me asustan lo más mínimo.\n\nQuizá el sentido común debería indicarme que las temiera más, pero no puedo evitar sentirme fascinada por su existencia efímera, por las vidas increíblemente cortas que aceptan sin lamentarse. Debe de ser porque, para mí, simbolizan algo más que el aviso previo a un ataque. Las he observado detenidamente durante cada una de mis visitas a la pequeña choza de Saskia. Para mí, su presencia recuerda al aroma de la manzanilla, al calor del fuego crepitando en el hogar y a la silueta de la Muna estudiando a estas pequeñas criaturas a pocos metros de mí. Solo con verlas, me siento irresistiblemente atraída hacia esos recuerdos como por un imán. Levanto lentamente la mano y dejo que se forme una gota de maná en la palma. Una polilla se posa junto a ella y despliega su probóscide para sorber el líquido. Bebe, pequeña. Este néctar sumará unos valiosos minutos a tu vida."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BKD7B97ASG5SE8YAM49",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2BKD7B97ASG5SE8YAM49",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BGZ1WWC7RASR90MWWVR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2BGZ1WWC7RASR90MWWVR",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BJDEKATCWXNN8VJBBBC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2BJDEKATCWXNN8VJBBBC",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "2T1QJFE4ME9T5ABVCD3DH7S531",
+      "reference": "ALT_ALIZE_B_YZ_41_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/fc1f5c5d95d096c8ae89",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maniobra"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6cdccd39876e40f4f2ff",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/es_ES/5b24b368baa7bf4c6f053ee87a995ef8.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/WEB_933bf14001597d7b07fa1e7c3c9690bd",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/WEB_7b20382c6064821bfea2289196096006"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_41_R1",
+  "reference": "ALT_ALIZE_B_YZ_41_R1",
+  "id": "01J1Q4P4SWD7ABYG5VK63B8RN6",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/en_US/a12fcd72c8f43091f01e5bff79713f40.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/de_DE/9964eefcf7517a0800295ac3e613cb09.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/it_IT/0e8a434d105423d6e525af899e89d99a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/es_ES/5b24b368baa7bf4c6f053ee87a995ef8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/fr_FR/763a14d061fba213dd1c27c6ac31ba75.jpg"
+  },
+  "name": "Como polillas a la llama",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "[Recuperación]. (Si voy a la reserva después de que se resuelva mi efecto, agótame {T}.)  Crea una ficha de ilusión [Polilla de maná 2/2/2] #en cada una de tus expediciones#."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-095-R-ES"
+}

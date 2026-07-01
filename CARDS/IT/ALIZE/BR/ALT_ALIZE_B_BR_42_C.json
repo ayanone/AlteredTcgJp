@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_42_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0FDZ8G5BB29SSBH0Y0DAG0A15G",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24MN0Z03Q1F27K54P3H7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24MN0Z03Q1F27K54P3H7",
+          "text": "Non sentirti sotto pressione."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24N82196VGYQBN59ZCRW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24N82196VGYQBN59ZCRW",
+          "text": "Guardo le enormi colonne d'acqua e di vapore fuoriuscire dal terreno. È affascinante e al contempo inquietante, tanto che non riesco a distogliere lo sguardo. È come se la terra fosse diventata un'enorme pentola a pressione. Mi giro per dire qualcosa, ma mi rendo conto che avrei voluto chiamare Gault. Non è qui, ovviamente. Si trova a migliaia di chilometri di distanza. Quando sono arrivato ieri, dopo una lunga giornata di cammino nelle pianure, mi hanno detto che questo luogo era stato creato da Atsadi qualche giorno fa, mentre era alle prese con orde di belisenki. Non riesco a credere al potere che ha scatenato qui. Lo chiamano lo spadaccino con un braccio solo o la Cicala del Crepuscolo, e si capisce come si è guadagnato la sua reputazione. Ha letteralmente fatto ribollire il terreno.\n\nÈ strano vedere come il luogo di una battaglia epica sia diventato una sorta di parco divertimenti acquatico. I Lyra vi si sono insediati e lo hanno trasformato in una piscina all'aperto. Naturalmente hanno abbassato la temperatura, in modo che nessuno venisse bollito vivo, e poi hanno spianato il terreno per mantenere l'acqua all'interno. E adesso tutti fanno il bagno, sguazzano e chiacchierano... Se ieri, mentre attraversavamo a fatica la natura selvaggia e ghiacciata, mi avessero detto che oggi mi sarei rilassato in una sorgente termale, non ci avrei mai creduto. Così, mentre lascio vagare la mente, chiedendomi se Atsadi sia alla ricerca di uno scudiero, vengo improvvisamente schizzato da una pinguigazza e da Tanuki che litigano su chi sarà il prossimo sulla rampa di lancio. La pinguigazza vince la discussione e salta appena in tempo, quando il terreno inizia a rombare. Un immenso geyser la spara in cielo mentre lei ride a crepapelle."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24MZTH59K7CWFWY2SXRX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24MZTH59K7CWFWY2SXRX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24M1968JAA6DE52A3HGW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24M1968JAA6DE52A3HGW",
+          "text": "KOJO\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24MBT5S2S2H43V0T21G3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24MBT5S2S2H43V0T21G3",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "0FDZ8G5BB29SSBH0Y0DAG0A15G",
+      "reference": "ALT_ALIZE_B_BR_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d135b15b5dfbe26618c7",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c09d22354cf59aa8726a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/7f1ad58a7bd6024b4918",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:13+00:00",
+      "question": "If I play \"Geyser\" from Reserve and it gains Fleeting, do I still put it in my Mana Orbs?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/it_IT/5691eb3706f85edb03d689c254fe28d1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/WEB_a02a6b9dbe2bfe28fe3b1b705408ecd0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/WEB_bca9d6588d88cb89e95af16a25e8ea84"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_42_C",
+  "reference": "ALT_ALIZE_B_BR_42_C",
+  "id": "01J1Q4P4S3CD549S9SSC7PCM6A",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/it_IT/5691eb3706f85edb03d689c254fe28d1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/es_ES/15c01f8f989214d039c7bc4e2babd591.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/fr_FR/ce85e6bfec0c0694fb179be5c52be4f6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/en_US/615cebc0768a0daa395995367d9f4c69.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/de_DE/6024a09bdf1f14c87a98fe9860a01df8.jpg"
+  },
+  "name": "Geyser",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Fai tornare un personaggio o un permanente bersaglio in mano al suo proprietario, poi mettimi nella tua area del mana (come una sfera di mana consumata)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-029-C-IT"
+}

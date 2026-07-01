@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_24_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79AP3SFG0SGAXKV54M5E",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8887CNEK6AHVWVE506WV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8887CNEK6AHVWVE506WV",
+          "text": "Durch ihr kollektives Bewusstsein verwandeln die Ordis die Gedanken der Menge in einen vereinten Willen."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME889FBJ2A9V4SYMAB6ZYY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME889FBJ2A9V4SYMAB6ZYY",
+          "text": "The sun's rays filter through the bay window, warming the morning air. There are four of them around the table: Kakoba, Legion Commander of the Aegis; the Frog Prince to represent Libra; Cestimir, Chief Curator of the Sanctum; and Nassefa of the Armarius. I stand as straight as a pole in the large empty room, with Tocsin standing behind me like a marble statue. To my right, Sigismar looks somewhat puzzled as he pets his griffon's neck with one hand. To my left, Waru is looking through the window and watching the clouds drift idly by, while his Alter Ego sleeps in one of his sleeves. I had been woken well before dawn by a cadet to learn that I had been invited to the Monolith along with my Chimaera. And on the barge that took me to the Bastion, I had seen the Captain of the Ordis headed from the Rampart to the flying fortress on griffonback.\n\nThe six of us had been together in an antechamber for a few hours. To Sig, this could only mean one thing: Of all the potential Exalts, we were the three duos who had been chosen to start the Rediscovery Endeavor ahead of the Expeditionary Corps. And the longer time went on, through endless deliberations, the more I felt he was right. Now, with the four representatives of the Ordis in front of us, there was no longer any doubt. Watching them pass around the wax bottles and inkwells to scribble on long parchments in turn, it was increasingly clear that our role was being confirmed. The Aegis, Libra, Sanctum and Armarius... The four branches of the Ordis – military, judiciary, cultural and political – together under the same roof, under the delegation of eminent representatives. Despite the muted atmosphere, I had the impression that something epic was unfolding before my very eyes."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME888TJ3HTAK3ZGA9HHYEX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME888TJ3HTAK3ZGA9HHYEX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME886XWTHTN95QWSJ65SNP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME886XWTHTN95QWSJ65SNP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME887K3S167JC6FVEXV6SV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME887K3S167JC6FVEXV6SV",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB79AP3SFG0SGAXKV54M5E",
+      "reference": "ALT_COREKS_B_OR_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7e84586f60269e9c6457",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Unterbrechung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f5d9fcc8178cac9219a4",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/9a6085ccb235ee0393d1",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:57+00:00",
+      "question": "If I create a token in my Expeditions using the Rare Teamwork Training, does it count towards the X limit of Hand Cost?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/de_DE/3bf74e9193dd2f4aa72a525b408c9c30.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_24/ALT_CORE_B_OR_24_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_24/ALT_CORE_B_OR_24_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_24_R1",
+  "reference": "ALT_COREKS_B_OR_24_R1",
+  "id": "01HN5TXRH6DSJ2W3AQ9QEZVCV6",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/de_DE/3bf74e9193dd2f4aa72a525b408c9c30.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/fr_FR/a66aa85dbd6ab0b6d4f27f578e2896b7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/en_US/e14b7eb918edc9b46ea2829903434a2a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/it_IT/2ed9cd91c01f534b8897d27312ea46e3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/es_ES/f3a7afc54b3238ac221862eb91ca809c.jpg"
+  },
+  "name": "Teamwork-Training",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Vergänglich]]. (Lege mich auf die Ablage statt in die Reserve, nachdem mein Effekt abgeklungen ist.)  #Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Expedition deiner Wahl.#  Schicke einen Charakter deiner Wahl mit Handkosten {X} oder weniger in die Reserve, wobei X die Anzahl der Charaktere ist, die du kontrollierst."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-144-R-DE"
+}

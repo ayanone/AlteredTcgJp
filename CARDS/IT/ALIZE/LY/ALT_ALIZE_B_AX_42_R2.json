@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_42_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/37KMYRV36H8RRA8TK9YT1FDKYW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23K70E11AJHC9FCD2D3D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23K70E11AJHC9FCD2D3D",
+          "text": "Nessun fiocco di neve si sente colpevole per la valanga."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23M8WYG47JWRYQ8BXX6H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23M8WYG47JWRYQ8BXX6H",
+          "text": "Guardo oltre la cengia con gli occhi spalancati. Il manto nevoso si è frantumato in milioni di pezzi sulle rocce, innescando una reazione a catena incontrollabile. Anche se il ricondizionatore e i suoi conducenti sono ormai fuori pericolo, non si può dire lo stesso dei soldati Ordis in coda al nostro convoglio. La neve che si abbatte sulle creste ha staccato diversi blocchi di ghiaccio, che ora stanno precipitando a fondovalle. Devo fare qualcosa. Strambo. La mia chimera è partita prima ancora che glielo dicessi. Lo guardo volare giù a tutta velocità, facendo lo slalom tra gli ammassi di rocce cadute, la polvere vorticante e le schegge di ghiaccio, taglienti come selci. Come una nebbia mortale, la valanga seppellisce le reclute dell'Aegis, inghiottendole come un'onda affamata che si abbatte sulla riva. Stringo i denti.\n\nMentre i corpi scompaiono sotto la neve scrosciante, il mio alter ego lancia un segnalatore nel disperato tentativo di localizzarli con maggiore precisione una volta che l'onda si sarà fermata. Dalla mia posizione non riesco più a scorgerli, vedo solo una nuvola che riempie la valle. Ma attraverso i sensori che il mio compagno ha sganciato, vedo una scena completamente diversa. I cumuli di neve si muovono ancora al rallentatore, depositandosi sulle pendici rocciose. Storditi, i soldati si agitano nel tentativo di uscire dalla neve. Abbiamo bisogno di aiuto immediatamente, se vogliamo tirarli fuori di lì. Leggendomi nella mente, Strambo inizia a emettere un segnale di emergenza su tutti i canali ufficiali. Con un po' di fortuna, altre squadre non saranno troppo lontane e potranno rispondere alla nostra richiesta di aiuto. Ma non posso comunque permettermi di stare con le mani in mano. Usando l'alterazione, trasformo le mie protesi in mini-sci. E senza ulteriori indugi, parto."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23KSSMBCJ3P12W52HBFJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23KSSMBCJ3P12W52HBFJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23GWZA8BV0WVSFXBNNVM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23GWZA8BV0WVSFXBNNVM",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23HS92DDW7AD4A319HQG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23HS92DDW7AD4A319HQG",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "37KMYRV36H8RRA8TK9YT1FDKYW",
+      "reference": "ALT_ALIZE_B_AX_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5eda1b87809a1114550a",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e89aebf7de81b8fb1fe1",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/73bdce13b347db91b99d",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:10+00:00",
+      "question": "Do the boosts of a Character count towards the stat limit?",
+      "answer": "Yes."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/it_IT/b980816c9ce0ed3ca6898909482fe7a5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/WEB_02b429af3e45d982c4fe0993d9c6cb6a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/WEB_acec68849c7cfc7f913a921b046fae49"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_42_R2",
+  "reference": "ALT_ALIZE_B_AX_42_R2",
+  "id": "01J1Q4P4RV2A0EQ68788JASAZH",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/de_DE/4e15c0a3d7fb64d86e521018ff8d714f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/it_IT/b980816c9ce0ed3ca6898909482fe7a5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/en_US/ed88e868b7850822dfabad8637d3a90b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/fr_FR/287f34c5e6b466087709bb7c18e5bfad.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/es_ES/e72af8406a99d5f847623eed272bcef7.jpg"
+  },
+  "name": "Valanga",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Fugace]].  Manda nella Riserva un numero qualsiasi di personaggi bersaglio con {M} totale pari o inferiore a 4."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-014-F-IT"
+}

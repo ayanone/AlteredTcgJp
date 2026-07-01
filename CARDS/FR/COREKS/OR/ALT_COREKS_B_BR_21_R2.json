@@ -1,0 +1,184 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_21_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7803KNXY7VE7B8X8A5DT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7YBS403E7NNTQJGZ4TS3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7YBS403E7NNTQJGZ4TS3",
+          "text": "« Une mer tumultueuse et des montagnes ombragées d'arbres nous séparent. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YCHR8YMSAAMCR035CSV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7YCHR8YMSAAMCR035CSV",
+          "text": "Je tourne autour de mon adversaire, sous l'œil attentif de Bedivere. Celui qui me fait face n'est pas le premier venu. Il s'agit d'Achille, vétéran de plusieurs guerres et héros d'épopées légendaires. La cuirasse cuivrée de l'Eidolon luit sous le soleil déclinant, et la pointe de sa lance étincelle dans la clarté crépusculaire. Je suis attentif au moindre de ses gestes, cherchant la plus petite faille. Mais c'est plus facile à dire qu'à faire. Même s'il a laissé de côté son casque et son bouclier, l'allonge de son arme constitue à elle seule un danger. Pour pouvoir le bousculer et le mettre en défaut avec mon jian, il va me falloir réduire la distance et rentrer à l'intérieur de sa garde. Mais comment ? Brusquement, il frappe. Je pare au dernier moment, effectuant une légère rotation de poignet pour tenter moi-même une incartade.\n\nMais alors que j'arme mon coup, son poing me cueille au niveau de la mâchoire et je bascule en arrière, réalisant qu'il a lâché son arme pour mieux me recevoir avec ses poings nus. Je titube, effectue une roulade pour me remettre en garde. Mais Achille a été le plus rapide. Réceptionnant sa lance sur son pied, il la propulse en l'air pour la saisir, puis la fait virevolter en faisant un pas dans ma direction. J'esquive le coup de manche qui m'était destiné, mais pas le coup de pied qui me percute les côtes de plein fouet. Je plante mon arme dans le sol pour ne pas chuter, luttant de toute ma volonté pour ne pas céder à la panique de mon souffle coupé ou de ma vision encore flottante. En entamant le combat, j'avais espoir de pouvoir exploiter son talon, mais je ne me doutais pas que ce dernier allait être aussi difficile à atteindre."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YC7YD1WE4XYS8WR7XM7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7YC7YD1WE4XYS8WR7XM7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YB4J5JTNVZYKGXSCSJ8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7YB4J5JTNVZYKGXSCSJ8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YBFQZ4MY9TR52SWT4Q1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7YBFQZ4MY9TR52SWT4Q1",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB7803KNXY7VE7B8X8A5DT",
+      "reference": "ALT_COREKS_B_BR_21_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e16df6909c082f2973fd",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f3513246e443987a606b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/6b1b68a0fa5e9180d71c",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-16T10:37:35+00:00",
+      "question": "Does Tough protect Achilles from Sabotage?",
+      "answer": "No. Unless stated otherwise, Cards in Reserve have no effect, save their Support Ability (in the colored box)."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/2b289cadc9668aa73ba1",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-28T10:37:35+00:00",
+      "question": "If my opponent uses a Spell or ability talking about \"target Character\" and all my Characters are Tough, what happens? ",
+      "answer": "When your opponent casts a Spell or resolve an ability that can target one of your Tough Characters, they decide if they want to pay the extra mana to make one of your Tough Character a valid target. If they choose not to (because they don't have enough mana, or because they don't want to), the effect resolves as if your Characters were untargettable.  Depending on the effect, it might mean the effect may simply do nothing, or it might mean they must target one of their own Characters."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/aa937cbd632f105ade98",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:35+00:00",
+      "question": "If the Tough Character of my opponent is the only possible target of my Spell of ability, do I have to pay extra mana?",
+      "answer": "No. If you choose to pay extra Mana, the Tough Character becomes a valid target. If you choose not to, and there's no valid target, the effect might do nothing.\n\nDon't forget that Characters you control may be valid targets: if you choose not to pay the extra mana (or if you can't), you may have to target them!"
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_21/JPG/fr_FR/ee633cd706a63499aad2c26f500f77d6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/ALT_CORE_B_BR_21_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/ALT_CORE_B_BR_21_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_21/ALT_CORE_B_BR_21_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_21_R2",
+  "reference": "ALT_COREKS_B_BR_21_R2",
+  "id": "01HN5TXR8VSV1A0NFB68PXSRAT",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_21/JPG/es_ES/2253a113e596a3751f0871540cb4b7e9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_21/JPG/it_IT/089b1b153b8eecded19fde9e11bd44d6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_21/JPG/de_DE/943ba0816af5be4385dd5164e9445db2.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_21/JPG/en_US/325921189479d5314fa5c9dbe692618b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_21/JPG/fr_FR/ee633cd706a63499aad2c26f500f77d6.jpg"
+  },
+  "name": "Achille",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MAIN_EFFECT": "[Coriace 1]. (Vos adversaires doivent payer {1} pour me cibler.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-051-F-FR"
+}

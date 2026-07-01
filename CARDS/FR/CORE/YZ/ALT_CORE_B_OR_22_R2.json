@@ -1,0 +1,183 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_22_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50ATMKA3W3FAKHQRYX0N",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH61ET15ERD749X9HQ857G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH61ET15ERD749X9HQ857G",
+          "text": "« La plume est plus forte que l'épée. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61GM2SRN4E1BYD5GH8QD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH61GM2SRN4E1BYD5GH8QD",
+          "text": "L'Eidolon ouvre le vieux grimoire, marquant une pause pour me dévisager intensément. Il est difficile de lire les émotions qui se reflètent dans ses yeux d'oiseau. Est-il courroucé, ou tout simplement perplexe ? Quoi qu'il en soit, j'ai besoin de son aide pour décrypter ce manuscrit aussi sibyllin qu'antédiluvien. Parmi les livres, ceux qui concernent les Nomades du Tumulte sont probablement les plus précieux et les plus délicats, et ce, dans tous les sens du terme. Mais au lieu de s'étonner du fait que j'aie ce précieux tome en ma possession, Thot se met à en feuilleter les pages, inclinant la tête pour mieux décoder son contenu. Puis il trempe son calame dans son encrier, et se met à transcrire certains passages. Si les augures nous sourient, ces mémoires contiendront une idée forte autour de laquelle nous rallier, autour de laquelle le principe même de l'Effort de Redécouverte pourrait graviter.\n\nBillet après billet, Thot me tend les bribes qu'il a traduites. Je les lis attentivement, réfléchissant à comment telle ou telle information pourrait aider Avkan. Il y a bien entendu des indications intéressantes sur le devenir de la tribu perdue, des anecdotes intrigantes sur les Bergers de chaque caravane... Mais rien qui puisse cristalliser l'ambition de la grande entreprise, ou se mesurer à la portée de ce que nous souhaitons accomplir. Je soupire en me massant les yeux. De l'autre côté de la baie vitrée, la lumière du jour a été supplantée par la flamboyance mordorée du crépuscule. Thot me glisse une nouvelle page. Je la lis une première fois, puis une seconde pour être sûr de comprendre ce qui y est écrit. \"La Cité des Sages, où est gravée la source du Tumulte\"... Mes mains tremblent. La source du Tumulte. Trouver son origine. Il n'y avait pas de raison plus évocatrice que celle-là."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61FSAC3R9VATWZW3CFBD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH61FSAC3R9VATWZW3CFBD",
+          "text": "Inventeur de l'écriture hiéroglyphique et patron des scribes dans la mythologie égyptienne, Thot symbolise la sagesse. Sciences, mathématiques, architecture, il est le réceptacle de tout le savoir du monde. Mais en tant que tel, ce dieu à tête d'ibis — qui peut aussi prendre l'apparence d'un babouin — a aussi la charge de le transmettre et de le diffuser dans le monde. Thot, par son impartialité, a aussi reçu pour rôle de présider au tribunal d'Osiris – qui juge les défunts — aux côtés d'Anubis."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61DC12D88S54NF36PXRR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH61DC12D88S54NF36PXRR",
+          "text": "Waru"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61E3JHHMDJHAY453MENB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH61E3JHHMDJHAY453MENB",
+          "text": "367 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50ATMKA3W3FAKHQRYX0N",
+      "reference": "ALT_CORE_B_OR_22_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/96f946ee118c87aca3c9",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrate"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3e895d4fc9f7ca9014d6",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/452cdcabd7081cb79f85",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/aa9bcd766926bb31958a",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:38:06+00:00",
+      "question": "What happens during tie-breaker if Thoth is in my Expedition, but neither player wins and there's a second tiebreaker Day?",
+      "answer": "In the Arena, Expeditions don't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant. They cannot \"fail to move forward\" either."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/6004ecd4960daa945bd3",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-01T10:38:06+00:00",
+      "question": "What does \"after Rest\" mean?",
+      "answer": "\"After Rest\" means after Characters have returned to Reserve, but before the Clean-Up when players choose which cards to keep in their Reserve and Landmarks zone."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/JPG/fr_FR/042ad17a4a98f8c947cf14faeb488be7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_22_R2",
+  "reference": "ALT_CORE_B_OR_22_R2",
+  "id": "01HKAFJNXZCYQTWRRAEKR7VPVR",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/JPG/de_DE/6f5ffad464113f10a3ea9380ab576264.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/JPG/es_ES/43cbddfc3cfa6f4f456cb1160bce63af.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/JPG/fr_FR/042ad17a4a98f8c947cf14faeb488be7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/JPG/en_US/30b9162655b308ad9e70e74306fb6348.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/JPG/it_IT/13f021de697083af1f2daf32b276d06f.jpg"
+  },
+  "name": "Thot",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "Lorsque mon Expédition n'avance pas pendant le Crépuscule — Créez #deux jetons# Soldat [1/1/1 Recrue Ordis] dans une Expédition ciblée après le Repos."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-136-F-FR"
+}

@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_TCS3_P_OR_54_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3RQGD4ETSE92GVW6NDYK8C92KX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JV4T4QJ8QG631HZJJH4SXX1J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JV4T4QJ8QG631HZJJH4SXX1J",
+          "text": "Les Templiers veillent sans relâche à la sécurité des lieux."
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QJKE1B9MGJKQ0DT59CY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JV4T4QJKE1B9MGJKQ0DT59CY",
+          "text": "393 AC - Le Templier dirige sa monture avec grâce et habilité sur les parois de l'Œil du Corbeau. Le lézard géant profite des anfractuosités et des vignes pour descendre le long du puits, se laisse tomber par moments, avant de sautiller à nouveau de rocher en rocher. Mais cela ne semble pas déranger son équipage outre-mesure. Ni le chevalier ni son écuyère n'ont l'air incommodés par les accélérations ou les à-coups du reptile. Je fais signe à mon enseigne d'éteindre le feu et de transmettre aux troupes de se préparer à lever le camp, lorsque les premières directives de notre cheffe d'expédition me parviennent à travers le Gestalt. Pas un Templier, donc, mais une Templière. Je serre les dents et essaie de ne pas propager mon ire aux autres, même s'ils savent déjà que je n'apprécie guère Kaaba. Toujours en selle, la Templière s'arrête à côté de moi et ôte son heaume, avant de me toiser avec sévérité. Derrière elle, son écuyère n'essaie même pas de masquer sa suffisance.\n\nKaaba met pied à terre, tandis que sa rutilante armure cliquette bruyamment. Impeccable, bien entendu. Et même si je sais que sa valeur n'est plus à prouver, je ne suis pas sûre d'être à l'aise avec ce que cela signifie pour notre incursion. Si un mot devait définir Kaaba, ce serait l'ambition. Et la témérité n'était pas loin derrière. Elle étrécit les yeux, consciente de ma désapprobation, et je me fends d'un salut militaire aussi protocolaire et solennel que possible, tout en me disant qu'elle va nous forcer à descendre loin, au mépris de la prudence et de la sécurité de mes troupes. Et vu nos altercations passées, il était sûr qu'elle allait me cantonner à un rôle subalterne, pour mieux s'accaparer l'autorité. J'ai la réponse à ma question de ce matin. Cette affectation est définitivement un malheur. J'espère juste que nous n'allons pas trop souffrir de sa prétention et de son orgueil..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QJD118RKVT16X5MK6RS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JV4T4QJD118RKVT16X5MK6RS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QHXH7CJSQCCF2J4P06H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JV4T4QHXH7CJSQCCF2J4P06H",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4T4QJ22RW85AWBKSWFG3E0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JV4T4QJ22RW85AWBKSWFG3E0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "3RQGD4ETSE92GVW6NDYK8C92KX",
+      "reference": "ALT_TCS3_P_OR_54_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b772f280a8a94af228b6",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/TCS3",
+    "@type": "CardSet",
+    "id": "01JTJS0F8GG1CAXSJ6AEK8495P",
+    "reference": "TCS3",
+    "name": "Tumult Faction Champion - Set 3"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/45fc2015c2ff875b681a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/fr_FR/ee1609c890f7fd4450e6885fe35e0f94.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_TCS3_P_OR_54_R1",
+  "isOwnerless": false,
+  "reference": "ALT_TCS3_P_OR_54_R1",
+  "id": "01JTJSG7D63B04MS41FP6Q1Q30",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/fr_FR/ee1609c890f7fd4450e6885fe35e0f94.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/en_US/1c435fec1ffbe099ec4756ca9a5dfb5d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/it_IT/c1c912be0cb7f5988eff16e849744da2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/es_ES/d23891784a4d6ef7a7568d18b16e0769.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/de_DE/056a1be601e4c7e7ec18192081e8cffe.jpg"
+  },
+  "name": "Templier de l'Aegis",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "#1#",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "#[Repérage] {2}.#  Lorsque je quitte la zone d'Expédition — Créez #deux# jetons Soldat [1/1/1 Recrue Ordis] dans mon Expédition."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "TCS3-05-R-FR"
+}

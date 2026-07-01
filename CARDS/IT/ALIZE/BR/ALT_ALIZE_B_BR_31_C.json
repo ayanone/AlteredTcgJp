@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_31_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/17K8FSS92S8JJAV3C2BHQSGFPZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24109K50ZTY9CZZB8GYS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24109K50ZTY9CZZB8GYS",
+          "text": "Sconfiggi il ghiaccio con il fuoco."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J241M2104Q7HBQWAH214D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J241M2104Q7HBQWAH214D",
+          "text": "Faccio uno scatto per coprire gli ultimi metri e mi lancio in aria appoggiandomi a una roccia. Ho il sorriso sulle labbra e lo so, perché Boo non è lontano. Riesco a percepirlo, è molto vicino. Dopo diversi giorni di lontananza, sarà bello rotolarsi nella neve insieme. Una piccola scivolata e una capriola per gradire... All'improvviso, mi rendo conto che non ho pensato a come impiegare il mana che Boo mi sta portando. Magari un altro parco acquatico come quello creato dai Lyra? Nah, uno è sufficiente. Una stazione sciistica per continuare a mettere in pratica gli insegnamenti di Skadi? Ah ah, finirei per farmi odiare. Ehi, non sei più un bambino, Kojo. No, devo trovare qualcosa di più utile, qualcosa che aiuti gli altri Bravos che mi stanno seguendo. All'improvviso vedo una scia di fuoco attraversare il valico di montagna, seguita da un pennacchio di vapore.\n\nBooda! Avvicinandosi, assume l'aspetto di un leopardo delle nevi, come gli avevo detto di fare. La sua criniera infuocata brucia all'impazzata, segno che ha fatto il pieno di mana. Posso costruirci qualcosa di monumentale! Ma prima che possa definire meglio ciò che voglio fare, Boo mi salta in braccio e ci scontriamo frontalmente. Inizia a giocare, saltellando e mordicchiandomi gli stivali. Ci rotoliamo nella neve che si scioglie e mi ritrovo bagnato fradicio dopo pochi secondi. Gli arruffo il pelo e lui si volta sulla schiena, con le fiamme che sibilano nella pozza d'acqua formatasi sotto di lui. Mentre mi alzo, chiedendomi dove sia finito il mana che portava con sé, immagino una mia statua gigante con il pollice in su, come la statua di Rune vicino a dove giocavo con i miei amici quando eravamo bambini. Mmm. Penso che gli altri Bravos preferirebbero un altro parco acquatico piuttosto che un monumento al mio ego spropositato..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J241AEWPCVXGVZZPFBJ71",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J241AEWPCVXGVZZPFBJ71",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J240CA0F9EK02TF95EGCJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J240CA0F9EK02TF95EGCJ",
+          "text": "KOJO\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J240QMD1NSSFHBK7WW3YA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J240QMD1NSSFHBK7WW3YA",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "17K8FSS92S8JJAV3C2BHQSGFPZ",
+      "reference": "ALT_ALIZE_B_BR_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Pedina Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a3d0c3065eeda753972b",
+      "reference": "COMPANION",
+      "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
+      "name": "Compagno"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7ef7ccb52224c625c85d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/it_IT/9f355225f02f7e6b4f240134af7bf9af.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/WEB_54678e6daf296024811985730885799f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_31_C",
+  "reference": "ALT_ALIZE_B_BR_31_C",
+  "id": "01J1Q4P4S5GQXPH88FFDNZY9WZ",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/en_US/ea04f58e3f542143d2638513161032af.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/es_ES/ae546d10860123dec9332fab69fec50c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/fr_FR/f3874ba74aef7a8ba68ac9b1b2ac3b45.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/de_DE/517a21e608fa029f5a5a479fe10800ed.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/it_IT/9f355225f02f7e6b4f240134af7bf9af.jpg"
+  },
+  "name": "Booda",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "(Se lascio l'area delle spedizioni, rimuovimi dalla partita.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-104-T-IT"
+}

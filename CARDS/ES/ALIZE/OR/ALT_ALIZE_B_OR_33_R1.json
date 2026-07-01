@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_33_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7AZTSXD2DA880T8E95G6FVMXQJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J286YYW8X5QHK7XT1FSMN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J286YYW8X5QHK7XT1FSMN",
+          "text": "Ladrador y mordedor."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J287ZRWQEXN2D32BZM0XZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J287ZRWQEXN2D32BZM0XZ",
+          "text": "¡Eh, tú, ven aquí! Si crees que puedes escapar de mí, ladronzuelo, lo llevas claro. La criatura palmípeda zigzaguea entre los árboles, saltando y, de vez en cuando, deslizándose sobre el vientre para ganar velocidad en su descenso por las laderas nevadas. En su bolsa lleva todo tipo de baratijas robadas del campamento, incluido el anillo que me devolvió Hasret. Esa joya encierra demasiados recuerdos agridulces: desde el día en que se la di e intentó ocultar sus emociones tras un muro de sarcasmo e indiferencia, hasta la noche en que me la devolvió sabiendo que nuestros días juntos antes de mi partida llegaban a su fin. De ninguna manera voy a permitir que un condenado pájaro me la robe. Utilizando la Heka, estampo un glifo en el tronco de un abedul viejo para hacer aparecer una jauría de sabuesos que ladran y aúllan con entusiasmo.\n\n¡Que comience la caza! Los perros empiezan inmediatamente a olfatear las huellas y salen rápidamente en busca del animal. Aunque yo le haya perdido el rastro a ese pájaro ladrón, no escapará de mis sabuesos. Fen hizo bien en pedirme ayuda. Me asignó la misión de encontrar su nido lleno de botín ilícito, y ahora mis sabuesos están alcanzando al saqueador. Presa del pánico, se le caen algunos objetos que van a parar sobre la nieve. Pero por mucho que corra, acabará acorralado. De repente oigo chillidos y gruñidos. Dejo de correr y veo a los tres cerditos correteando hacia mí. Parece como si les estuviera persiguiendo un peligro indescriptible. Maldigo para mis adentros, pues sé perfectamente que no puedo marcharme sin ayudarles. Silbo a mis perros para que se dirijan al campamento. Luego grito a los eidolones —invocados por a saber quién— que sigan a mis cachorros de inmediato."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J287C3YZ75RDJXP1KFDEH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J287C3YZ75RDJXP1KFDEH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J285XNE7JV0BSS2JX2E45",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J285XNE7JV0BSS2JX2E45",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J286BFR72R38KP0K6RWY3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J286BFR72R38KP0K6RWY3",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7AZTSXD2DA880T8E95G6FVMXQJ",
+      "reference": "ALT_ALIZE_B_OR_33_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/29f1c44e7824f1fc57d7",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c162cf97aefe35bda5ed",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/es_ES/5035a3191a8873ac566d093accea96c6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/WEB_6a25159b76166c05336d62ad4ec67d52",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/WEB_97ca6e54d7799911c27da02da3155f40",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/WEB_191193460a7c1e2dff0483e89baeeea0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_33_R1",
+  "reference": "ALT_ALIZE_B_OR_33_R1",
+  "id": "01J1Q4P4SJNQDBVQBECG6BEXAT",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/es_ES/5035a3191a8873ac566d093accea96c6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/de_DE/882220c0f9d0c523309c12712a8f5ba7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/it_IT/c990c8f131b13b9991791ae4264c72eb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/en_US/1f4c42bf42d83820482b363624d52a7b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_33/JPG/fr_FR/6468399d19feb2978320dc7fabc38f99.jpg"
+  },
+  "name": "Sabueso",
+  "elements": {
+    "MAIN_COST": "#1#",
+    "RECALL_COST": "#1#",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "#1#",
+    "MOUNTAIN_POWER": "#1#",
+    "MAIN_EFFECT": "{J} Si mi expedición va por detrás, gano 1 potenciador."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-071-R-ES"
+}

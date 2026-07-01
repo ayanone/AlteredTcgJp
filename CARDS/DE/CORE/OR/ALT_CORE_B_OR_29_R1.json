@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_29_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50BKT84439MZ3B45QWVP",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH62DDHKCM4FNM80DG01CB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH62DDHKCM4FNM80DG01CB",
+          "text": "Die Ordis bauten eine Reihe von Leuchttürmen, um den Weg durch den Tumult zu weisen."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62EPRH9QMF0JGVJG9QMX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH62EPRH9QMF0JGVJG9QMX",
+          "text": "In the shadow of the towers being built, the Telamon architects unload and assemble the marble and granite blocks while I protect them, watching for anything that could hinder their progress. Through Alteration, the cranes and scaffolding were quickly erected. The work can now progress at full speed – at the cost of all the Mana I'm investing in the venture. Each worker is an Eidolon I'm sustaining. Each block of stone is an element I'm summoning from my imagination. I feel sweat beading on my forehead, but I can't risk wiping it away and losing my concentration. With a bit of luck and a lot of effort, the Espars will help me make up for the time I spent getting them up and running. But the work is far from over.\n\nOnce they are lit, all the beacons will link up all the way to the Monolith. They'll allow me to link my mind to all the Ordis still in Asgartha. Even if only a few Alterers answer my call, our combined power will allow Tocsin and me to open up a great thoroughfare before us... With their support, we can alter the world and create a road that will be easy to travel on. We won't be two, but many. For now, I don't feel anything in my shoulder blades, no tingling, no pins and needles. It's like I'm missing something, like a painful absence, which only my Alter Ego's presence can soothe a little bit. But when my Rhombus connects to the Gestalt, I'll finally feel the familiar buzzing of my comrades' minds. I exhale slowly to clear my mind. All these thoughts are merely distractions. If I keep up this pace, by nightfall the Espars will be up and running, and ready to drive off the loneliness."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62E051JBYCGXZ9GEBQ3Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH62E051JBYCGXZ9GEBQ3Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62CAN3D23WFBAWXV6BHD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH62CAN3D23WFBAWXV6BHD",
+          "text": "Gulrang"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62CWY7YFJNSRFC46DPNZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH62CWY7YFJNSRFC46DPNZ",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY50BKT84439MZ3B45QWVP",
+      "reference": "ALT_CORE_B_OR_29_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Bleibende Karte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ea5e2ef4a10054b6574f",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Wahrzeichen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/10a5b2757401408d890e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/3fa60b620a477da5f419",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:37:39+00:00",
+      "question": "What is the effect of Grand Endeavor in the Arena?",
+      "answer": "In the Arena, Expeditions can't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/JPG/de_DE/48adb16f0f35e41fb9f180e496fef007.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/ALT_CORE_B_OR_29_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/ALT_CORE_B_OR_29_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_29_R1",
+  "reference": "ALT_CORE_B_OR_29_R1",
+  "id": "01HKAFJNYSF7G99A97PF8QC7W6",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/JPG/en_US/5a2d74b79c6a8e5b28ec7dcade1dc183.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/JPG/it_IT/ac98a652ff569221f441e2e42ccd901e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/JPG/es_ES/327990039ac88361b8fd8990addb9621.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/JPG/fr_FR/e6cb17e1857d13eab703734ebc182ed1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/JPG/de_DE/48adb16f0f35e41fb9f180e496fef007.jpg"
+  },
+  "name": "Große Fährde",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "#[Robust 2].# (Gegner müssen {2} zahlen, um mich anzuvisieren.)  Zum Mittag — Eine Expedition deiner Wahl bewegt sich eine Region vorwärts."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-150-R-DE"
+}

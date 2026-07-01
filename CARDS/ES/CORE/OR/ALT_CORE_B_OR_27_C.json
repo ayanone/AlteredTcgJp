@@ -1,0 +1,164 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_27_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50BBF5F06WY46FNQ64JD",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH624SKJNMHMME8DFGHANP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH624SKJNMHMME8DFGHANP",
+          "text": "«¡Hoy, y en los siglos venideros, celebraremos la victoria contra el Kraken y disfrutaremos de la libertad que hemos reconquistado!»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH626A584NGCWQ7T174GYX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH626A584NGCWQ7T174GYX",
+          "text": "Kojo, the hero of Asgartha... I shake my head as I watch him kneel before the Basileus with the red halo of the Carnelian Crown waiting to be placed on his head. Though I'm pretending to look dumbfounded, I'm mostly feeling pride. My little brother... I smile with amazement at the thought that people will still be talking about him centuries from now as the one who defeated the Kraken. In just one year, he earned the right to become an Eidolon, an ambition that many Bravos hope to achieve but never do. But underneath the astonishment, behind my emotion, I can feel something else lurking. Anxiety. No, something more: fear... Fear that my brother will throw away all caution. Fear of seeing him try to play the hero. It's like a premonition that gives me chills just thinking about it.\n\nNo, these are my own fears. I try to regain my composure. After a short speech that I only half hear, Avkan ruun-Heshkari places the laurel wreath on Kojo's head and motions for him to stand. The old ruler invites the crowd to celebrate my brother's victory over the Leviathan – a victory shared by all the Asgarthan forces – and they are more than ready. Confetti rains down as cheers and applause thunder all around. Embarrassed and clearly overawed, Kojo waves to the crowd. From what I understand, the day of victory will become a public holiday for the entire Protectorate, a day that will go down in history and be commemorated forever. This is no time to worry about the future; it's a chance to celebrate the present. I join in with the applause. He deserved it. There's always tomorrow to lecture him on his recklessness."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH625J78NQCRXWW3X029WP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH625J78NQCRXWW3X029WP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH623GXFV0MNP295A843HH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH623GXFV0MNP295A843HH",
+          "text": "Gulrang"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6244SQS5S83ZZJ9GCXDS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH6244SQS5S83ZZJ9GCXDS",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50BBF5F06WY46FNQ64JD",
+      "reference": "ALT_CORE_B_OR_27_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/74da262d54b2646d020e",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maniobra"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4efdbee5f4d9eff1317a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/22633e6458f82b393e05",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-07-10T10:37:37+00:00",
+      "question": "Does \"Celebration Day\" prevent an Expedition from moving through special effects such as \"Small Step Giant Leap\"?",
+      "answer": "In general, if an effect tells you to do something and another tells you that you cannot, the negative effect wins. \"Small Step, Giant Leap\" has no effect on an Expedition that has been blocked by Celebration Day."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_27/JPG/es_ES/ae02e662bfc844913b56d19be474bfc2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_27/ALT_CORE_B_OR_27_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_27/ALT_CORE_B_OR_27_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_27_C",
+  "reference": "ALT_CORE_B_OR_27_C",
+  "id": "01HKAFJNYG5MDPD5B7KPKGAP28",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_27/JPG/it_IT/43feba1bb66eb5b4b58426d4eaec13ff.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_27/JPG/en_US/ab69e99bff1201da1dde2ed080bedc24.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_27/JPG/es_ES/ae02e662bfc844913b56d19be474bfc2.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_27/JPG/fr_FR/9aaf7217422fb902180290e5b4582df5.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_27/JPG/de_DE/766cfd60b9a89e005fe72277ab06135f.jpg"
+  },
+  "name": "Día de celebración",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "MAIN_EFFECT": "[[Fugacidad]]. (Una vez resuelto mi efecto, envíame a la pila de descartes en lugar de a la reserva.)  Una expedición objetivo no puede avanzar este día."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-146-C-ES"
+}

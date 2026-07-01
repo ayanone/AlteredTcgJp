@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_07_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB782093MT5DTYKK2GPE7B",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7ZHWKVFMJD9XBM12DSG7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7ZHWKVFMJD9XBM12DSG7",
+          "text": "La danse est le langage de l'âme."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZJXH08NXYHXAJYCSGMC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7ZJXH08NXYHXAJYCSGMC",
+          "text": "Je lève mon verre et m'assieds sur les genoux du bel éphèbe, rabattant ma robe pour dévoiler la peau nue de ma cuisse. Je vois son visage s'empourprer tandis que je m'allonge contre son torse, susurrant mes paroles dans le micro. Autour de moi, les autres spectateurs clapent et sifflent gaiement, s'amusant de me voir me trémousser dans ma tenue affriolante sous mon nom de scène : Auraq. Je me relève et pose un pied entre ses cuisses pour monter sur la table. Du bout du pied, j'écarte un verre, fais cliqueter les assiettes et les couverts en avançant parmi les convives qui me zieutent avec bonhomie, fascination ou même hilarité. Mais ce n'est là que le début de mon show, un petit amuse-bouche. La mélodie des luths et des tambourins s'accélère, montant crescendo. Au terme de mon spectacle, il y aura de l'ivresse et de la liesse !\n\nJe tends la main, et Hathor la saisit, se matérialisant à côté de moi par la même occasion. Avec une petite impulsion, je la fais tournoyer pieds nus sur la table. Après avoir gracieusement virevolté dans un tourbillon de frous-frous et de jupons, elle interrompt son mouvement en me faisant face, puis se fend d'une petite révérence. Je prends moi-même la pose, attendant de voir quelle danse elle va choisir. Valse ? Charleston ? Tango ? Rumba, peut-être ? Aaaah, flamenco, bien entendu. Les musiciens troquent leurs timbales contre des cajóns, leurs luths contre des guitares. Je tape dans mes mains pour donner le compás, le rythme sur lequel Hathor va danser. Puis tandis qu'elle s'élance, je frappe du pied, invitant tout le monde à rejoindre la cadence de la bulería. ¡Venga! ¡Eso es! ¡Así se baila! Hathor se laisse entraîner par la fièvre de la musique. ¡Arsa! ¡Toma que toma! Ses pieds tambourinent sur le sol, devenant des sabots. Bien ! Que vienne le duende !"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZJ93ZGW37HHXFKERK1J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7ZJ93ZGW37HHXFKERK1J",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZGX085EKENS7GZ4MW1A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7ZGX085EKENS7GZ4MW1A",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZHE3T11D7CRN1B41RG9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7ZHE3T11D7CRN1B41RG9",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB782093MT5DTYKK2GPE7B",
+      "reference": "ALT_COREKS_B_LY_07_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b39507b241a6bf6d00e3",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artiste"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bf7f75800eeab549c65d",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9dfc3af232a85f7c793e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_07/JPG/fr_FR/024deb63dd14b7dde1313a6a082942ac.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_07/ALT_CORE_B_LY_07_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_07/ALT_CORE_B_LY_07_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_07/ALT_CORE_B_LY_07_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_07_R1",
+  "reference": "ALT_COREKS_B_LY_07_R1",
+  "id": "01HN5TXRAHTY0V7AM65V47ECQ6",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_07/JPG/fr_FR/024deb63dd14b7dde1313a6a082942ac.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_07/JPG/it_IT/36a7c640043197659917246af9131b58.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_07/JPG/es_ES/c96d521ad058c008209982ecdecb0851.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_07/JPG/de_DE/a1c072e07c84b0e2157b137aa617a673.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_07/JPG/en_US/c8bcc8f152f8a98d33107feabc4d6594.jpg"
+  },
+  "name": "Hathor",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "ECHO_EFFECT": "{D} : Renvoyez une autre carte de votre Réserve dans votre main."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-069-R-FR"
+}

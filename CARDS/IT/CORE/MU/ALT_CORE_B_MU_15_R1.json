@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_15_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY506VD0VS8T059TSF8BG0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5XDT3TFEB13HMNC4J40Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5XDT3TFEB13HMNC4J40Q",
+          "text": "A volte si vedono sonnecchiare vicino a un laghetto, immerse nell'acqua al tepore del sole..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XEND5Y6TNRSWQ02BBPX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5XEND5Y6TNRSWQ02BBPX",
+          "text": "The dracaena lands on my forearm, its speckled wings quivering excitedly. Typically these creatures are rather placid, practically lethargic. But this one came right up to me, in an unusually frenetic way. It chirps emphatically, wraps its tail around my hand insistently. Nauraa, intrigued, brings his massive snout toward the draconic plant. \"Tasty\", I hear him say in my head. I glare at him, although I know he's only joking. The dracaena is trying to get my attention, to lead me somewhere. I nod to it, and it quickly takes flight, buzzing away. I get on my Alter Ego and ask him to follow it. Nauraa giggles and begins chasing after it, his paws lightly treading the loose, marshy ground of the bogs.\n\nThe dracaena darts through the undergrowth of birch trees, their frail black-and-white silhouettes whipping past us on all sides. A mist of golden-brown pollen drifts above the tall grass. The Kiragata Wetlands have always been known for their tranquility, and despite my guide's anxiousness, I can't help but marvel at these serene, idyllic landscapes. Nauraa's voice echoes in my mind. He smells something human. My delight suddenly gives way to horror. In front of me, the marsh is overturned, trampled, and ravaged. The trees have been unsparingly felled. The dracaena flits left and right, squeaking loudly. Yes, it was right to bring me here. I stare at the tools the humans have stored at the foot of a tree. The community established nearby saw fit to take possession of this land without getting permission from its other inhabitants... I'll need to call them to order and relieve tensions."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XE8KCPYJNPHYFTMDH77",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5XE8KCPYJNPHYFTMDH77",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XCZN628ZJKN41FV2H0F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5XCZN628ZJKN41FV2H0F",
+          "text": "Teija"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XDDRQ8KAJQB82FNCQVC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5XDDRQ8KAJQB82FNCQVC",
+          "text": "384 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY506VD0VS8T059TSF8BG0",
+      "reference": "ALT_CORE_B_MU_15_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4ac2172de486c44376f0",
+      "reference": "DRAGON",
+      "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+      "name": "Drago"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/69bd19d9b7a998937bbd",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Pianta"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6fcacad086cc2fafb15d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/JPG/it_IT/99ccd71f87a5da2db480aa9806e79fd7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_15_R1",
+  "reference": "ALT_CORE_B_MU_15_R1",
+  "id": "01HKAFJP7FJ8HMHWBJCKH3WYAA",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/JPG/es_ES/7f4a646e208dcb83c2d88002f4ebb6c2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/JPG/it_IT/99ccd71f87a5da2db480aa9806e79fd7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/JPG/en_US/381206536b170a5b88cf0d7e271b7f0f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/JPG/fr_FR/0261f59d4fc94c22ba2d1159c687027b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/JPG/de_DE/6b4540285e377c02afdb1ec7ec91d56c.jpg"
+  },
+  "name": "Dracaena",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "#1#",
+    "MOUNTAIN_POWER": "#1#",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "{J} Ottengo [[Ancorato]]. (Durante il riposo, non vado nella Riserva e perdo Ancorato.)  A mezzogiorno — Ottengo #2 rinforzi#."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-105-R-IT"
+}

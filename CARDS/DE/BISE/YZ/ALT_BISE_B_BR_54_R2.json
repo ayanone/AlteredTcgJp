@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_54_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/22DYXZHMAC9BDBGSKWH590P5NF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4WR6TFG6W6SB5WV4GHM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4WR6TFG6W6SB5WV4GHM",
+          "text": "Die Bravos waren in vielerlei Hinsicht Pioniere und experimentierten als Erste mit Harz in ihren Gerichten."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4X5MR5RNZGQS7ZT019M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4X5MR5RNZGQS7ZT019M",
+          "text": "393 AC - I can't believe how lucky I am! Getting a front-row seat to watch the pastry chef of Hestia's brigade at work… Now that's an amazing show! This man is a genius, a virtuoso at handling a sifter, whisk and piping tip. I watch him make a lemon meringue. Ah, his execution is close to perfection! I carefully follow each of his movements to appreciate the expert's touch. There, in front of me, I watch him create a layer cake worthy of a historical monument: He prepares the sponge, then the raspberry coulis… I can't even blink. My eyes are wide open, relishing the sight of a master at work. I try not to leave my mouth agape, especially since it's watering so much with all these sweet treats. I'm desperate to try them all! OK, calm down, Rin. It could be embarrassing if a line of drool starts dripping from your mouth.\n\nAs for the chef, he doesn't care that I'm scrutinizing every little thing he does. He's completely focused on his cake. Now he's adding Sap to the raspberry mousse. Wow, it's turned a sparkling golden color. It's even more beautiful. Mmmm, looks delicious. I silently memorize the proportions and prep times so I can try to reproduce it all later. Dad would always say how he didn't understand my fascination with food-related professions. He also said that I would get totally overstimulated when tasting something… Hard to say he was wrong, really. Ooh! Look, Kiddo! We're coming to the grand finale. I hold my breath as he places the different layers, uses his spatula to smooth out the fillings, and creates delicate creamy patterns. It's done! It's done! Then, to my complete dismay, I watch the cake get taken to a nearby table to a round of applause from the guests, and then placed in front of a tall lady with red hair. Lucky thing. But then I see Basira at her side. Maybe with a little persuasion…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4WZCNDXDN3DB3XB6R5T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4WZCNDXDN3DB3XB6R5T",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4VQZSAXQ08RN5FPFV6A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4VQZSAXQ08RN5FPFV6A",
+          "text": "RIN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4WHRMNVMN0K4CARRRBR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4WHRMNVMN0K4CARRRBR",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "22DYXZHMAC9BDBGSKWH590P5NF",
+      "reference": "ALT_BISE_B_BR_54_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/808ae7794be09cc29cd5",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Bürger"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/163a95abb3a14b1e2f49",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/de_DE/445211ced516d85903467983bb46908e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/WEB_d753f8c504307de640eb0fd78951a2c5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/WEB_714dedfddfdef96c6bf04c49013287f6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/WEB_707297443326404be19a66180950275c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_54_R2",
+  "reference": "ALT_BISE_B_BR_54_R2",
+  "id": "01JB1YGPBAW9W7FA6Y7SGZMSDV",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/it_IT/a7f80981abf13e932896d18432414517.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/es_ES/4b385f43b3a38bc4b29fb09cbeb7f784.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/en_US/1aea415bb3d58a66f3bad013cf8ff324.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/de_DE/445211ced516d85903467983bb46908e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/fr_FR/e12e5119c86188bc4f00ad39869d92a3.jpg"
+  },
+  "name": "Konditor",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "#[Erfahren].# (Ich behalte meine Verstärkungen, wenn ich in die Reserve gehe.)  {R} Falls ich mindestens 2 Verstärkungen habe, ziehe eine Karte.",
+    "ECHO_EFFECT": "{I} Wenn du einen #Zauber# spielst — Ich erhalte 1 Verstärkung, bis #maximal 2.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-025-F-DE"
+}

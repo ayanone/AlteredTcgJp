@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_49_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/59T4FJYHKE8X890HZBH72WXD83",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A8SQ2W64K26AJQTVA3QE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A8SQ2W64K26AJQTVA3QE",
+          "text": "Ambasciator non porta pena."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8TEWQA0QC7ZP1QHAEEH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A8TEWQA0QC7ZP1QHAEEH",
+          "text": "393 AC - Well, this could be what the complete opposite of a serenade sounds like. Its chattering fills the square, like a parody of the human voice, while the jays acting as its assistants laboriously unfurl the roll call. I don't know who decided to get a cockatoo to read out the names, but if it was meant to be a joke, it's a pretty bad one… We're not expecting it to sing a Verdi opera, but still, this is more like scratching your nails down a chalkboard. I rub my eyes. I'm this close to filing a complaint. But I know exactly what they'll say. Dura lex, sed lex. The law is harsh, but it is the law. That's just the way it is. I glare at the animal, whose crest rises and falls to the cadence of its tirades. Fedyr, Mervyn, Azad… It flaps its wings and fires off salvos of names, while the dispatcher hands out the assignments. Jeez, it's like I'm in a classroom again with the teacher taking attendance.\n\nThe decision had been made to not go through the Gestalt so the other Factions could be verbally advised of potential needs, but if I could get my hands on the document, I'd send it directly to any Ordis who was connected to streamline the process… Out of the corner of my eye, I can see Sun is staring at me intently. I'm not exactly known for my patience, but she's got even less than me. I can feel her seething, and knowing her, she won't just be tapping her feet. If I connected to her mind, I'm sure I'd see something sadistic. Something like all the ways you can pluck and eat an annoying bird. Roasted in the oven, fried in a skillet, skewered on the grill, boiled in broth… I smile at the thought, and she notices. I feel her mind brushing against my own, and I'm daft enough to open a channel. \"Yes, what is it?\", \"OK, I'm allowed to rant, right?\" She then proceeds to squawk even more than that damned bag of feathers…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8T3SWMYTSKB77DVY23J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A8T3SWMYTSKB77DVY23J",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8QYWNGPRBY55MW9Y7H1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A8QYWNGPRBY55MW9Y7H1",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A8R9P4GTGJWY4CC139ME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A8R9P4GTGJWY4CC139ME",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "59T4FJYHKE8X890HZBH72WXD83",
+      "reference": "ALT_BISE_B_OR_49_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/604f6b53853aee191b82",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/849ae356a98aac853291",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/it_IT/f89cc28a9aa51eda2f1f61af264ce977.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/WEB_26650e1f9c937be6c05b9735210250bd",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/WEB_25d3a1c1677eaa1ecf2f600540c6fb6e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/WEB_0ecc721cdb2bcf51e39e71a0e5b1eda5"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_49_R1",
+  "reference": "ALT_BISE_B_OR_49_R1",
+  "id": "01JB1YGPBTT5JGRK84ET2EKYSZ",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/it_IT/f89cc28a9aa51eda2f1f61af264ce977.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/es_ES/bde74eae3fc7282461ec74264b64b8a6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/de_DE/e6666042b9665dccbcf22db53cfce8cc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/en_US/14d46453f75e0ea668b39260488db0b2.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_49/JPG/fr_FR/c46f1bcbb30cd291828b23ddee1e58ff.jpg"
+  },
+  "name": "Araldo Ordis",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "#1#",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#{R} Puoi spendere 1 dei miei rinforzi per ripristinare due sfere di mana.#",
+    "ECHO_EFFECT": "{I} Quando un altro personaggio si unisce alle tue spedizioni — Ottengo 1 rinforzo, fino a un max di 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-071-R-IT"
+}

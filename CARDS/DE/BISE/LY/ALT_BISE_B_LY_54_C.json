@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_54_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0PT5VR9V8A82CV05J6JKZ1380T",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A5XE4DYY4CVR3QA6SWN5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A5XE4DYY4CVR3QA6SWN5",
+          "text": "„Applaus für die, die all die Wahnsinns-Relikte aus der Stadt der Gelehrten ausgraben!“ – Tamati"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5Y10X6JYE0NR6EETVST",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A5Y10X6JYE0NR6EETVST",
+          "text": "393 AC – Whew. I call for a five-minute break and turn toward the stage. Tap, tap tap. Orbec is saying something with a tight-lipped expression while putting on a new pair of glasses, and Tamati laughs. He twirls his drumsticks and — bam bam, bam — bangs on his toms again. Tchak, tchak, tchak. A few taps on the hi-hat. Boom, boom. A few kicks on the bass drum, shaking the air with a heavy vibrato. As I take a sip from my water bottle, he runs a hand through his thick white hair, tugs at his sleeves, and pulls off his T-shirt, already soaked with sweat. This has definitely been one intense rehearsal… He starts juggling his drumsticks, infusing them with a hint of Alteration to make them glow… Even on a break, he can't stop fiddling with his gear. It's like an automatic reflex — and after all, the instrument has always been an extension of himself.\n\nI remember when he showed up for the audition. Back then, she was still going by the name Tammy, and put on a tough attitude to compensate for aspects of herself she couldn't otherwise express. Aspects of him-self, in fact. With the operation and the Rati's attentive care, she became he, and it was as though an underlying tension had been soothed or a dark veil had been lifted. Tammy played like she had something to prove, but Tamati as we know him now felt free to just exist, and his music grew more authentic and confident as a result. Of course, that didn't stop him from showing incredible ferocity on the drums, but now he could incorporate a lot more subtlety and nuance, instead of focusing exclusively on the underlying theme through which he was trying to define himself. For a long time, he couldn't decide if he wanted to be called Tamati or Tameem, but in the end, both names suited him equally well."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5XPFAJVG048ANJ7QY7E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A5XPFAJVG048ANJ7QY7E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5WXSXBT9HFQXNFP4ATE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A5WXSXBT9HFQXNFP4ATE",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A5X6N2YYM2WT9F3CB1RC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A5X6N2YYM2WT9F3CB1RC",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "0PT5VR9V8A82CV05J6JKZ1380T",
+      "reference": "ALT_BISE_B_LY_54_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8de432b7e74636d90981",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Künstler"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/684d010a5b47da2e04c0",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_54/JPG/de_DE/0dba24ca1319b4839394395981d49b03.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_54/WEB_3d07675c7164d9c3a5e1d48c4cb836e2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_54/WEB_32c8370c0e60c327c85795b379b3694b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_54/WEB_be4d12bcdb06179ade7a565b137169ca"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_54_C",
+  "reference": "ALT_BISE_B_LY_54_C",
+  "id": "01JB1YGPBG3B1S37T9RRG0K527",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_54/JPG/de_DE/0dba24ca1319b4839394395981d49b03.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_54/JPG/it_IT/8649a2574dbbdf503be19be4d1b29375.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_54/JPG/es_ES/91bd519984e9868533d22d8dfa9940d9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_54/JPG/en_US/d78a53047566deb4fa801958ef9dc0b7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_54/JPG/fr_FR/ff0c9e6d46202e0a6ac859db1d5e161f.jpg"
+  },
+  "name": "BLISS-Schlagzeuger",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "Falls ich [[Verstärkt]] bin, kosten andere Charaktere {1} weniger, wenn du sie aus deiner Reserve spielst, mindestens aber {1}. (Andere Effekte reduzieren dies zusätzlich.)",
+    "ECHO_EFFECT": "{I} Wenn du einen anderen Charakter mit einer Basisstatistik von 0 spielst — Ich erhalte 1 Verstärkung, bis maximal 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-043-C-DE"
+}

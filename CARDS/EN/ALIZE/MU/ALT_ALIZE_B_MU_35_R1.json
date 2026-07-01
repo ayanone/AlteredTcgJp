@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_35_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5RGAWJ2JAH85NSM7B3FX2ERXK9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26NXSZ9VVMV3AQEE4K6S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26NXSZ9VVMV3AQEE4K6S",
+          "text": "Parasitic or symbiotic, life will always find a way to blossom... like this algae."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26PNVS89SCYJENWQCB8T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J26PNVS89SCYJENWQCB8T",
+          "text": "I stare at the ground in shame after being scolded by the young naturalist. Saskia continues to glare at me severely, to be sure I've understood the lecture. Yes, I understand. Yes, I should have shown better judgment. Summoning Persephone like that, with no respect for the ecosystem, was heartless and foolish. Saskia even called it a \"rookie mistake\". And I knew she was right. I bite my lip as I think about what I've done. Causing the snow to melt, without a moment's thought for the species that had settled in here… I don't know what I was thinking. Was it because of my homesickness and how much I missed my dad? I curse my stupidity again. I must stop thinking about things as though I were still a kid. And before I can stop it, my eyes fill with tears.\n\nSaskia sighs and comes over to gently wrap her arms around my shoulders. And much to my surprise, I let her do it. I'm even happy for the contact. She had told me about the hakupopo and the other species of what she called the Winter Folk. Storhvit had finally recovered some semblance of balance, and it wasn't my role to change that balance and put it at risk. I could see it now: I had caused this disharmony because I wasn't in tune with my inner self. She caresses my hair, and I wonder if this is what it feels like to have a mother who takes care of her daughter. All I had ever known were the callused hands of my father. A sudden sob overtakes me when I think of him and how terribly I miss him. But a negative thought pulls me out of my melancholy daydreams. It's a feeling of animosity, or even malicious intent, coming from Orchid and directed at Saskia. I stand up, pulling free of her embrace, wondering if my Chimaera might be getting a little too jealous…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26PA86T2XT5X35ZDA3ZR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J26PA86T2XT5X35ZDA3ZR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26MT1J0NFEV8T23TF0SX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26MT1J0NFEV8T23TF0SX",
+          "text": "RIN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26N706F95MY3P4NVBA7F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J26N706F95MY3P4NVBA7F",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "5RGAWJ2JAH85NSM7B3FX2ERXK9",
+      "reference": "ALT_ALIZE_B_MU_35_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/455ecdfedffc07ac57b3",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Engineer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8924b32f218a85e1738f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/en_US/bf5be0e3ff5c86376e35e5f3b110dcd7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_b040b9f608f1d4358f66a24a376dfc55",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_6a4a97dbf99ca2a609d6ba481ee4aaec",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_2efaaa3bc0f433b466505c5a89368524"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_35_R1",
+  "reference": "ALT_ALIZE_B_MU_35_R1",
+  "id": "01J1Q4P4SEE4HDV4CVAPEW8SVV",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/fr_FR/970eef812ba3a3903efa97824ecc8cfc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/en_US/bf5be0e3ff5c86376e35e5f3b110dcd7.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/de_DE/e6a8aa0e5cd048da8c96383e5db34e36.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/es_ES/44c1b3860ced7fbf14061d68c2442b30.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/it_IT/52c7351fd50f1de16a481543d9ae3447.jpg"
+  },
+  "name": "Saskia, Sly Naturalist",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "#1#",
+    "FOREST_POWER": "#1#",
+    "MOUNTAIN_POWER": "#1#",
+    "MAIN_EFFECT": "{J} #Any number# of other target Characters in {V} each gain 2 boosts."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-058-R-EN"
+}

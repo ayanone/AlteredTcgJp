@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6KGVTE7EVB82SA753AM8G337EV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J269BFRXKVZND2PE8JKC9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J269BFRXKVZND2PE8JKC9",
+          "text": "Si sabes dónde buscar, el bosque siempre te devuelve lo que le ofreces."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26A18ENRR19VDFQQ61FK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J26A18ENRR19VDFQQ61FK",
+          "text": "392 AC - Los rayos del sol se filtran entre las ramas. Caen de las copas para formar esponjosos mosaicos. Pintan una vidriera en el suelo. Brumosos tonos de verde y amarillo ondulan al ritmo del viento. Alargo el paso y silbo mientras nos abrimos paso por el espeso bosque. Delante de mí, Orqui corta, rebana, recorta y pica sin parar. Usa sus preciosas patas delanteras como hoces para podar los arbustos espinosos y abrir camino entre la espinosa maleza. Yo voy detrás y rompo las ramas cortadas. Libero su maná para poder devolverlo a las plantas que hemos herido. Detrás de mí, empiezan a crecer, a brotar y a florecer de nuevo. Para cuando hemos cruzado, es como si nunca hubiéramos abierto brecha entre las zarzas y la maleza. Es como si nunca hubiéramos estado allí. Regenerado, el bosque sigue susurrando con sus sonidos de siempre.\n\nCuando salimos a un claro, miro a mi alrededor y contemplo el paisaje. Por encima de la espinosa maleza, grandes frutas, jugosas y de aspecto extraño, cuelgan en pesados racimos amarillentos. Intrigada, me acerco a uno de ellos. Extiendo las manos y Orquídea corta uno de los tallos, haciendo caer un racimo. Lo examino con Alteración y estudio las ideas que lo componen. Ni rastro de «Veneno»... Ya tranquila, saco el cuchillo y hago una incisión en una de las frutas. Esta suelta un jugo esmeralda con pequeñas semillas. Olisqueo y, después, lamo el jugo que corre por mi muñeca. Mi boca se llena de un sabor agrio y herbáceo. Mmm. Muerdo la fruta, preguntándome si pegaría con pescado o marisco. Tenemos que ponerle nombre. ¿Se te ocurre alguno, Orqui?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J269P22XF735B5FD27EJM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J269P22XF735B5FD27EJM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26863FXMP01QXW80PX1W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26863FXMP01QXW80PX1W",
+          "text": "RIN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J268J2GBYA4XESVZSZM2S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J268J2GBYA4XESVZSZM2S",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "6KGVTE7EVB82SA753AM8G337EV",
+      "reference": "ALT_ALIZE_B_MU_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héroe de"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/094063e59f5110fbd2b7",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/es_ES/35f2ece94702db46714f5d6733a2a2f2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/WEB_bba44154012e2f8cad5083b50bbece90"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/HERO_THUMB_060d3e0d9ed85316a76fd7d4086f7aba"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_03_C",
+  "reference": "ALT_ALIZE_B_MU_03_C",
+  "id": "01J1Q6RPQBMRYSMR32993F6MNA",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/en_US/85a07bdebe7385038f28f58148641fca.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/de_DE/72e297ee194fa4f5adc48c0a24ab844a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/es_ES/35f2ece94702db46714f5d6733a2a2f2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/it_IT/4a42a513c7b516e6b98a4968fd6fbc73.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/fr_FR/11c049449ec05a834e981b1dfe2880d9.jpg"
+  },
+  "name": "Rin y Orquídea",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "Cuando una de tus expediciones avance debido a {V} — Roba una carta y luego coloca una carta de tu mano en la reserva."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-053-H-ES"
+}

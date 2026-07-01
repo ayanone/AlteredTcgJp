@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_19_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50DWA6HQAH3K77CH9NGE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH65K8BB39RZZNPCRS4JWG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH65K8BB39RZZNPCRS4JWG",
+          "text": "Sans pratique, le don d'Altération n'est rien."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65MNWP9YF84YSCEJHA2R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH65MNWP9YF84YSCEJHA2R",
+          "text": "Le fragment d'Éther pulse contre ma poitrine, chaud et apaisant, comme un cœur qui bat au diapason du mien. Pour une raison encore inconnue, avoir sur soi un morceau qui vient de l'autre côté du Voile facilite le passage des idées depuis l'Empyrée. Alors je m'appuie sur lui pour faire appel aux idées de l'inconscient collectif, focalisant mon énergie pour les faire transiter jusqu'à moi. Elles sont à manipuler avec précaution. Ce sont des idées pures, qui ne sont pas polluées par les préjugés ou les préconceptions d'un esprit en particulier. Elles ont été passées au tamis de milliers de psychés jusqu'à acquérir une nature archétypale. Elles sont puissantes et dangereuses. Ce qui est arrivé à ma sœur en est la preuve. Mais en même temps, jouer avec ces idées est plus que grisant. Au fur et à mesure que je m'étais éveillée au secret de l'Éther, le monde avait pris une saveur différente...\n\nL'entraînement n'avait pas été de tout repos, bien sûr. Depuis qu'Alice m'avait montré jusqu'où descendait le terrier du lapin, chaque jour apportait son lot de révélations, de surprises. Le monde me montrait dorénavant des couleurs jusque-là imperceptibles, même si je ne pouvais pas encore contempler son vrai visage. Je me concentre et sens le souffle des idées m'emplir. Je n'ai pas le temps de m'émerveiller ; Kumari compte sur moi. Je n'ai pas d'autre choix que de creuser plus profond, et je dois faire vite car chaque jour qui passe est un risque que son état empire. Si je parviens à conjurer le Lapin Blanc et à lui subtiliser sa montre, peut-être que je pourrai dérober le temps lui-même. Le temps... C'était ce qui me manquait, ce dont j'avais désespérément besoin. Je pose mon piège et me tiens aux aguets. Je n'aurai peut-être pas de seconde chance dans cette course contre la montre."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65M190NPHZJP9AKNFWP6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH65M190NPHZJP9AKNFWP6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65HSG0FZKJQPPA3BR5B0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH65HSG0FZKJQPPA3BR5B0",
+          "text": " Akesha"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65JMR56Z10KK95H4GERA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH65JMR56Z10KK95H4GERA",
+          "text": "387 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50DWA6HQAH3K77CH9NGE",
+      "reference": "ALT_CORE_B_YZ_19_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/edb1fa0d85cc961f0c7f",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/53ec4266ae6fa29d3510",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/JPG/fr_FR/0ad8d1a9367a8938df22f3e117dde900.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/WEB_17c22a407f782954aa960759102a191b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/WEB_e15ca09454686f1cf676008de3db08a5"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_19_R2",
+  "reference": "ALT_CORE_B_YZ_19_R2",
+  "id": "01HKAFJP48VFCWMDHJ0472DFGJ",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/JPG/en_US/29d081f2f75ef57f73b76ba98e26a3ff.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/JPG/it_IT/3885dca9dbd9d6a17a266293df2ec8cd.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/JPG/de_DE/248d256d53e512ca1cf42b552adbac85.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/JPG/es_ES/2d7a7adee699fa88fb3ec553a6d312ca.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/JPG/fr_FR/0ad8d1a9367a8938df22f3e117dde900.jpg"
+  },
+  "name": "Entraînement Magique",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Piochez une carte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-169-F-FR"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_38_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2GZ7G5WFB39ASTFG8M0BYZZ3KH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23BH6ZGDMD304ZP34X28",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23BH6ZGDMD304ZP34X28",
+          "text": "„Wenn wir die fehlenden Teile ersetzen, könnten wir ihn zum Laufen bringen.“"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23C28KQJY02PPG3JS1XK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23C28KQJY02PPG3JS1XK",
+          "text": "Hmpf … Ich stelle die schwere Kiste mit Krimskrams ab und schüttele meine Hände, um den Schmerz loszuwerden. Dann richte ich mich auf, atme tief ein und massiere meinen schmerzenden Nacken. Es ist schwer, in dieser Kälte zu arbeiten, vor allem alleine. Um mich herum wuseln die Blechkäfer und klettern den Körper meines armen Automatons hoch. Ich hatte mir Mühe gegeben, aber ich hätte wissen müssen, dass es in dieser gefrorenen Landschaft nicht in seinem Element sein würde. Ein unglücklicher Fehltritt hatte gereicht, und es war wie eine Holzpuppe die Schlucht hinuntergestürzt und dann tief unten am Boden zusammengebrochen. Ich konnte mich nicht dazu durchringen, es dort zurückzulassen, auch wenn seine Bergung Zeit kosten würde. Und unsere Materialien waren zu wertvoll, um sie für seine Reparatur zu verwenden. Mir blieb also nichts anderes übrig, als alle Metallreste aufzutreiben, die ich finden konnte.\n\nUnd ich war fast fertig damit. Funken knistern, als ein Blechkäfer einen neuen Brustpanzer an meinen Roboterprototyp anschweißt. Er wurde, ebenso wie das Schulterstück, aus einem alten gepanzerten Scrambler geborgen. Das schwierigste Teil wird jedoch sein neues Bein werden. Es wird vielleicht nicht besonders anmutig aussehen, aber ein einfaches Hinken wird ausreichen, um zum Lager zurückzukehren. Ich seufze und fahre mit der Hand über den beschädigten Rahmen. Okay, alter Junge, ich verspreche, ich werde dich so schnell wie möglich auf Trab bringen, aber im Gegenzug musst du mir ein bisschen helfen.  Das Automaton beginnt, seine Zehen zu bewegen, und hebt plötzlich seinen Kopf. Ich muss lächeln und klopfe ihm aufmunternd auf das Exoskelett. Als es unbeholfen versucht aufzustehen, trete ich einen Schritt zur Seite. Gut. Und wenn ich mit der Reparatur fertig bin, werde ich dir einen passenden Namen geben, versprochen."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23BS0199353ZQG9JQ3F8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23BS0199353ZQG9JQ3F8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23APM2P5JSQG1VZEKRH7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23APM2P5JSQG1VZEKRH7",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23B2K64MHMSQ312D1D64",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23B2K64MHMSQ312D1D64",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2GZ7G5WFB39ASTFG8M0BYZZ3KH",
+      "reference": "ALT_ALIZE_B_AX_38_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9e9cab3fe0dfc835e3e0",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Roboter"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6a3a27f95f4b546e7867",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/de_DE/f15dfbbe1178e4e85c4c71515d22fa96.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_176e74e3b9c2ebcabed125990a5f0d37",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_512573fbe1e878d1febadf43de6496e4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/WEB_4a2ca4fe0db64cb1b28dd73669ba2931"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_38_R2",
+  "reference": "ALT_ALIZE_B_AX_38_R2",
+  "id": "01J1Q4P4RTGYQGABCPS4EW548G",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/it_IT/5b21fbb993ab8ef0d158eca7a7796f8c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/es_ES/3771ac4e3163d2c93dd1db78c46cb4ac.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/de_DE/f15dfbbe1178e4e85c4c71515d22fa96.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/fr_FR/0e98f80a1685d3b4c8b1d7e33be1664d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_38/JPG/en_US/14673b04ce01c5b0944f9367e01161a7.jpg"
+  },
+  "name": "Beschädigter Prototyp",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{J} Opfere eine #Pflanze# oder eine Bleibende Karte. Falls du das nicht kannst, opfere mich."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-010-F-DE"
+}

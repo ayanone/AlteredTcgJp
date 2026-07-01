@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_09_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7825107N2ZXYV12AKCWB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7ZQ1ZBSXTTKWR1F4YXFQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7ZQ1ZBSXTTKWR1F4YXFQ",
+          "text": "« On ne fait confiance au Tanuki qu'une seule fois. » - proverbe Lyra"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZQXVS5XG1FDZ9VGD68P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7ZQXVS5XG1FDZ9VGD68P",
+          "text": "Je distribue des baisers à la foule, écartant les bras comme pour l'enlacer tout entière, et récompense ses vivats et ses applaudissements d'un clin d'œil un rien séducteur. Les lumières des projecteurs dansent sur la scène, traversent le public, interrompent soudain leur ballet quand je lève la main. Je pose un doigt sur mes lèvres pour inviter au silence, car c'est l'heure de mon prochain tour. Mes hauts talons claquent sur la scène, mes hanches oscillant de manière outrageusement suggestive. Roulement de tambour. J'écarte les mains, puisant dans mon feu intérieur, mon Ignescence. Dans mon esprit, l'image s'affine : celle d'une boule de poils facétieuse qui aura l'insigne honneur d'être mon assistant pour le prochain tour de passe-passe. J'appelle le Tanuki, et il apparaît dans un tourbillon de confettis bariolés.\n\nIl toise la foule, agitant sa queue de façon moqueuse. Il me dévisage et fait mine de bouder. Je hausse les épaules en lorgnant du côté du public, faussement interloquée. J'entends quelques rires dans l'assistance. Il semble prêt. J'extirpe de mon décolleté un dorayaki — deux pancakes entourant une pâte de haricots rouges sucrée. Le Tanuki le hume et se tourne vers moi avec un air gourmand. Je le lance en direction d'un jeune homme au troisième rang. Prestement, le Tanuki pose une feuille de hêtre sur son front, et disparaît dans un panache de fumée pour réapparaître en lieu et place du spectateur, juste à temps pour ouvrir la gueule et attraper au vol ma petite mignardise. Sur le podium, le jeune homme substitué regarde tout autour de lui, l'air ahuri. Le Tanuki se lève sur son siège et s'incline, applaudi de toutes parts. Mais ce n'est pas fini. Je sors une nouvelle sucrerie de ma robe échancrée."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZQE6RS3P2WNQ1GN7ZEG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7ZQE6RS3P2WNQ1GN7ZEG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZP32K326XT2PBWDHCHN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7ZP32K326XT2PBWDHCHN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZPN0B0QATGDCBW571S1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7ZPN0B0QATGDCBW571S1",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB7825107N2ZXYV12AKCWB",
+      "reference": "ALT_COREKS_B_LY_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ca0cacfe661740ddf3d9",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Esprit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/dbe87b6b5f197c294ee5",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_09/JPG/fr_FR/fa14c8e8771a1c55a7393ca89a50e661.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_09/WEB_73b3fddf0382681b4fa26cf39ced7f8c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_09/WEB_6211639ee94ede65ab69bc4b7a1ffca2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_09/WEB_f99ce23a9fc65e30cda3fe73527d9792"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_09_R1",
+  "reference": "ALT_COREKS_B_LY_09_R1",
+  "id": "01HN5TXRASJPYG1YA0YXHH0DEK",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_09/JPG/fr_FR/fa14c8e8771a1c55a7393ca89a50e661.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_09/JPG/de_DE/4399e0c24189d5701c8d0736bf0a6833.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_09/JPG/it_IT/243f93a24cee7dfa7c5f6daeaa483791.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_09/JPG/es_ES/6be9effe05625cc4e9d70e25c39beab1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_09/JPG/en_US/dd30da1287f86165708ffa0378d330b8.jpg"
+  },
+  "name": "Tanuki",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{H} [Sabotez]. (Défaussez jusqu'à une carte d'une Réserve.)  #{R} Lancez un dé. Sur 4+, [Sabotez].#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-075-R-FR"
+}

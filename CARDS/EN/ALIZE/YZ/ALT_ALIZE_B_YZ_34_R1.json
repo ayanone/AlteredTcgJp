@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_34_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/54BV4EXH4E9ZMSBX25ZGD8CRS6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2AKNWR6NKP2XBA8B1BR0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2AKNWR6NKP2XBA8B1BR0",
+          "text": "Pamola is always angry with those who climb to the summit."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AMK05YNFQHXMGMC77G2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2AMK05YNFQHXMGMC77G2",
+          "text": "A sudden swirl of melted snow lashes Lindiwe's face, halting her painstaking progress up the rock face. Her fingers are stiff with cold, despite the thick gloves she picked up from the camp at the foot of the mountain. Her climbing equipment is rudimentary but sufficient. Using great quantities of Mana, the Alterer keeps her body temperature at the bare minimum required to sustain life. The barometer plummets as she climbs the wall. I sense that there's something not right here, but I take care not to distract her – the disastrous weather conditions and the rock's razor-sharp edges are challenging enough as it is. Lindiwe pauses for a moment to look up at the summit and assess the situation: The snow-covered peaks, stabbing at the sky like the jagged teeth of a predator and now covered with slippery frost, are simply traps waiting to send her tumbling into the void below. But as difficult as it is, I won't give her the luxury of giving up.\n\nStill, braving the elements like this requires a specialist's skill, and she's struggling to keep up the pace I'm forcing her to maintain. She resumes her ascent, which grows more difficult every yard. The blizzard blows still harder. A ghostly and imposing silhouette appears on an outcrop. It crouches like a bird of prey on its perch. Redoubling her effort with a powerful push, Lindiwe draws closer. The creature stands tall and flaps its immense wings with a crack. Then, it majestically tears through the veil of snow and freezing rain that separates them, revealing powerful horns on its head like an elk's antlers. It has an athletic human body with wings on its back and eagle's claws for its feet. Pamola, the Eidolon whose domain is these cold and mountainous areas, leans down towards the Alterer. He extends his hand to her. To help her or to capture her? Ha! The ways of the Empyrean can be indirect and winding…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AM4MDSHJFAD5JGQMNN3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2AM4MDSHJFAD5JGQMNN3",
+          "text": "Pamola is a bird spirit from the traditional mythology of the Abenaki culture of North America. God of thunder and protector of mountains, he is also the source of all cold. This legendary creature has the head of an elk, the body of a man, and the wings and claws of an eagle. He lives on Katahdin, the highest mountain in Maine, which he has banned mortals from climbing. Legend has it that any unfortunate souls who try to break this taboo become his prisoners for all eternity."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AHMDEM38HEZJ3GYVZ91",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2AHMDEM38HEZJ3GYVZ91",
+          "text": "MAW"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AK5JEWAXQPPS7NBFWBX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2AK5JEWAXQPPS7NBFWBX",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "54BV4EXH4E9ZMSBX25ZGD8CRS6",
+      "reference": "ALT_ALIZE_B_YZ_34_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1add4224995899647b10",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bf63269405ffde8c7343",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Spirit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c62b63bfef8fd662acc9",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/en_US/0e135324e8a1e4da41e1962cad53b197.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/WEB_06adce73ea533144a8508b48979e2635",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/WEB_8473b35d6fcb7c74da16f1a9de458307",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/WEB_695e42314cae552c9b70e2eb65bc142d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_34_R1",
+  "reference": "ALT_ALIZE_B_YZ_34_R1",
+  "id": "01J1Q4P4SS1510DW0H3674JC8R",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/it_IT/4a53db8d3e59da6504f9a1735fbde05d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/de_DE/2a32cda63293ecedf2edef51e9464e6c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/es_ES/efa5c8efab3a29fbf249e0f907c404ec.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/fr_FR/5069fc830cc322fa195d8a3615855c6f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/en_US/0e135324e8a1e4da41e1962cad53b197.jpg"
+  },
+  "name": "Pamola",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "#1#",
+    "MOUNTAIN_POWER": "3",
+    "ECHO_EFFECT": "{D} : Exhaust target card in Reserve. (Discard me from Reserve to do this.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-090-R-EN"
+}

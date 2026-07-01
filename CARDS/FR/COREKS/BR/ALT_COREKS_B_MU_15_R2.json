@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_15_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7973SMX5ETNEDW56EWZ0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME835FPC1K39MNZ21FGVJX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME835FPC1K39MNZ21FGVJX",
+          "text": "On peut parfois les voir somnoler non loin d'un étang, se gorgeant d'eau et de lumière..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME836ZS8KZQ0JKN80AB02R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME836ZS8KZQ0JKN80AB02R",
+          "text": "Le dracaena se pose sur mon avant-bras, ses ailes tachetées frétillant avec excitation. Habituellement, ce sont des créatures plutôt placides, presque léthargiques. Mais celui-ci est venu directement à moi, avec une frénésie peu commune. Il pépie avec vigueur, enroule sa queue autour de ma main avec insistance. Nauraa, intrigué, approche son énorme museau de la plante draconique. \"Appétissant\", l'entends-je dire dans ma tête. Je le fusille du regard, même si je sais qu'il ne fait que plaisanter. Le dracaena essaie de capter mon attention, de me mener quelque part. Je lui fais un signe de tête, et il s'envole en vrombissant à tire d'ailes. Je monte sur mon Alter Ego et lui demande de le suivre. Nauraa glousse et se met en chasse, ses pattes foulant avec légèreté le sol meuble et marécageux des tourbières.\n\nLe dracaena serpente fougueusement à travers les sous-bois de bouleaux, silhouettes malingres de noir et de blanc. Du pollen mordoré dérive en fine pluie au-dessus des herbes hautes. Les Marais de Kiragata ont toujours été réputés pour leur quiétude, et en dépit de l'anxiété de mon guide, je ne peux que m'émerveiller de ces paysages tranquilles et idylliques. La voix de Nauraa résonne dans mon esprit. Il sent une odeur humaine. L'enchantement laisse soudain place à l'horreur. En face de moi, le marécage est retourné, piétiné et dévasté. Les arbres ont été abattus sans ménagement. Le dracaena virevolte de droite à gauche, couinant à tue-tête. Oui, il a eu raison de me faire venir. Je fixe du regard les outils que les humains ont rangés au pied d'un arbre. La communauté établie non loin a cru bon de prendre possession de ces terres sans l'autorisation de ses autres habitants... Il va me falloir les rappeler à l'ordre et dénouer les tensions."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME836BSH949FJP8DFJ9BXB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME836BSH949FJP8DFJ9BXB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME833J7Y24ER70NDD22DP7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME833J7Y24ER70NDD22DP7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME834K5DBE99KDZJ7NX5AN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME834K5DBE99KDZJ7NX5AN",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB7973SMX5ETNEDW56EWZ0",
+      "reference": "ALT_COREKS_B_MU_15_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/56761ad8c16fe63ddd56",
+      "reference": "DRAGON",
+      "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+      "name": "Dragon"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/77f4e34f312307c04cb4",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plante"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0ecf543766121b4acc27",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/JPG/fr_FR/027a35518d10894df6a1eb57af6a6776.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_15_R2",
+  "reference": "ALT_COREKS_B_MU_15_R2",
+  "id": "01HN5TXRQX6SKVJV3M1720HTP5",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/JPG/fr_FR/027a35518d10894df6a1eb57af6a6776.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/JPG/de_DE/7247940f8d8edecc68729a2b147439be.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/JPG/es_ES/b1f91abd36fe5ff546cab2251a1065c4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/JPG/it_IT/a5e2690d8708216b373d4877538a1861.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/JPG/en_US/0afcd5df043ecc0c674967f149d94a8e.jpg"
+  },
+  "name": "Dracaena",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "{J} Je gagne [[Ancré]]. (Au Repos, je ne vais pas en Réserve et je perds Ancré.)  À Midi — Je gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-105-F-FR"
+}

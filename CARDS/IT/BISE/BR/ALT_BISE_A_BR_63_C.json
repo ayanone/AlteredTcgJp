@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_A_BR_63_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0YZ905F9759YFT2MPXKBB6W7D0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K477YYSKNGN0N3MZEDVYXCDS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K477YYSKNGN0N3MZEDVYXCDS",
+          "text": "Ogni sera, nella mensa si odono risate e un gran vociare degli esploratori che raccontano le loro imprese."
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YYWP9AVDD211THNVX8JP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K477YYWP9AVDD211THNVX8JP",
+          "text": "393 AC - I must admit, it feels good to be back out in fresh air. Just seeing clouds and the sky above our heads makes all the difference… And I also have to say that the Mess has really changed since it was built. I look at the pennants and string lights. Somewhere, a Lyra is playing the accordion. It makes it feel like a funfair. As I move forward in the line, I can't help smelling the different aromas of food from the stalls. And to say I'm starving is a massive understatement. Nearby, a corgi is begging at a table. I spot Basira clinking a toast with Treyst after hearing her gruff laugh drowning out all the chatter around me. I sigh, remembering about her refusal to coach me. And I've hit a brick wall with Atsadi too.\n\nBoo puts his nose in the palm of my hand, and I turn to him. Yep, you're right, buddy. I should chase away those dark thoughts. We're here to stuff our faces, and I don't need any convincing for that. My belly starts to rumble. There's nothing like a raging hunger to make you forget all your other worries. And it's the same for Boo, too. Eat. Eat. Eat. His mind is fixated on this single idea. Don't worry, buddy, you'll get a good helping. But no begging from other people, OK? Right, how much longer? Even though I booked weeks ago, the Mess seems to be suffering from its own success with such long lines. As the sun sets behind the cliffs of the Screed, I notice someone waving at me from the reception desk. Hey! Look who it is!"
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YYTCX633GE3BYYXDNJBY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K477YYTCX633GE3BYYXDNJBY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YYMEYWZ8K4G8QS332K01",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K477YYMEYWZ8K4G8QS332K01",
+          "text": "KOJO"
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YYQ4TE8S2YYD3RQCE34X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K477YYQ4TE8S2YYD3RQCE34X",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "0YZ905F9759YFT2MPXKBB6W7D0",
+      "reference": "ALT_BISE_A_BR_63_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente Fulcro"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1c2c3c4528d47de51d7a",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Costruzione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8e598ebf5150d2c257e9",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/it_IT/3d0fbb4e4107ed6f8c4d9bf18cfc9361.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/WEB_813afa6793422a00a509e82b67ed5d18",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/WEB_4cd2898721e1c9a515f4793a18ea7f2e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_BR_63_C",
+  "reference": "ALT_BISE_A_BR_63_C",
+  "id": "01K42WSMN6SY9CCH926SJ2DKJV",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/it_IT/3d0fbb4e4107ed6f8c4d9bf18cfc9361.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/fr_FR/4123118a3702dcb606438fcf1ce7c6de.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/de_DE/41faecd7c93ea85ddddc93ac966d11ff.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/es_ES/a8f990103e21d7914d687f9729cfe64b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/en_US/803776e80c9ed0f54316d35835500c36.jpg"
+  },
+  "name": "La Mensa",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Quando un personaggio lascia le tue spedizioni — Ottengo 1 segnalino Cibo.  {T}, spendi 3 dei miei segnalini Cibo: [Rifornisci]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-034-C-IT"
+}

@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_50_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/51ECGVXFTM9PNR39K53GKKG1PG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A449CCVDR7WD0VXQ6R6V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A449CCVDR7WD0VXQ6R6V",
+          "text": "Plus on creuse, plus on a de chances de trouver quelque chose d'unique."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A44J92EZ2TMNPT6K2A68",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A44J92EZ2TMNPT6K2A68",
+          "text": "393 AC - Je pars en direction du chantier de fouilles pour inspecter une veine de Sève. Rossum me suit de près avec tout le matériel nécessaire à mes analyses. J'aime bien parfois sortir de mon atelier pour aller explorer un peu la Chape. Explorer, c'était mon rêve premier avec Paju. Partir loin, voir du pays, en quête d'inconnu et d'aventure... C'était ça qui nous avait poussés à être aviateurs. Je constate avec tristesse que mon ami me manque toujours autant, et je pousse le moteur de mon fauteuil pour arriver plus vite à destination, obligeant Rossum à presser le pas. Arrivé à destination, je marque un temps d'arrêt pour observer la scène. Une armée de drones exécute un ballet précis pour dégager un amas de ruines et de rochers afin d'accéder à une veine de Sève.\n\nJ'admire la poésie de ce travail, la justesse du geste de la machine, la précision de l'enchaînement des manœuvres : un bras creuse, guidé par les capteurs placés sur son fronton, tandis que le second bras vient guider les débris minéraux sur la trappe ouverte vers l'intérieur de son abdomen d'acier. Durant tout le forage, une sirène et un gyrophare viennent avertir les ouvriers proches que la machine est en action. Une fois rempli, le drone referme la trappe et s'envole en direction de la carrière où il va déverser sa récolte. Il laisse la place à un nouveau drone qui va à son tour poursuivre le forage à l'endroit exact où il l'a interrompu. Fascinant. Dans un timing parfait, j'assiste aux rotations des engins. Je ne peux m'empêcher d'y voir une similitude avec l'action des ouvriers d'une ruche ou d'une fourmilière, celles que nous observions enfants avec Paju, la tête pleine de rêves d'avenir. Je finis par quitter ma contemplation pour aller inspecter les échantillons récupérés par les ingénieurs Axiom en charge de l'exploitation de cette mine."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A44D33T430J2ARZYSC7G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A44D33T430J2ARZYSC7G",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A43ZQR3C12PMPTE1052T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A43ZQR3C12PMPTE1052T",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A444JHW69NGKHPM1HXCX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A444JHW69NGKHPM1HXCX",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "51ECGVXFTM9PNR39K53GKKG1PG",
+      "reference": "ALT_BISE_B_AX_50_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1ef000252d533a427ab2",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8db6bb5e969a03d9ec2a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/fr_FR/6b4b09a485cabe647467b38cd958c8d5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_bb4a868c6957a0a77c3a3e83ab97fad6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_4ec57fc128536280040e4be94b6a25d2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_c29b032a1cd3e30bec0b4a353e9a2b7c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_50_C",
+  "reference": "ALT_BISE_B_AX_50_C",
+  "id": "01JB1YGPAZFRZH5Y34FMDV61D5",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/de_DE/116835350c61749bb69bfc0e582a465e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/fr_FR/6b4b09a485cabe647467b38cd958c8d5.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/es_ES/981b097b58d658857e37fb0bccb478b8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/it_IT/6deefb02adbd8e9eae678a20631dff77.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/en_US/7ef8970db989e56de885866ef7a55ce5.jpg"
+  },
+  "name": "Drone Ratisseur",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{R} Vous pouvez dépenser 1 de mes boosts pour [Ravitailler]. (Mettez la première carte de votre deck en Réserve.)",
+    "ECHO_EFFECT": "{I} À Midi — Choisissez l'un :  • Je gagne 1 boost, jusqu'à un max de 3.  • {T} : Je gagne 2 boosts, jusqu'à un max de 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-006-C-FR"
+}

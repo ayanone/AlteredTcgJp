@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1ET3HJG6Q285F9Z7CVQ48HPR6A",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J22ZZ90WA38Z5M2WWYZKD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J22ZZ90WA38Z5M2WWYZKD",
+          "text": "Incluso en un mundo con recursos limitados, las posibilidades siguen siendo infinitas. Lo que importa al final es cómo decides usarlos."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J230DZ0BCTKSNDQGFF0NH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J230DZ0BCTKSNDQGFF0NH",
+          "text": "392 AC - Alargo la mano y agarro la llave inglesa que Marmo sostiene en la boca. Aprieto el último tornillo con un gruñido y luego me limpio los dedos empapados de baba en el traje. Bien, es la hora de la verdad. Enciendo la batería kelónica y mi antena dorsal empieza a zumbar. Todo parece ir sobre ruedas. Mi Alter Ego ladra. Rebusco en la mochila un premio con forma de hueso y se lo tiro. Definitivamente, se merece una pequeña recompensa. Mientras la devora masticando con alegría, me ajusto el casco para asegurarme de que no se mueve ni un ápice. Acomodo mi constructo, invoco una linterna y apunto el haz hacia la entrada de la cueva. Bien, es hora de ver si queda algo de puñetero kelón en estos túneles. Y más vale que sí, porque estoy hasta las narices de volver con las manos vacías.\n\nAl entrar en la cueva, no puedo evitar imaginármela como una boca a punto de engullirme. No quiero acabar como uno de los premios de Marmo, aplastado entre un par de mandíbulas gigantes. Las volutas rosadas del Tumulto se abren como cortinas ante mí, empujadas por las ondas de mi antena. Mientras tanto, Marmo avanza con valentía. La niebla arremolinada no parece afectarle. De hecho, incluso se atiborra de ella mientras yo siento que el maná fluye hacia él como una batería recargándose. Reorganizo mi constructo y formo un elemental de kelón frente a mí. El ajolote aparece y empieza a olfatear el aire. Si hay kelón por la zona, reaccionará a él. Venga chico, ya lo tienes... De repente, veo que echa a correr hacia delante.  ¡Ajá! Bingo. Agarro mi pico kelónico y salgo en su busca. Cuando lo enciendo, el cilindro de kelón que lo alimenta empieza a brillar con un resplandor azul, bañando la cámara con una pálida luz violácea."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2306V6H4MQXQ9BZ15SAF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2306V6H4MQXQ9BZ15SAF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J22ZFRYY63CV3R4MV8E9M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J22ZFRYY63CV3R4MV8E9M",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J22ZRFZ9BD6BY68GCR6RG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J22ZRFZ9BD6BY68GCR6RG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "1ET3HJG6Q285F9Z7CVQ48HPR6A",
+      "reference": "ALT_ALIZE_B_AX_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héroe de"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/53e7b0c4756b4fcef92d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/es_ES/6f0e4b82d454ec754da9e1313118bdf5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/WEB_1d6d374e82900bb6ccc0a0f78aa98e47"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/HERO_THUMB_9805f6e77c35518e938f8699b8d1ce2d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_03_C",
+  "reference": "ALT_ALIZE_B_AX_03_C",
+  "id": "01J1Q59TJPS3JJQZY1YF703QG5",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/fr_FR/21c8f29127746760692b5d6502f380f6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/en_US/dc4bf56522d25c0b6f3e31f18d9785e8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/de_DE/72cb6608922cb02513b9a0df1c77af0a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/it_IT/039503423118ecac0c13b6e6c62dc895.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/es_ES/6f0e4b82d454ec754da9e1313118bdf5.jpg"
+  },
+  "name": "Subhash y Marmo",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "Al mediodía — Puedes pagar {1} y colocar una carta de tu mano en la reserva para crear una ficha de robot [Bicholata 2/2/2] en una expedición objetivo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-002-H-ES"
+}

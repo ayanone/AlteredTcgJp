@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_19_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YWABA67GMEEQGKKF9MG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QS8PCA0JBA4C4JGD2H9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QS8PCA0JBA4C4JGD2H9",
+          "text": "Savoir et sagesse doivent avancer de concert."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QSPG5SYJDC624E9JCVF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5QSPG5SYJDC624E9JCVF",
+          "text": "Malgré sa taille imposante, Ganesh se penche délicatement au-dessus de l'homme, ajustant ses binocles amplifiantes. Ses mains se meuvent avec une lente précision, comme un orfèvre travaillant une pierre précieuse. Il observe la Greffe, cette prothèse mécanique qu'il a fixée sur l'ouvrier, vérifiant que tout est en ordre et en état de marche. Il ajuste quelques écrous avant de se redresser, satisfait, tandis que le mortel teste le bras mécanique qui lui a été apposé. Ganesh sourit en remarquant les yeux embués du jeune homme, qu'un malencontreux accident de travail avait privé de son membre. Avec ça, il va pouvoir reprendre le cours de sa vie, même s'il lui faudra la réinventer un tant soit peu, comme j'avais dû le faire moi-même. Je le vois quitter l'atelier, les yeux rivés sur sa Greffe flambant neuve. Il lui faudra de longues semaines pour s'habituer complètement à son poids, aux nouvelles sensations, à sa simple présence.\n\nJ'avance lentement vers l'Eidolon-Éléphant, qui semble me soupeser du regard. Il est toujours difficile de savoir à quoi il pense. Sa trompe s'enroule autour du siège d'opération et l'écarte doucement. Chaque pas est une souffrance, mais j'ai appris à vivre avec. Ma canne claque contre les marches tandis que je monte sur la plate-forme élévatrice pour apporter à Ganesh la prothèse du prochain patient. Façonner de telles améliorations a donné un nouveau sens à ma vie, et je me plais à aider ceux qui en ont besoin. Ce n'était clairement pas l'objectif que je m'étais fixé, mais c'est ainsi. Je dois m'en contenter. L'Eidolon tend l'un de ses quatre bras dans ma direction, m'aidant à monter les dernières marches. Je le remercie d'un signe de tête, tandis qu'une jeune femme au teint hâlé se présente."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QSFQCZMNMHPPEGGWSWD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QSFQCZMNMHPPEGGWSWD",
+          "text": "Considéré comme l'un des dieux les plus sacrés du panthéon hindou, Ganesh est une divinité à tête d'éléphant, incarnant à la fois la sagesse, le savoir et la tempérance. Fils de Parvati, qu'elle conçut par elle-même sans prévenir son époux, il fut décapité par méprise par Shiva quand il rentra d'une longue période de méditation. Pour remédier à son acte, ce dernier alla chercher la tête de la première créature passant à proximité — un éléphanteau — pour remplacer la tête coupée et ainsi sauver le jeune dieu."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QRVHBDPZRNNHRNR6QP0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5QRVHBDPZRNNHRNR6QP0",
+          "text": "Treyst"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QS29M2XHKKFJ47H0YR4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QS29M2XHKKFJ47H0YR4",
+          "text": "382 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YWABA67GMEEQGKKF9MG",
+      "reference": "ALT_CORE_B_AX_19_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4734a46219948eff31ef",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/dad522b72c3e0a7515a1",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/29b51121faf91e2dd20f",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:39+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of this card said \"For each Permanent you control, you may activate its {j} triggers\". Future printings will say \"For each Permanent you control, you may activate its {j} abilities.\""
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/JPG/fr_FR/3cc71fdd6260b03aa8a9378431ca1ae6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_19_R1",
+  "reference": "ALT_CORE_B_AX_19_R1",
+  "id": "01HKAFJNK9BCWQ32RCSF2MSGMP",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/JPG/de_DE/0969991983235c9153a6f3dbef430479.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/JPG/en_US/d2adf20fce772881dfaf2cd8bf271255.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/JPG/es_ES/ef236439a86ff91e2b6af558e6d5def2.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/JPG/fr_FR/3cc71fdd6260b03aa8a9378431ca1ae6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/JPG/it_IT/a7936feaa977654024177453651a4247.jpg"
+  },
+  "name": "Ganesh",
+  "elements": {
+    "MAIN_COST": "#6#",
+    "RECALL_COST": "#6#",
+    "OCEAN_POWER": "#4#",
+    "MOUNTAIN_POWER": "#4#",
+    "FOREST_POWER": "#4#",
+    "MAIN_EFFECT": "{J} Pour chaque Permanent que vous contrôlez, vous pouvez activer ses capacités {j}."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-019-R-FR"
+}

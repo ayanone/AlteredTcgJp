@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_36_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/30R7RSFHJ58EBAVN6Z7WRP6JSV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2AX9QYY08NSRFVP4G36T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2AX9QYY08NSRFVP4G36T",
+          "text": "Aun sola, logró dominar la marea."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AY703T4H9RTAJ0W3R9X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2AY703T4H9RTAJ0W3R9X",
+          "text": "Lucho contra los elementos que yo mismo he creado. A mi alrededor, la ventisca arrecia y golpea como una ola furiosa. Siento ideas parasitarias en mi mente: piel escamosa que se enrosca y retuerce, como si me hubiera caído en un pozo de serpientes. Akesha sigue gritando, pero no puedo oírla. No soy más que un juguete para algo mucho mayor que me ha elegido como una vía para su ira. Una furia ahogada retumba en mi interior cuando me hago uno con la tormenta. Soy el viento que desgarra, la lluvia punzante, la nieve que hiere. Soy el frío que hiela, el rayo que hiende el aire... Ante mí aparece un eidolon, pero yo no lo he invocado. ¿Akesha? Reconozco a Aroro Niski, la cazadora de ciclones. Se me encara, al igual que se encaró contra el tsunami que asoló Arkaster y amenazó con engullir toda Asgartha. Me doy cuenta de que eso es exactamente en lo que me estoy convirtiendo: un vendaval despiadado a punto de devastar el mundo.\n\nEl eidolon encadena un gesto tras otro y se cubre de sigilos. El trueno ruge a mi alrededor y en mi interior. Aroro se prepara para absorber mi próxima oleada, para hacer de todo su ser una muralla, como hizo hace tantos años. En el fondo de mi corazón, sé que tengo que ayudarla, pero pese a mis esfuerzos, algo me convierte en su instrumento. El poder crepita en mis dedos mientras lanzo, una tras otra, ráfagas de viento que despluman a mis enemigos y les hacen caer al suelo como fruta madura. Sin embargo, siento cada vez más la presión que ejerce sobre mí Aroro. Siento cómo intenta contener mis ataques, contrarrestarlos y anularlos. Como una máquina que se queda sin combustible, la tormenta que estoy creando empieza a menguar."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AXRR2BDA5WF6R5ZPMTQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2AXRR2BDA5WF6R5ZPMTQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AW85KRSQZADFVE7YP38",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2AW85KRSQZADFVE7YP38",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AWS6DK8SGNE6C5WQVYP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2AWS6DK8SGNE6C5WQVYP",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "30R7RSFHJ58EBAVN6Z7WRP6JSV",
+      "reference": "ALT_ALIZE_B_YZ_36_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/422d2d3381d14aad57a5",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mago"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9d07c32353a47f14a524",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/es_ES/5961f168d789cf38f6249927dd2542a5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_857d5d6cc51a3a623557ebefbd8f6536",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_1350e90561aa21560d4ec35850e26e0c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_5e53194f95457f01acfb6a6bff8dea73"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_36_R2",
+  "reference": "ALT_ALIZE_B_YZ_36_R2",
+  "id": "01J1Q4P4STVYKQPX3X8SF0WVA1",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/en_US/defb8af4dd4e1a56be8f9dd2eede278e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/de_DE/92b3dafba67a81dd767a460d1c1d02de.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/es_ES/5961f168d789cf38f6249927dd2542a5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/it_IT/da67fbe51a234f99a4d464b12cad9831.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/fr_FR/1cac16b48ebc0a9463e135088c2bef91.jpg"
+  },
+  "name": "Aroro, salvadora de Asgartha",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{H} Puedes descartar un #personaje# de tu reserva para darme #2 potenciadores.#",
+    "ECHO_EFFECT": "#{D}: El siguiente personaje que juegues este turno cuesta {1} menos.# (Descártame de la reserva para hacer esto)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-092-F-ES"
+}

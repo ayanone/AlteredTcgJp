@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_22_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77X1D30SX6YXGN14NGVD",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7WQHZRF0GK971C7R744D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7WQHZRF0GK971C7R744D",
+          "text": "Um das Erschaffen zu lernen, muss man zuerst das Reparieren lernen."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WR1VSHXD261KVC3JZCN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7WR1VSHXD261KVC3JZCN",
+          "text": "I wipe my forehead as I finally release the hydraulic cylinders of my press. The stifling heat of the workshop would leave anyone parched. I grab my canteen and take a few swigs of tepid water to quench my thirst. Near Oddball's charging station, Aberdeen is working hard, her face dripping with sweat. She skillfully tightens the bolts of the last prototype… or what's left of it after last week's explosive disaster. Even though she's young – maybe even younger than I was when I first came to the Foundry – Aby puts in lots of hours without complaining. And judging by my Apprentice's smile when she works, she clearly loves what she does. I can't wait to see her face when she finds out she'll become a Journeyman in a few months, and that this workshop will be hers.\n\nI walk over to her and offer the screwdriver she needs. She takes it without looking and adjusts the angle of rotation of one or two gears. I give her a few instructions and offer a few tips. She nods, eager to learn more. For some time now, we've barely needed to talk. We understand each other like a well-oiled machine. Aby starts to casually hum as she works. Like me, she's clearly eager to see what this new iteration of “FarFetch” can do. But before that, we need to find out why the malfunction happened. Did one of the Kelon cylinders overload? Was it a bad connection? A short circuit? I'll get her a milkshake in the mess when she's finished. And with all the ruckus that the test caused, I'll probably have to buy Bash a pint when he gets back from his trip. It's the least I can do after burning his beard."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WQSJSYA6VTT4WM4K00N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7WQSJSYA6VTT4WM4K00N",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WQ11VGGC7R7NHJH612E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7WQ11VGGC7R7NHJH612E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WQAV03QF3ME5X3C3KG2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7WQAV03QF3ME5X3C3KG2",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB77X1D30SX6YXGN14NGVD",
+      "reference": "ALT_COREKS_B_AX_22_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/24d6e829ad910bef9004",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Segen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b464ab85c04323bf31a0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/ad4eb1c80078bf474a88",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:45+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of this card said \"Activate the {j} triggers of target Character you control\". Future versions will say \"Activate the {j} Character of target Permanent you control.\""
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_22/JPG/de_DE/e544602008f62e16e7ab0ca21731295c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_22/ALT_CORE_B_AX_22_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_22/ALT_CORE_B_AX_22_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_22/ALT_CORE_B_AX_22_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_22_R2",
+  "reference": "ALT_COREKS_B_AX_22_R2",
+  "id": "01HN5TXR55C3ZS6EJ2Z95M3QJ9",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_22/JPG/de_DE/e544602008f62e16e7ab0ca21731295c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_22/JPG/it_IT/ad7e82e2b4bd980f93648eca9511e3f1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_22/JPG/en_US/d2312acd6622b5f54f6ded66bd169735.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_22/JPG/es_ES/b1139d3866e66c886cb378708d4adce1.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_22/JPG/fr_FR/79ed1962de5959a274614cfb866c5bc0.jpg"
+  },
+  "name": "Maschinentraining",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Aktiviere die {j} Fähigkeiten eines #Charakters# deiner Wahl, den du kontrollierst."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-021-F-DE"
+}

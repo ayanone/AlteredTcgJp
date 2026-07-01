@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_45_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3522E6X2RJ8X9ATM3Y57G3PZJJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J27J1PT0J3KN63KTFAW64",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J27J1PT0J3KN63KTFAW64",
+          "text": "Se percibe en los silencios del bosque, como un temblor."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27JZ2R0NA5VXVSFBX7YA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J27JZ2R0NA5VXVSFBX7YA",
+          "text": "Juraría que siento una mirada quemándome la nuca. No literalmente, claro... Aunque pensándolo bien, aquí cualquier fuente de calor es bienvenida. Hago estas bromitas para calmar mi ansiedad, porque esta taiga me pone de los nervios. Hoy he sentido todo tipo de presencias ocultas: mientras pescaba, mientras asaba mis escasas capturas y al ponernos de nuevo en marcha. Parece como si algo enorme hubiera pasado por aquí, entre los altos pinos y las secuoyas, dejando tras de sí una estela de frío intenso. Tuvo que ser una presencia formidable, pues a su paso desplazó a todo tipo de animales, que empiezan a regresar ahora que su esencia se desvanece poco a poco. Pero con ellos también han llegado... otras cosas. Siento una punzada caliente en la nuca y sé lo que significa: nos observan. Tengo que evitar mirar hacia atrás cada dos minutos.\n\nEl terreno parece abrirse ante nosotros, revelando un claro accidentado rodeado aún de árboles gigantescos, como abetos y abedules de troncos agrietados. Parece un buen momento para afrontar la situación sin rodeos. Nos detenemos un momento y escudriño el bosque. Crujidos sospechosos, ramas que se mueven solas... El ambiente es tenso. La otra presencia, tan intensa como siempre, parece mantener a raya a los acechadores mientras permanezcamos bajo su sombra. Cierro los ojos y, con la ayuda de un poco de maná, abro mi mente a la taiga. Me proyecto por la zona para buscar entre los arbustos mediante el Skein. Mi respiración se agita al sentir que los Belisenki nos rodean poco a poco. Abro los ojos y advierto a mis compañeros. Será mejor que sigamos avanzando. Debemos permanecer en el sendero creado por lo que sea que haga que nuestros observadores mantengan una distancia prudencial. Ahora mismo, es la opción más segura."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27JHXHBMZRD4VRST6JAK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J27JHXHBMZRD4VRST6JAK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27GGRR48BT1WTNHX3MG7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J27GGRR48BT1WTNHX3MG7",
+          "text": "RIN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27GY40X8GST41QPTTQDS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J27GY40X8GST41QPTTQDS",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "3522E6X2RJ8X9ATM3Y57G3PZJJ",
+      "reference": "ALT_ALIZE_B_MU_45_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2c181de9208813639049",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Ubicación"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a1d1997ff6356b31d04e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/3573b9f73b68cc768df9",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:15+00:00",
+      "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
+      "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/es_ES/4a87bcd8194b289d6602940f9dfb8bcc.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/WEB_871b124253ceaf289f0c45f5a5e6d361",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/WEB_561a2a31e2f4a90f93f401aa791195fd"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_45_R2",
+  "reference": "ALT_ALIZE_B_MU_45_R2",
+  "id": "01J1Q4P4SHH5PQKMZMP6NZNHXF",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/de_DE/68477def566c938503836a0f394f0cda.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/en_US/4d0174a88170900fb0f45198aa5be5ab.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/fr_FR/2160ada6049dba45adb121612cf6bb7d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/it_IT/283d702124084c9378a53e60cfaa3d80.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/es_ES/4a87bcd8194b289d6602940f9dfb8bcc.jpg"
+  },
+  "name": "Taiga helada",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Cuando juegues un personaje — Si está en {V}, gano 1 contador de ordalía.  Cuando gane mi tercer contador de ordalía — Sacrifícame. Si lo haces, crea una ficha de ilusión [Dragón del eco 5/5/5] en una expedición objetivo y luego gana [[Anclaje]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-068-F-ES"
+}

@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_51_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2QV1XF600Q9BXB7KPFMKBH0CXN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4545FN2550WHSXRDWY8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4545FN2550WHSXRDWY8",
+          "text": "Designé par des designers pour les aider à designer."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A45EJEJA4CG3SD7145B8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A45EJEJA4CG3SD7145B8",
+          "text": "393 AC - Je savais bien qu'Aby allait me manquer, mais pas à quel point, autant personnellement que professionnellement parlant. Que faisait-elle actuellement, d'ailleurs ? Allumait-elle toujours la bouilloire en arrivant à l'atelier ? Pliait-elle sa trottinette avant de l'adosser contre le mur d'entrée ? Avait-elle changé des choses à cet espace que nous avions partagé durant des années ? Parfois, je me surprenais à me retourner pour l'interpeller, lui montrer quelque chose, pour réaliser sur un déclic qu'elle n'était pas là. Et même si je manifestais de temps en temps son Eidolon pour effectuer des courses et des livraisons vers les profondeurs, ce n'était pas la même chose, au final. Ne pas avoir Aby dans les parages, c'était comme se voir amputer d'une partie de son intellect. J'avais pris l'habitude de lui exposer systématiquement tous mes schémas de montage, pour savoir ce qu'elle en pensait, ce qu'elle tenterait d'améliorer. Et les années aidant, ses remarques s'étaient faites de plus en plus affûtées.\n\nC'est pourquoi j'avais eu besoin d'un assistant. Son design était calqué sur celui d'une méduse lunaire, mais affublé de binocles extravagantes et d'une bouche boudeuse. Même aujourd'hui, je me demande ce qui m'est passé par la tête quand j'ai crayonné son apparence extérieure. Mais ce n'est pas la coquille qui compte, c'est ce qu'il y a à l'intérieur. Et le \"Magnum 6\", le cryptex qui dicte sa cognition, capable de millions de permutations, est probablement le plus complexe que j'ai dû élaborer. Je jette un coup d'œil dans sa direction. Ses mains préhensiles, reliées à son corps par des lacets souples et incroyablement malléables, saisissent le plan et le déroulent. Il le scanne avec son éternelle expression de vanité et de condescendance, ce qui ne manque pas de me faire sourire. Puis soudain, quand il a terminé son analyse, une ampoule sort de son châssis pour venir voleter au-dessus de sa tête. J'approche. C'est le signe qu'il a trouvé quelques points d'amélioration à mon design."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A459CA06T27Y39380ZFQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A459CA06T27Y39380ZFQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A44VPGV6ERG9VTTQBSSG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A44VPGV6ERG9VTTQBSSG",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4502NCC0AR9EKRYXEDW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4502NCC0AR9EKRYXEDW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2QV1XF600Q9BXB7KPFMKBH0CXN",
+      "reference": "ALT_BISE_B_AX_51_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/989a15ed4aacdf383c9c",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/18234286026509b588ab",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/026c618517c4d6e00e92",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/fr_FR/52641947e9fdcc21bc35db3b9fd13d5f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_70b9d2617d7cb71b447301e3fc6791e9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_51_C",
+  "reference": "ALT_BISE_B_AX_51_C",
+  "id": "01JB1YGPAZFRZH5Y34FMDV61DE",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/it_IT/cd424bb283b325f80ae0a54957a98042.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/de_DE/338fecb0baea9d854cff1b94924046fe.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/en_US/6d0a0136fbfccf33c2527fddf9fd2b47.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/es_ES/e9c1a98044093365966da23e9758e37a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/fr_FR/52641947e9fdcc21bc35db3b9fd13d5f.jpg"
+  },
+  "name": "Drone Designer",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "ECHO_EFFECT": "{I} À Midi — Choisissez l'un :  • Je gagne 1 boost, jusqu'à un max de 3.  • {T} : Je gagne 2 boosts, jusqu'à un max de 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-004-C-FR"
+}

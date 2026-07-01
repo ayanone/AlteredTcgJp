@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_11_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB782BF774G270CFSZ2EGV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7ZXA4M6WR1F1Q290TBK7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7ZXA4M6WR1F1Q290TBK7",
+          "text": "„Ob Eidolon oder nicht, du bist unsere Hirtin. Du führst und wir folgen.“"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZZ2HFR4R3NPCF55HP92",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7ZZ2HFR4R3NPCF55HP92",
+          "text": "I knock lightly on the door, and Itoro beckons me to enter. I place the steaming herbal tea on the table and set the cups right next to it, being careful not to break anything. Juju starts to flutter around the room before settling on the ship's wheel. I put a finger to my lips and give him a stern glare. This is a meeting for grown-ups. We mustn't disturb them. Then I start to serve everyone. I bring a cup to old Shauri, then hand another to Zenith, but he refuses. I serve each of the Venerable Ones in turn before turning towards Esmeralda, our new Shepherdess. Using a ruler and compass, she traces a route to the capital on the large map. I give her a cup, and she takes it, offering a smile in return and patting my head.\n\nI can feel the flow of Mana that emanates from each of the Venerable Ones to fuel the Eidolon. It's a considerable undertaking to incarnate her permanently like this, but I know it's for the best. She served as my grandfather's right-hand woman all my life. She was always there to advise him and support him in every decision. She was our anchor, our rock. There was no one better to guide us. I smile at her as she takes a sip of tea. Then she shows the path we will take: From Avesta, we'll go around the Fagn and traverse the Arami Lowlands before reaching Verbera and crossing the Muir Concordia. After arriving in the capital, she will request an audience with the Basileus to ask if the Ouroboros can also join the Rediscovery Endeavor. And in this moment, I know it's the Wind that's speaking through her."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZY7RPQSSKVC0RNVV16E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7ZY7RPQSSKVC0RNVV16E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZV07JV2F88TA6N1WN8M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7ZV07JV2F88TA6N1WN8M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7ZW94SQK2WQBZ517XZHH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7ZW94SQK2WQBZ517XZHH",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB782BF774G270CFSZ2EGV",
+      "reference": "ALT_COREKS_B_LY_11_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9aa9630068bcd2c39181",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Künstler"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b397d7c16380a8d8b21b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_11/JPG/de_DE/eab58c87b90bd88e4f8056987be9e9f3.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_11/ALT_CORE_B_LY_11_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_11/ALT_CORE_B_LY_11_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_11/ALT_CORE_B_LY_11_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_11_R1",
+  "reference": "ALT_COREKS_B_LY_11_R1",
+  "id": "01HN5TXRB1RWYEBTCDW8X9PQWW",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_11/JPG/en_US/c5496792abce734d8320ed21ca4b4f68.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_11/JPG/es_ES/8d157571a2b697c1ef1291b1c0ae9ec9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_11/JPG/de_DE/eab58c87b90bd88e4f8056987be9e9f3.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_11/JPG/fr_FR/c3318ea97661be7894f91926f05170cc.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_11/JPG/it_IT/0fb9d7ff4ed3758678d79f38d257cb66.jpg"
+  },
+  "name": "Esmeralda",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "#{J}# [Nachschub]. (Lege die oberste Karte deines Decks in die Reserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-066-R-DE"
+}

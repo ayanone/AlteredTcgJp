@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_24_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB797X8MM9ZF7BXEW7G29S",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME84JRCZ60EX36MWYHG9JE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME84JRCZ60EX36MWYHG9JE",
+          "text": "There's no greater joy than seeing all that is green thrive and grow."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84KVN1GD09QTAYT3E7A7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME84KVN1GD09QTAYT3E7A7",
+          "text": "Now available from Cornucoopia - Discount applies until December 2, 393\nGardening Section\n\nLIQUID FERTILIZER\nSpring Dew Line\n1 oz bottle - 5ƒ99\nLiquid fertilizer, loaded with Mana and the concepts of \"Resilience\" and \"Luxuriance\"\nCan be used in a spray or a bubble machine, ideal for gardens and meadows\n\nCornucoopia offers a wide range of liquid fertilizers to meet all your springtime needs. Fun and easy to use, put them in bubble wands or concentrated sprays to sustainably fertilize your fields, shrubs, and gardens. Even in the dead of winter, your days will be brighter when you see vegetation flourishing as luxuriantly as in the warmer season. Guaranteed quick flowering, low maintenance.\n\nAlso available in 2 oz (10ƒ99) and 4 oz (19ƒ99) bottles\n\nSPECIAL OFFER: When you buy a 4 oz bottle, get a free packet of seeds!\nYour choice of: Sarcococca hookeriana humilis, Daphne odora, Clematis armandii, Rosa x centifolia Muscosa, Lonicera japonica Aureoreticulata, Trachelospermum jasminoides"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84KANWM0WWZJQWEVYCX3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME84KANWM0WWZJQWEVYCX3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84HJSR9VCD3NV4TYKJBJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME84HJSR9VCD3NV4TYKJBJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84J7CM64D5BN4SPDBQXN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME84J7CM64D5BN4SPDBQXN",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HPMB797X8MM9ZF7BXEW7G29S",
+      "reference": "ALT_COREKS_B_MU_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f3fbc4eea76eb53dfffa",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Landmark"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/31cd6ab7a12578c8b856",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/en_US/4d6840af2971142c674f6e21033d3d22.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_24/WEB_90cd003417f4eadc75a000e8349f54bf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_24/WEB_f2a9fd863c678406d786fda33c9fc388"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_24_C",
+  "reference": "ALT_COREKS_B_MU_24_C",
+  "id": "01HN5TXRS51EK6AAZT7S2TD99K",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/de_DE/fc6e6e265084b40e3ba554693ead8826.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/fr_FR/9c90811d94f037417a402ebc3727e00e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/en_US/4d6840af2971142c674f6e21033d3d22.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/it_IT/2a2358d668b9ab5f9071b2375c7d0d74.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/es_ES/cb60d9b92446023f113e312af372c017.jpg"
+  },
+  "name": "Bountiful Meadow",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{T} : The next Plant you play this turn costs {1} less."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-119-C-EN"
+}

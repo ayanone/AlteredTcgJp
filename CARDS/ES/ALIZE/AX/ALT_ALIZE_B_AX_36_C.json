@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_36_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1GH5GQKEXR8TJ95KFBRANDT3SE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23855VXFW1D68DHJ8ADQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23855VXFW1D68DHJ8ADQ",
+          "text": "Envía mensajes en código morsa."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J238K7Z0GV6BXNCZSB6QA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J238K7Z0GV6BXNCZSB6QA",
+          "text": "Venga, muévete más rápido, Bash. ¡Más rápido! Me duelen los muslos al esprintar por la nieve en polvo después de casi un día entero de marcha. Llego rápidamente hasta el hielo roto, que sigue emitiendo inquietantes crujidos. Refunfuño mientras patino sobre la superficie del lago y, al mirar atrás, veo que Treyst se ha detenido en la orilla. Es imposible que su enorme bestia metálica ponga un pie en el hielo. No: sin duda sería una pésima idea. Impulsándome con las manos, me deslizo en lugar de caminar hasta el enorme agujero que se ha abierto en el hielo. Se me hace un nudo en el estómago mientras escudriño las ondas aceitosas y la insondable oscuridad que acecha debajo. Una joven con patines de hielo me explica lo sucedido. Una niña se ha caído y ha desaparecido… Aprieto los dientes. No necesito que me diga nada más.\n\nMarmo da vueltas alrededor del agujero esperando a que le ayude. Hago lo que quiere y toco mi constructo para envolver a mi compañero con una coraza térmica. Cuando se sumerge, cierro los ojos para mirar con sus sentidos y noto un chorro de burbujas que sube a la superficie. Mi Alter Ego mira a su alrededor, pero no ve más que oscuridad. Vamos a necesitar ayuda… Mis dedos organizan y reorganizan los botones del constructo hasta que de pronto aparece junto a mi perro una morsa equipada con un sonar y todo lo necesario para localizar a la niña. Con mi dispositivo, le envío instrucciones y veo cómo se sumerge en las profundidades. El animal utiliza su ecolocalización para sondear las aguas heladas. Deprisa, el tiempo se acaba y cada segundo cuenta…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J238CTKGGDEE2B0CNW7SC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J238CTKGGDEE2B0CNW7SC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J237NDVH4DXCYPQYC7QF5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J237NDVH4DXCYPQYC7QF5",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J237X45VGSWSX9798JE7F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J237X45VGSWSX9798JE7F",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1GH5GQKEXR8TJ95KFBRANDT3SE",
+      "reference": "ALT_ALIZE_B_AX_36_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e613ab80e47e4124f1b5",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ee0845396f93079aa540",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/es_ES/6f30c8cac72caad4fdb0ce5034b5f40f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_f19f852f32dcd62f58bf88d9bcff629a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_0d8e4fe28ad0da293d9ee31050b6a45d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_56600599345217988c93472f2ae7de3d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_36_C",
+  "reference": "ALT_ALIZE_B_AX_36_C",
+  "id": "01J1Q4P4RPMZ8VWX4YR153F1YR",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/es_ES/6f30c8cac72caad4fdb0ce5034b5f40f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/fr_FR/4be47b07f8650b8ac6a5a1d42cf993cb.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/de_DE/14c2cb0a2bc017873a39f766f1a0bb7f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/it_IT/f8a194130e7c8917a66c44ca71d02f38.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/en_US/5af141067c63c446510ee2d6fda35756.jpg"
+  },
+  "name": "Morsa exploradora",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-007-C-ES"
+}

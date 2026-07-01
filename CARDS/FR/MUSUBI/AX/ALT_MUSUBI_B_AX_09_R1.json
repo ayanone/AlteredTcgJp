@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_MUSUBI_B_AX_09_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1S48HNYYAK88ATHP5977T4A6RK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K4WGXV0RXAM1QRFQ6738DJRB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K4WGXV0RXAM1QRFQ6738DJRB",
+          "text": "Ding ding ! Quand quelque chose cloche, autant passer par la case rafistolage."
+        },
+        {
+          "@id": "/lore_entry_elements/01K4WGXV16JX8FZ5YATRHYA5S6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01K4WGXV16JX8FZ5YATRHYA5S6",
+          "text": "Je referme la porte de mon atelier et ôte mon gantelet fumant. Je le laisse choir sur la table tandis que je me sers un petit remontant. Pffff. Quelle journée. J'ai foré et excavé quasiment sans m'arrêter, et comment je suis récompensé ? Par du matos qui me claque entre les doigts. Ça va faire des heures sup dont je me serais bien passé. J'hésite à prendre une douche avant, mais autant tirer sur le pansement sans trop tarder. Je me connais, si je laisse traîner, on y sera encore dans une semaine. Je soupire et me mets au travail. Je peux me charger du tout-venant, mais je vais avoir besoin d'aide pour le travail de précision. Le seul hic, c'est que je vois pas qui d'autre que Clochette pourrait m'aider. Sauf que pour bénéficier de ses doigts de fées, je vais devoir me coltiner son humeur de dragon.\n\nJe sors mon Construct de ma sacoche et recombine les hiéroglyphes qui tapissent sa surface, comme s'il s'agissait d'un puzzle tridimensionnel. L'Eidolon de la Fée Clochette ne tarde pas à se matérialiser, suivie par les carillons qu'elle émet sans discontinuer quand elle fuse de part et d'autre de la pièce. Elle finit par se poser sur mon établi, regardant avec effroi le gantelet que j'ai malmené. Elle croise les bras avec un air de défiance à mon égard, tintant de tout son saoul pour manifester son mécontentement. Je suis sûr qu'elle va me filer le bourdon avant la fin de la soirée. Je maugrée quelques excuses, sans parvenir à l'apaiser. Avec dédain, elle pointe du doigt ma boîte à outils. J'utilise l'Altération pour la réduire à sa taille et la lui tends. Bon sang, comment une si petite chose peut avoir un tel caractère de cochon ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01K4WGXV0YVSBZZ6ZP4REZ13GR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K4WGXV0YVSBZZ6ZP4REZ13GR",
+          "text": "Jalouse et irascible, Clochette est un personnage créé par J. M. Barrie dans sa pièce de théâtre, Peter Pan. Elle ne s'exprime qu'à travers des bruits évoquant le tintement de cloches, qui ne sont compréhensibles que pour ceux qui connaissent le langage des Fées. Amoureuse de Peter jusqu'à l'obsession, elle joue des tours à celles qu'il courtise, mais n'hésite pas à se sacrifier pour assurer sa sécurité. La Poussière de Fée qu'elle garde en sa possession permet de voler à quiconque s'en saupoudre."
+        },
+        {
+          "@id": "/lore_entry_elements/01K4WGXTZWBH8K6X8CMVK1G1TG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01K4WGXTZWBH8K6X8CMVK1G1TG",
+          "text": " Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01K4WGXV0JW1KM4QP60W532ATE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K4WGXV0JW1KM4QP60W532ATE",
+          "text": "371 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "1S48HNYYAK88ATHP5977T4A6RK",
+      "reference": "ALT_MUSUBI_B_AX_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/55ce6c3ecbf879146d76",
+      "reference": "FAIRY",
+      "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+      "name": "Fée"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/MUSUBI",
+    "@type": "CardSet",
+    "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+    "reference": "MUSUBI",
+    "name": "Musubi"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7468b8792bf2c33ecdf2",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/fr_FR/ade1b89b272ce0cbcaf3b7bb5fb442d9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/WEB_a4b0163391ab07aa3820e154b059222c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/WEB_6db86b86f65463557d5507758f0afdc3"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_AX_09_R1",
+  "isOwnerless": true,
+  "reference": "ALT_MUSUBI_B_AX_09_R1",
+  "id": "01K4W8PE2XV30V3RDBMGS6PJEJ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/fr_FR/ade1b89b272ce0cbcaf3b7bb5fb442d9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/en_US/d670a886dc2ed87ddf9b0a272eb3b26b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/it_IT/c1e84445c766d652f14a2adf856c74a4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/es_ES/37e17ff036bb36276a4d8b675c50ae70.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/de_DE/a7e6b64bb950baab8b4bf72dd7e56bac.jpg"
+  },
+  "name": "Fée Clochette",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{R} [Sabotez]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "MUSUBI-01-R-FR"
+}

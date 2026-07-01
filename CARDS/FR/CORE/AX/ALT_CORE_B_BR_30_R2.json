@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_30_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZBRGG9FNWP3KF4PCV56",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5SYN75WKJ27W2SQFVM4G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5SYN75WKJ27W2SQFVM4G",
+          "text": "Havre n'est pas le lieu où naissent les légendes. C'est le lieu où elles deviennent immortelles."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SZAAZQH7R2CBRNF109D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5SZAAZQH7R2CBRNF109D",
+          "text": "L'emblème du Phénix trône au-dessus de la porte principale de Havre, son or terni par le poids des ans. Pour autant, il continue de se dresser fièrement, surnageant au-dessus de la brume et le fjord en contrebas. Combien de temps ça fait, déjà ? La dernière fois que j'ai mis les pieds ici, j'avais clairement moins de rides. Ça, c'est une certitude. Descendant la pente qui mène jusqu'au niveau du sanctuaire Bravos, je ne peux m'empêcher d'observer les colonnades robustes, les fresques matinées de feuilles d'or gravées tout autour de l'île abrupte. Un décorum grandiloquent pour une Faction plus grande que nature. Comment pouvait-il en être autrement ? Je peux déjà entendre les éclats de rire des réfectoires, le fracas des godets qui s'entrechoquent au coin du feu. Peut-être y aura-t-il aussi un ou deux bardes Lyra pour égayer les salles austères par des mélodies guillerettes et ribaudes...\n\nMais je ne peux m'empêcher de ressentir en même temps une pointe de tristesse. Havre est tout autant un lieu de vie qu'un mausolée à la gloire de ceux qui sont tombés. Erregu, Hanta, Guewen, Agunda, Solofa, Dastan... Que de camarades, que d'amis devenus cendres et poussière... Ils siègent désormais tous au Parlement des Cendres au milieu des héros de jadis, dans des urnes ou des boîtes laquées. Et un jour, je siégerai parmi eux à mon tour. \"Mais pas encore\". Je souris alors que la voix de Kai résonne dans ma tête. Non, en effet, pas encore. Le Basileus en personne était venu me trouver pour que je forme ses contingents d'explorateurs. Trente-cinq ans, c'est jeune pour devenir Seiringar. Mais ce n'est pas comme si je prenais vraiment ma retraite. Les recrues et les cadets n'ont qu'à bien se tenir. Je n'ai pas du tout l'intention de les laisser se la couler douce."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SZ0C04RHSMJ8HY5KCWQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5SZ0C04RHSMJ8HY5KCWQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SY22QB2DP45AP9TY9CJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5SY22QB2DP45AP9TY9CJ",
+          "text": "Basira"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SYC1KF1FF4XMR52HX1J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5SYC1KF1FF4XMR52HX1J",
+          "text": "368 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY4ZBRGG9FNWP3KF4PCV56",
+      "reference": "ALT_CORE_B_BR_30_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bd2b0608a89f681f54e0",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/51a4188da8a23e2bfbbf",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_30/JPG/fr_FR/7324a72100a97d7a959b3d9dab9f54d5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_30/ALT_CORE_B_BR_30_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_30/ALT_CORE_B_BR_30_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_30_R2",
+  "reference": "ALT_CORE_B_BR_30_R2",
+  "id": "01HKAFJNR513GHT5HC6HS3AB73",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_30/JPG/fr_FR/7324a72100a97d7a959b3d9dab9f54d5.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_30/JPG/de_DE/0cdccb661718fd4ae76a224ea28268c9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_30/JPG/es_ES/6b26a45f98afe368adb51be8b11340fb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_30/JPG/en_US/3a3176c93887b2d57d845dd9423aca91.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_30/JPG/it_IT/7c6e4753d30578a83f24d9b9e77a2343.jpg"
+  },
+  "name": "Havre, Bastion Bravos",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "#{J} [Ravitaillez].# (Mettez la première carte de votre deck en Réserve.)  #{T} : Le prochain Personnage que vous jouez depuis votre Réserve ce tour-ci# gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-060-F-FR"
+}

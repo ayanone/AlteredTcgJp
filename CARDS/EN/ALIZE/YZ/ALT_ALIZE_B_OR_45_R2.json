@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_45_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4B1TM498QK95RR7HN64WEQ5P5K",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29NHEQ4M9E89421FQ3ES",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29NHEQ4M9E89421FQ3ES",
+          "text": "The Ordis always come prepared."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29Q5XXYXKFCZQ9JJYJYV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J29Q5XXYXKFCZQ9JJYJYV",
+          "text": "The most surprising part is how little noise the mobile armory makes. It resembles a heavy safe the size of a catamaran and floats high above the ground in unsettling silence. The Aerolithe has led to some incredible deployment opportunities, proof that coordination among the Factions can work miracles. It turns out that Axiom genius and Ordis discipline can produce some impressive results. Assembled on the ice pack, the troops are all staring up at the sky, still as easily distracted as ever, despite all my safety directives. We'll have to review the procedures at the next briefing. I shout some orders to get them to move and clear a space for the machine. The last thing we need is one of them wandering below it during the landing. The craft locks into a geostationary pattern and slowly begins its descent, deploying its various storage compartments as it comes down. I pat the document pouch on my hip: cargo manifest, equipment checklist, goods issue document… it's all there.\n\nNo sooner has the armory reached the ground than my men are swarming towards it like a bunch of overexcited insects… or like Kojo at a mess night. I curb their enthusiasm and start to take inventory: medical supplies, high-performance camping equipment for icy terrain, climbing kits, snow removal gear… enough to equip my whole squad for this expedition. We'll be ready for anything. I note a few other small machines – autocrawlers to haul the heaviest gear. Perfect, we'll go faster if we're traveling light. The pilot emerges from his cabin, looking ready to make a witty remark, but then he sees me, recognizes me, and changes his mind, saluting me in perfect form. I do the same. I sign the delivery note and hand it back to him. Once all the cargo has been unloaded, we fill the armory's empty compartments with all our used or broken equipment. We can't just send it back empty. I also include the briefcase containing my troops' letters to their families… That's essential as well."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29PPAQAXE264WP4X2V4W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J29PPAQAXE264WP4X2V4W",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29MGC8QWDER6SYMWXSBG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J29MGC8QWDER6SYMWXSBG",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29N06574YNW909SYRPZX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J29N06574YNW909SYRPZX",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "4B1TM498QK95RR7HN64WEQ5P5K",
+      "reference": "ALT_ALIZE_B_OR_45_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Expedition Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9d53ec30e7c8237d0827",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Gear"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/960bb9670c5e2bca7ada",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/en_US/6b5b95e81817516e3327426ea81740c4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/WEB_45f364184468ac070f5ad3041a9b2bf8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/WEB_3d12ab05366702a94541684860aeb12d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_45_R2",
+  "reference": "ALT_ALIZE_B_OR_45_R2",
+  "id": "01J1Q4P4SPGZZS4TK0CWMVFXSP",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/it_IT/56423fcaa911a06f0db7eb60db5021f5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/fr_FR/663a13f9a05e84e460606670968ffd05.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/en_US/6b5b95e81817516e3327426ea81740c4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/es_ES/225265bfa15b1a27afbc6755beae1bc2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/de_DE/9693b4d8d6713b46ee1d567ef1881c81.jpg"
+  },
+  "name": "Mobile Armory",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "{J} Create an [Ordis Recruit 1/1/1] Soldier token in my Expedition.  #[Defender] Characters don't prevent my Expedition from moving forward.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-084-F-EN"
+}

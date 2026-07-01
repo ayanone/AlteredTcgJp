@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_54_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5M35J1XBF59S8VCDZ2A5GN6JKG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A9B0WCSN78P4YGC9067B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A9B0WCSN78P4YGC9067B",
+          "text": "I templari garantiscono sempre la sicurezza dell'area."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9CX7J3HFAW8KAB6ZJ3P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A9CX7J3HFAW8KAB6ZJ3P",
+          "text": "393 AC - The Templar steers his mount with grace and skill over the walls of the Crow's Eye. The giant lizard uses the crevices and vines to descend the shaft, letting itself fall at times before jumping again from rock to rock. But it doesn't really seem to bother its crew. Neither the knight nor the squire seem perturbed by the reptile's sudden changes of pace. I signal to my ensign to extinguish the fire and tell the troops to get ready to break camp when the first directives from our expedition leader reach me through the Gestalt. Ah, so the Templar is not a he but a she. I clench my teeth and try not to show my anger to the others, even though they already know that I can't stand Kaaba. Still in the saddle, the Templar stops next to me, removes her helmet, then looks down at me sternly. Her squire behind her can barely mask her smugness.\n\nKaaba dismounts, and her gleaming armor clinks loudly. She looks impeccable, of course. And even though she's clearly proved her worth, I'm not sure I'm comfortable with what this means for our incursion. If there's one word that describes Kaaba, it's ambition. And recklessness is a close second. She narrows her eyes, aware of my disapproval. I give as formal and solemn a salute as possible, while inwardly cursing to myself that she'll force us to go far down without a care for the risks and safety of my troops. And based on our past altercations, she'll definitely put me in a subordinate role to give herself as much authority as possible. I have my answer to the question I was asking myself this morning. This assignment is definitely a curse. I just hope we won't suffer too much for her ambition and pride."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9CF9X34SMCCYPR372VX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A9CF9X34SMCCYPR372VX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9A85147GEGRADASFXNX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A9A85147GEGRADASFXNX",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A9AMBWA3478H0Q62JC35",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A9AMBWA3478H0Q62JC35",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "5M35J1XBF59S8VCDZ2A5GN6JKG",
+      "reference": "ALT_BISE_B_OR_54_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/729433549c40c9898d6e",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldato"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e1e3b32488eb86d9e6a0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_54/JPG/it_IT/a66f522b2eee62cf6813a2211339a382.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_54/WEB_871780355177938f89a0a96ba6f4516a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_54/WEB_5d7000996e5dd224f477ee67c8fc264a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_54/WEB_1f972b94dd3d507b4a7ab49eb66119e0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_54_R2",
+  "reference": "ALT_BISE_B_OR_54_R2",
+  "id": "01JB1YGPBWTPZXT1NTY4H3V3AY",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_54/JPG/it_IT/a66f522b2eee62cf6813a2211339a382.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_54/JPG/es_ES/3cfe67c8a4e973c222f5a36a14267d90.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_54/JPG/fr_FR/fd200adcf175bf93d645a1f232ba146d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_54/JPG/en_US/45c83143b0364f1260d975d2aa92a0f6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_54/JPG/de_DE/4291a2a7372e5878bae7850d58c9a9a7.jpg"
+  },
+  "name": "Templare Aegis",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "#[Esploratore] {2}.# (Puoi giocarmi dalla mano per {2} con \"{h} Mandami nella Riserva\".)  Quando lascio l'area delle spedizioni — Crea una pedina #Robot [Ottonblatta 2/2/2]# nella mia spedizione."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-075-F-IT"
+}

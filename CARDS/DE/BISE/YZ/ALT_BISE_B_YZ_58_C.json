@@ -1,0 +1,156 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_58_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/50PY0NQZ5B8R3BT50J6DHY3A02",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1AC83HVS9GTH65EX0Q87X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1AC83HVS9GTH65EX0Q87X",
+          "text": "In den Tiefen der Stadt scheint etwas Erinnerungen und Gedanken zu verschlingen."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ACAAAWVDPAK0VSZBDNP8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1ACAAAWVDPAK0VSZBDNP8",
+          "text": "393 AC - I keep my wits about me as the evanescent figure floats before me in the air. Seen through my Irises, it reminds me of a candle's flickering flame about to be snuffed out. It's as if something or someone had pierced her spiritual sheath and the ideas that comprise her were oozing out of the lacerations like a gutted gourd. If I do nothing, she would soon disappear and vanish into oblivion. Despite my unease, I probe deep inside myself and sense that my captor is coiling around itself like a rattlesnake. It doesn't seem to want to take control, but is getting ready to do so if danger still lurks. From what I can tell from its behavior, something formidable is responsible for the Lyra's wounds, as if it had wanted to devour her. It's something that has put Maw on high alert.\n\nBut Maw's inaction is approval for what I want to do. I conjure multiple Sigils to act as compresses that I can place on her gaping wounds. Above all, I need to stop the flow of ideas. I collect all that I can of the ones that have already escaped, and put them in vials — and in Maw's mouth, for those he will accept. What could have damaged someone's integrity like that? It's as if something had attacked her deepest identity, loosening the strongest Mana connections to rip out her most basic concepts. Bandaged in Sigils, the Lyra seems to stabilize somewhat. Enough that I can carry her, at least. A portal to the surface and the Nilam Spires opens up in front of me. I don't know if the Cloister's nurses or the Rati can do anything, but it's worth a try…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AC8H8JE82HQ501S9F0SC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1AC8H8JE82HQ501S9F0SC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AC771VH7EF2JPQKQTTNT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1AC771VH7EF2JPQKQTTNT",
+          "text": "LINDIWE"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AC7MYXDAQPNR0ZYA1ZZ3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1AC7MYXDAQPNR0ZYA1ZZ3",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "50PY0NQZ5B8R3BT50J6DHY3A02",
+      "reference": "ALT_BISE_B_YZ_58_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b69f364670dd7c2f46e9",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Unterbrechung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/607e8f04f57949bda809",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_58/JPG/de_DE/db19e0c7e28b07d217ab4f841b489432.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_58/WEB_8588147f26901f2accdd5935a4d5093f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_58/WEB_07fd8a1c8d8fcdbdd902b63adcc5614c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_58_C",
+  "reference": "ALT_BISE_B_YZ_58_C",
+  "id": "01JB1YGPC3BBYBGD2CHXATDXAM",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_58/JPG/es_ES/af7e34a8601ca2e3a528750192546b41.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_58/JPG/de_DE/db19e0c7e28b07d217ab4f841b489432.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_58/JPG/fr_FR/0c34a48ef92a53c2a53a61ded07c0321.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_58/JPG/en_US/78e6cd4b18d3a8d7cfc23a339914e067.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_58/JPG/it_IT/27150e03c9940c1a11dfa012683b1373.jpg"
+  },
+  "name": "Vergänglichkeit",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Schicke einen Charakter deiner Wahl mit Handkosten {X}+{2} oder weniger in die Reserve, wobei X die Anzahl meiner Arkanzähler ist, dann erschöpfe ihn ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)",
+    "ECHO_EFFECT": "{I} Wenn du einen anderen Zauber spielst — Ich erhalte 1 Arkanzähler, bis maximal 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-098-C-DE"
+}

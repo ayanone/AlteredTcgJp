@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_05_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79BWNKNMHXMQWGJHFHV7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME89X9TWXPMVV7H0ZEKBD5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME89X9TWXPMVV7H0ZEKBD5",
+          "text": "En teoría, la transdiferenciación puede continuar indefinidamente, por lo que la medusa es biológicamente inmortal... y físicamente blandita."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89YNCVT36PZM635PC3XX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME89YNCVT36PZM635PC3XX",
+          "text": "The moon will soon be showing its face. I plunge my hand into the water of the pool, watching the ripples slowly spread across its surface. It's time for the jellyfish to come out of their hiding places and fill the diaphanous halls of the Magisterium. You can see them leave the water and take flight when night falls, especially when the moon lights up the gardens with its milky glow, as it will today. It's an amazing and graceful sight... like being in a dream. But for once, I'm wide awake this time and can fully enjoy this wondrous spectacle. The sound of the water echoes through the deserted corridors, as does the starry light coming from the walls and ceiling. I need to cherish the moment and savor this brief experience as much as I can.\n\nA moon jellyfish soon happily swims into the palm of my hand. I feel the stinging bite of its skin, of course, but it's nice to actually feel something... A dull lethargy suddenly takes hold of me, like venom running through me. I take the jellyfish out of the water. My hand is numb, but I can still feel the slimy texture of its mucus. I squint, feeling the torpor spreading through my body and pulling me into a new dream. But before that... I turn to the astral worm that winds around me like a snake. I must feed it, sate its hunger. The Chimaera sniffs the jellyfish. It suddenly swallows it whole to feast on its gelatinous flesh. I watch as it disintegrates the metazoan, digesting the ideas that make it up to extract their Mana. Now that it's been fed, it's time for me to go back to sleep..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89Y0SH8HGSX8ACM60B6N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME89Y0SH8HGSX8ACM60B6N",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89VYXVT3SCW7S76NC7YK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME89VYXVT3SCW7S76NC7YK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89WM45YJJR3NKK1JVVAW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME89WM45YJJR3NKK1JVVAW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79BWNKNMHXMQWGJHFHV7",
+      "reference": "ALT_COREKS_B_YZ_05_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/64e32c2c7eaf7f9974cb",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Espíritu"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c6f1388426d7392fd416",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/80227cb687c146e161ee",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:48+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Moonlight Jellyfish read: \"When I'm sacrificed, if I'm not [FLEETING] — Put me in Reserve.\" Future printings will read: \"When I'm sacrificed, if I was not [FLEETING] — Put me in Reserve.\""
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/7fe1d8de9fcd96092f2f",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:37:48+00:00",
+      "question": "In which order does the effect of Moonlight Jellyfish resolves when it's sacrificed?",
+      "answer": "1. The controller of Moonlight Jellyfish declares they sacrifice it. 2. Moonlight Jellyfish reaction is triggered, depending on whether it's Fleeting or not. 3. Moonlight Jellyfish goes to discard. 4. After the effect that sacrificed it is resolved, Moonlight Jellyfish reaction (or any other reactions still in Limbo at that moment) can be resolved."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/JPG/es_ES/079f306832f193f7518df6fb90b6e193.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_05_C",
+  "reference": "ALT_COREKS_B_YZ_05_C",
+  "id": "01HN5TXRJ92TMD7JT83TQXQRV7",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/JPG/de_DE/eaeb67f256f87638d9c0a57e13cf0dcd.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/JPG/it_IT/19b27044f6e3005c57a5c6ebe2b43fbe.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/JPG/en_US/a7c3f122947596a0c2412e7486034b50.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/JPG/fr_FR/cc52c455d397de382b264c1eff1389aa.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/JPG/es_ES/079f306832f193f7518df6fb90b6e193.jpg"
+  },
+  "name": "Medusa de luz lunar",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "Cuando me sacrifiques, si no tenía [[Fugacidad]] — Colócame en la reserva."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-154-C-ES"
+}

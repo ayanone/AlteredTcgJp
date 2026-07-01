@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_09_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB796H40PTHVWNJGF9T1KM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME82FPHHFXBEFD1TZM6E6M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME82FPHHFXBEFD1TZM6E6M",
+          "text": "Es gibt keinen größeren Segen für einen Baum, als einem Kodama ein Zuhause zu bieten."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82GM3QY1ZYFDRZJ32MHA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME82GM3QY1ZYFDRZJ32MHA",
+          "text": "They can sometimes be seen dozing off in their fleshy bubble. Often they're found near a mistletoe branch, camouflaging within its pulpy, translucent fruits until they hatch. And when the cocoon breaks open, they stretch and then explore the branches of the venerable old trees, sometimes without touching the ground... though they prefer it mossy if they ever do. There were already many of them in the blue forests of Nutsuwa. But here in the Katkera, you could easily spot one or two beneath the canopy at any time, if not a whole swarm of little white figures watching us, curious to know what we were or what we came here to do. According to Turuun, Kodama are spirits of the trees, and seeing them in abundance is a sign of their good health.\n\nWe make our way beneath the leafy canopy, Turuun riding a yak, me riding a mule. Kiddo must be close by, but there's no trace of her around here. Perhaps she's hunting something, or fending off potential predators that got a bit over-ambitious. But I'm not all that worried about it, in the end. The trip here, from the shores of Kirighai to the middle of the forest, has been fairly relaxing. Except, of course, for my aching thighs and rear... Above me, a group of Kodama scamper along a branch, leaning forward to look at me with their big innocent eyes. I sit back against the gear the mule is bearing, then greet them with a cheerful \"hey!\" And as I pass under their little wooden lookout, they answer me with a little wave."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82G5KFQDQG5XD19CNEQS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME82G5KFQDQG5XD19CNEQS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82ERDVHWMJNX6CZ6CTDG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME82ERDVHWMJNX6CZ6CTDG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82F8FM8YZ2ZD9D4FEFEG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME82F8FM8YZ2ZD9D4FEFEG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB796H40PTHVWNJGF9T1KM",
+      "reference": "ALT_COREKS_B_MU_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2a924d16d4c680e611b6",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Pflanze"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3621f4b1d76cc1c6ad6b",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Geist"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/715e861f3f24889ba35a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/de_DE/7e6ecaf5f40ee3a647475f5a7266fc18.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/WEB_4ee0e302955b533864109b389286a7e9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/WEB_d989432d352aa21f26c93ddc7643f83e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/WEB_1d8d1b432aa3b0a9e29fbc78ff63e1f9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_09_C",
+  "reference": "ALT_COREKS_B_MU_09_C",
+  "id": "01HN5TXRQ0BETTPQ34JJC9RXWA",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/de_DE/7e6ecaf5f40ee3a647475f5a7266fc18.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/fr_FR/ed6ed968e1f108d5b38a6837b32b0433.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/en_US/88aac3a505729309f3f89dd5cb54d8da.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/it_IT/3c9f0f20f0b4c2da6706b23040098e64.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_09/JPG/es_ES/f74da28c83aa5eae1913af74e54c0e0e.jpg"
+  },
+  "name": "Kodama",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{H} Ich erhalte [[Schlafend]]. (Am Abend ignoriere meine Statistiken. Während der Ruhepause gehe ich nicht in die Reserve und verliere Schlafend.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-098-C-DE"
+}

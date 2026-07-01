@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_51_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2QV1XF600Q9BXB7KPFMKBH0CXN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4545FN2550WHSXRDWY8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4545FN2550WHSXRDWY8",
+          "text": "Das Design von Designern, um ihnen bei weiteren Designs zu helfen."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A45EJEJA4CG3SD7145B8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A45EJEJA4CG3SD7145B8",
+          "text": "393 AC - I knew I would miss Aby, but I didn't know how much I would miss her, both personally and professionally. Come to think of it, what was she doing now? Did she still put the kettle on as soon as she entered the workshop? Did she still fold her scooter, then lean it against the entryway wall? Had she changed anything in the space we had shared for all those years? I sometimes caught myself turning around to talk to her or to show her something before remembering that she wasn't actually there. And even though I sometimes manifested her Eidolon to run errands and deliveries to the depths, it wasn't the same. Not having Aby around was like having a part of my brain removed. I had got into the habit of routinely showing her all my schematics, to get her opinion, to find out what she would improve. And over the years, her comments had become increasingly insightful.\n\nThat's why I'd needed an assistant. Its design was based on a moon jellyfish, but with flamboyant glasses and a sullen mouth added. Even today, I still wonder what I was thinking when I designed its outer appearance. But looks don't matter; it's what's inside that counts. And the \"Magnum 6\", the cryptex that determines its cognitive abilities, capable of millions of permutations, is probably the most complex I'd ever had to develop. I glance over at it. Its prehensile hands, connected to its body by flexible and incredibly malleable strands, grasp the blueprint and unroll it. It scans the document with its permanent expression of vanity and condescension, which always makes me smile. Then, when it has finished its analysis, a bulb suddenly emerges from its body and flutters above its head. I approach. This is a sign that it has found areas when my design can be improved."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A459CA06T27Y39380ZFQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A459CA06T27Y39380ZFQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A44VPGV6ERG9VTTQBSSG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A44VPGV6ERG9VTTQBSSG",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4502NCC0AR9EKRYXEDW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4502NCC0AR9EKRYXEDW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2QV1XF600Q9BXB7KPFMKBH0CXN",
+      "reference": "ALT_BISE_B_AX_51_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e7706f3ac5b88e138ce1",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingenieur"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2d63bc8d26c457448f6f",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Roboter"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7cd1c6c01e3f77b44333",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/de_DE/1f2b3ddbe669bd13782908d6c05b5b78.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_70b9d2617d7cb71b447301e3fc6791e9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_51_R1",
+  "reference": "ALT_BISE_B_AX_51_R1",
+  "id": "01JB1YGPB21B646E7PKMP22XFE",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/de_DE/1f2b3ddbe669bd13782908d6c05b5b78.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/es_ES/47df40243234d3e861f9a4e6ae825fd4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/it_IT/1eda95a40fdaa4080e0d42989a10f6b5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/en_US/875f5b985fe0fd8515f48512e303cd90.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/fr_FR/d74373c4777af25a06c527befdcc192e.jpg"
+  },
+  "name": "Designer-Drohne",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#{R} Du darfst 1 Zähler von einer Karte unter deiner Kontrolle oder in deiner Reserve ausgeben, um die Kosten der nächsten Bleibenden Karte, die du diesen Nachmittag spielst, um {2} zu senken.#",
+    "ECHO_EFFECT": "{I} Zum Mittag — Wähle eine Aktion:  • Ich erhalte 1 Verstärkung, bis maximal 3.  • {T} : Ich erhalte 2 Verstärkungen, bis maximal 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-004-R-DE"
+}

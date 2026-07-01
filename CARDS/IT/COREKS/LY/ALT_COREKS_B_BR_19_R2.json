@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_19_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77ZXK52XJP5X4XF0RE91",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7Y7VWJD9ASRXWB7HRW72",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7Y7VWJD9ASRXWB7HRW72",
+          "text": "Per scatenare un incendio basta una scintilla."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y8H7AE54T4KCFFJ4CAJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7Y8H7AE54T4KCFFJ4CAJ",
+          "text": "The ground cracks under the pressure of the lava, which starts to belch from the subsurface in incendiary coughs. Dark wisps of smoke whistle as the powerful Jinn melts the cliff side. The Mana I spend on him keeps him manifested as the basalt elementals withdraw, frightened by the liquid fire threatening to dissolve them. I can't help but smile seeing the Jinn shake himself off, wading through the molten streams as though they were a shallow pool of cool water. He's not like the ones I encountered in the Parliament of Ashes. No, this one is much larger, and infinitely more impressive. In a crimson-hued doomsday glow, he makes a barrier with his body, allowing me to ready my next assault—which will hopefully be the last.\n\nAs fierce as the Jinn is, shielded by the metal he himself draws from the molten rock, he won't be enough to scare away the creatures before me. For that, I'll need to do something a little flashier. Within its sheath, my glaive pulsates with the ideas I've imbued it with. The Jinn's glowing mane begins to flicker, like a candle flame dancing before it goes out. Now is the time. I set off as the Eidolon dissipates in whirls of Mana. I capture its residual energy and absorb it, while Surge springs up in turn. As I cut through the fiery plumes the Jinn has vanished into, my Alter Ego charges up my weapon, supporting my blade while I strike. The boulder blocking the Eidolon splits down the middle, the score line streaked with flashes of blue. My sudden strike has had the desired effect. The elementals shrink down to lifeless spheres before tumbling down the slope, out of my reach."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y86D56XT4N601FXR54Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7Y86D56XT4N601FXR54Y",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y74PW5A4Y408KH8YZKQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7Y74PW5A4Y408KH8YZKQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y7HAH9FY778W41BWYX4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7Y7HAH9FY778W41BWYX4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77ZXK52XJP5X4XF0RE91",
+      "reference": "ALT_COREKS_B_BR_19_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c4977afe142fdb3d7104",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Elementale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8b5e7ff7e321c9a095d1",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/42d27a07329c90f38183",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:45+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb).\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb).\""
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/885e5852eae2e1d3859c",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:45+00:00",
+      "question": "What happens if Mighty Jinn is the target of a card that sends it to a player's hand or deck?",
+      "answer": "The controller of Mighty Jinn still has the option of sending it to their Mana zone."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/it_IT/d82c15643a13605697b0df9fcbdd4a7b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_19/ALT_CORE_B_BR_19_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_19/ALT_CORE_B_BR_19_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_19/ALT_CORE_B_BR_19_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_19_R2",
+  "reference": "ALT_COREKS_B_BR_19_R2",
+  "id": "01HN5TXR8KR3DVT8TJQBWBSWJ8",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/de_DE/60a5257fa9ffd18f23ee8e1d0dab4f7d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/it_IT/d82c15643a13605697b0df9fcbdd4a7b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/fr_FR/70e3fd29a4698ec2fa9ea98396b831b8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/en_US/4aae688ef0aded0b477be898e0607be2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_19/JPG/es_ES/6d637f73588b4612126e5659c4914108.jpg"
+  },
+  "name": "Grande Jinn",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MAIN_EFFECT": "Se lascio l'area delle spedizioni — Puoi mettermi nell'area del mana del mio proprietario."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-049-F-IT"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_49_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/47YKNJE12C8S096E79EHB304SH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A43DSG4RFCF0HV6EF70M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A43DSG4RFCF0HV6EF70M",
+          "text": "Originarie delle rovine, queste piccole creature riescono a fiutare la linfa da oltre un chilometro di distanza."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A43P2NQJ7C4XYVMPK0W1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A43P2NQJ7C4XYVMPK0W1",
+          "text": "393 AC - Sitting down in my workshop, I gather up my notes. The soft mechanical hum of the mobile laboratory makes me feel like I'm a bee in the middle of a hive. Rossum is waiting for my directions to continue our experiments on Sap. I'm hoping to find ways to improve the quality of prostheses and implants, including replacing the use of Kelon and increasing their durability. I'm lost in these thoughts when the door flies open. A prospector crashes in, trying to rein in one of those strange local animals similar to a mole, which he has at the end of a leash. The man seems exhausted, while the animal is overexcited. Completely ignoring me, the creature's owner promptly places some containers of Sap on my desk, then rushes over to the animal to feed it a drop of his harvest. The Sniffer, as we call these mole-creatures, calms down immediately, sits down on its hindquarters, and looks at its master with wide eyes through its protective goggles.\n\nWhile Rossum deals with this new shipment of Sap, which I'll use for my research, I ask the man about his four-legged partner. The man is all too happy to teach something to a scientist, and proceeds to describe the Sniffer's character. This little ball of fur, with big claws for digging and strong teeth for gnawing thick roots, is a specialist in detecting sources of Sap. Its kind are so partial to the substance that they are sometimes willing to take great risks to reach a place that might have some. The prospector tells us about several occasions when the Sap Sniffer was all too eager to climb into some dangerous places among the engraved stones deep within the city, just to savor a few amber drops. As we talk, I notice the man watching his partner out of the corner of his eye. The Sniffer is showing signs of impatience. Mumbling, the prospector picks up the leash and bids me a hurried farewell, before being pulled forcefully to the exit by his furry friend. The whole scene leaves me puzzled, and I wonder if the Sniffer has developed some kind of addiction to Sap."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A43JF2516703RVR775Z0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A43JF2516703RVR775Z0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A43436FB4KSYERA64T3M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A43436FB4KSYERA64T3M",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A439CAD08T00HCZM51XE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A439CAD08T00HCZM51XE",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "47YKNJE12C8S096E79EHB304SH",
+      "reference": "ALT_BISE_B_AX_49_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/630fb7fe252969990b0f",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4c13673b3fe1c23e086b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_49/JPG/it_IT/856413de89e4622fdf7df42d33d35fa7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_49/WEB_7920c7f27026d2395df9edcf7d0d2d0e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_49/WEB_8901d2b94077bb67e069887bee623a8b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_49/WEB_3c4cd089047567bd9b228353247662c3"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_49_C",
+  "reference": "ALT_BISE_B_AX_49_C",
+  "id": "01JB1YGPAYJYTDHWRABSJMRM4K",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_49/JPG/de_DE/706a6184e210f3274f185085d7e10203.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_49/JPG/it_IT/856413de89e4622fdf7df42d33d35fa7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_49/JPG/es_ES/ad5380a2eb2b22e0a39236333fa5fc2d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_49/JPG/fr_FR/18a1ce2242c175bd2292900b340e8521.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_49/JPG/en_US/9f3dc8bbecce1143c85867512f97d239.jpg"
+  },
+  "name": "Fiutalinfa",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{R} Puoi [Accrescere] una carta bersaglio in gioco o nella Riserva. (Se ha dei segnalini, ne ottiene un altro. Il bersaglio non può essere una carta eroe.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-003-C-IT"
+}

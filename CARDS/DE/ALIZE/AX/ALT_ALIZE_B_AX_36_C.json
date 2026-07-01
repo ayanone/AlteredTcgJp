@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_36_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1GH5GQKEXR8TJ95KFBRANDT3SE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23855VXFW1D68DHJ8ADQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23855VXFW1D68DHJ8ADQ",
+          "text": "Sitzt gerne mal hoch zu Walross."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J238K7Z0GV6BXNCZSB6QA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J238K7Z0GV6BXNCZSB6QA",
+          "text": "Los, beweg dich schneller, Bash. Schneller! Meine Oberschenkel schmerzen, während ich durch den Pulverschnee renne. Wir sind schon fast den ganzen Tag marschiert. Ich renne auf das brechende Eis zu, das weiterhin beunruhigende Knackgeräusche macht. Ich fluche leise, während ich über die Oberfläche des Sees schlittere. Bei einem Blick nach hinten sehe ich Treyst, der am Ufer stehen geblieben ist. Sein großes Metallbiest kann das Eis nicht betreten. Auf keinen Fall. Das wäre definitiv eine schlechte Idee. Mithilfe meiner Hände gleite ich auf das klaffende Loch zu, das im Eis entstanden ist. Mein Herz zieht sich zusammen, als ich die öligen Wellen und die unendliche Dunkelheit sehe, die darunter lauern. Eine junge Frau mit Schlittschuhen erklärt, was passiert ist. Ein Kind. Es fiel hinein. Und verschwand … Ich beiße die Zähne zusammen. Mehr muss ich nicht wissen.\n\nMarmo umkreist das Loch und wartet darauf, dass ich ihm helfe. Ich tippe auf mein Konstrukt, um ihn mit einer Hitzehülle zu umschließen. Er springt in das Loch. Ich schließe die Augen und begebe mich in seine Sinneswelt hinein. Ein Strom kleiner Blasen perlt in Richtung der Wasseroberfläche. Mein Alter Ego schaut sich um, kann aber in der Dunkelheit nichts erkennen. Wir werden Hilfe brauchen … Meine Finger ordnen die Schaltflächen auf dem Konstrukt immer wieder neu an und plötzlich erscheint neben meinem Hund ein Walross, komplett mit einem Sonar und allem, was es braucht, um das kleine Mädchen zu orten. Über mein Gerät sende ich ihm Anweisungen und sehe dann zu, wie es in die Tiefe abtaucht. Mithilfe seines Sonars erkundet das Tier das eisige Wasser. Beeile dich, denke ich. Die Uhr tickt, jede Sekunde zählt …"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J238CTKGGDEE2B0CNW7SC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J238CTKGGDEE2B0CNW7SC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J237NDVH4DXCYPQYC7QF5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J237NDVH4DXCYPQYC7QF5",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J237X45VGSWSX9798JE7F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J237X45VGSWSX9798JE7F",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1GH5GQKEXR8TJ95KFBRANDT3SE",
+      "reference": "ALT_ALIZE_B_AX_36_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a5ea85db847bbd46c468",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Tier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/59e91e16342e4aeafe5b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/de_DE/14c2cb0a2bc017873a39f766f1a0bb7f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_f19f852f32dcd62f58bf88d9bcff629a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_0d8e4fe28ad0da293d9ee31050b6a45d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_56600599345217988c93472f2ae7de3d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_36_C",
+  "reference": "ALT_ALIZE_B_AX_36_C",
+  "id": "01J1Q4P4RPMZ8VWX4YR153F1YR",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/es_ES/6f30c8cac72caad4fdb0ce5034b5f40f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/fr_FR/4be47b07f8650b8ac6a5a1d42cf993cb.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/de_DE/14c2cb0a2bc017873a39f766f1a0bb7f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/it_IT/f8a194130e7c8917a66c44ca71d02f38.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/en_US/5af141067c63c446510ee2d6fda35756.jpg"
+  },
+  "name": "Walross-Späher",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-007-C-DE"
+}

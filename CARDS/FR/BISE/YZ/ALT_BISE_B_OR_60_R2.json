@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_60_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0FCHNQPTAQ9CVBM76JXZED0XX6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1AA3322DAHNQYZ8E5XM9V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1AA3322DAHNQYZ8E5XM9V",
+          "text": "Engagez-vous, rengagez-vous, vous verrez du pays !"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA3VDCHFDVKR2TKFEZT8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1AA3VDCHFDVKR2TKFEZT8",
+          "text": "393 AC - Je roule des épaules, fais quelques vocalises et détends mes maxillaires pour me mettre en condition. Nosk se place devant moi, se repositionne légèrement, à la recherche du meilleur angle de vue. Bref, il s'agite dans tous les sens comme à son habitude, et je me contente de sourire poliment, même si ses tests incessants m'irritent quelque peu. Il me demande de me décaler, et je fais un pas de côté, près de l'affiche promotionnelle. Bon sang, pourquoi est-ce qu'ils ont fait appel à moi pour ce foutu clip de recrutement ? Sans doute pour mon charisme indéniable et mon sourire ravageur. Même si l'ordre était venu de l'Amirale Singh, ça ne sentait pas sa patte. Probablement une directive politique, venant d'encore plus haut. Il était clair que l'Effort de Redécouverte avait besoin d'un peu de sang neuf, et surtout de plus de contingents et de réservistes. Bref, je dois faire bonne figure, surtout que c'est en direct.\n\nJe regarde par-dessus l'épaule de Nosk, et vois Sunisa en train de se bidonner. Vas-y, moque-toi. Mais subitement, Nosk lève le pouce en l'air pour me signifier que tout est prêt de son côté. Il lance le compte à rebours de la main. 3, 2, 1... Je me pare de mon air le plus charmeur, en attendant son second go. Toute la première partie, c'est lui qui va diffuser des souvenirs de scènes dont il a été témoin, soigneusement cataloguées et montées dans son propre esprit. Nouveau signal de sa main. C'est à mon tour. C'est parti. Prenez-en de la graine. Je me mets à réciter mon texte, gonflant le poitrail. Les épreuves du Storhvit, la découverte de la Cité des Sages. Un tournant historique, une consécration, une première étape, blablabla. \"Partir où personne n'est allé avant. T'engager, pour le futur. Étendre ton horizon. Dépasser tes limites. Toi aussi, tu peux participer à l'aventure. Rejoins-nous. L'Effort de Redécouverte a besoin de... moi.\" Je vois Nosk lever les yeux au ciel et se saisir le front. Sun se met à se tordre de rire. Et soudain, je réalise à quel point j'ai merdé."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA3FWJS84RSCT6JN3WB8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1AA3FWJS84RSCT6JN3WB8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA2AK0SVQVFJZ7AJPEWX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1AA2AK0SVQVFJZ7AJPEWX",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1AA2P89D0YFWDW1BBEM2R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1AA2P89D0YFWDW1BBEM2R",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "0FCHNQPTAQ9CVBM76JXZED0XX6",
+      "reference": "ALT_BISE_B_OR_60_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9dff486c1411149275af",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manœuvre"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/89441fc7fab4bdd65295",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/fr_FR/cd2bd9f9952000754c4b103ea3e610dd.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/WEB_2b9cd82c8bf91d8ec3d72bdff5357687",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/WEB_72cc4eccabbcd9acbb1add2c6bff7306"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_60_R2",
+  "reference": "ALT_BISE_B_OR_60_R2",
+  "id": "01JB1YGPBYGVH2ZFZ80GRGCRMJ",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/it_IT/bd806af9db8c256cbf7fb6d2508ea30f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/de_DE/cd9aa8d7048088bf45cd144d15dd99b3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/es_ES/e78591a61c237b5d1082870caac372bf.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/en_US/bce538c37b542d6110e98f4bc0096be3.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_60/JPG/fr_FR/cd2bd9f9952000754c4b103ea3e610dd.jpg"
+  },
+  "name": "Conscription",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "#[Rafraîchissement].# (Si je vais en Réserve après la résolution de mon effet, épuisez-moi {T}. Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)  Ciblez une Expédition. Créez-y X jetons Soldat [1/1/1 Recrue Ordis], X étant le nombre de cartes en Réserve d'un joueur ciblé."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-081-F-FR"
+}

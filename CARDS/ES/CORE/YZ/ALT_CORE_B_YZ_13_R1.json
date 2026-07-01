@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_13_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50D8G6FATHYM31QA6SNP",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH64QV66G24GQ4ZCQK7AFB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH64QV66G24GQ4ZCQK7AFB",
+          "text": "«Tu turno de ayudar»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64S21RS59T86GRYZXNNG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH64S21RS59T86GRYZXNNG",
+          "text": "After the crisis has passed, the Initiate asks me to leave so that my sister can rest. But as soon as I leave the room, I burst into tears on the doorstep. This is all my fault. She fell ill because of me. I stay there a while, listless, until I finally stop sobbing. No one disturbs me. There's no one else in the Cloister at this hour anyway, other than a few nurse-mages. I feel so powerless, so inadequate. Not a single cure has worked: none of the poultices, balms, or pills. I'd give anything to help Kumari, but I don't know what to do. I know nothing about magic. But I think I'll go mad if I don't do anything to make her better. I swear I'll lose my mind the next time someone tells me to let it go and accept the situation.\n\nSuddenly, a light out of nowhere makes me look up at the wall across from me. Some sort of oddly colored soap bubbles burst out of the dividing wall. Then a figure leaps out of the wall, landing on her rear end as if she'd been catapulted several feet. She rubs her bruised buttocks, then realizes that I'm staring wide-eyed at her. Alice. She instantly smiles at me, then plunges her hand down her neckline to pull out a bizarre creature, some sort of cross between a caterpillar and a water bear. Then she quickly fixes her blond hair, dusts herself off and jumps up before holding out her hand to me. I take it, though I have no idea where she might want to take me. She picks me up and, without letting go, lets herself fall backwards, dragging me down with her. The ground opens up beneath us and swallows us whole."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64RF4BKCEDB3RWTYQN7X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH64RF4BKCEDB3RWTYQN7X",
+          "text": "Created by Lewis Carroll, Alice is the heroine of the children's book Alice's Adventures in Wonderland and its sequel, Through the Looking Glass. When she is just seven years old, Alice follows a white rabbit to its burrow and falls down a hole that leads to Wonderland. There she embarks on a series of mind-bending and extraordinary adventures, meeting a long list of colorful characters including the Hatter, Dodo, Cheshire Cat and the evil Queen of Hearts."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64PJTNRNDE1AFF0H3ZTD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH64PJTNRNDE1AFF0H3ZTD",
+          "text": "Akesha"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH64Q6EHTD8DG2JWYYDA0K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH64Q6EHTD8DG2JWYYDA0K",
+          "text": "385 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50D8G6FATHYM31QA6SNP",
+      "reference": "ALT_CORE_B_YZ_13_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4378db3b4746ae19ce8e",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Ciudadano"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d5796ddbf341238ecc0a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/JPG/es_ES/16d684590394bb9bfd3767171bec9981.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/ALT_CORE_B_YZ_13_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/ALT_CORE_B_YZ_13_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/ALT_CORE_B_YZ_13_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_13_R1",
+  "reference": "ALT_CORE_B_YZ_13_R1",
+  "id": "01HKAFJP25Z3FDKVPFZ4WXVFQG",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/JPG/en_US/edf9e2af00919d193afa5813159df569.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/JPG/de_DE/325b8a74526938a5d482da413638c29a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/JPG/es_ES/16d684590394bb9bfd3767171bec9981.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/JPG/it_IT/179dda69f40067a49fff24fefffcf5d5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/JPG/fr_FR/5d92c3948e91997ceace67bf7f820857.jpg"
+  },
+  "name": "Alicia",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "#3#",
+    "FOREST_POWER": "#3#",
+    "ECHO_EFFECT": "{D}: [Después de ti]. (Descártame de la reserva para acabar el turno como si hubieras jugado una carta.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-162-R-ES"
+}

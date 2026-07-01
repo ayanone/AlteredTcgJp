@@ -1,0 +1,162 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_37_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4KEH4V468N9N3ST477HQT2TSRJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2B1BATE5NMS7VB03ABMM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2B1BATE5NMS7VB03ABMM",
+          "text": "Un poder olvidado aguarda su despertar."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2B365R3YNDCD7FPEQVEN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2B365R3YNDCD7FPEQVEN",
+          "text": "Ahora, el camino está despejado. He vislumbrado la vía hacia la victoria. Tendré que recurrir al poder combinado de la fonomancia y la cinemancia para detectar eficazmente su llegada y abatirlos en pleno vuelo, utilizando todo cuanto tengo para proteger al resto del cuerpo de exploración. Así pues, cierro los ojos y escucho el aullido de la tormenta de nieve. Empiezo a aislar el sonido del viento anulando los gritos de los guerreros y el repiqueteo de las garras sobre los escudos. Allí, en medio del tumulto, una fina corriente de aire atraviesa la vorágine como un alambre caliente un bloque de mantequilla. Por allí, uno de ellos se eleva como un halcón y observa a su presa desde las alturas. Empiezo a interpretar los sonidos que me rodean y, lo que es más importante, a distinguirlos de la maraña de otros ruidos que me envuelven. Utilizando polillas de maná en puntos específicos del cuello de botella, puedo atraer a los Belisenki a donde yo quiera.\n\nRecurro a la eidomancia para manifestar extremidades fantasmales, que luego utilizo para trazar gestos más complejos en el aire. Domaré la tormenta que utilizan como cobertura y la convertiré en su mortaja. El viento que los cobija se convertirá en la herramienta de su destrucción. Ráfaga. Uno de ellos se hace pedazos y su cuerpo vuela por los aires, arrastrado por el tornado que estoy formando. Hielo. A otro se le escarchan las alas y se precipita hacia el suelo antes de ser absorbido por el torbellino. No sé cuánto tiempo podré seguir así. El maná se me escurre entre los dedos como arena. Veo que Akesha me mira, se protege la cara y me grita algo que no logro oír. Me doy cuenta de que el huracán sigue creciendo, de que escapa a mi control. No solo arremete contra mis enemigos, sino también contra aquellos a los que intento proteger. Al fin lo comprendo. Algo está alimentando mi poder y precipitando una reacción en cadena."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2B2QGPRSN2XBKYWT4ZJP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2B2QGPRSN2XBKYWT4ZJP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2B06NYPWGEF2E0WF046Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2B06NYPWGEF2E0WF046Q",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2B0VZ4JJSR4H97HNB7NN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2B0VZ4JJSR4H97HNB7NN",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "4KEH4V468N9N3ST477HQT2TSRJ",
+      "reference": "ALT_ALIZE_B_YZ_37_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d4e87ae32c4a1b34880c",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disrupción"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a7b7e3acd9b7e629b405",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maniobra"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5fc29086b9572433af28",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/es_ES/bf7453dc39962f9e37c948b870cac349.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/WEB_5c0d4932c8e1f4ed3f66013d6fa87ced",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/WEB_3b0931125661939b3d75ac48d30ad665"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_37_R1",
+  "reference": "ALT_ALIZE_B_YZ_37_R1",
+  "id": "01J1Q4P4STVYKQPX3X8SF0WVA7",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/de_DE/7d4d022a1fc847f5f1551c908259f1a4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/en_US/0e5b792c3a5f6893fd457d610d9f5ae6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/it_IT/07b1c7dc6d8e75dc4b8b1a5d3796cbf6.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/es_ES/bf7453dc39962f9e37c948b870cac349.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/fr_FR/21a14d10d7d95678efdeee1664b685bc.jpg"
+  },
+  "name": "Onda invernal",
+  "elements": {
+    "MAIN_COST": "8",
+    "RECALL_COST": "8",
+    "MAIN_EFFECT": "[[Fugacidad]].  Elige tres opciones. #Puedes elegir la misma opción varias veces:#  • Agota hasta dos cartas en reserva.  • Crea dos fichas de ilusión [Polilla de maná 2/2/2] en una expedición objetivo.  • Descarta un permanente objetivo.  • El jugador objetivo sacrifica un personaje."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-099-R-ES"
+}

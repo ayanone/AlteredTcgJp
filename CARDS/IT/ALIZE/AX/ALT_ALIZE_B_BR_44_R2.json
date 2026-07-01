@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_44_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1T4SBR2ZWV8QRR1QPAK2XD1EFJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24R54084YYNF27X2TN89",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24R54084YYNF27X2TN89",
+          "text": "Non esiste la fortuna. È tutta una questione di preparazione."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24RRTMHRAMV2VN12R43W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24RRTMHRAMV2VN12R43W",
+          "text": "Ammetto di essere curioso. Molto curioso... forse anche troppo! Ma ehi, siamo quello che siamo, giusto? Così, quando ho visto Skadi abbandonare con noncuranza la borsa dell'attrezzatura vicino all'accampamento e andare a fare una passeggiata, beh, mi è sembrata un'occasione troppo ghiotta. Un rapido sguardo a sinistra, poi a destra. Non c'è nessuno. E così inizio a rovistare tra la sua attrezzatura. All'interno, trovo molti oggetti che probabilmente usa per la caccia e la vita in montagna. Corda, moschettone, cote... Ma c'è qualcos'altro che attira immediatamente la mia attenzione: un paio di stivali. Sono di colore rosso vivo, hanno una forma strana e non vedono l'ora di essere provati. E poiché sono molto educato, non posso dire di no. Cosa mai potrebbe andare storto? E poi, devo sapere se sono del mio numero. Senza ulteriori esitazioni, infilo uno stivale. Sembra adattarsi al mio piede, espandendosi in lunghezza e larghezza per avvolgerlo come una calza. Wow, sono comodissimi!\n\nUna strana manopola sulla caviglia si accende e lampeggia di rosso. Certo, Kojo, devi sempre premere le manopole rosse lampeggianti. Forse regola la temperatura? Uno stivale riscaldato: sarebbe fantastico! Chissà com'è piacevole... Giro la manopola per vedere cosa succede. Da sotto la suola, spunta una serie di speroni. È questo che fa? Non si riscaldano, ma è comunque una cosa interessante: questi ramponi da alpinismo possono essere molto utili. E poiché non posso farne a meno, mi metto a cercare altre funzioni nascoste. Giro la manopola di un'altra tacca. Woosh! Una fiamma a forma di lama fuoriesce dal centro della suola. Mi sposto leggermente indietro per la sorpresa. Wow, è un pattino da ghiaccio? All'improvviso qualcuno mi dà un colpetto sulla spalla e capisco di essere stato beccato. Quell'arpia di Skadi ha le braccia incrociate sul petto e mi lancia uno sguardo di disapprovazione."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24RE24SQKGSV6ARKSQN9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24RE24SQKGSV6ARKSQN9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24QHV218S11SYSWARZAZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24QHV218S11SYSWARZAZ",
+          "text": "KOJO\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24QWMVAZAX11FVDY9JG4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24QWMVAZAX11FVDY9JG4",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "1T4SBR2ZWV8QRR1QPAK2XD1EFJ",
+      "reference": "ALT_ALIZE_B_BR_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanente Spedizione"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c34b6d7872b0c1ad9cca",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Dotazione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/56889342cdc87a6ae4ba",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/it_IT/16f0c01bc845299fc39ed8ffbb4bcd4a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_279571b768bb272a3ff12c59a0520f95",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_7035156d55cac81037a43930cb962eb4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_44_R2",
+  "reference": "ALT_ALIZE_B_BR_44_R2",
+  "id": "01J1Q4P4S494FQQRQ8V7F8JMWW",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/it_IT/16f0c01bc845299fc39ed8ffbb4bcd4a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/de_DE/6a4f2c54b447e3a77796654b27a3bda9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/es_ES/18af88931b029be26476839a5568344b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/a7e3aaf11b996e002543e0fda2b36aef.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/fr_FR/e77f9fd77312c1586662c1bbeb6be088.jpg"
+  },
+  "name": "Scarponi Tecnici",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "#{R} [Rifornisci].# (Metti la prima carta del tuo mazzo nella Riserva.)  Quando la mia spedizione avanza — Un personaggio bersaglio nella mia spedizione perde [[Fugace]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-031-F-IT"
+}

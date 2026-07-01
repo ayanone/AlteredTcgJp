@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_35_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7YX7GEDV6A9PSRFB68WG4Y0DBR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J236Q7FB3W3CQ0CZHXCHR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J236Q7FB3W3CQ0CZHXCHR",
+          "text": "La energía y la persistencia lo conquistan todo."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2379ZJFXP8F44VB4QTNK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2379ZJFXP8F44VB4QTNK",
+          "text": "Vaike Swiftwater… La mujer guía al grupo a través del paso nevado, usando de vez en cuando su cañón térmico para derretir la espesa nieve del camino. El cielo está nublado y sopla un viento intenso y frío. Resulta extraño ver a su eidolon aquí, en este paisaje helado, en lugar de dentro del Athanor. De unas décadas a esta parte, toda Asgartha y casi todas las tecnologías de Axiom se han adaptado para utilizar la fuente de energía que había descubierto ella. En muchos sentidos, también le debo poder usar parcialmente las piernas… Levanta el brazo para protegerse la cara de los gruesos copos de nieve que caen del cielo. Con un movimiento de muñeca, Vaike enciende su cañón de aire caliente para derretir el hielo y despejar el camino para nuestros vehículos. Con su ayuda, no fue difícil convertir el calentador kelónico simple que nos habían enviado en un cañón térmico mucho más útil.\n\nCuando el tiempo sea más apacible y el entorno más transitable, tal vez materialice una aeronave para terminar el viaje, aunque no me resulte especialmente agradable. Me concentro para discernir en qué dirección se ha ido Rossum, pero antes de lograr conectarme con él, oigo de repente a alguien gritando. Escucho con atención y vuelvo a percibirlo a través del aullido constante del viento. Es una llamada de socorro. Entrecierro los ojos y me limpio las gafas, que no paran de empañarse. La voz procede del lago que se extiende frente a nosotros, helado y azotado por la ventisca. Hay varias figuras sobre el hielo. Hago una seña a Vaike, que sube un nivel la potencia del cañón. También veo a Bash salir corriendo. Y por una buena razón: no hay tiempo que perder."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2372V0QT3SC1D2V90T73",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2372V0QT3SC1D2V90T73",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2368SVP509EW8K6N19TA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2368SVP509EW8K6N19TA",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J236GQ2HZ6JNADXHHVRYN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J236GQ2HZ6JNADXHHVRYN",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7YX7GEDV6A9PSRFB68WG4Y0DBR",
+      "reference": "ALT_ALIZE_B_AX_35_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/13db6c101ddd9ab0ab5c",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingeniero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4e171a74d27ffb7a4a84",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/e8ae3633d2cf9571477f",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:20+00:00",
+      "question": "When I play an Exhausted Character or Permanent from Reserve thanks to Vaike, does it arrive in the Expedition/the Landmark zone ready or exhausted?",
+      "answer": "Ready!"
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/es_ES/b5c849fff4770e13cb1459b1589ca12b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/WEB_fb2e5c6674c581da280d09951941ea7c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/WEB_c9b9e6617652694111d0e7a9d4bc60ee",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/WEB_faf38f5d933835bd0b6eaae0860e3ab3"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_35_R1",
+  "reference": "ALT_ALIZE_B_AX_35_R1",
+  "id": "01J1Q4P4RPMZ8VWX4YR153F1YJ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/it_IT/4da564782247e93e6a533e414f9648dd.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/es_ES/b5c849fff4770e13cb1459b1589ca12b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/fr_FR/7792ebfbd2e968029ae81176bd8950de.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/de_DE/17b9e50bec32d7e4ddeddb2990874199.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/en_US/65507603f178e3d4f7d460a6ff515715.jpg"
+  },
+  "name": "Vaike, pionera de la energía",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "#1#",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "Puedes jugar cartas agotadas de tu reserva.  #{R} [Reabastece y agota].# (Coloca la primera carta de tu mazo en la reserva y luego agótala {T}.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-005-R-ES"
+}

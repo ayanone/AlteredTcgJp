@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_60_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7KX1E9SH8C850RZXP345SMVVAQ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4DZMD1K384BDA2D7P21",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4DZMD1K384BDA2D7P21",
+          "text": "Das Harz fließt durch die Stadt wie das Blut durch die Adern eines Sterblichen."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4EBMMD2GD1N8RYDJXC1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4EBMMD2GD1N8RYDJXC1",
+          "text": "393 AC - Marmo wakes me. I must have slept through my alarm. I quickly put on my suit and head out without grabbing a coffee. I know the supervisor was counting on me being there at dawn. The first containers of Sap were supposed to go out this morning. As I rush to the refinery, I hear the mechanical rattle of chains hauling out cylinders full of processed Sap. The delivery teams are stacking the carefully packed crates, ready to be sent to the various sites: the farm, mess, airfields, factories and workshops. I notice amber glimmers emerging from the ground. I climb the ladders and hurry across the newly riveted steel platforms. Everything has been recently installed and is shiny, sparkling and new — the fruit of Axiom expertise. It's a technical marvel that honors the whole Faction. I descend the stairs four steps at a time and arrive at the end of the production line.\n\nAs usual, the supervisor is on the mobile platform. He consults his readings and compares them with the data displayed on the various screens. I gesture to him, a sort of silent apology for being late. He shoots me a quick smile, then returns to his checking. It looks like everything has been going well, even without me. I take the opportunity to check the production automation mechanisms. The technicians have done a great job. Transforming this Kelon refinery into a Sap refinery was a spectacular achievement! And that's in addition to the raw-material pumping installation that plunges down into the City of Scholars to bring up the precious liquid. I imagine all the collectors placed at different strategic locations in the Undergrowth or the Tomb… And all of it fussed over by an army of dedicated technicians. With all this Sap flowing, the City looks like a new beating heart."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4E530N4WQR9E1YMK1J9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4E530N4WQR9E1YMK1J9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4DM9J17RAHV34RQKFNQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4DM9J17RAHV34RQKFNQ",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4DSY3TZ20DQD9DFJDFA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4DSY3TZ20DQD9DFJDFA",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "7KX1E9SH8C850RZXP345SMVVAQ",
+      "reference": "ALT_BISE_B_AX_60_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Bleibende Wahrzeichenkarte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/821d319984080d538d6f",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Konstrukt"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f0cb31dd1600426a9d1e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/de_DE/3096a939a29cd20d447090c82b66bc3f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/WEB_8edf91f59624fa823b9f861c4a60d0b8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/WEB_92d1bdca5e48d8f7e7aa444c0e0dfcb2"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_60_R1",
+  "reference": "ALT_BISE_B_AX_60_R1",
+  "id": "01JB1YGPB6T61E0YAFG5S1GH8P",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/it_IT/41fa2a9cc87e96dc6e5bd8a4b78a3a5a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/de_DE/3096a939a29cd20d447090c82b66bc3f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/es_ES/4e7b9bb12b76786374f72568cecaf1cf.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/en_US/7648c74b13a63d83900cc4c4ae395f7f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_60/JPG/fr_FR/a2d66cb842222b58d374243d1f697d59.jpg"
+  },
+  "name": "Harzförderanlage",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "Zum Mittag — [Erweitere] #eine beliebige Anzahl# Karten deiner Wahl im Spiel oder in der Reserve. (Falls sie Zähler haben, erhalten sie 1 mehr. Heldenkarten sind davon ausgenommen.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-015-R-DE"
+}

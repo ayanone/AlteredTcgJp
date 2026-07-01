@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_62_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3KW6ERDZW59EMV08S0E3K7A6CB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4G9TXJ49FJ00WR3PT7G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4G9TXJ49FJ00WR3PT7G",
+          "text": "Il manque l'essentiel : les barres énergétiques Mangez-Moi."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4GNQH81V8GGS0V7T9NY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A4GNQH81V8GGS0V7T9NY",
+          "text": "393 AC - Bon, à y regarder de plus près, ça ressemble à un sac d'écolier. Mais il y a là-dedans tout l'attirail de première nécessité pour une virée prolongée dans les profondeurs. Et surtout, de quoi décamper très vite si la situation vire au critique quand on se trouve en bas. Lampe torche, compas, trousse de secours, rations lyophilisées... Je regarde l'ascenseur remonter vers la surface du gouffre, treuillé par une grue positionnée tout là-haut. Les rails crissent, tandis que notre seul moyen de regagner l'air libre s'éloigne inéluctablement. Je souffle, frappant mes joues pour me reconcentrer sur la tâche à venir. Je sais que les Muna se chargent du Sous-bois, et les historiens Ordis des zones de vie de la Cité. Quant à nous, on va devoir s'aventurer partout pour identifier des filons de Sève. Quand on était dans le froid du Storhvit, on avait pu compter sur quelques contenants du précieux liquide, mais seulement de quoi expérimenter un peu.\n\nDésormais, l'objectif n'était pas d'en faire l'étude, mais d'en collecter le maximum possible pour servir de contrepoint énergétique — au moins temporaire — au Kélon. De la Sève... Je secoue la tête. Et d'arbre-monde, de surcroît... Quand Treyst m'avait transmis les propos d'Arjun, j'ai eu ce moment d'eurêka inversé, où je me suis dit que nous avions tout sous le nez, sans avoir su le voir. À voir sa tête, Treyst se fustigeait lui aussi d'avoir été si aveugle, alors qu'en fin de compte, c'était une évidence. Je vérifie une dernière fois le contenu du sac, en me faisant une note mentale de ce que j'aurai sous la main. Oddball pépie soudain, et je le remarque aussi. Quelque chose bouge, là-dedans. Une petite tête émerge, et regarde autour d'elle. J'éclate de rire. Je ne sais pas s'il cherchait une chose particulière, ou si — comme un chat dans un carton — il s'était dit que c'était le meilleur endroit pour piquer un somme, mais le Scarabot semble un brin décontenancé par ce qu'il voit autour de lui. Pas de chance, petit père. Là, je suis obligée de t'emmener avec moi."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4GF9819PJC76AXYAKNC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4GF9819PJC76AXYAKNC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4FYNAB6AMZ4K7GGN7F2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A4FYNAB6AMZ4K7GGN7F2",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4G3MJ23V1GXGVQAV5GX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4G3MJ23V1GXGVQAV5GX",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "3KW6ERDZW59EMV08S0E3K7A6CB",
+      "reference": "ALT_BISE_B_AX_62_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanent d’Expédition"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/add0559a085b2b8a1531",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Matos"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/59987aec19d7b387a27c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_62/JPG/fr_FR/03352889ef7ced8db9fff69fa938d0a5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_62/WEB_51de9cbe101ea5218950116456bc9686",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_62/WEB_f4f9b4777001018e58d49770394b5a38"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_62_R2",
+  "reference": "ALT_BISE_B_AX_62_R2",
+  "id": "01JB1YGPB7A0J24VFD24R13HK3",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_62/JPG/de_DE/d06a744919ae9a2b161c08b2cc0bd995.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_62/JPG/it_IT/6935fb5a83007b2d57ccd74ed2cfc1f9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_62/JPG/en_US/fd176e83842d837cb510f64583970538.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_62/JPG/fr_FR/03352889ef7ced8db9fff69fa938d0a5.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_62/JPG/es_ES/8f587524558ee63ba540e69202c85631.jpg"
+  },
+  "name": "Cabas à Scara",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "{J} Créez un jeton Robot [2/2/2 Scarabot] dans mon Expédition.  #{R} [Ravitaillez].#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-014-F-FR"
+}

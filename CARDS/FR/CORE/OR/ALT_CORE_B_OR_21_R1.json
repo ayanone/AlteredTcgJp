@@ -1,0 +1,184 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_21_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50AQJYE7KG64TANS195C",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH61A9ETC305EA4EEATSMP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH61A9ETC305EA4EEATSMP",
+          "text": "La justice découle d'une redistribution équitable des richesses."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61BKP9PKBB3QW81XNDZC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH61BKP9PKBB3QW81XNDZC",
+          "text": "Commme c'est ammusant. Un bandit de grand chemmin qui se fait désormmais passer pour un banquier. Hihi, on aura tout vu. Je mme cure les griffes tandis que Waru et l'Eidolon discutent dans l'alcôve isolée du troquet. Et commme d'hab, c'est qui qui mmonte la garde ? C'est bibi. Autour de mmoi, le bar est bondé. On trinque, on parle un peu trop fort, on fait la bringue, on pousse la chansonnette. En vérité, y'a peu de personnes qui semblent s'intéresser à nous. Deux inconnus encapuchonnés et une hermmine dans l'arrière-salle d'une taverne de la breivikensveg... Circulez, y'a rien à voir. Alors je mme contente de siroter ma mmousse et de faire le pied de grue. Ha, autrefois, on disait que Robin des Bois était un grand voleur, dérobant aux riches pour donner aux pauvres. C'était intéressant qu'il soit devenu l'un des argentiers de l'Isura. Avec cette position, c'était sûr qu'il pouvait s'assurer de la bonne répartition des richesses...\n\nÀ travers les oreilles de Waru, j'écoute distraitement ce dont ils causent. Hmmm. Ça négo sévère, là-dedans. Ça parle du fait que l'Effort de Redécouverte va de facto repousser les plans de développemment des villes secondaires du Protectorat — qui en ont pourtant bien besoin —, du fait que l'entreprise est un risque inutile, un investissemment à perte... J'entends Waru titiller Robin au sujet de son passé de brigand, du fait qu'il a pu s'élever au sein de la population... tous les argumments censés provoquer son ire. Hihi, ça semble mmarcher. Tout à coup, je remmarque la paire d'yeux qui les observe depuis le comptoir. Probablemment un espion à la solde d'Avkan. Bien, la seconde phase du plan est en train de porter ses fruits. Hihi. J'avertis Waru de la présence du mmalotru. Pour l'instant, tout semble aller commme sur des roulettes."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61AXGS7SN8B4XMQJ5QD0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH61AXGS7SN8B4XMQJ5QD0",
+          "text": "Héros légendaire du folklore anglais, Robin des Bois est un brigand au bon cœur qui apparaît dans différentes gestes et œuvres littéraires. Depuis son repaire, dissimulé dans la forêt de Sherwood, lui et ses amis – Petit Jean, Frère Tuck et les autres Joyeux Compagnons – détroussent les riches pour donner aux pauvres, et luttent avec acharnement contre la tyrannie instaurée par le Prince Jean et le Shérif de Nottingham."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH619641MVZS5454BXZPEA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH619641MVZS5454BXZPEA",
+          "text": "Mack"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH619QTY3MVD22SFCAPC16",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH619QTY3MVD22SFCAPC16",
+          "text": "364 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50AQJYE7KG64TANS195C",
+      "reference": "ALT_CORE_B_OR_21_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/afff2f168c643c86bc9c",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrate"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/390368044d06e171248f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/9ca8550d0e659b4961b1",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-11-15T10:37:53+00:00",
+      "question": "What happens if a player plays a card for free, such as with The Kadigir, Yzmir Bastion, while their opponent controls Robin Hood?",
+      "answer": "A free card remains free even against Robin Hood!  Playing a card for free means bypassing its cost entirely, which is different from reducing it to zero."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/9cd30e3784d4492442ee",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-11-15T10:37:53+00:00",
+      "question": "Was this card updated ?",
+      "answer": "Yes. The first printing of Rare Robin Hood said  \"#Cards# your opponents play cost {1} more.\"  Future printings will say  \"#Cards# your opponents play can't cost less than {2}. (If they would cost less, they cost {2} instead.)\"\n\nThis change impacts all versions of this effect, including the ones found on Unique cards. Any card that uses the previous wording should be read as if it used the new one."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/16b814fff4c26944e97a",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-11-15T10:37:53+00:00",
+      "question": "If I control Robin Hood, can my opponent reduce the cost of a card using an effect such as Martengale?",
+      "answer": "They can, but if this would bring the card cost under 2, the cost would remain 2."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/fr_FR/cbed1784f0b55a7039c9d334655e0109.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/ALT_CORE_B_OR_21_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/ALT_CORE_B_OR_21_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/ALT_CORE_B_OR_21_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_21_R1",
+  "reference": "ALT_CORE_B_OR_21_R1",
+  "id": "01HKAFJNXT2E6ST9T84CE1NSGF",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/it_IT/f6ebdd88f5118835ae26a5e41ed37b7c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/de_DE/cc16867a46d98dc1c3c081385613a13f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/fr_FR/cbed1784f0b55a7039c9d334655e0109.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/en_US/fb3d78d2c43bd38288369457c032c4bd.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/es_ES/f3bbfeaaaee5facaab3d1d0bef6d22c1.jpg"
+  },
+  "name": "Robin des Bois",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "Les #cartes# jouées par vos adversaires ne peuvent pas coûter moins de {2}. (Si elles coûtent moins, elles coûtent {2} à la place.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-139-R-FR"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_18_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77ZVDNEP3JR7P145XHTG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7Y5RG6NW338G4RV2VJEB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7Y5RG6NW338G4RV2VJEB",
+          "text": "Ever the trickster, always the rebel."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y6G2NK09Z5BGRR2CVPB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7Y6G2NK09Z5BGRR2CVPB",
+          "text": "He taunts me, grinning. I get back up, holding my ribs, unable to tell if he's genuinely smiling or simply provoking me. He stands slumped on his staff, yawning while picking his ear, in a balancing act that would upstage any Lyra acrobat. When we fought, I saw him transform into different animals—boar, buffalo, scarab—to catch me off guard, jump improbable distances, or merely to mock me. I can't find an opening in his posture, nor the slightest ounce of fatigue in his movements. From one moment to the next, he proved to be as elusive as a fish, as perceptive as an eagle, and as agile as a cat. It's as though he had absorbed all the traits of the animals whose appearance he took on: the elephant's strength, the cheetah's speed, the dragonfly's explosiveness…\n\nPanting, I face him again and pick up the glaive I dropped. As there doesn't seem to be an opening in his armor, I'll have to create one. But how? He jumps to the foot of his golden staff, then grabs it as I get back into position, on my guard. But instead of attacking me, he shrinks it down to the size of a cotton swab and sticks it in his ear. Then he pulls out some of his own hair and blows it in my direction. As the hair scatters in the wind, each strand starts to transform into a little simian figure. I step back, encircled by an army of armored capuchins, miniature versions of my opponent. He bursts out laughing at my crestfallen face, then sits on a rock and opens a flask, intent on enjoying the show."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y631PP1NEDFW2S40YHQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7Y631PP1NEDFW2S40YHQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y52EVE0X8GQY1ZZ5XTG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7Y52EVE0X8GQY1ZZ5XTG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7Y5DBJC58SQZNB85YQEW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7Y5DBJC58SQZNB85YQEW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77ZVDNEP3JR7P145XHTG",
+      "reference": "ALT_COREKS_B_BR_18_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6ba223600dad9c4149bc",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deity"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/338bb51bbf338fb50fca",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_18/JPG/en_US/026a1aa6a5626505a3f14f7023e6d302.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/ALT_CORE_B_BR_18_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/ALT_CORE_B_BR_18_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_18/ALT_CORE_B_BR_18_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_18_R2",
+  "reference": "ALT_COREKS_B_BR_18_R2",
+  "id": "01HN5TXR8G4RXR8DDYS5FSEXRF",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_18/JPG/en_US/026a1aa6a5626505a3f14f7023e6d302.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_18/JPG/de_DE/dbd8ff86a6d3a51a5221b6e544e48aaa.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_18/JPG/it_IT/69b798db22bce01be1d733d56c8a4959.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_18/JPG/es_ES/b333ceb7ea4c97684fcf3b83c20e43a2.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_18/JPG/fr_FR/882c465f4e83c553fa11a0f80a3d417c.jpg"
+  },
+  "name": "Sun Wukong",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{R} #Target Character# gains 2 boosts."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-048-F-EN"
+}

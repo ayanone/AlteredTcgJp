@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6KGVTE7EVB82SA753AM8G337EV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J269BFRXKVZND2PE8JKC9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J269BFRXKVZND2PE8JKC9",
+          "text": "La foresta ti dà sempre qualcosa in cambio, se sai dove cercare."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26A18ENRR19VDFQQ61FK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J26A18ENRR19VDFQQ61FK",
+          "text": "392 AC - I raggi del sole filtrano attraverso i rami, formando morbidi giochi di luce e ombra sotto la chioma. Dipingono una vetrata colorata sul terreno, con tenui sfumature di verde e giallo che ondeggiano al ritmo del vento. Allungo il passo e fischio mentre ci facciamo largo attraverso la fitta foresta. Davanti a me, Dea taglia e squarcia senza sosta. Usando le meravigliose zampe anteriori come falci, pota i rovi spinosi e apre un passaggio attraverso la vegetazione acuminata. La seguo e rompo i rami tagliati, rilasciandone il mana per poterlo rinfondere nelle piante che abbiamo ferito. Dietro di me, le piante iniziano a crescere, sbocciare e rifiorire. Dopo il mio passaggio, è come se non avessimo mai attraversato questi rovi e cespugli, come se non fossimo mai state qui. Ora che si è rigenerata, la foresta continua a frusciare con i soliti suoni.\n\nQuando emergiamo in una radura, ammiro il paesaggio intorno a me. Sopra la vegetazione spinosa, sono sospesi frutti grandi e succosi dall'aspetto bizzarro in fitti grappoli giallognoli. Mi avvicino a uno dei frutti, incuriosita. Allungo le mani e Orchidea taglia uno dei gambi, facendo cadere una fila di frutti. Usando l'alterazione, li esamino e studio le idee di cui sono composti. Nessuna traccia di veleno... Rassicurata, sfodero il coltello e ne taglio uno; ne fuoriesce un succo color smeraldo contenente piccoli semi. Lo annuso e poi lecco il succo che mi scorre lungo il polso. La mia bocca viene invasa da un sapore aspro ed erboso. Mmm. Mordo il frutto, domandandomi se si accompagnerebbe bene a piatti di pesce o frutti di mare. Dobbiamo anche trovargli un nome. Qualche proposta, Dea?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J269P22XF735B5FD27EJM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J269P22XF735B5FD27EJM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26863FXMP01QXW80PX1W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26863FXMP01QXW80PX1W",
+          "text": "RIN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J268J2GBYA4XESVZSZM2S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J268J2GBYA4XESVZSZM2S",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "6KGVTE7EVB82SA753AM8G337EV",
+      "reference": "ALT_ALIZE_B_MU_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/105e400c49e9c88715ea",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/it_IT/4a42a513c7b516e6b98a4968fd6fbc73.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/WEB_bba44154012e2f8cad5083b50bbece90"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/HERO_THUMB_060d3e0d9ed85316a76fd7d4086f7aba"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_03_C",
+  "reference": "ALT_ALIZE_B_MU_03_C",
+  "id": "01J1Q6RPQBMRYSMR32993F6MNA",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/en_US/85a07bdebe7385038f28f58148641fca.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/de_DE/72e297ee194fa4f5adc48c0a24ab844a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/es_ES/35f2ece94702db46714f5d6733a2a2f2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/it_IT/4a42a513c7b516e6b98a4968fd6fbc73.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/fr_FR/11c049449ec05a834e981b1dfe2880d9.jpg"
+  },
+  "name": "Rin e Orchidea",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "Quando una delle tue spedizioni avanza per via di {V} — Pesca una carta, poi metti una carta dalla tua mano nella Riserva."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-053-H-IT"
+}

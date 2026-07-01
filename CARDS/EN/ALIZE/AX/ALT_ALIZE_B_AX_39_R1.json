@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_39_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2QR5VA8JR59X4ATJTTE8SA3RQ5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23CZK3QF2MXK66WS8NXC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23CZK3QF2MXK66WS8NXC",
+          "text": "Each construction is a poem, and building is an act of eloquence."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23DERM1KCA53KSRDD57N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23DERM1KCA53KSRDD57N",
+          "text": "I shiver, thinking back to the oppressive heat of the Foundry. Here, in the middle of Storhvit, we're a thousand leagues from that furnace. The orange flames and clanging machines couldn't be further away. Here, everything is white, and silence reigns. I bundle up in my padded coat and kneel on the frame of the damaged Reprocessor. While passing under an icy ledge, the vibrations it creates had caused ice stalactites and heavy scree to come crashing down. Thankfully, from what I can tell, most of the damage is superficial. A few repairs, a lick of paint, and it will be ready to go again. But I don't know if that's the wisest decision. The foreman has given his instructions, but I'm not sure the vehicle will survive the climb up the pass. Plus, its thick tracks have trouble navigating on the snow, especially at this altitude, where the snow keeps piling up day after day.\n\nI look up to the still-cloudless sky. First and foremost, I need to get some maintenance done while the weather's cooperating. I take out my Construct from my satchel and start to reconfigure it. The repair I'm planning will require a bit more Kelon than an ordinary repair, but it will save a significant amount of time. The figure of Vishvakarma materializes next to me, and the god opens his eyes as he spreads his arms. He's clearly the best choice to work on the armored vehicle. With a thin smile on his lips, he sits cross-legged as his tools appear in his oversized, robotic arms. The Reprocessor is in good hands, four of them in fact, thanks to the deity's two pairs of arms. Vishvakarma summons an assembly plan and scans it almost absent-mindedly. He then gets to work in a shower of sparks."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23D7CE3WFWARB4MAH52A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23D7CE3WFWARB4MAH52A",
+          "text": "Regarded as the architect and chief engineer of the universe, Vishvakarma is the Hindu god of artisans and builders. He was the architect of the palace of the devas and crafted all of their chariots and weapons, including Sharanga and Pinaka, the two bows he gave to Vishnu and Shiva respectively. While his creations are mostly physical, it is said that his piercing gaze goes far beyond matter and scrutinizes the abstract mechanisms that underlie reality.\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23CF1GBN8W4V1XJVHY1G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23CF1GBN8W4V1XJVHY1G",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23CRNWZB2VXWPB2Y33N7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23CRNWZB2VXWPB2Y33N7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2QR5VA8JR59X4ATJTTE8SA3RQ5",
+      "reference": "ALT_ALIZE_B_AX_39_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/85c05a1e5b6ed55a27c3",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deity"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0226248780aed52d5272",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_39/JPG/en_US/e994eb228cd757a0aa68f5f17f97a19e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_39/WEB_089e12ce16c8100b68f70132758c0699",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_39/WEB_eaadf03054573c7ec85133712c083100",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_39/WEB_31a5918ccdd6c23f996d55da7f8ab55e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_39_R1",
+  "reference": "ALT_ALIZE_B_AX_39_R1",
+  "id": "01J1Q4P4RTGYQGABCPS4EW548P",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_39/JPG/de_DE/97553af7706a8f775c8b5b09f707f3c7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_39/JPG/it_IT/8eb302644e651a0c4384307c69bae3b3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_39/JPG/es_ES/7dcc48b68498c51acc1a1ff19ae0887b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_39/JPG/fr_FR/acc01d1c74e2260b4f72980323213b2d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_39/JPG/en_US/e994eb228cd757a0aa68f5f17f97a19e.jpg"
+  },
+  "name": "Vishvakarma",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "#2#",
+    "FOREST_POWER": "#2#",
+    "MOUNTAIN_POWER": "#2#",
+    "MAIN_EFFECT": "{J} The next Permanent you play this Afternoon costs #{3} less.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-011-R-EN"
+}

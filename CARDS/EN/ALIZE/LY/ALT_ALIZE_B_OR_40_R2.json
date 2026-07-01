@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_40_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1NYM0Z188492Z9WAR01SPS8S88",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29283215X24MQSHGWK3S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29283215X24MQSHGWK3S",
+          "text": "Fall asleep in the cold, and you might never wake up."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2948JYTZ381CNY2YN2JZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2948JYTZ381CNY2YN2JZ",
+          "text": "I run my hand along the wall of ice and peer through to the other side. Though they're distorted by the thick ice, I can still make out the shapes of an Yzmir warlock and another explorer, trapped on the other side along the shore of a large subterranean lake. I tap on the wall of ice and see the warlock make his way towards me. Mack observes the scene through my eyes and warns me that the man no longer has enough Mana to do anything more than protect himself from the cold. I test the ice between us with my hands. It's as though it appeared instantly, leaving these poor adventurers no time to escape. And the same phenomenon is now quickly consuming all of their warmth, covering their clothes with ice and frost at an alarming rate.\n\nTime is of the essence here. They're both showing signs of acute hypothermia. While the warlock is still managing to stay on his feet, the same can't be said for his companion, who is lying on the ground, his vital signs rapidly weakening. We need to get them out of there now. I signal to the Lyra storyteller, who unwinds a rope to pull out the prisoners once I break the translucent bars of their icy jail. I trace a rough Glyph on the wall. It bears the raw, unsubtle idea of an explosion, and I hope it'll be enough to break through the wall. I can already see new patterns of frost forming on the surface, a sign that the freezing process is still ongoing and that the mass of ice will only grow thicker with time. The warlock shivers, but his eyes are full of hope. I infuse the Glyph with Mana as the storyteller twirls his grappling hook…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J292VJ3CWAQYQVX5TED00",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J292VJ3CWAQYQVX5TED00",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2913RVC4RWM9TYYZX1VT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2913RVC4RWM9TYYZX1VT",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J291N969VTTM157428DD2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J291N969VTTM157428DD2",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1NYM0Z188492Z9WAR01SPS8S88",
+      "reference": "ALT_ALIZE_B_OR_40_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7091585a4495df0643f4",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disruption"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6cb231cd601cbd921608",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/en_US/35d6689c21e612a712d03231cfab5ceb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/WEB_5da96e97aec9961cde03c79e3fe053d9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/WEB_8698b5ee26be342663239a1fbebfb064"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_40_R2",
+  "reference": "ALT_ALIZE_B_OR_40_R2",
+  "id": "01J1Q4P4SN8RYANNFV99ET5V41",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/fr_FR/40bd7f3eb4d234d209d7f9c3e3224559.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/es_ES/13fac7506b30011fdd76a0366a533cc8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/de_DE/4d784f106cbc2f86b5754ba7e8884952.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/it_IT/5b5bde69ac0c6484de1b0cc46a37dbb5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/en_US/35d6689c21e612a712d03231cfab5ceb.jpg"
+  },
+  "name": "Hypothermia",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Each player chooses a Character they control. It gains [[Asleep]]. (You choose first. Ignore the statistics of Asleep Characters during Dusk. At Rest, they don't go to Reserve and lose Asleep.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-081-F-EN"
+}

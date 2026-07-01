@@ -1,0 +1,165 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_09_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7999WTK03NQ38B3XB3B4",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME86G2BVV6SED59EPNKRES",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME86G2BVV6SED59EPNKRES",
+          "text": "Per fortuna non suggella i suoi contratti con un bacio."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86H9WB1HDJ2ZQSYD99CH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME86H9WB1HDJ2ZQSYD99CH",
+          "text": "He leans back in his chair, picks up his golden ball and rolls it between his slender fingers. He reads the letter I've brought him and seems bewildered by its contents. He then examines the Basileus's seal to check its authenticity. It must seem strange that Avkan's most notorious opponent has been nominated to be an Exalt, but many official reasons were put forward. To please the opponents of the Basileus, I myself had offered to be part of the vanguard under the pretext of monitoring the progress of the Expeditionary Corps from the inside. Basically, I would be a mole, a spy in their midst. They even celebrated when we managed to extract this concession, which wasn't really one at all. In fact, Avkan's role was coming to an end. He had maneuvered deftly to make the Rediscovery Endeavor a reality, and it was now my job to ensure its continued success in the field.\n\nAnd Mack would be a valuable asset for uncovering the conspiracies that would inevitably arise in the Ouroboros. The Frog Prince examines me with his bulging and piercing eyes. He grabs his magnifying glass and ensures the document is authentic and not a crude forgery. Then he dips his quill in the inkwell and signs the proclamation's notarial confirmation at the bottom of the page. I smile when he hands me my copy. It's now official: Mack and I are an Exalt. Now it's my turn to bear the burden of our shared ambition. The journey won't be easy, and I'll need to maintain my physical fitness... but that's a small price to pay for the chance to gaze upon the Tumult and the vestiges it must still contain. I regain my composure when I see the Frog Prince's eyes narrow. It would be a shame if he started to suspect the full extent of our machinations..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86GP1FEMZXYSQ29AZAXV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME86GP1FEMZXYSQ29AZAXV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86EXV3NXJF5XX8SK21VP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME86EXV3NXJF5XX8SK21VP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86FGBT4F6HY5GVCDZD90",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME86FGBT4F6HY5GVCDZD90",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB7999WTK03NQ38B3XB3B4",
+      "reference": "ALT_COREKS_B_OR_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2cc6a68d656eb4693987",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Burocrate"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/31851a459f19b4899561",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Nobile"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/91dcea8523c9ac83ba00",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_09/JPG/it_IT/b61944cbc5f4c42059bad5c4391c9dfa.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_09/ALT_CORE_B_OR_09_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_09/ALT_CORE_B_OR_09_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_09/ALT_CORE_B_OR_09_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_09_C",
+  "reference": "ALT_COREKS_B_OR_09_C",
+  "id": "01HN5TXRF7Q3TJMV23TD5N99VP",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_09/JPG/fr_FR/cc10af604f7d90495468410735a999df.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_09/JPG/de_DE/0b17f96623cfe418d01d5e6e4b8274e9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_09/JPG/es_ES/61310585ffb1fe2a357e312110a1c20e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_09/JPG/it_IT/b61944cbc5f4c42059bad5c4391c9dfa.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_09/JPG/en_US/4b7a10e91f2d515a68bdb7c9dcd607c9.jpg"
+  },
+  "name": "Principe Ranocchio",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "0"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-131-C-IT"
+}

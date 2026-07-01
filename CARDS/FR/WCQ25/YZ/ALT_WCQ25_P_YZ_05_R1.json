@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCQ25_P_YZ_05_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1G80VY9WBN9NWT9PMPJR4J016V",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JV4TAWE282P974GMBE8J4465",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JV4TAWE282P974GMBE8J4465",
+          "text": "En théorie, la transdifférenciation peut se poursuivre indéfiniment, rendant ainsi la méduse biologiquement immortelle... et visqueuse."
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4TAWEKYNEG93YNXYCE991S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JV4TAWEKYNEG93YNXYCE991S",
+          "text": "La lune ne va pas tarder à pointer le bout de son nez. Je plonge la main dans l'eau de la mare, regardant de lentes ondes se propager sur sa surface. C'est l'heure pour les méduses de sortir de leur cachette et de venir emplir les halls diaphanes du Magisterium. On peut les voir sortir de l'eau et prendre leur envol à la nuit tombée, surtout quand la lune illumine les jardins d'une clarté laiteuse, comme ce sera le cas aujourd'hui. C'est un spectacle magnifique, plein de grâce... comme dans un rêve. Mais pour une fois, je suis bien réveillée. Suffisamment pour profiter pleinement de cette féerie. Le bruit de l'eau se réverbère dans les couloirs déserts, tout comme la lueur étoilée qui émane des murs ou du plafond. Il faut que je profite du moment, que je savoure autant que je peux cette brève parenthèse.\n\nBientôt, une méduse lunaire nage gaiement jusque dans la paume de ma main. Je sens bien entendu la morsure urticante de son épiderme, mais cela fait du bien de sentir quelque chose... Soudain, une sourde léthargie se met à m'envahir, comme un venin qui se propage en moi. Ma main sort la méduse de l'eau. Elle est engourdie, mais je peux encore percevoir la texture gluante de son mucus. Je cligne des yeux, sentant la torpeur se diffuser dans mon être pour m'attirer dans une nouvelle rêverie. Mais avant cela...je me tourne vers le ver astral qui m'enserre comme un serpent. Je dois le nourrir, satisfaire sa faim. La Chimère renifle la méduse. Brusquement, elle l'avale toute entière pour se repaître de sa chair gélatineuse. Je la vois désintégrer le métazoaire, digérer les idées qui le composent pour en extraire le Mana. Maintenant qu'elle a été nourrie, il est temps pour moi de me rendormir..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4TAWEA1RWAHEW7W5SHYN2K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JV4TAWEA1RWAHEW7W5SHYN2K",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4TAWDJY2JN7PV1Q4RKZ0DH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JV4TAWDJY2JN7PV1Q4RKZ0DH",
+          "text": "Lindiwe"
+        },
+        {
+          "@id": "/lore_entry_elements/01JV4TAWDSE9FNED8XK7HSK5ZA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JV4TAWDSE9FNED8XK7HSK5ZA",
+          "text": "372 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "1G80VY9WBN9NWT9PMPJR4J016V",
+      "reference": "ALT_WCQ25_P_YZ_05_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/56298ea50cf0fcb45396",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Esprit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/WCQ25",
+    "@type": "CardSet",
+    "id": "01JTJS33NQTY6A4RPTM11ARJTX",
+    "reference": "WCQ25",
+    "name": "World Championship Qualifier 2025 - FACTION CHAMPIONS CARDS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b1016c9b9e22320d211c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/fr_FR/f664b8bd3c4e0a3c13066927b7bd9fdd.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/WEB_5ab3006ee55028ad530aeb08d2799882",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/WEB_c7cf263b11dc8bee353de9d1a9918d97",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/WEB_68c6006f18e06f4b2b0049b2f18140b4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_YZ_05_R1",
+  "isOwnerless": false,
+  "reference": "ALT_WCQ25_P_YZ_05_R1",
+  "id": "01JTJT04XPN848S4D3Z0RNRH2W",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/fr_FR/f664b8bd3c4e0a3c13066927b7bd9fdd.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/en_US/0cbab5200ada2477bf5f820f03600730.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/it_IT/d3a460d6d01134a9d046fce02f5a9627.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/es_ES/e43e2ce31eafe86a4590aa136ade1ea0.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/de_DE/db9e1729167a4bce793a9f41fa0f7467.jpg"
+  },
+  "name": "Méduse Lunaire",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "Lorsque je suis sacrifiée, si je n'étais pas [[Fugace]] — Mettez-moi en Réserve.  #Lorsque je suis sacrifiée, si j'étais [[Fugace]] — Piochez une carte.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "WCQ25-06-R-FR"
+}

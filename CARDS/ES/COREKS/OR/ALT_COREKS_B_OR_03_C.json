@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB798RSWMGDK9BY2CPQ3MK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME85TS4R971K6TWQJC7JYM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME85TS4R971K6TWQJC7JYM",
+          "text": "La senda de Ordis es la paciencia y la resistencia."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME85VY7336AHJYKW7AEC0T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME85VY7336AHJYKW7AEC0T",
+          "text": "392 AC - The rain taps against my marble skin; The Kraken roars, emerging from the deep; My great horn sounds, waking all from their sleep; But unlike the trees, I will not bend to the wind; Duty bound, there is no room to waver; The troops move as one without breaking their stride; Be brave and wear your glory with pride; Charge, charge onward with drawn spear and saber; Black sand where the waves crash and foam; O savage waters where threats lurk and roam; Charge, charge, let the hissing serpents fall; So the vile beast sinks into eternal night; And so, finally, hope shines for one and all; Make the hurricane bend before your might… Ha! I suddenly receive a lecture from Gulrang, telling me to be quiet. Is now not the right time for poetry? Just because a formidable enemy stands before us, should we suppress our artistic ambitions? So be it!\n\nStanding upright on my stone pedestal, I blow a long blast into my horn, signaling to the lancers to move. Gul is among them, her heavy pavise raised to cover their advance. She looks at me and gives me a subtle nod. I blast out another note with my instrument, calling all soldiers to get into position. In unison, Lyra percussionists and fife-players begin to play in rhythm, but the performance rapidly descends into a cacophony with all the movement of the troops. Ha! They need a conductor to keep time. I warn Gulrang, and I sense the ideas she channels in return pass through my whole body to flow out into the world. Glyphs meaning \"Coordination\", \"Arrangement\" and \"Harmonization\" appear on my conch one by one. And I blow with all my strength into the horn, with my internal mechanisms acting as bellows, to spread the words to all the troubadours…"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME85VBJXZ5G1N565SVJQYA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME85VBJXZ5G1N565SVJQYA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME85SMH51MCDVXEN59TFFR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME85SMH51MCDVXEN59TFFR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME85T7XPSWH54408K252WN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME85T7XPSWH54408K252WN",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HPMB798RSWMGDK9BY2CPQ3MK",
+      "reference": "ALT_COREKS_B_OR_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héroe de"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4a47a66fa0868a465e75",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b6d529e9ee8b4ebf3d7b",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:37:39+00:00",
+      "question": "What happens if my tokens are Defender during a tie-breaker?",
+      "answer": "In the Arena, Expeditions can't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant. Therefore Defender isn't a drawback anymore."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/5f89d84f5e5f40059c55",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-12-11T10:37:39+00:00",
+      "question": "If a Character is both Gigantic and Defender, for example because I control both Atlas (Rare, Ordis version) and Gulrang & Tocsin, what happens?",
+      "answer": "\"My Expedition\", for a Gigantic Character, means \"my Expeditions\", plural.  Therefore a Defender, Gigantic Character would prevent both their Expeditions to move forward."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_03/JPG/es_ES/31eea6aab1116a6d8cc8b38ee9c4a46a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_03/ALT_CORE_B_OR_03_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_03/ALT_CORE_B_OR_03_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_03_C",
+  "reference": "ALT_COREKS_B_OR_03_C",
+  "id": "01HN5TXREEWJM1S0BVND7MXAEA",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_03/JPG/en_US/6346103868c74bb19f6f8ebcf3903246.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_03/JPG/de_DE/a53fad6db61e8c2057441cf69b29b4bd.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_03/JPG/it_IT/1e0d5dbcd8b13fef97f24811a38ada39.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_03/JPG/es_ES/31eea6aab1116a6d8cc8b38ee9c4a46a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_03/JPG/fr_FR/fa23f6b1d34485e6e0c8ce339682795d.jpg"
+  },
+  "name": "Gulrang y Rebato",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Cuando crees una ficha de personaje — Gana 1 potenciador.  Si tienes menos de ocho orbes de maná, las fichas [[potenciadas]] que controles tienen [Defensoras]. (Sus expediciones no pueden avanzar durante el anochecer.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-122-H-ES"
+}

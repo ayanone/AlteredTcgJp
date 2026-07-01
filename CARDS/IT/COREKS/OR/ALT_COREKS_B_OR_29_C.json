@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_29_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79B551GC4QKCFXR95BP3",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME88WD7C37CZNNRR9628WS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME88WD7C37CZNNRR9628WS",
+          "text": "Gli Ordis hanno costruito una serie di fari per illuminare la via attraverso il Tumulto."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88XTQRSFG0T9B290REJA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME88XTQRSFG0T9B290REJA",
+          "text": "In the shadow of the towers being built, the Telamon architects unload and assemble the marble and granite blocks while I protect them, watching for anything that could hinder their progress. Through Alteration, the cranes and scaffolding were quickly erected. The work can now progress at full speed – at the cost of all the Mana I'm investing in the venture. Each worker is an Eidolon I'm sustaining. Each block of stone is an element I'm summoning from my imagination. I feel sweat beading on my forehead, but I can't risk wiping it away and losing my concentration. With a bit of luck and a lot of effort, the Espars will help me make up for the time I spent getting them up and running. But the work is far from over.\n\nOnce they are lit, all the beacons will link up all the way to the Monolith. They'll allow me to link my mind to all the Ordis still in Asgartha. Even if only a few Alterers answer my call, our combined power will allow Tocsin and me to open up a great thoroughfare before us... With their support, we can alter the world and create a road that will be easy to travel on. We won't be two, but many. For now, I don't feel anything in my shoulder blades, no tingling, no pins and needles. It's like I'm missing something, like a painful absence, which only my Alter Ego's presence can soothe a little bit. But when my Rhombus connects to the Gestalt, I'll finally feel the familiar buzzing of my comrades' minds. I exhale slowly to clear my mind. All these thoughts are merely distractions. If I keep up this pace, by nightfall the Espars will be up and running, and ready to drive off the loneliness."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88X2SFHAWDD9JFW94QH5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME88X2SFHAWDD9JFW94QH5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88TMWXEV5Z3EEHAKAVXM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME88TMWXEV5Z3EEHAKAVXM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME88VBPSDJC7GCCFS11YKD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME88VBPSDJC7GCCFS11YKD",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HPMB79B551GC4QKCFXR95BP3",
+      "reference": "ALT_COREKS_B_OR_29_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanente"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/fa2be0bebd6621990dc9",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Fulcro"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3afcdea1d7dada2edbfa",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/9559cf1780e20a6b8c68",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:37:39+00:00",
+      "question": "What is the effect of Grand Endeavor in the Arena?",
+      "answer": "In the Arena, Expeditions can't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_29/JPG/it_IT/ea1e6a0d9740583490d586f2a8c059b7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/ALT_CORE_B_OR_29_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/ALT_CORE_B_OR_29_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_29_C",
+  "reference": "ALT_COREKS_B_OR_29_C",
+  "id": "01HN5TXRHR96G53XFVA9EYCH5S",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_29/JPG/fr_FR/5cb612e7b879422a9d6ba94327d07fa1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_29/JPG/de_DE/a9ef769f0eaadd42d8fc1f9f2c09c4da.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_29/JPG/it_IT/ea1e6a0d9740583490d586f2a8c059b7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_29/JPG/es_ES/4f94849be03c6ca145720d32f3d555f5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_29/JPG/en_US/442ac3ef3f7bcb4430d7eaef53c43c22.jpg"
+  },
+  "name": "Opera Grandiosa",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "A mezzogiorno — Una spedizione bersaglio avanza di una regione."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-150-C-IT"
+}

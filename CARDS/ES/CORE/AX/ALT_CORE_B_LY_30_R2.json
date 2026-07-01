@@ -1,0 +1,183 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_30_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZW236XSWNE1V2JQXKZY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5W5PCFFHWYHEGZYYJNCE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5W5PCFFHWYHEGZYYJNCE",
+          "text": "El puesto móvil del cuerpo de exploración se alza en las alturas como la rueda de una rueca tejiendo el viento."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W6EPMZ3XRB9WVZ35W19",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5W6EPMZ3XRB9WVZ35W19",
+          "text": "So, this is it, the Ouroboros. A gigantic ring in the shape of a snake biting its tail... And in the center of the circle: a flying fortress, a ship. They say you can see the best aerobatic shows there, plus some bling-bling casinos that go clink-ca-ching when you win the jackpot on the slot machines. I follow Fen along the gangways, and I slip between the masons, workers, carpenters and welders who are working full tilt to construct the living areas. You know, it's not a bad place, actually. As long as you're not too afraid of heights, it's got everything to make you feel at home: taverns, greasy spoons, gambling houses from the most luxurious to the seediest... I peer over the railings and watch the little figures of onlookers walking around the air terminal where the Ouroboros is docked.\n\nFen takes me by the hand and tells me not to lose sight of her. I mean, it's definitely one hell of a maze. I don't know how she manages to find her way around. Even if I look at the direction signs, between the right walkway, the left corridor, the ladder, the footbridge, the passageway, the conduit, the gallery, the trapdoor, the hidden door, the narrow gulley, and the little red door marked A38, it's definitely not easy to find your way around. But, in a way, I feel at ease here. It's a bit like being in my head, actually. So I let myself be swept along without knowing where I'm going. But I don't mind. I like being surprised. It's cool. Over there is an enormous big top, over here's a pool with plastic ducks where the kids can mess around. The atmosphere here is like a fun fair that looks like it will light up at nightfall with brightly colored string lights."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W62XZ3KCHFMAC6TJDM6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5W62XZ3KCHFMAC6TJDM6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W4XP7BXBTD2402F7GNN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5W4XP7BXBTD2402F7GNN",
+          "text": "Nevenka"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5W5ATRCGARHBXXQFASQG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5W5ATRCGARHBXXQFASQG",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY4ZW236XSWNE1V2JQXKZY",
+      "reference": "ALT_CORE_B_LY_30_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanente"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/85734593c9d985f9e2e0",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Hito"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/daea86a8df4a42fa8777",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/0b09b744cc7d259a0caf",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-07-10T10:38:03+00:00",
+      "question": "Do I get to choose the card I put in Reserve with the {j} ability of the Axiom version of Ouroboros, Lyra Bastion?",
+      "answer": "Yes. First you play the card, then its {j} abilities activate, so the other effect is already active when the {j} effect takes place."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/87cd897af3985409f832",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:38:03+00:00",
+      "question": "Does the replacement effect of the Axiom version of \"Ouroboros, Lyra Bastion\" count as Resupply for effects such as Quetzalcoatl?",
+      "answer": "No. Note that it doesn't count as drawing cards either."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/d259787853a52cc0be60",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-12-16T10:38:03+00:00",
+      "question": "If I control the Rare, Axiom version of \"The Ouroboros, Lyra Bastion\" and I do an Exhausted Resupply, what happens?",
+      "answer": "An Exhausted Resupply is a (special case of) Resupply, and will get fully replaced by the effect of the Bastion. You'll therefore reveal two cards, put one in Reserve, and won't exhaust it."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/es_ES/68bc7bf9dd268570f399293c91ce231b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/ALT_CORE_B_LY_30_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/ALT_CORE_B_LY_30_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_30_R2",
+  "reference": "ALT_CORE_B_LY_30_R2",
+  "id": "01HKAFJNVHVRVXE10YHES3GSYV",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/es_ES/68bc7bf9dd268570f399293c91ce231b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/it_IT/2882897e9cd56384b2ad5a224c5f974d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/de_DE/b27d7c9fe438f4c40863f09b3817632f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/en_US/28cecb5043083b18ef076e078e043428.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_30/JPG/fr_FR/6eb0a1c65ec42c9bb18215ff42a23f97.jpg"
+  },
+  "name": "El Uroboros, bastión de Lyra",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "#{J} [Reabastece].#  Si fueses a #[reabastecer], en vez de eso, revela las dos primeras cartas de tu mazo. Coloca una en la reserva y descarta la otra.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-090-F-ES"
+}

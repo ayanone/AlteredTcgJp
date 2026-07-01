@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_54_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/22DYXZHMAC9BDBGSKWH590P5NF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4WR6TFG6W6SB5WV4GHM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4WR6TFG6W6SB5WV4GHM",
+          "text": "Pionniers à plus d'un titre, les Bravos ont été les premiers à intégrer la Sève dans leurs expériences culinaires."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4X5MR5RNZGQS7ZT019M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A4X5MR5RNZGQS7ZT019M",
+          "text": "393 AC - J'adore, j'adore, j'adore ! Être aux premières loges pour voir le chef pâtissier de la brigade d'Hestia à l'œuvre... Si ça c'est pas du grand spectacle ! Cet homme est un génie, un virtuose quand il manipule le chinois, qu'il joue avec son fouet et qu'il presse sa douille. Je le regarde façonner une meringue citronnée. Aaah, on confine à l'exécution parfaite ! Je suis chacun de ses gestes avec minutie pour y discerner le coup de main de l'expert. Là, devant moi, je le vois créer une pièce montée digne d'un monument historique : il prépare la génoise, puis le coulis de framboise... Je ne bouge pas un cil, les yeux écarquillés pour me régaler de son savoir-faire. Bon, j'essaie tout de même de ne pas trop rester la bouche ouverte. Surtout que je salive pas mal face à toutes ces délicatesses. Je veux toutes les goûter !Un peu de contenance, Rin, ça pourrait être gênant si on voyait un filet de bave couler de ta bouche.\n\nMais lui, le chef, il s'en fiche que je l'examine sous toutes les coutures : il est entièrement concentré sur son gâteau. Là, il incorpore la Sève à la mousse de framboise. Ma parole, ça prend une teinte dorée étincelante. C'est encore plus beau. Hmmm, ça a l'air délicieux. Sans un mot, je mémorise les proportions et les temps de préparation, histoire de tenter de reproduire tout ça. Papa disait toujours qu'il ne comprenait pas ma fascination pour les métiers de bouche. Il disait même que j'étais complètement survoltée quand il s'agissait de déguster quelque chose... Difficile de lui donner tort. Oh ! Regarde, Kiddo ! On arrive au point culminant. Je retiens mon souffle tandis qu'il place les différentes couches, joue de sa spatule pour lisser le tout et dessine de fins motifs crémeux. C'est prêt ! C'est prêt ! Puis, à mon grand désarroi, je vois le gâteau partir à la table voisine sous les applaudissements des convives, pour être placé devant une grande femme rousse. La chance. Mais soudain, je vois Basira à ses côtés. Peut-être qu'avec un peu de persuasion..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4WZCNDXDN3DB3XB6R5T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4WZCNDXDN3DB3XB6R5T",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4VQZSAXQ08RN5FPFV6A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A4VQZSAXQ08RN5FPFV6A",
+          "text": "RIN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4WHRMNVMN0K4CARRRBR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4WHRMNVMN0K4CARRRBR",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "22DYXZHMAC9BDBGSKWH590P5NF",
+      "reference": "ALT_BISE_B_BR_54_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/46dbbe4f023efdeb5e9d",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Citoyen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9b2d59ede89dfba20a65",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/fr_FR/92299f0cdaf0faa2dcdda7979f7e303c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/WEB_d753f8c504307de640eb0fd78951a2c5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/WEB_714dedfddfdef96c6bf04c49013287f6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/WEB_707297443326404be19a66180950275c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_54_C",
+  "reference": "ALT_BISE_B_BR_54_C",
+  "id": "01JB1YGPBAW9W7FA6Y7SGZMSDN",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/de_DE/b6aeea6b57f66765d1e7dc0e932b8bc4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/it_IT/a1c22f7de3cca9ad22c76aff12727c76.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/es_ES/016adc13a3b02179c3cb08f5098bd9ca.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/en_US/aef54f97fb58dac7f7ac293f69bae137.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_54/JPG/fr_FR/92299f0cdaf0faa2dcdda7979f7e303c.jpg"
+  },
+  "name": "Chef Pâtissier",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "{R} Si j'ai au moins 2 boosts, piochez une carte.",
+    "ECHO_EFFECT": "{I} Lorsque vous jouez un autre Personnage — Je gagne 1 boost, jusqu'à un max de 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-025-C-FR"
+}

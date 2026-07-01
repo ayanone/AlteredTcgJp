@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_34_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/56W70HG00R81FA46RHYWTP9HHT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J289MNDJGX8F2CC4KTFY7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J289MNDJGX8F2CC4KTFY7",
+          "text": "Una correcta asignación de recursos puede recuperar el tiempo perdido."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28B5EX7DDWQ6HJYM34EB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J28B5EX7DDWQ6HJYM34EB",
+          "text": "Las estribaciones rocosas que delimitan la tundra forman crestas dentadas que parecen corales gigantes. Según los Muna, estas enormes formaciones de color ocre son mitad minerales y mitad orgánicas. He de admitir que tampoco presté demasiada atención a las explicaciones científicas. Ocupo mi lugar entre los oficiales encargados de dirigir las operaciones de exploración. Estoy frente a la suboficial que ha venido a explicar el panorama estratégico general para las próximas semanas. Aunque parece claramente fuera de su elemento, no ha perdido nada de su autoridad natural. A pesar del frío intenso y del viento que sopla en el valle desde la tundra, lleva el uniforme estándar. Debe de estar helada, pero no ha mostrado el menor signo de incomodidad o debilidad. Erguida como una vara, despliega los pergaminos de órdenes oficiales y los comenta con voz fuerte y firme. Nos recuerda las directrices burocráticas y las leyes fundamentales que todos conocemos de memoria.\n\nEntre las filas de suboficiales y oficiales de campo se nota una calma y una concentración inusitadas: en vez de distraerse, como de costumbre, están cautivados por el aplomo de la comandante. Detrás de ella, los ayudantes hacen todo lo posible para evitar que una repentina ráfaga de viento se lleve documentos, mapas y planos. Sus esfuerzos son en vano, pero los papeles que se arremolinan alrededor de la supervisora no perturban lo más mínimo su exposición. Anuncia que se enviarán refuerzos para hacer frente a una situación crítica en la zona. Menciona informes alarmantes sobre el acoso de los Belisenki a nuestros exploradores. Escucho con atención, porque la siguiente parte nos incumbe directamente. Evidentemente, seremos los encargados de unirnos a la avanzadilla y defender la posición hasta que lleguen los refuerzos. Por fin deja de hablar y nos mira directamente a los ojos. Un gran silencio se apodera de las filas. Mis camaradas y yo percibimos la gravedad del momento. Cuando siente que el mensaje ha calado, relaja un poco la mandíbula. «¿Alguna pregunta?»."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J28A1N2321QC3TFWF0BCZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J28A1N2321QC3TFWF0BCZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J288RWRTSPFFK1QYS5V5S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J288RWRTSPFFK1QYS5V5S",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2896F5PAHMCXJPBT5E0K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2896F5PAHMCXJPBT5E0K",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "56W70HG00R81FA46RHYWTP9HHT",
+      "reference": "ALT_ALIZE_B_OR_34_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e9796fafe7c89777af48",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Burócrata"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8453466691c62d5fe147",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldado"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b33c185de52ca11f5c91",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/es_ES/07eac11de9f89371056248c6f097313a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d7a791c91ee3168f48750bc66fd69d2e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_29cb6ed5e3b93ca4327782464de86829"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_34_R1",
+  "reference": "ALT_ALIZE_B_OR_34_R1",
+  "id": "01J1Q4P4SKAF9A6PP6VDW6X2P3",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/de_DE/7b85fe8fc68a1a8caac0ab6d459d1641.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/es_ES/07eac11de9f89371056248c6f097313a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/it_IT/776d6ca03da48149ad37d2479b88e366.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/en_US/31f383d50bde9f522d1469bcdb3ef1a4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/fr_FR/886425b420733018849cfc27cfc2ff6e.jpg"
+  },
+  "name": "Supervisora de Ordis",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{J} Si mi expedición va por detrás, crea una ficha de soldado [Recluta de Ordis 1/1/1] en mi expedición #por cada burócrata que controles.#",
+    "ECHO_EFFECT": "{D}: Crea una ficha de soldado [Recluta de Ordis 1/1/1] en una expedición objetivo. (Descártame de la reserva para hacer esto.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-072-R-ES"
+}

@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_52_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/25KBJKMJ2598T8CDR0JY79F8EB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A93XR91FVRA298C2XTJ2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A93XR91FVRA298C2XTJ2",
+          "text": "Bestimmtes uraltes Wissen darf nicht in die falschen Hände gelangen."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A94NJ6BCPF4YHVXV0BQE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A94NJ6BCPF4YHVXV0BQE",
+          "text": "393 AC - Night is falling outside. The Eidolon is leaning over the object I've just placed on his desk, which is already strewn with scrolls, books and maps. I brought it from a dig site halfway down in the City of Scholars. Acting as a courier for Leocardius is always a pleasure. I had intentionally requested this mission, in fact, so that I could spend some time with him. While we had had the chance to discuss our discoveries in Caer Oorun every day, the Storhvit expedition and his nomination as an expert by Admiral Singh had prevented us from seeing each other recently. Opportunities had become rare. I had actually begun to relish these moments with the archeologist as welcome breaks in my ministerial agenda. His expertise, hunger for knowledge and schoolboy mischievousness were most refreshing. He gives me a look and grabs his magnifying glass to examine every detail of the octahedron-shaped metal box I'd placed in front of him.\n\nHe mutters a few words to himself as he brushes his fingers over the geometric shapes on the box. He uses his fingertips to explore the relic, analyzing each of its faces carefully. Then he stops in one area, seems to hold his breath and then exerts light pressure. With a little click, the box opens, and a bright light emanates from inside and lights up his face. It contains a figurine made of Sap in the form of a dragon. I had already managed to open it, of course, but it was how it was made that mattered to me. Its contents were not very important, in truth. It was a trinket without much obvious artistic or historical value. But the design, on the other hand… Leo lets slip a curse and almost drops his magnifying glass. Yes, the fascinating part of it was the container. Why protect such a trinket? Not for the workmanship but for the material. But the underlying question was even more disconcerting: Protect it from what?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A949TN0BKSZGV2QQZ6ME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A949TN0BKSZGV2QQZ6ME",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A936HC3ZKFNEBEFYC77X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A936HC3ZKFNEBEFYC77X",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A93JH4GJVMZ5GM0PEYRK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A93JH4GJVMZ5GM0PEYRK",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "25KBJKMJ2598T8CDR0JY79F8EB",
+      "reference": "ALT_BISE_B_OR_52_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/193b02f5527e09011033",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bürokrat"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/008147ff546c4616da02",
+      "reference": "SCHOLAR",
+      "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+      "name": "Gelehrter"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ad878de52e42e3554adf",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/de_DE/6aa53723594623d61c07d91742a70da1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_0f4a356d4f65aa35d807a64787f6386e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_6650adda98b6a20a1e143911612cab91",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_b76422b8599cdacb4fd09bcca34dc948"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_52_R1",
+  "reference": "ALT_BISE_B_OR_52_R1",
+  "id": "01JB1YGPBVGB6DPE03BAS3WEP7",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/it_IT/e46bbe19d01316d6c33d329e080f9462.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/de_DE/6aa53723594623d61c07d91742a70da1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/en_US/11d6adce72c74fde579bc64a11cda6ab.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/es_ES/d4f463ab3eae348b7c940c059f1395fe.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/fr_FR/7094c5dc35d52ceb7b9d89802059f685.jpg"
+  },
+  "name": "Leo, Reliktexperte",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "#4#",
+    "MAIN_EFFECT": "Zur Nacht — [Sabotage] nach der Ruhepause. (Lege bis zu eine Karte deiner Wahl aus einer Reserve ab.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-074-R-DE"
+}

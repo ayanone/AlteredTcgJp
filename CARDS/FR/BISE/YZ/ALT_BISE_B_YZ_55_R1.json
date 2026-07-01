@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_55_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/000HP66DY18JKR40Y48QFGC6V6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1ABTWRF8E7ZC3KSFPYKXM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1ABTWRF8E7ZC3KSFPYKXM",
+          "text": "Savoir rime avec pouvoir, mais secret rime avec succès."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABVQSDKS3KZHYVP5MQHN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1ABVQSDKS3KZHYVP5MQHN",
+          "text": "393 AC - Je sens un irrépressible frisson me parcourir, alors que je déambule au sein des Flèches, à la recherche de Saskia. Sa missive était explicite et prometteuse : en travaillant sur un type de sangsue, elle pourrait peut-être ponctionner les effets de la Rémanence avant même l'apparition de crises... Mais la soudaine sensation me fait ralentir le pas et dévier de ma route. Je pousse la lourde porte et débouche sur un atelier noyé dans les vapeurs moirées du Mana. Un tatoueur est en train de s'apposer des motifs d'Éther à même la peau. Le Géphyromancien tourne ses yeux vitreux dans ma direction, avant de se concentrer de nouveau sur sa tâche. Mais c'est surtout le Mage qui trône torse nu au centre de la pièce qui attire mon regard. Lui aussi est bardé de Sceaux, au point que mes Iris, saturés, ont du mal à se focaliser sur qui il est. Un nom émerge néanmoins de la cacophonie : Sylas.\n\nComme si je l'avais appelé par son nom, il se tourne dans ma direction, et écarte les bras comme pour m'accueillir. Il n'a pas du tout l'air courroucé, même si j'ai fait irruption dans leur séance de renforcement magique. Je baisse les yeux, sentant mes joues s'empourprer, et bafouille quelques mots, clairement déstabilisée par son aura énigmatique. Je sors en vitesse et referme la porte derrière moi avant qu'il ne puisse m'interpeller. De toute évidence, j'avais mis les pieds là où on ne m'attendait pas... Sur quoi travaillait leur Loge, au juste ? Des Sceaux, de toute évidence, mais ceux-là me semblaient étranges et spécifiques. Une main se pose sur mon épaule, me faisant sursauter. Tandis que je fais volte-face, je soupire de soulagement. Saskia m'observe avec un air surpris, penchant la tête de côté et plissant légèrement les yeux, comme elle a l'habitude de le faire quand elle s'étonne de mes réactions. Pendant une fraction de seconde, elle jette un regard froid à la porte que je viens de refermer, avant que son visage ne s'éclaire de nouveau."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABVAV7RC8ZADECYG7N0P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1ABVAV7RC8ZADECYG7N0P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABRT46G10JEKFK8ZBGWX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1ABRT46G10JEKFK8ZBGWX",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABTFGJ4WNH0WVJWB62XW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1ABTFGJ4WNH0WVJWB62XW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "000HP66DY18JKR40Y48QFGC6V6",
+      "reference": "ALT_BISE_B_YZ_55_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/67769d9b9b768be27c6c",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mage"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c63045980136db9266e0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/fr_FR/acbe389d54762d1dbea4fdbd71b055a5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_b039cc991e83d57c86b74a3515a527fa",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_cc4bdb7be6eb70c2e7bef2a44f484108",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_e694866d860fbf0d064b68e1ded540e7"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_55_R1",
+  "reference": "ALT_BISE_B_YZ_55_R1",
+  "id": "01JB1YGPC2Q3NTVGMMSJ2VZ6ZR",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/es_ES/f2d5b9530c5f9466bd59bf534f1accfc.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/de_DE/2e0b37bd60899244ae575e528e242281.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/it_IT/5a501b108ce92b5bd92f6323bcb30201.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/en_US/6a83c89555d4e82e79b532336ffe3c9d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/fr_FR/acbe389d54762d1dbea4fdbd71b055a5.jpg"
+  },
+  "name": "Sylas, Sorcier Insondable",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "#0#",
+    "FOREST_POWER": "#0#",
+    "MOUNTAIN_POWER": "#0#",
+    "MAIN_EFFECT": "{H} Piochez une carte.  #{J} Je gagne 1 boost pour chaque carte dans votre main.#",
+    "ECHO_EFFECT": "{I} Lorsque vous jouez un Sort — Je gagne 1 boost, jusqu'à un max de 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-094-R-FR"
+}

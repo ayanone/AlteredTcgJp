@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_24_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB783HM4BR27ZVN68YC65T",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8158V3TH0141AFTCK8NE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8158V3TH0141AFTCK8NE",
+          "text": "Nessuno si aspetta... la danzatrice di tessuti!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8165XNW4YV4RNES90G93",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8165XNW4YV4RNES90G93",
+          "text": "Holding onto the smooth rope, Ehuang simulates walking in mid-air. Then, with her legs outstretched, she wraps the rope around her waist, lets go with her hands and goes round in wide circles above the rows of seats. Her expression is calm and focused, in contrast to the fear and wonder on the faces of the audience. But although this impressive act has a poetic charm of its own, it's time to inject some more life into the show. Mischievously placing a hand over my mouth, I summon the little Tanuki at the top of a pole. He always serves as my sidekick in my one-woman shows. In this story, Ehuang will be the hero, while the Tanuki and I will be the villains. As the spotlights turn to shine on the yōkai, he pulls out a huge pair of scissors from behind his back. He starts to cackle theatrically, threatening to cut the silk strips holding up the young acrobat as the audience jeers.\n\nBut before he can go through with his mischievous plan, Ehuang fires her aerial ribbons towards the little creature like whips. The strips of fabric wrap around the Tanuki, gradually turning him into a silk-wrapped mummy. Caught off guard, he falls over backwards and ends up hanging upside-down, grimacing with fear and irritation in his cloth cocoon. And as the cheers and ovations thunder under the big top, the acrobat slides along her ribbons until she touches the ground with the tips of her toes. That's the signal. From all around, jugglers, acrobats and tumblers appear out of nowhere in a euphoric spectacle. They surround Ehuang, who bows four times to the audience. As she heads backstage, I glance at my dear Tanuki, who is still suspended in the air. With a snap of my fingers, I make him and the silk ribbons disappear in a puff of petals that rain down onto the audience."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME815P00X9DPY77VE2NMPY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME815P00X9DPY77VE2NMPY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME814A3CNMJ0YV8B19P8KV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME814A3CNMJ0YV8B19P8KV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME814SKEZ70AMHW7HZ6968",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME814SKEZ70AMHW7HZ6968",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB783HM4BR27ZVN68YC65T",
+      "reference": "ALT_COREKS_B_LY_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5fb0f8836b9d4c82f69e",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/77b50de8d92558622e07",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_24/JPG/it_IT/d1387b00d9bdf53f45ebb31fae7dfab9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/ALT_CORE_B_LY_24_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_24/ALT_CORE_B_LY_24_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_24_R1",
+  "reference": "ALT_COREKS_B_LY_24_R1",
+  "id": "01HN5TXRDCGTNMZST9SKF2G3CC",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_24/JPG/it_IT/d1387b00d9bdf53f45ebb31fae7dfab9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_24/JPG/en_US/d2fa699c76b0171ad05e8fd01e00dd25.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_24/JPG/de_DE/cc9fc8d7714c30dd3f7fe9ea0afbfd66.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_24/JPG/es_ES/d98e8d8a48efeb59ce8e673cfe21182e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_24/JPG/fr_FR/6affd1a861420df3aa289cab122f93bf.jpg"
+  },
+  "name": "Bozzolo di Tessuto",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]]. (Mandami negli Scarti invece che nella Riserva dopo che il mio effetto si è risolto.)  Scarta un personaggio bersaglio con [[Fugace]], [[Ancorato]] o [[Dormiente]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-086-R-IT"
+}

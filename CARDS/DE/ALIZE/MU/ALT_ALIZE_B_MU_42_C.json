@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_42_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/00KZ04Q2RP9KMTKFJMXCV93J1Z",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J279BRA7P6MGB4J85PAW3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J279BRA7P6MGB4J85PAW3",
+          "text": "Sie sind noch immer im Wald."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27A51YZATZ7P14FY01XV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J27A51YZATZ7P14FY01XV",
+          "text": "Wenn ich genau hinhöre, kann ich gedämpfte Schreie aus dem Wald vernehmen. Der Wald hat sich in den letzten Stunden verändert. Die gefrorene Taiga ist nach und nach bewaldeten Flächen ohne Eis und Schnee gewichen … Doch er ist nicht die friedliche Idylle, die er sein sollte – ganz im Gegenteil. Die Bäume sind aufgebracht und die Pflanzen ebenfalls. Jeder Dendrit des Skein, den ich auswerfe, löst einen feindseligen Schock aus. Ich könnte es verstehen, wenn dies nur die Überschwänglichkeit der wiedererwachenden Natur wäre … Doch der Wald ist trotzig, bitter, aggressiv. Als wolle er sich rächen … Ich gehe auf die Schreie zu, weiche von meiner Route ab. Der Wald scheint darüber nicht gerade erfreut zu sein. Eine Brombeerranke peitscht mir ins Gesicht, ihre Dornen reißen blutende Wunden auf. Und je weiter ich vordringe, desto stärker wird der Widerstand, so sehr, dass ich schließlich das Dickicht aus spitzen Ranken und giftigen Zweigen mit meinem Buschmesser bändigen muss.\n\nIch betrete eine schummrige Lichtung, auf der die Eidola der Drei kleinen Schweinchen gerade mit boshaften Wurzeln und Stängeln zu kämpfen haben. Wild und bösartig brechen Ranken aus der aufgewühlten Erde hervor, knallen wie Peitschen durch die Luft und versuchen, sich um alles zu wickeln, was sie sich schnappen können. Eine packt einen Schweinchen-Ingenieur und hebt ihn meterweit in die Luft. Ich eile zu ihm und es gelingt mir, die Ranke zu durchtrennen. Mit einem Plumpsen fällt das Schweinchen zu Boden. Was könnte den Zorn der Natur bloß so heiß entfacht haben? Ich spüre, wie sie uns mit aller Kraft angreift, doch eigentlich will sie sich verteidigen … Plötzlich verstehe ich alles. Dieser Wald war schon hier, als die Kälte zum ersten Mal einbrach. Er wurde von der Taiga verdrängt. Jetzt ist er wieder erwacht, will dieses Ökosystem zurückerobern und kämpft um seine Vormacht. Ich wende mich den Eidola zu, die eine starke Aura der Angst ausstrahlen. Laut fordere ich sie auf wegzulaufen, während ich die peitschenden Äste und Ranken des Waldes zurücktreibe."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J279Q2WQR0QNKGVPGQFJ6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J279Q2WQR0QNKGVPGQFJ6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J278EDT3X4QXAPD2JV8WT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J278EDT3X4QXAPD2JV8WT",
+          "text": "TEIJA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J278Y4C0QG6S41YMY9ZTF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J278Y4C0QG6S41YMY9ZTF",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "00KZ04Q2RP9KMTKFJMXCV93J1Z",
+      "reference": "ALT_ALIZE_B_MU_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a637b10660a13dd74145",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Unterbrechung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ce7fb11cc4e89ab7dd7c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/de_DE/f05f8397362c93d5ceed52a02eeb2346.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_2262155b2f5b863e293219b0f9b49411",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_d9b689e66ce65e4dde1bfe6c108f59c9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_42_C",
+  "reference": "ALT_ALIZE_B_MU_42_C",
+  "id": "01J1Q4P4SGG6TEVFRSKNDKQK6D",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/de_DE/f05f8397362c93d5ceed52a02eeb2346.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/es_ES/b1f49c150ef2a37cf2dffd19cfdca288.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/it_IT/de15d68da54477aa0bbf47d7e6511164.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/fr_FR/7d41650fbceb0076e9b9e75149b3fb8f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/en_US/ec9dabe7618bdda66cef7c40bfcbc78a.jpg"
+  },
+  "name": "Im Wald verirrt",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Vergänglich]].  Wähle eine Aktion:  • Schicke einen Charakter deiner Wahl in {V} in die Reserve.  • Lege eine Bleibende Karte deiner Wahl ab."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-065-C-DE"
+}

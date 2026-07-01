@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_53_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4FFJNP3EJF8D4T1P2BFDTWSW4Z",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A46YME7K4XD93ADYY8QJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A46YME7K4XD93ADYY8QJ",
+          "text": "No destrozan, reciclan... O eso dicen."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A47899DKSXD1QCYSC37K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A47899DKSXD1QCYSC37K",
+          "text": "393 AC - When Bash came to ask me if I could replace him, my first reaction was to say that he had some nerve to disturb me over what was obviously just a hangover. Then I remembered the incident, his singed beard and the favor I owed him, so I agreed without saying a word. That's why I'm now crouching, climbing over pipes and squeezing between conduits to find the cause of the malfunction that has shut down the refinery for the last few hours. Of course, there's no map to help me get my bearings, just a few arrows and signs that let me know I'm on the right track. Considering that Sap delivery had stopped, it must be a pump or valve problem. We had to make do with steam to make everything work to avoid wasting any Kelon…\n\nClang. A muffled sound, followed by an irregular rattling. Sounds like a problem with the pump… or maybe pests? I position myself behind a boiling-hot pipe, taking care not to burn myself. Then I look to the side towards the source of the noise. I see three Grems attacking a regulator panel. I should have known. The problem with using your imagination to create things is that you can inadvertently create things from your subconscious that you can't control — even among engineers who tend to rely more on common sense than fanciful ideas. And these three rascals come straight from the most basic superstition. I take out my Construct from its case and ponder the best way of driving them off. And the idea that comes to me obviously involves playing a trick on them in return…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4735G83F2C0YTTKD5MW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4735G83F2C0YTTKD5MW",
+          "text": "It was at the beginning of the 20th century, in order to explain the sometimes incomprehensible damage that affected aircraft, that the legend of the Gremlins was born. These bizarre creatures were used to explain equipment malfunctions, piloting errors, and technical problems experienced by aviators and aeronautical teams. For pilots in the RAF, the British Royal Air Force, sabotage was equivalent to the intervention of these mischievous imps."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A46M3AYA0MEB6DTQJEQF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A46M3AYA0MEB6DTQJEQF",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A46SEK9G725PGV559HQM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A46SEK9G725PGV559HQM",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "4FFJNP3EJF8D4T1P2BFDTWSW4Z",
+      "reference": "ALT_BISE_B_AX_53_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b2f6ba917d4f86484b6f",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingeniero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2d7be491c3be7dd5ec26",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_53/JPG/es_ES/1f284a4812ba2c256784355daeb2931b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_53/WEB_5750210c05bc04405da4b70b06dd07f5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_53/WEB_2a635f390d729555a6e2a5955044acd8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_53/WEB_80c1a2b7b194a8bb616f3b9223b978d4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_53_R1",
+  "reference": "ALT_BISE_B_AX_53_R1",
+  "id": "01JB1YGPB3HW2076HJWYCET35K",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_53/JPG/es_ES/1f284a4812ba2c256784355daeb2931b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_53/JPG/it_IT/3dfe9137f26add90fa93807bd2089d10.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_53/JPG/de_DE/e9540a903547d9f3ccef9b55ec336faf.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_53/JPG/en_US/3dba2e9b74a9eb59bce722e946777398.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_53/JPG/fr_FR/19705500c38ba40f888d7b34bee9b12b.jpg"
+  },
+  "name": "Los grems",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "#2#",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{R} Elige hasta una opción:  • Descarta un permanente objetivo con coste desde la mano de #{5} o menos.#  • Sacrifica un permanente. Si lo haces, crea una ficha de robot [Bicholata 2/2/2] en una expedición objetivo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-005-R-ES"
+}

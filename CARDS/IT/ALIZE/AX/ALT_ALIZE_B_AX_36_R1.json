@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_36_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1GH5GQKEXR8TJ95KFBRANDT3SE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23855VXFW1D68DHJ8ADQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23855VXFW1D68DHJ8ADQ",
+          "text": "Con i suoi baffi folti e le sue zanne affilate, svela i segreti delle aree ghiacciate!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J238K7Z0GV6BXNCZSB6QA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J238K7Z0GV6BXNCZSB6QA",
+          "text": "Avanti, più veloce, Bash! Più veloce! Scatto tra la polvere, ma mi fanno male le cosce; ho alle spalle quasi un'intera giornata di marcia. Mi precipito sul ghiaccio, che si sta rompendo e continua a produrre rumori inquietanti. Brontolo mentre scivolo sulla superficie del lago e, guardando dietro di me, vedo che Treyst si è fermato sulla riva. È impossibile che la sua grande bestia metallica riesca ad attraversare il ghiaccio. No, sarebbe sicuramente una pessima idea. Anziché camminare, uso le mani per scivolare verso il buco che si è aperto nel ghiaccio. Sento il cuore stringersi mentre scruto le increspature oleose e l'insondabile oscurità che si nasconde lì sotto. Una giovane donna con i pattini da ghiaccio mi spiega cosa è successo. Bambina. Caduta. Scomparsa... Stringo i denti. Non ho bisogno di sentire altro.\n\nMarmo sta girando intorno al buco e aspetta che io lo aiuti. Faccio quello che vuole e uso il mio costrutto per avvolgerlo con un guscio di calore. Lo osservo mentre si tuffa. Chiudo gli occhi per guardare attraverso i suoi sensi e noto un flusso di bolle che sale in superficie. Il mio alter ego si guarda intorno, ma non vede altro che buio. Avremo bisogno di aiuto... Le mie dita sistemano e riorganizzano i pulsanti del costrutto e all'improvviso appare un tricheco accanto al mio cane, completo di un impianto sonar e di tutto ciò che serve per localizzare la bambina. Con il mio dispositivo, gli invio le istruzioni e lo guardo immergersi in profondità. L'animale usa l'ecolocalizzazione per sondare le acque ghiacciate. Presto, il tempo sta per scadere e ogni secondo è vitale..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J238CTKGGDEE2B0CNW7SC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J238CTKGGDEE2B0CNW7SC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J237NDVH4DXCYPQYC7QF5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J237NDVH4DXCYPQYC7QF5",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J237X45VGSWSX9798JE7F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J237X45VGSWSX9798JE7F",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1GH5GQKEXR8TJ95KFBRANDT3SE",
+      "reference": "ALT_ALIZE_B_AX_36_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4ac948f25d884bf76a41",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b7a7eefc1f64112e01ba",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/it_IT/c77ee12c699c38242b459ad8a82af888.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_f19f852f32dcd62f58bf88d9bcff629a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_0d8e4fe28ad0da293d9ee31050b6a45d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_56600599345217988c93472f2ae7de3d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_36_R1",
+  "reference": "ALT_ALIZE_B_AX_36_R1",
+  "id": "01J1Q4P4RPMZ8VWX4YR153F1YV",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/de_DE/48ff8435aaea561c1ce0113bc828bc42.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/it_IT/c77ee12c699c38242b459ad8a82af888.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/es_ES/6b0ac2dd9aecf60e5d3bf17f0262cc11.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/fr_FR/731b37415f66df33e604618cfa842ecc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/en_US/5d3eed733b574370bc682dfc840736cb.jpg"
+  },
+  "name": "Tricheco Esploratore",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "#2#",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#{R} Puoi consumare ({T}) una carta bersaglio nella Riserva.# (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-007-R-IT"
+}

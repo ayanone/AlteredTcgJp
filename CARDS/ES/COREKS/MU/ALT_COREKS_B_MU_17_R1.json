@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_17_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7979KYA11ZK2090KPNMS",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME83FQJDTSPW74F8GP72FR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME83FQJDTSPW74F8GP72FR",
+          "text": "Es el alma del bosque, la patrona de las hierbas medicinales, con las que prepara potentes pociones."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME83HCGXB6SPQ7W4SMR2BT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME83HCGXB6SPQ7W4SMR2BT",
+          "text": "She crushes dried herbs in her mortar, then adds a pinch of seeds before grinding it all into a fine powder. A few drops of essential oils, a little sap... and the mixture becomes a sticky, aromatic paste. Attentively, I watch Aja prepare her salve, while next to her the contents of her cauldron boil. I blink, then focus on my own concoction. I grab a bunch of sage, grind a few sprigs with my pestle. In a corner of the room, between the hearth and the window, Turuun sweetly hums an old lullaby as the fragrance of coriander, rosemary, and thyme fills the space. I mimic each of the Eidolon's movements, mix my own ointment, then apply the thick balm to a recently boiled and sterilized strip of cloth.\n\nAja wipes her hands and stands next to me, inspecting my work. The Orisha nods, clearly satisfied. My poultices may not be as neat as hers, but I can't help but smile and be proud of what I managed to do on a first attempt. She begins folding them, then wraps them in broad leaves before storing them in individual pouches. Tomorrow we'll hand them off to a traveling merchant from the Cornucoopia company to be delivered to the Musk Refuge. Once everything is packed up, I turn to the cauldron and its warm aromas of ginger, paprika, chervil, and cloves. The boiling liquid gurgles. I turn toward Aja and ask what this potion will be used for. Turuun bursts out laughing, and the Eidolon smiles in turn. Embarrassed, I feel myself turning bright red as it dawns on me. It isn't a potion she's making, but more than likely this afternoon's stew..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME83GKDMTN5J2RK5A9GQ7X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME83GKDMTN5J2RK5A9GQ7X",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME83DZVWTBPJF9XG6MTEAW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME83DZVWTBPJF9XG6MTEAW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME83EZNKWFJ380Q9SX7TJK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME83EZNKWFJ380Q9SX7TJK",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB7979KYA11ZK2090KPNMS",
+      "reference": "ALT_COREKS_B_MU_17_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/13b8f5acb59984e77c58",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deidad"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ad9b04f3c5c0141b7258",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_17/JPG/es_ES/1e0e007a159c079c7b17153c0005709b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/WEB_e9dfa2246bdfdcad72a454f90a6f557b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/WEB_3a73f9609edb4ce1bfad6926de4e2b57",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_17/WEB_fd349e170967a1d1daaa77002ebdbbb6"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_17_R1",
+  "reference": "ALT_COREKS_B_MU_17_R1",
+  "id": "01HN5TXRR40C7S7KS0NZS63WQA",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_17/JPG/de_DE/1080f59943d47ea5cd74c9bcfcb86c41.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_17/JPG/it_IT/8fd2b1cbcf10ac9253361b74f32cd649.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_17/JPG/en_US/9bf387820485ca2321202e66f67f9b95.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_17/JPG/es_ES/1e0e007a159c079c7b17153c0005709b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_17/JPG/fr_FR/6c6de931be73988c2d2225cb04c3a200.jpg"
+  },
+  "name": "Aja",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "#{J}# Cada jugador coloca la primera carta de su mazo en su zona de maná (como orbe de maná agotado.)",
+    "ECHO_EFFECT": "#{D}: Un personaje objetivo con coste desde la mano de {3} o menos gana [[Anclaje]].# (Descártame de la reserva para hacer esto.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-109-R-ES"
+}

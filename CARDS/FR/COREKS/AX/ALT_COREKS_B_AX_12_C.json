@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_12_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77W20SR7T9CP390Y2ABR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7W92T1XJF39F0JW08N9G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7W92T1XJF39F0JW08N9G",
+          "text": "Ensemble, ils peuvent construire bien plus qu'une simple maison de pierre."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W9GR1ZKKM9FY25QP7P0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7W9GR1ZKKM9FY25QP7P0",
+          "text": "L'un d'eux ronfle bruyamment à son bureau, tandis qu'un autre tape avec sa baguette sur la paume de sa main comme s'il battait la mesure des secondes. Le troisième, quant à lui, passe entre les rangs des Apprentis, jetant par-ci par-là des regards furtifs sur les réalisations des élèves. Il règne un silence studieux au sein de la salle de classe, tandis que les autres élèves griffonnent, tracent des traits à la règle ou mesurent avec leur compas. Le Compagnon qui était censé nous surveiller a fait appel aux trois Eidolons porcins pour le remplacer, et ces derniers — l'un d'entre eux tout du moins — ont pris leur travail au sérieux. Je me remets à plancher sur le design de ma machine. Il ne reste qu'un peu plus de deux heures pour terminer, et je ne vais pas devoir trop chômer.\n\nJe me remets à dessiner quand je sens l'un des Eidolons — le plus assidu des trois — se pencher sur mon schéma de montage. Du coin de l'œil, je le vois acquiescer d'un air approbateur. Est-ce un signe que je suis sur la bonne voie ? Les Trois Petits Cochons sont reconnus comme de formidables ingénieurs et maîtres d'ouvrage au sein de l'Axiom. Sûrement que cet encouragement... Je secoue la tête, essayant de refréner mon enthousiasme pour me reconcentrer sur mon objectif. Pour ceux qui se débrouillent bien à ce concours, il y a tout de même à la clé une poignée de places pour intégrer le Fulcrum, la Guilde chargée de développer le matériel technique des Corps expéditionnaires... Pour preuve de l'importance de l'enjeu, le silence environnant est d'ailleurs au diapason du stress ambiant : lourd et pesant. J'espère juste que j'ai bien fait de m'inscrire, si tôt après avoir commencé mon apprentissage."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W991QPNKXZ928E5P0VK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7W991QPNKXZ928E5P0VK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W8MSXTEMZQQ0Y8VKGW6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7W8MSXTEMZQQ0Y8VKGW6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W8VQJWP0QX091R6D4SW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7W8VQJWP0QX091R6D4SW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77W20SR7T9CP390Y2ABR",
+      "reference": "ALT_COREKS_B_AX_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9c74321d0f9e073f259c",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ead886b57539bfc5e36e",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/fr_FR/f7499597598843029b19e2210ce26032.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/ALT_CORE_B_AX_12_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/ALT_CORE_B_AX_12_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/ALT_CORE_B_AX_12_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_12_C",
+  "reference": "ALT_COREKS_B_AX_12_C",
+  "id": "01HN5TXR3JHES7DR0SF2B11NJ2",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/it_IT/41c19c499e4e461a83b17b2409731cca.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/es_ES/0134de45328ecf41233d725d8f878186.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/de_DE/eb3c788b00368d5bc26f668357602c56.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/en_US/d9025a259b4c759c7919a1db01d15e8f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_12/JPG/fr_FR/f7499597598843029b19e2210ce26032.jpg"
+  },
+  "name": "Trois Petits Cochons",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{J} Si vous contrôlez au moins deux Repères, je gagne 1 boost[]. (Les cartes en Réserve ne sont pas contrôlées. Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-014-C-FR"
+}

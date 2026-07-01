@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_06_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB784R1RGXYN8SRGK04F99",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8270EFPHT8ZZFC3ZZAWB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8270EFPHT8ZZFC3ZZAWB",
+          "text": "Qualcuno dice che i mietitori sono i custodi degli alberi del mondo."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME827Z15DEB60V3VYTD7SJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME827Z15DEB60V3VYTD7SJ",
+          "text": "I grab the vine and pull myself onto the branch with an effort, my heart thumping in my chest. Don't look down. Don't look down. I take a deep breath to drive out my fear, along with the dizziness of being so high up in the air. Above my head, the Spindle Tree's branches sway in the wind, like pink clouds eclipsing even the bright blue of the sky. Come on, just a little further. Hmmph. I climb a flight of steps carved into the wood to reach another branch, and then cling to the world tree's trunk, struggling not to give in to vertigo. I know I'm secured with rope, and that Orchid is watching me, ready to spread her wings to catch me in midair, in case... No, better not think about that possibility.\n\nI slowly unknot the cord keeping me tied to the via arborea, and grasp the rope that will take me higher still. At this height, everything reels, and I don't dare imagine what it'll be like even higher up. But as I do my best to muster my courage, after quadruple-checking to make sure my knot is completely secure, I see little figures descending along the trunk, their claws sinking deep inside the bark. The tiny rodents jump, nibble, and swirl around furiously, oblivious to being hundreds of yards off the ground. Watching the Spindle Tree's harvesters play like this soothes my mind a bit. I wish I could have such a carefree attitude, such a blatant disregard for the height... Perhaps, through them, the Spindle Tree is sending me a sign to encourage me in my ascent. Come on, follow their example, Rin. Just a little bit further..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME827F70VS64GNJ0TK4VE9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME827F70VS64GNJ0TK4VE9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8260J7B2E6XPB2VMVT6C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8260J7B2E6XPB2VMVT6C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME826HHJ4SPQJM95EWKYX5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME826HHJ4SPQJM95EWKYX5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB784R1RGXYN8SRGK04F99",
+      "reference": "ALT_COREKS_B_MU_06_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/92ec6a3365b44237d33b",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/18186f746a597466b7a1",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Pianta"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6ba0f5907cef77736c3d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/it_IT/0ed80c437d7250255aefb778c342d2f7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_06_C",
+  "reference": "ALT_COREKS_B_MU_06_C",
+  "id": "01HN5TXRPJ0XW021XA9D8Y5R02",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/it_IT/0ed80c437d7250255aefb778c342d2f7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/fr_FR/728096477fb4ae6fce66dd61967efa0f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/de_DE/5cad14c302445b61bf5471722c6f3176.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/es_ES/4bddbf5bc9f1eb6e7131032427704682.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/en_US/a9bb003d8817f0956c53cb6165d09c75.jpg"
+  },
+  "name": "Mietitori del Fuso",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{J} Ottengo [[Ancorato]]. (Durante il riposo, non vado nella Riserva e perdo Ancorato.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-095-C-IT"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_34_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7AB5R86SXK9ZWAZN0QTZX13N6F",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J246MZ3GDQK8KX7CA0CHN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J246MZ3GDQK8KX7CA0CHN",
+          "text": "Those who have lived a lot have plenty to share."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2477QRDQJF65Q137HRX2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2477QRDQJF65Q137HRX2",
+          "text": "I remember Shahram and his booming voice. The old veteran was sitting next to me. He put a calloused hand on my shoulder as I shivered from the cold and from fear in the cockpit of the airship. He had taken it on himself to make wisecracks, tell me bawdy jokes and congratulate me on having held on until help arrived... to have survived. It wasn't what I wanted to hear back then. It made my guts feel all twisted inside. He had noticed, of course. Abandoning his flippant air for a moment, he had put his arms around me and said – clumsily, of course – that it wasn't my fault, that I didn't have to feel guilty. He meant well. And strangely enough, here I am thinking about him again decades later. Watching the troops around the fire, huddling close together to try and keep warm, I sense that they could do with a bit of his swagger right now.\n\nInstinctively, his Eidolon is there among us, laughing at our sullen attitudes. He looks defiantly at the group, sticks out his chest, and dishes out some heavy slaps on the backs of the listless adventurers. He boasts that, in his time, no Bravos would ever have given in to despair. Met with grumbles, he then proceeds to recount his extraordinary exploits, which he has had fully tattooed on his bulging biceps. With much bombast and in great detail, he talks about the storming of Vedren, the defeat of Mezzaren... While some Bravos just shake their heads, others listen fascinated to the old man's exaggerated stories of bravado. Even as their protests fly, I know that the old Seiringar has achieved his goal. By firing everyone up, he's warmed their bodies, and that helps them to endure the cold. The last time I saw him, almost a decade ago, I felt that his spirits had been crushed after not being chosen to join the Corps. But perhaps having him here among us now, through me, was the tribute I always wanted to pay him..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J246X6762049VKEPBMXYX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J246X6762049VKEPBMXYX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J245VEA4JY6CRVFSTTPYB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J245VEA4JY6CRVFSTTPYB",
+          "text": "BASIRA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J246B8J8Z0FAFXQ6CWJBV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J246B8J8Z0FAFXQ6CWJBV",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7AB5R86SXK9ZWAZN0QTZX13N6F",
+      "reference": "ALT_ALIZE_B_BR_34_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7e31818460aeaa9007db",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Adventurer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7500a928e032a8b3a044",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/en_US/9330d0010cfcc256f02630319c457e1e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_d865360de938c343bfd21be56818dca5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_4101215de65acd5aecd43196530dc333",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_d6bc73bb04247722faba819da0ae4fe6"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_34_R1",
+  "reference": "ALT_ALIZE_B_BR_34_R1",
+  "id": "01J1Q4P4S1E6BR3CRG4TVW2HEG",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/de_DE/947d243335b2b6444e47af9ba9723bbc.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/fr_FR/640fb442a55d1b08eff6799df7500c38.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/it_IT/79fce0969de4bdf24b1aa56680a497a2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/es_ES/158a12080cb9dc30d610d96f42aab4e8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/en_US/9330d0010cfcc256f02630319c457e1e.jpg"
+  },
+  "name": "Haven Seiringar",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "#0#",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "#0#",
+    "MAIN_EFFECT": "When I leave the Expedition zone, if I was [[Fleeting]] — Draw a card.  #{R} I gain 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-021-R-EN"
+}

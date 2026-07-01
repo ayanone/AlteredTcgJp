@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_09_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77Z2A605ND0KFDGYGYWX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7XMVN0GQSM9BXRDVHPF2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7XMVN0GQSM9BXRDVHPF2",
+          "text": "\"All right, lad, show me what you’ve learned.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XNFXYAX0J3GPTBXCYJB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7XNFXYAX0J3GPTBXCYJB",
+          "text": "He draws back his bow and adjusts his posture. His arms are still shaking slightly as I point out his target. I'll need to put a little more into his physical training to correct all that. I smile and adjust his bearing a bit, along with the position of his shoulders. Although he's skinny and still timidly stepping out of childhood, Kutun has determination in spades, and that's all that really matters in the end. With determination, nothing is impossible. With determination, even a runt like him can become a proud warrior. I ask him to completely clear his lungs, then hold his breath. I tell him to empty his mind and concentrate on the target. Only on the target. Good. I feel his hands get a bit steadier. Now. The arrow pierces the air and slips through the trunks.\n\nWith a thump, it sticks in the straw dummy, still slightly left of the bullseye. I hear Kutun sigh. I sense him fuming internally. I ruffle his hair as he mutters a curse, and congratulate him even though he's mad at himself for still missing the center of the target by an inch. There's no doubt he'll make a fine addition to the Aegis contingents, once he's old enough to join the Expeditionary Corps. As I watch him head to the target to retrieve his arrows, I notice the sun is already quite high in the sky. It'll be time to change workshops soon. We've been here since dawn, and we still have plenty of fields to cover. Kutun returns with his quiver refilled. He sees me preparing our meal, but he's content to pout. Very well, insolent boy. One last thrashing before the snack."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XN6ZQ5EC8TFQ6TNKTXR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7XN6ZQ5EC8TFQ6TNKTXR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XM7JBVF9FH5WE69YJ91",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7XM7JBVF9FH5WE69YJ91",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7XMK8VNTMJ5368K4YNQ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7XMK8VNTMJ5368K4YNQ7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77Z2A605ND0KFDGYGYWX",
+      "reference": "ALT_COREKS_B_BR_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1cb1350161ff6518b843",
+      "reference": "APPRENTICE",
+      "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
+      "name": "Apprentice"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ebb7fc1bb6510f10e0fa",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/JPG/en_US/157ac964701c0b9a7139cb1078a58fde.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_09_C",
+  "reference": "ALT_COREKS_B_BR_09_C",
+  "id": "01HN5TXR7ACC00JK1ZEGEESQX9",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/JPG/es_ES/ea403437032b0c2c50a25a014eae1a17.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/JPG/it_IT/972c23f1a14d42f3e6b0480aa99b5e68.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/JPG/en_US/157ac964701c0b9a7139cb1078a58fde.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/JPG/fr_FR/80993ec2615a58d1b574cba7cbce4b86.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/JPG/de_DE/108c6139ad5fb20e235643306dcd1730.jpg"
+  },
+  "name": "Haven Trainee",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{R} I gain 2 boosts[]. (A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-042-C-EN"
+}

@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_17_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79D0W9CEE4BR9Z5WGW9P",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8BFXS1R29D1XPWZ3PDST",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8BFXS1R29D1XPWZ3PDST",
+          "text": "Il Kraken lacera la superficie, lanciando getti d'acqua che si infrangono sulle truppe in un diluvio apocalittico."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BHDG811BTQSHEGXVHEE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8BHDG811BTQSHEGXVHEE",
+          "text": "I stand in the assembly while the Magisters debate under the supposedly impartial eye of the Ordis clerk. It's been almost an hour since they started endlessly arguing and pussyfooting around. Should the Kraken be added to the Yzmir's summoning arsenal, or should it be added to the long list of the Faction's prohibitions? Thankfully, it's almost time for the vote. And it can't come soon enough. I'm starving. Malefane, Magister of the Sphere of Eidomancy, is hammering his arguments home to try and counter the appeals of Nasir, his counterpart from the School of Gephyromancy. He sits down in a noisy huff, giving way to the next speaker. Now it's apparently Tarjani's turn to speak. With a clear and confident voice, the Magistra of the Sphere of Phonomancy advises caution as usual. It seems the vote will be tight... but that's fine. We're prepared for any eventuality.\n\nEgon from the School of Kinemancy is content to add a brief comment, cynical yet incisive. \"If a weapon exists, it must be used,\" he says succinctly. \"It's not worth fighting against it. On the contrary, we should understand it as soon as possible so we can harness its power.\" Two votes for and two against. That means the deciding vote will be cast by the Magistra of the Sphere of Horomancy. Chambulla steps forward and remains silent for a long time, as if she's considering several possible futures. Then, without raising her voice at all, she votes in favor of adding the Kraken to the Yzmir Initiates' bag of tricks, with the naive explanation that the Rediscovery Endeavor requires arming ourselves with weapons that are up to the challenge. Excellent news. I can't wait to play with this new toy that has been given so kindly to us. Once I make its power mine, I won't have anything left to fear..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BGNK4DS16NNTSAP72M9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8BGNK4DS16NNTSAP72M9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BEBRJB09PFD1FW7A46P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8BEBRJB09PFD1FW7A46P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8BF5KAWCQGSANE970BFS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8BF5KAWCQGSANE970BFS",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79D0W9CEE4BR9Z5WGW9P",
+      "reference": "ALT_COREKS_B_YZ_17_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1440ed392384747d4143",
+      "reference": "LEVIATHAN",
+      "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+      "name": "Leviatano"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b97b8b6dab401afa9809",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/9b8ef350459295e4f9a4",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-07-10T10:38:01+00:00",
+      "question": "What happens if two different effects change the Region type of a Region?",
+      "answer": "If several effects change a Region type in a contradictory manner, the last one to be played prevails. If that effect stopped applying (for example if the Kraken was the last card played and is removed from the Expedition zone), it reverts to the previous state."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/92fbcc398e596a0243cc",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:38:01+00:00",
+      "question": "Can I play the Kraken if I have no Characters in my Expeditions?",
+      "answer": "Yes, but you will sacrifice the Kraken."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_17/JPG/it_IT/16b9ad3b62ef4758602c96cfcbadd4bf.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_17/WEB_a22453a96e67efc0b350eb082bc7dbc4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_17/WEB_ac644a4383738c30384710a5f4237d00",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_17/WEB_c2e61b1dc57d030682b3ab2debd34c2a"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_17_R2",
+  "reference": "ALT_COREKS_B_YZ_17_R2",
+  "id": "01HN5TXRKXCY88ZYXKX3SBQ6E1",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_17/JPG/it_IT/16b9ad3b62ef4758602c96cfcbadd4bf.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_17/JPG/de_DE/040fd8f90abf9ee743370b5f7b184839.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_17/JPG/es_ES/5d76f3a355290226f9d5c9d4e0cb4098.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_17/JPG/fr_FR/5250c736fda2e786dfaf20799d021b42.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_17/JPG/en_US/86a12ffbc879853deab6edd51c202b8b.jpg"
+  },
+  "name": "Kraken",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "OCEAN_POWER": "8",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "[Colossale]. (Considerami presente in ciascuna delle tue spedizioni.)  {J} Sacrifica due personaggi.  Tutte le regioni sono {O} e perdono gli altri loro terreni."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-168-F-IT"
+}

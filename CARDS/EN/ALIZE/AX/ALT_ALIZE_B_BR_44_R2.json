@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_BR_44_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1T4SBR2ZWV8QRR1QPAK2XD1EFJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J24R54084YYNF27X2TN89",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J24R54084YYNF27X2TN89",
+          "text": "There's no luck, only preparation."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24RRTMHRAMV2VN12R43W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J24RRTMHRAMV2VN12R43W",
+          "text": "I'm curious, I'll admit. Very curious... maybe even too curious! But hey, we are who we are, right? So when I saw Skadi carelessly drop her equipment bag next to the camp and go for a walk, well, it just felt like too good of an opportunity. Quick glance to the left, then to the right. No one around. And so I start rummaging through her gear. Inside, I find lots of things she must use for hunting and living in the mountains. Rope, carabiner, whetstone... But something else immediately grabs my attention: a pair of boots. They are bright red, have a strange design, and are simply begging to be tried on. And because I'm so polite, I can't say no. What harm could it do? And I need to know if they're my size. Without further hesitation, I slip a boot on. It seems to adapt to my foot, expanding in length and width to envelop my foot like a stocking. Cool, they're so comfortable!\n\nA strange knob on the ankle turns on and flashes red. That's right, Kojo, you should always press flashing red knobs. Maybe it adjusts the temperature? A heated boot: That would be so cool! Well, hot, I guess. I turn the knob to see what it does. A set of spurs shoots out from under the sole. Er, is that what it's supposed to do? Well, it's not heating, but still cool: These mountaineering crampons could be really useful. And because I can't help myself, I go looking for other hidden features. I turn the knob another notch. Whoosh! A blade-shaped flame shoots out from a ridge in the middle of the sole. I move back slightly in surprise. Wow, is that an ice skate? Someone suddenly taps me on the shoulder, and I know I've been busted. That floozie Skadi has her arms folded across her chest and is looking at me rather disapprovingly."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24RE24SQKGSV6ARKSQN9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J24RE24SQKGSV6ARKSQN9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24QHV218S11SYSWARZAZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24QHV218S11SYSWARZAZ",
+          "text": "KOJO\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24QWMVAZAX11FVDY9JG4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24QWMVAZAX11FVDY9JG4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "1T4SBR2ZWV8QRR1QPAK2XD1EFJ",
+      "reference": "ALT_ALIZE_B_BR_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Expedition Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6305690b6d03ed603873",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Gear"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5d1b943cc6186aa91e14",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/a7e3aaf11b996e002543e0fda2b36aef.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_279571b768bb272a3ff12c59a0520f95",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_7035156d55cac81037a43930cb962eb4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_44_R2",
+  "reference": "ALT_ALIZE_B_BR_44_R2",
+  "id": "01J1Q4P4S494FQQRQ8V7F8JMWW",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/it_IT/16f0c01bc845299fc39ed8ffbb4bcd4a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/de_DE/6a4f2c54b447e3a77796654b27a3bda9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/es_ES/18af88931b029be26476839a5568344b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/a7e3aaf11b996e002543e0fda2b36aef.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/fr_FR/e77f9fd77312c1586662c1bbeb6be088.jpg"
+  },
+  "name": "Technical Boots",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "#{R} [Resupply].# (Put the top card of your deck in Reserve.)  When my Expedition moves forward — Target Character in my Expedition loses [[Fleeting]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-031-F-EN"
+}

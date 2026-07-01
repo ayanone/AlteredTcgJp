@@ -1,0 +1,171 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_43_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5KVJ0MZ66S9WMT148EEWX7JKGM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23PGK0ZJVQZM65MR2PP5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23PGK0ZJVQZM65MR2PP5",
+          "text": "Basta anche un po' di calore per ravvivare una fredda giornata."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23QTSBW93AFDSKKES1NK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23QTSBW93AFDSKKES1NK",
+          "text": "Ora che è calata la notte, la temperatura è crollata. Il mio ragno meccanico continua ad avanzare, ma sento che i suoi movimenti non sono più così fluidi e le zampe iniziano gradualmente a rallentare e bloccarsi. So bene cosa sta succedendo: è il ghiaccio che penetra dappertutto, nel telaio, nelle articolazioni... Avrei dovuto prepararlo meglio al freddo. Per fortuna ora siamo arrivati all'accampamento e posso dedicarmi alla manutenzione. Ma questo senso di sollievo non dura a lungo. Rossum emette un bip di allarme e con una rapida occhiata intuisco subito il problema. Vedo i miei compagni rabbrividire, congelati. Avremmo dovuto essere più veloci. Mi maledico, ma sentirmi in colpa non servirà a nulla. Attivo il mio esoscheletro, che fa un rumore poco confortante. Anche quello ha problemi di avviamento. Appena sento che è pronto, sbatto un piede e muovo le articolazioni per liberarmi dal ghiaccio.\n\nScendo dal veicolo e mi dirigo verso le casse che ero andato a recuperare. Ne apro una e frugo all'interno. Niente di interessante. Brontolo e passo alla successiva. Il mio cuore batte forte quando trovo una stufetta kelonica. È proprio quello di cui abbiamo bisogno. Me la carico in spalla e mi dirigo verso il gruppo di ingegneri. Sono stretti intorno a un fuoco e tremano dalla testa ai piedi; hanno le labbra blu e i vestiti congelati. Appoggio la stufetta a terra e giro la manopola al massimo. L'elemento a spirale si accende di rosso, emettendo un leggero calore che scioglie la neve circostante. Piccole gocce iniziano a formarsi sulle loro tute mentre il ghiaccio comincia a sciogliersi. Altri operai si avvicinano per riscaldarsi e noto che uno di loro mi fa un lieve cenno con la testa. Mi ringrazieranno più tardi, quando smetteranno di battere i denti..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23QHH3TJ09ZRWMH10JA3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23QHH3TJ09ZRWMH10JA3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23N6R8YZ79YE2Q7K6EJD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23N6R8YZ79YE2Q7K6EJD",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23NSWW3ED6EV7T09GT5R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23NSWW3ED6EV7T09GT5R",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "5KVJ0MZ66S9WMT148EEWX7JKGM",
+      "reference": "ALT_ALIZE_B_AX_43_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanente Spedizione"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7370a409b5ae5748a129",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Dotazione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c49a87e9e643635c7d77",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/f5d2977c4153d3a954be",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:16+00:00",
+      "question": "When I play an Exhausted Character from Reserve thanks to Kelonic Heater, does it arrive in the Expedition ready or exhausted?",
+      "answer": "Ready!"
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/24c01d1409ec8b938f55",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:16+00:00",
+      "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
+      "answer": "Yes, an Exhausted Resupply counts as a Resupply."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/it_IT/ac3fc71b7070bc3736125aa82494f2e0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/WEB_4f4c9a515118aabb063670673626ab9b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/WEB_2350f7c7eebf1aa838a96126af5e87a9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_43_C",
+  "reference": "ALT_ALIZE_B_AX_43_C",
+  "id": "01J1Q4P4RWK42AHDHYE196SYCX",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/de_DE/cad432cd5aaa93666e09744bf3efa304.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/it_IT/ac3fc71b7070bc3736125aa82494f2e0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/fr_FR/5cdb2d5aa6ff219519d594929a115f37.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/es_ES/62e36403dca9f07fb029a8a81ea66228.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/en_US/931ecf00380eff27ac4dd60ab4c25526.jpg"
+  },
+  "name": "Stufetta Kelonica",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "{J} [Rifornisci-Consuma]. (Metti la prima carta del tuo mazzo nella Riserva, poi consumala {T}.)  Puoi giocare i personaggi consumati dalla tua Riserva nella mia spedizione."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-015-C-IT"
+}

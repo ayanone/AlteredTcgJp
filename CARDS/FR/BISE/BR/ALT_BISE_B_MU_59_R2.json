@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_59_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1NBW9JM3GP99WVR9EJF5M3CF35",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A7TM3HDNJ3GW20S3XF8G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A7TM3HDNJ3GW20S3XF8G",
+          "text": "20 % de Sève, 40 % d'eau, 40 % d'amour. 100 % bio."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7V90X738CDY46T8ZKG0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A7V90X738CDY46T8ZKG0",
+          "text": "393 AC - Je m'étire de tout mon long pour soulager mon cou et mon dos, bien courbaturés à cause de mes treks répétés et du travail à la Ferme, quand je ne suis pas en expédition. Autour de moi, les autres maraîchers aspergent de la Sève sur les plants, et notamment les beilleraves qui vont nous aider à la propager à toutes les cultures. Je secoue mon vaporisateur, pour m'apercevoir que ma bonbonne est presque vide. Pshiiit, pshiiit. Un peu ici, un peu là. C'est presque magique. Quand on diffuse le produit le soir, on peut déjà voir en se réveillant le lendemain que les pousses ont grandi, et que les légumes ont pris du poids et du volume. Sans parler des saveurs... Même mes recettes les plus basiques s'en étaient vues transformées, gustativement parlant. Ma ratatouille de tomates, de courgettes et d'aubergines, rien à voir ! Mes portobellos farcis, incroyables ! Rien que de les rôtir au barbecue... c'était le paradis !\n\nC'est étrange, quand même, que la Sève ait cet effet-là sur la nourriture. C'est un peu comme la miraculine. C'est comme si ça changeait le palais. Plus de goût, plus de parfum. Et c'est pareil pour les textures. Comme si les ingrédients exprimaient plus de vie, ou de joie de vivre. Pas plus tard qu'hier, on s'est régalés avec Kiddo avec un ceviche de truite assaisonné aux herbes. Le bouquet de senteurs des aromates, avec des lamelles de figues et juste ce qu'il faut d'agrumes, était oufissime ! Je vaporise les dernières gouttes de Sève sur la base d'un chou-fleur et rengaine mon spray. Il va falloir que j'aille le remplir. Mais en attendant, j'ai bien mérité une petite récréation ! Je fais signe à Aja que je prends ma pause, et commence à escalader la colline. Si ça se trouve, Arjun est dans les parages, et peut-être qu'iel aura envie d'un goûter..."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7TYJ5GZ7M6TKQZA18G4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A7TYJ5GZ7M6TKQZA18G4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7RY0DE7BXJ903RSEN3Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A7RY0DE7BXJ903RSEN3Q",
+          "text": "RIN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7T99WG8Y3H35T3V503S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A7T99WG8Y3H35T3V503S",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1NBW9JM3GP99WVR9EJF5M3CF35",
+      "reference": "ALT_BISE_B_MU_59_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/578e1b45911d71e6b98e",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Bénédiction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/22054eccb08df3a096ea",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/fr_FR/d55c1226d56fd1a02e0278e17003a0b4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/WEB_5d6cb1574708ea66b0d73047e2f4035a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/WEB_8cdfa1be3bddaca33447d86528857032"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_59_R2",
+  "reference": "ALT_BISE_B_MU_59_R2",
+  "id": "01JB1YGPBRF2KJ5JP3F6R3P3A1",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/en_US/87bdb9bf45d6e859f4733daaffba4530.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/de_DE/c2cce226c4fc2d78154bfa59ae543206.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/it_IT/286112f01ccf92ee327ccdaedc279358.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/es_ES/d74e4678b7dc666eedb0bfba360d75f8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_59/JPG/fr_FR/d55c1226d56fd1a02e0278e17003a0b4.jpg"
+  },
+  "name": "Dissémination de Sève",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "#[[Fugace]].#  #Doublez le nombre de boosts# de chaque Personnage #que vous contrôlez# et dans votre Réserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-064-F-FR"
+}

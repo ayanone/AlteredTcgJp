@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_13_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77W5MV7WY6PK1QWNHMA3",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7WACZA7C8HE8MQQ47VC7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7WACZA7C8HE8MQQ47VC7",
+          "text": "„Die Vorstellung ist die enthüllende geistige Kraft. Sie ist in der Lage, die unsichtbaren Welten um uns herum zu durchdringen.“"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WAXFJX8FDAQ1QBY9GZZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7WAXFJX8FDAQ1QBY9GZZ",
+          "text": "I look out of the bay window, contemplating Asgartha from the deserted lecture hall. I glance nervously at the blackboards where I pinned the assembly plans I finished the night before. Ada is reviewing them, moving between the different diagrams. Now that I look at them in the light of day, they seem like the product of some feverish dream. Beyond the theory, is it even possible? I've reviewed the plans dozens of times, and nothing seems to challenge the feasibility of it… I watch the Eidolon annotate my diagrams with a marker: \"elegant aesthetics\", \"functional mechanics\", \"circuit needs redesigning\"... Ada finally turns to the control module. Next to me, Oddball seems to sense that I have sweaty hands and a thumping heart. This is the innovation that matters the most to me.\n\nI had placed a cryptex similar to the Constructs on the table, lined with the khyalo alphabet. The idea had come to me on a whim. In terms of pure mechanics, creating autonomous robotic units wasn't difficult. The real challenge was the Automata's “brain”. Building on the overall functioning of the Alteration modules, I thought it made perfect sense to use them to create an operating system for the Automata. With such an artifact, they could react to their environment, almost as if they could think for themselves… And of all the Eidolons, Ada Lovelace is the most talented programmer. She's the only one who can help perfect my idea. I watch her activate the module, inserting it into the robotic head that acts as a case. She places a cube, pyramid and sphere in front of the robot, then tells it to look at the cube. The module rearranges in real time, and the head turns to the right object, as asked. Ada smiles, visibly impressed."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WAPPMEG7KENH8Z67K8X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7WAPPMEG7KENH8Z67K8X",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W9XKP096SXZCW8PJQXV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7W9XKP096SXZCW8PJQXV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WA5TPYMN4ZYJWHZK51W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7WA5TPYMN4ZYJWHZK51W",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77W5MV7WY6PK1QWNHMA3",
+      "reference": "ALT_COREKS_B_AX_13_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/93daf9f0236e58352c9a",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingenieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/fc58587929f98a71f67e",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/ffcac1e73947132ef7a2",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-16T10:37:35+00:00",
+      "question": "If Ada Lovelace places a card in Reserve such as Coppelia, is Coppelia played for free, even though that would mean two cards are played in the same turn?",
+      "answer": "Yes. (1 card per turn is a rule of thumb, specific effects can cause exceptions.)"
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_13/JPG/de_DE/057b9fe93f83c45b9568c7c53ffcb452.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/ALT_CORE_B_AX_13_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/ALT_CORE_B_AX_13_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/ALT_CORE_B_AX_13_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_13_C",
+  "reference": "ALT_COREKS_B_AX_13_C",
+  "id": "01HN5TXR3PXCNVMHH3YWBN9PQT",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_13/JPG/fr_FR/a8b444a7e8537a15342fac7b5be869cd.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_13/JPG/es_ES/e2e202446d00e61d362e5b78b131df26.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_13/JPG/it_IT/3e41b94cb468c5795b365daabad2d372.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_13/JPG/en_US/da25e9f9f20a3f43d1152c2d7f35db47.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_13/JPG/de_DE/057b9fe93f83c45b9568c7c53ffcb452.jpg"
+  },
+  "name": "Ada Lovelace",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{R} Du darfst eine Karte aus deiner Hand in die Reserve legen. Falls es eine Bleibende Karte ist, ziehe eine Karte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-006-C-DE"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_54_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7DFB4YJRC78KBSVKXPGQG3G7VR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A7B3Q9PGG9PG0JF4HDPF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A7B3Q9PGG9PG0JF4HDPF",
+          "text": "Ogni giorno che passa senza una talpa trivellatrice è una vera benedizione."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7BQFW4FJ1QCKCS6WVVG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A7BQFW4FJ1QCKCS6WVVG",
+          "text": "393 AC - I'm out of breath, so I sit down on a fence between two vegetable beds — pumpkins on one side, zucchini on the other — exhausted from the climb, and from the detour I had to make to the Yzmir Spires. The Mages had debated for a long time, long enough at least for Spike to fall asleep in my hood. After their discussions, the arcane college had authorized the use of Merlin, just this once. Then the two Eidolons, sorcerer and corgi, had both disappeared, whisked away by a portal that must have led to the depths of the Eye. I didn't linger either. I massage my neck as I look out over the fields, pushing  the seriousness of the Yzmir to the back of my mind and immersing myself in the languid tranquility I love so much about this place. The gourds have grown a lot since I last visited the Farm, and the harvest is impressive to say the least… And the use of Sap as a fertilizer was obviously instrumental in this dramatic growth.\n\nI see the Eidolon of Flore appear in her vegetable patch, watering can in hand. She whistles as she walks through the crops — tomatoes as big as melons, mulberry trees that look like hydrangeas — before she suddenly notices me. She gives me a wave and a big smile, then walks over to me, holding her straw hat to stop it from blowing away. While I'm still catching my breath, she comes over to sit down on a stump near me. We share our latest news, of course, like we used to back home, but I don't forget to take the bulbs and plants I gathered from the Undergrowth out of my backpack. She thanks me kindly and slips them into the pocket of her apron. In exchange, she hands me a little folded cloth. As I open the package, the scent of strawberries from it makes my mouth water. They too seem to be engorged with Sap and juice. I bite into one and let the flavors saturate my palate and the taste overwhelm my senses… Flore bursts into laughter, then takes one herself. Maybe out there in Anthea, the real Flore is daydreaming about this shared experience, or remembering this moment like a dream…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7BDDRQQDPY6J4QQYZ04",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A7BDDRQQDPY6J4QQYZ04",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A79GTY5WEW8AVP58M138",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A79GTY5WEW8AVP58M138",
+          "text": "ARJUN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A7ATT031MET2Y2WXMCS0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A7ATT031MET2Y2WXMCS0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7DFB4YJRC78KBSVKXPGQG3G7VR",
+      "reference": "ALT_BISE_B_MU_54_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5382b004bda44216592f",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druido"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/930766b9287584809beb",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/it_IT/d0da562ba4defdcabc49b0e17e048a80.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_0237c95f62eb13186c16b67ca2552254",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_6cfb9513d59332144169acafa4e4a43e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_b831bf0af6f1678d4b56526c349b7d20"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_54_R2",
+  "reference": "ALT_BISE_B_MU_54_R2",
+  "id": "01JB1YGPBPADMTYDQAXKW1DEP5",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/en_US/169f9199115c509b94501207b6be720f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/de_DE/b6bb49b7f22919a218bbae38ad585a47.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/it_IT/d0da562ba4defdcabc49b0e17e048a80.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/es_ES/f306aba4cd16f7cd24b0b736ec2944e6.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/fr_FR/01ae4c919e27090e3e1c69a01a5e0844.jpg"
+  },
+  "name": "Flore, Giardiniera Premurosa",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "ECHO_EFFECT": "{I} A mezzogiorno — Un altro personaggio bersaglio in gioco o nella Riserva ottiene 1 rinforzo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-058-F-IT"
+}

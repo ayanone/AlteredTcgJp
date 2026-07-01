@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_47_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0S1T571YCS8CZAZN48M8PDXRX9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29X42GSBZSTPDGDNKG0Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29X42GSBZSTPDGDNKG0Q",
+          "text": "Aúlla con una voz potente cual trueno y gélida cual hielo."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29Y3GQ9TER0GR3YN6ZHW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J29Y3GQ9TER0GR3YN6ZHW",
+          "text": "Nuestro progreso es lento a pesar de todo el equipo que tenemos. Caminamos en fila india y a diez pasos unos de otros para mantener la distancia de seguridad estándar. Los hombres están nerviosos, y con razón. Estamos cruzando un lago helado y a través de la pálida superficie turquesa se percibe sin problemas la actividad bioluminiscente de las profundidades. ¿Qué extrañas formas de vida se esconden ahí abajo? Me encantaría detenerme un minuto para contemplar mejor los coloridos enjambres que flotan a la deriva bajo nuestros pies, pero mis tropas están tan inquietas que será mejor seguir avanzando, sobre todo porque aún queda un largo trecho para llegar a la otra orilla. Es probable que no la alcancemos hasta el anochecer, y acampar en el hielo está totalmente descartado. Aun así, no puedo dejar de mirar la actividad de debajo, aunque haga que la cabeza me dé vueltas ligeramente. El hielo es tan cristalino que es como si camináramos en el aire, y en esas profundidades insondables me parece ver enormes siluetas que se deslizan como sombras en la oscuridad.\n\nMás adelante suenan gritos. Levanto la vista y veo que los exploradores están agitados, pero no distingo lo que hacen o dicen. Adiós a la cautela: un comandante debe estar dispuesto a asumir riesgos. Corro hacia ellos, superando al resto de la columna y dejando atrás a mis hombres uno a uno mientras me miran fijamente, cada uno con las mismas preguntas silenciosas en la mirada: «¿Qué ocurre?». «¿Estamos en peligro?». No tengo tiempo de tranquilizarles. Nina está justo detrás de mí. Me percato de que la luz está subiendo hacia la superficie, serpenteando bajo el hielo, haciéndose cada vez más grande bajo nuestros pies. ¿Podría ser algún tipo de criatura… o criaturas? La vanguardia a la que intento llegar se dispersa de repente en todas direcciones. Veo que el hielo empieza a resquebrajarse por el empuje de la bestia desde abajo... hasta que la superficie explota."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29XKNZ9MGPC9AGA4G0D5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J29XKNZ9MGPC9AGA4G0D5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29VBDFB0KG178RSPH5KD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J29VBDFB0KG178RSPH5KD",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29VVJ6QRYQTDCEGAPR88",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J29VVJ6QRYQTDCEGAPR88",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "0S1T571YCS8CZAZN48M8PDXRX9",
+      "reference": "ALT_ALIZE_B_OR_47_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ac04db1ad8305919dcef",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Ubicación"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1328986017f47cd661d0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/312aab04beff07c705d0",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:14+00:00",
+      "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
+      "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/es_ES/20ebab4560ed6da7a74705e0ecea3ef9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/WEB_ecf8bebcc2e3b0e654146304a1dfa040",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/WEB_f426ed3e2e41c7c050f7fe27cbafeea6"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_47_R2",
+  "reference": "ALT_ALIZE_B_OR_47_R2",
+  "id": "01J1Q4P4SQPNA2YQYR2C1KF8ZD",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/it_IT/941b60adec39ae294370f1a2b7796fff.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/en_US/424b841f5179feb6eff40aeb30852736.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/de_DE/612337763603b21ab9b1534ead279304.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/es_ES/20ebab4560ed6da7a74705e0ecea3ef9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/fr_FR/e37cf4050a07a221d9b68f99c90dec71.jpg"
+  },
+  "name": "Lago helado",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Cuando juegues un personaje — Si su expedición va por detrás, gano 1 contador de ordalía.  Cuando gane mi tercer contador de ordalía — Sacrifícame. Si lo haces, crea una ficha de ilusión [Dragón del eco 5/5/5] en una expedición objetivo y luego el personaje objetivo gana [[Sueño]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-085-F-ES"
+}

@@ -1,0 +1,153 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCF25_P_LY_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/61D6ZMQZPJ9P4RN0CQZS1B44HC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K3N7XQ6ZDHJ214EN6YZZ685S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K3N7XQ6ZDHJ214EN6YZZ685S",
+          "text": "Il caos può portare delusione, certo, ma è lì che troverai le gemme nascoste più spettacolose!"
+        },
+        {
+          "@id": "/lore_entry_elements/01K3N7XQ756EC9GARHFH2S9XR3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K3N7XQ756EC9GARHFH2S9XR3",
+          "text": "392 AC - Come on! There's no time to lose. Sierra's Eidolon will soon pop out of its paint prison. And obviously it will be a bit annoyed. Cheating? What do you mean? Hey, all I'm doing is just spicing the contest up a bit! Isn't that right, Blotch? Oh. Er… Well, thanks for your support. I'm not the one that made the rules, and frankly, it doesn't say anywhere that you can't throw a wrench into your opponent's gears! Huh? What's that? The Covenant? Cooperation between the Factions, good relationships… blah blah blah. Yeah, OK, but this is just for fun. There's no Covenant for this! Wait, whose side are you on, Blotch? Whose Alter Ego are you? Yeah, well, it's not my fault if you're no good at choosing allies, especially when it's FOR-EVER!\n\nOK, OK. Fine. How about you drop the issue, and I'll send you something to help. Does that work? OK, consider it done. I just need to summon a little rainbow road! I get out my cans and start to spray the ground. Suddenly, an iridescent pink ribbon begins to unwind in the air, twirling toward the sky and through clouds like a writhing eel. Come on! Into the starting blocks and off we go! Using Alteration, I create skates on the Hatter's feet and a sand yacht for Tanuki! By following the Bifröst, they'll reach Blotch in no time. See that, old friend? You see how we should help each other out? That's how you're supposed to support each other in an Exalt! Not by contradicting your partner, especially on small details! Vroom vroom! Choo choo! Well, have the reinforcements arrived, old buddy?"
+        },
+        {
+          "@id": "/lore_entry_elements/01K3N7XQ721THFMHSNASGWDM7M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K3N7XQ721THFMHSNASGWDM7M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3N7XQ6R18HBKKGGVZNVATNQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K3N7XQ6R18HBKKGGVZNVATNQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3N7XQ6WKF1Z9DWCQDN5K9B5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K3N7XQ6WKF1Z9DWCQDN5K9B5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "61D6ZMQZPJ9P4RN0CQZS1B44HC",
+      "reference": "ALT_WCF25_P_LY_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/WCF25",
+    "@type": "CardSet",
+    "id": "01JTJS48D59114PW9E8Z6SQQTN",
+    "reference": "WCF25",
+    "name": "World Championship 2025 - WORLD CHAMPION CARDS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/36b3a48ba4caef8c0aad",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/it_IT/b3b43e991062db43720243cb4a5919e3.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/HERO_THUMB_36df1cdf6c8d717abf91fa53a2fe701f"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/HERO_WIDE_cacba7d59ee58cb28865805eee83f994"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/WEB_3b2083584ebffdb8750a7f60272618cf"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCF25_P_LY_01_C",
+  "isOwnerless": false,
+  "reference": "ALT_WCF25_P_LY_01_C",
+  "id": "01JTJTC2SC2MSTG5C3JTZ880C7",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/fr_FR/0c58300fcc4e00b162bce01afb4732ad.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/en_US/81196a238f5e8137e9c055cc8e25dd57.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/it_IT/b3b43e991062db43720243cb4a5919e3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/es_ES/194bbae5a4f40d4aa71cb3db95f5981e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/de_DE/9824cccbeb7119e8f12fa16694829c5b.jpg"
+  },
+  "name": "Nevenka e Macchia",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "MAIN_EFFECT": "{T}: Scegli come bersaglio un personaggio che controlli, poi tira un dado. Con:  • 6+, ottiene [[Ancorato]]. (Durante il riposo, non va nella Riserva e perde Ancorato.)  • 2-5, ottiene 1 rinforzo. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)  • 1, mandalo nella Riserva."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "[NA]-IT"
+}

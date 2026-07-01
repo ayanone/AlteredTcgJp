@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_10_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB799C3MW7FVY6N9HR01BX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME86KPDK8H8SASNM4T74H0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME86KPDK8H8SASNM4T74H0",
+          "text": "« Le document a été mal rempli. Veuillez prendre un nouveau rendez-vous demain. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86MYQBWC0VTBW0M9NF5F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME86MYQBWC0VTBW0M9NF5F",
+          "text": "Sur sa table, de lourds volumes sont entassés au milieu de monstrueuses piles de feuillets et de notes griffonnées. Je me présente devant l'archiviste, claquant lestement ma canne pour attirer son attention. Il lève les yeux et me toise quelques instants, étudiant avec attention l'accréditation signée que je lui tends. Sans un mot, il se lève et saisit son lourd trousseau de clés, me faisant signe de l'accompagner. Nous cheminons en silence à travers le dédale de rayonnages du Sanctum, descendons l'escalier en colimaçon qui s'enfonce dans les entrailles de la bibliothèque tentaculaire. Au fur et à mesure que nous avançons, je remarque que les étagères se font plus poussiéreuses, les ouvrages qu'elles contiennent plus obscurs et visiblement moins sollicités. En tournant la tête, je vois l'Eidolon de Kikimora passer le balai dans une zone qui n'a probablement pas été visitée depuis des lustres...\n\nL'archiviste s'arrête devant une grille et passe en revue son jeu de clés dans le but de trouver la bonne. Puis il enfonce le précieux sésame dans l'étrange verrou qui scelle la section interdite, où tous les recueils dangereux du Sanctum sont enfermés à double tour. Alors que je pénètre dans la zone restreinte, Mack bondit discrètement hors de ma tunique et se dissimule hors de vue. Je souris à l'archiviste et le suis dans le capharnaüm de livres, rouleaux et tablettes sensibles, tout en supervisant la fouille discrète de mon Alter Ego. Il se faufile entre les rangées de livres, tout en pestant quand je lui donne des directives. \"Je sais ce que je fais\", me répond-il avant de couper la communication. Bien plus tard, assis sur un banc de la Fourmilière, Mack vient me retrouver, déposant un lourd grimoire juste à côté de moi. Beau travail. Il ne reste plus qu'à le déchiffrer et apporter en catimini sa traduction au Basileus."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86M9MJGE6XN4X4Q77Y45",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME86M9MJGE6XN4X4Q77Y45",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86JCHTAPX9P524QKFVQX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME86JCHTAPX9P524QKFVQX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME86K1NYK1AYXVGW008NM7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME86K1NYK1AYXVGW008NM7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB799C3MW7FVY6N9HR01BX",
+      "reference": "ALT_COREKS_B_OR_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bb907c497a97b4c7f0da",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrate"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/eacbe2afd5252ed9976d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b3c7cf781d4f379cd89d",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:37:47+00:00",
+      "question": "What happens if Monolith Archivist is played in the Arena (during a tie-breaker)?",
+      "answer": "In the Arena, Expeditions can't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant. Therefore Defender isn't a drawback anymore."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/fr_FR/3c7514cc71404a847dbdfe7bb963081d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_10/ALT_CORE_B_OR_10_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_10/ALT_CORE_B_OR_10_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_10/ALT_CORE_B_OR_10_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_10_C",
+  "reference": "ALT_COREKS_B_OR_10_C",
+  "id": "01HN5TXRFCRQQKRH052ZR2243Y",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/fr_FR/3c7514cc71404a847dbdfe7bb963081d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/de_DE/738f1e2e9518b0fb877d2c671cd6f96b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/es_ES/f50ae24bf8c2efee7a9ef1102f95f0da.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/en_US/25d66d99e8282a7a8818361f4d70af20.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/it_IT/20cfcb1c65a643f5951cef0c188b3680.jpg"
+  },
+  "name": "Archiviste du Monolithe",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "[Défenseur]. (Mon Expédition ne peut pas avancer pendant le Crépuscule.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-126-C-FR"
+}

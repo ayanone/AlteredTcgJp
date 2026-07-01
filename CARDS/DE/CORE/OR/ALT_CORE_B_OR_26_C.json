@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_26_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50B86QF0XFHRMNZ9AYFN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH6207GNYYB8Q0WHG36F3S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH6207GNYYB8Q0WHG36F3S",
+          "text": "Zum ersten Mal seit Jahrhunderten hat sich das Tor der Sonnenwende geöffnet. Zum ersten Mal seit Jahrhunderten wird die Menschheit entdecken, was jenseits der Tore liegt."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH621H0DT45TSGEN9FAQBP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH621H0DT45TSGEN9FAQBP",
+          "text": "The heavy doors of the Solstice Gate open with a roar. I can't look away. It's like I'm paralyzed by how historic this event is. Next to me, Tocsin sits cross-legged and watches the sudden flight of hundreds of doves. My hands are sweaty, my throat is tight. Down below, the Aegis battalions start to move. It's the moment of truth. After more than 20 years of waiting for this moment, now it has finally arrived. The first to go through are the Bravos fyrds, followed by General Sekifu's soldiers, then General de Graaf's troops. The air transports are there as well, drifting above our heads under the joint authority of Commodores Jeanty and Nagaya. And there's the Ouroboros, of course, under the supervision of Admiral Singh. I suddenly feel Tocs' hand on my shoulder, which snaps me back to reality.\n\nI turn to him and nod. It's neither the time nor the place to be overawed by the magnitude of the task ahead. I breathe in deeply and strike my shield with my fist, while my Alter Ego raises his horn. He blows into it and produces a powerful note that echoes above the rooftops. After regaining my composure, I call on the Coalescence. The doors of the Gestalt now open, just as the doors of Asgartha did earlier. With my mind, I reach out to all the recruits I have trained over all these years. I show them gratitude and camaraderie; I communicate courage and pride. Like a vast plain dotted with campfires, I feel their spirits answer my call one by one. I sense the same emotions from them that I'm feeling myself: fear, of course, but also elation and excitement."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH620Y6GV228GG79ACJH4X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH620Y6GV228GG79ACJH4X",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61YS61H9AZ52CT4V0TER",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH61YS61H9AZ52CT4V0TER",
+          "text": "Gulrang"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH61ZEJBK78DEKP3XH3E2Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH61ZEJBK78DEKP3XH3E2Y",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY50B86QF0XFHRMNZ9AYFN",
+      "reference": "ALT_CORE_B_OR_26_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/92b3d077c10f9b680337",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manöver"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3e6e01f3a941010293bb",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/de_DE/69593ff123eb55807036f543546f0132.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/ALT_CORE_B_OR_26_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/ALT_CORE_B_OR_26_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_26_C",
+  "reference": "ALT_CORE_B_OR_26_C",
+  "id": "01HKAFJNYDGHC6K3H8T3B6WSF3",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/en_US/a3b02d11bfb4620f9abca9486d2de34a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/de_DE/69593ff123eb55807036f543546f0132.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/it_IT/8dc200176c44decfa6b2356dc6bbfe97.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/es_ES/878d74e76f13bdea8a109c414da86214.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/fr_FR/64c960d6a4fd09a8a7d157ff70f101b0.jpg"
+  },
+  "name": "Öffnet die Tore",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "6",
+    "MAIN_EFFECT": "Erschaffe zwei [Ordis-Rekrut 1/1/1]-Soldatenmarken in jeder deiner Expeditionen."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-147-C-DE"
+}

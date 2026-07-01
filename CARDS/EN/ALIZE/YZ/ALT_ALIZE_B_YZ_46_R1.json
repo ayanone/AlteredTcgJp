@@ -1,0 +1,171 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_46_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1E2FPWVQCJ8P4V85WWSM81FG04",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2C97YJ9GC36X7ETFMM9Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2C97YJ9GC36X7ETFMM9Z",
+          "text": "We can hear it roar in the snowy passes."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2CBMWN2YKWQAHDWFMPH7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2CBMWN2YKWQAHDWFMPH7",
+          "text": "Fascinating! Simply fascinating! With every step I take, this pass of giant walls of ice continues to impress me. The primal force of the cold, which I was able to observe elsewhere on a smaller scale, is much stronger here. Great swaths of a past life are imprisoned in the ice, walled up for all eternity, frozen in motion. I feel as though I'm visiting a museum, with the models in each exhibit displayed behind a thick sheet of glass. Here we see a stag. Over there, a flock of birds flying in formation. There's even some kind of tentacled mammoth, encased in a frigid shell in mid-charge, or perhaps it was trying to flee whatever trapped it here. And scenes like these extend as far as the eye can see among the towering walls of this icy labyrinth. It's as if we were exploring a natural history exhibition and casually inspecting its stuffed specimens.\n\nFar off at the end of the procession, I see the Cais Adarra, lit up by a sky that is finally at peace. As the clouds part, the sun's rays reach down into the pass, lighting up the walls and providing us with some welcome visibility along with a spectacular light show among the dizzying frozen facades. A reflection draws my eye upwards to what looks like a Glyph, right in the middle of an ice wall. It's only semi-transparent and subtle enough to be easily missed by the uninitiated. I send Senka to find out more about the fascinating symbol as I put my Gephyromancy to work. By absorbing the ideas contained in the Sigil, I'll be able to… But I don't have time to learn more about it. The ground suddenly begins to tremble. Up ahead, I hear screams of terror from part of the group. It takes me a few seconds to notice that the walls are beginning to split. And I realize too late that this earthquake is the result of my arrogant curiosity."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2C9YS8S527ZM2SGSYGA0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2C9YS8S527ZM2SGSYGA0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2C7Z6S93SH26BH8G9R6Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2C7Z6S93SH26BH8G9R6Y",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2C8H36DNXEM370S8C7HR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2C8H36DNXEM370S8C7HR",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "1E2FPWVQCJ8P4V85WWSM81FG04",
+      "reference": "ALT_ALIZE_B_YZ_46_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Landmark Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/26d4bc7fb33c950475cb",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Site"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e7f5eebb9ec53faede5a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/90f0f5319ec03038dbfd",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:14+00:00",
+      "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
+      "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/4576899e2af507f9dd3b",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:14+00:00",
+      "question": "If I exhaust two cards in Reserve as part of the same effect, do I gain 1 or 2 Trial counters on Icebound pass?",
+      "answer": "You gain 1 counter for each card you exhaust."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_46/JPG/en_US/45ffd9120889b11e122c5117d51cf0a6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_46/WEB_1c180933b6568441490075b272ea2fe4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_46/WEB_f26513626b169422e2ea57b8a3948d74"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_46_R1",
+  "reference": "ALT_ALIZE_B_YZ_46_R1",
+  "id": "01J1Q4P4SXE7Q45FWVT059K871",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_46/JPG/es_ES/05f29b697384354c94c9a9ad0c91834a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_46/JPG/de_DE/92c2ad0d1cea97cff8ff9d0d72b10f76.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_46/JPG/it_IT/0ea71674149515bbe1566aa95e1050c4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_46/JPG/fr_FR/fefee663ec899120c352cf51ab24e06d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_46/JPG/en_US/45ffd9120889b11e122c5117d51cf0a6.jpg"
+  },
+  "name": "Icebound Pass",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "When you exhaust a card in Reserve — I gain 1 Trial counter.  When I gain my third Trial counter — Sacrifice me. If you do, create a [Dragon Shade 5/5/5] Illusion token in target Expedition, then draw a card."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-101-R-EN"
+}

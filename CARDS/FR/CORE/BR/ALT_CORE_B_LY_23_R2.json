@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_23_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZVBECS69ZHKPR04Q1F0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5VMQANDSEVV94TJXT058",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5VMQANDSEVV94TJXT058",
+          "text": "Et le vent souffle fort."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VNEQFPH8XZ57BKZY5X7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5VNEQFPH8XZ57BKZY5X7",
+          "text": "Auraq passe une main dans ses cheveux de jade, un peu perplexe. Trois ou quatre enfants ont profité de son inattention pour sortir du dortoir et fureter là où ils ne devraient pas. J'avais assisté à sa petite histoire, et même vu Crowbar s'émouvoir du spectacle qu'elle avait concocté avec Sierra. Les marionnettes avaient pris vie, et narré l'une de mes fables préférées : celle des Paramours de Seki. Mais même après plusieurs années, Auraq ne semble toujours pas savoir à quels garnements et chipies elle a affaire. Ça fait quoi, cinq ans qu'elle a embarqué sur l'Ouroboros ? Depuis le temps, elle devrait savoir que ces marmots sont capables de tout pour grappiller quelques minutes sur le sommeil. Je tire Qannik par l'oreille, tandis qu'Aru gesticule pour que Phong et Luka regagnent leurs lits. Crowbar, de son côté, allume ses yeux pour effrayer Oleneo, toujours dans les mauvais coups comme à son habitude.\n\nJe me pose sur un lit vide, tandis que ma Chimère monte la garde à la porte. Mais il n'est pas l'heure de leur faire un sermon. Je fais un signe à Aruzhan et matérialise dans ses mains une petite lyre. Si elle parvient à endormir des Eidolons, ce ne sont pas quelques galopins qui vont lui résister. La cantatrice de seulement dix ans — l'âge minimum pour rester avec les adultes — commence à pincer ses cordes, tandis que les enfants se réfugient sous leurs couvertures. Puis elle se met à chanter une comptine, sur une petite étoile qui continue de briller dans l'obscurité, un petit astre qui guide les voyageurs même au plus profond de la nuit... Alors que je l'écoute, ses paroles résonnent en moi. Nous étions nous-mêmes de tels voyageurs, en train de vivre probablement l'heure la plus sombre de notre histoire. Retrouver la Tribu Exilée était un faible phare à l'horizon, vers lequel nous nous rendions sans certitude aucune."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VN3VZQKQFDMES49VK2S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5VN3VZQKQFDMES49VK2S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VKZS3YHWKRHY659MBGZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5VKZS3YHWKRHY659MBGZ",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VMBPF0V2SSF3MR8MGRA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5VMBPF0V2SSF3MR8MGRA",
+          "text": "386 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY4ZVBECS69ZHKPR04Q1F0",
+      "reference": "ALT_CORE_B_LY_23_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ad8849d1b0e731c3e06a",
+      "reference": "SONG",
+      "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
+      "name": "Chant"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7e1b1b2deb358d670f3a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/3f30bf986e13d1af63db",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:38:08+00:00",
+      "question": "Can I play a Spell if there's no valid target?",
+      "answer": "Yes. Note that your Characters are valid targets for this Spell."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/fr_FR/b36d64f2ba88f5ebd736c85c66139e98.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/ALT_CORE_B_LY_23_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/ALT_CORE_B_LY_23_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_23_R2",
+  "reference": "ALT_CORE_B_LY_23_R2",
+  "id": "01HKAFJNTPVE3N857N4TCC2FK7",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/de_DE/61b5a6f538f6e8a0cf8c30483220dffd.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/it_IT/e8a333f5724e4b87bbaf07b80bbcec43.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/en_US/4990551886b8fe21dc02fc81cef613b8.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/fr_FR/b36d64f2ba88f5ebd736c85c66139e98.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/es_ES/9fc3f2c61b1b2e7125094695a9e9bbfa.jpg"
+  },
+  "name": "Meunier, Tu Dors",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Un Personnage ciblé gagne [[Endormi]]. (Au Crépuscule, ignorez ses statistiques. Au Repos, il ne va pas en Réserve et il perd Endormi.)",
+    "ECHO_EFFECT": "{D} : La prochaine carte que vous jouez ce tour coûte {1} de moins."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-084-F-FR"
+}

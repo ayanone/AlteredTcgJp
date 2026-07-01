@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_62_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6AJW5G95319MNAJGW0KWEXRAHJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A6HXHJYMFB8TY4H9K6H3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A6HXHJYMFB8TY4H9K6H3",
+          "text": "The Tisdhera Clan answers its Matriarch's call!"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6JGH1T74MPX6NRK4B6J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A6JGH1T74MPX6NRK4B6J",
+          "text": "393 AC - Hmm. This was not part of the plan. I look up at the floating city and its enormous balloons filled with helium. I've heard that if you breathe that stuff in, your voice gets all high-pitched and nasally. I'll have to try that someday. But for now… The Wayfarer. With its upside-down roofs, big tops and docks. Just the name alone: Wayfarer. Like the Tisdhera Clan are the only travelers in the group. Pfff. Someone should tell 'em that \"Lyra\" and \"traveler\" are basically synonymous. And yes, I do know what a synonymous is! Who says I'm no good with words? Oh, quiet, you old paint puddle, I'm not talking to you. Anyway, right now they're up there over the Screed, looking down at us through their telescopes. But pretty soon, a whole bunch of paint-slathered jokers will be showing up. The Wayfarer, home of clowns, painters… and maybe even make-up…\n\nMore to the point, what the [BLEEP] are they doing here? Hey, what's that noise? Are you trying to censor me? What ever happened to freedom of expression, huh? You bunch of [BLEEP]-ing [BLEEP] [BLEEP]?! Oh! So you're going to bleep out all my swears, huh? It's a conspiracy, sheeple! No, no, I'm not talking about that pasture over there, those are actual sheep. Hey, little shepherd, why don't you take a picture? It'll last longer! Look, I get that you're trying to steal my spotlight, and that you're jealous of how famous I am from all my little exploits, but that's a bit of a lame reason. Unless... Unless you've got a real reason to have come all this way? My brain starts running at full speed, which I'm not really used to, so I stop a few seconds later. Yep, the Tisdhera Clan is here, and it's definitely no coincidence. Well, I guess time will tell…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6J6XNJEZYS1FNV096TV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A6J6XNJEZYS1FNV096TV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6G9V0H3GHSM4MG9J12F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A6G9V0H3GHSM4MG9J12F",
+          "text": "N3V3NK4"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6HKBK9RKQKQ2060F6JQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A6HKBK9RKQKQ2060F6JQ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "6AJW5G95319MNAJGW0KWEXRAHJ",
+      "reference": "ALT_BISE_B_LY_62_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Landmark Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1a7be162cf39dc91688b",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5b7fdf2f3b4fe693cfa5",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_62/JPG/en_US/238a4858f4f7be685a072427849706bb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_62/WEB_f59a8eb169988625f2d004b7305f9d55",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_62/WEB_1cb3f384f3703a719dd61edc36185fb0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_62_R1",
+  "reference": "ALT_BISE_B_LY_62_R1",
+  "id": "01JB1YGPBKEFCQKEA8X5SEW61M",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_62/JPG/de_DE/6bf9c1cdde76958f8f4a75ff5b9f327d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_62/JPG/en_US/238a4858f4f7be685a072427849706bb.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_62/JPG/fr_FR/fc539cf2ede86aeb9b3d0d5661977fd9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_62/JPG/es_ES/22ff526477088e6ae710ea311bb159cb.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_62/JPG/it_IT/3b00af9cf11dab9044b010ac2e1db93e.jpg"
+  },
+  "name": "The Wayfarer",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "If you would roll one or more dice, also reveal the top card of your deck.  When you reveal a card this way — If its Hand Cost is equal to the die's result, #you may exhaust me ({T}) to play it for free.# (Don't activate any {h} abilities.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-051-R-EN"
+}

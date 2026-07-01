@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_17_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50DN57YQJWX02DDMA0E3",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH659S6C8AZ7HM0Z95D4RC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH659S6C8AZ7HM0Z95D4RC",
+          "text": "The Kraken tears open the surface, sending plumes of water crashing down on the troops in an apocalyptic deluge."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65B4AP1EHTSGVS1ZND3N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH65B4AP1EHTSGVS1ZND3N",
+          "text": "I stand in the assembly while the Magisters debate under the supposedly impartial eye of the Ordis clerk. It's been almost an hour since they started endlessly arguing and pussyfooting around. Should the Kraken be added to the Yzmir's summoning arsenal, or should it be added to the long list of the Faction's prohibitions? Thankfully, it's almost time for the vote. And it can't come soon enough. I'm starving. Malefane, Magister of the Sphere of Eidomancy, is hammering his arguments home to try and counter the appeals of Nasir, his counterpart from the School of Gephyromancy. He sits down in a noisy huff, giving way to the next speaker. Now it's apparently Tarjani's turn to speak. With a clear and confident voice, the Magistra of the Sphere of Phonomancy advises caution as usual. It seems the vote will be tight... but that's fine. We're prepared for any eventuality.\n\nEgon from the School of Kinemancy is content to add a brief comment, cynical yet incisive. \"If a weapon exists, it must be used,\" he says succinctly. \"It's not worth fighting against it. On the contrary, we should understand it as soon as possible so we can harness its power.\" Two votes for and two against. That means the deciding vote will be cast by the Magistra of the Sphere of Horomancy. Chambulla steps forward and remains silent for a long time, as if she's considering several possible futures. Then, without raising her voice at all, she votes in favor of adding the Kraken to the Yzmir Initiates' bag of tricks, with the naive explanation that the Rediscovery Endeavor requires arming ourselves with weapons that are up to the challenge. Excellent news. I can't wait to play with this new toy that has been given so kindly to us. Once I make its power mine, I won't have anything left to fear..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65ADCHS9P893BN1BVY4A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH65ADCHS9P893BN1BVY4A",
+          "text": "There are many sea monsters in Scandinavian legends. These huge and destructive creatures attack boats to shipwreck them and drag them to the bottom of the ocean. One of them, the size of an island and armed with countless tentacles, is called the Kraken. Beyond medieval legend, the imagery of the Kraken has influenced many authors, including the poet Alfred Tennyson in an irregular sonnet, and Jules Verne in his novel Twenty Thousand Leagues Under the Seas."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH658JMX5YBPEGH36WT1WM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH658JMX5YBPEGH36WT1WM",
+          "text": "Lindiwe"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6595PN9GVX9M8VPZ3516",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH6595PN9GVX9M8VPZ3516",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50DN57YQJWX02DDMA0E3",
+      "reference": "ALT_CORE_B_YZ_17_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b871c953f196d98bd26e",
+      "reference": "LEVIATHAN",
+      "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+      "name": "Leviathan"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/bfc7769b7e7be8bb2976",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/eadb85c1bfe1780b8b92",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-12T10:38:01+00:00",
+      "question": "What happens if the Kraken is played during the tiebreaker?",
+      "answer": "Its statistics are counted twice: once for the Hero Expedition, once for the Companion Expedition. In addition, the Arena is now only {O} so statistics in {M} or {V} won't help."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/4509f8d06dd9f5c7d2b2",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-12T10:38:01+00:00",
+      "question": "What happens if the Kraken is played during the tiebreaker?",
+      "answer": "Its statistics are counted twice: once for the Hero Expedition, once for the Companion Expedition. In addition, the Arena is now only {O} so statistics in {M} or {V} won't help."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/en_US/11dc55534f4f4fde42b54ca371c1a2b2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/ALT_CORE_B_YZ_17_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/ALT_CORE_B_YZ_17_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/ALT_CORE_B_YZ_17_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_17_R2",
+  "reference": "ALT_CORE_B_YZ_17_R2",
+  "id": "01HKAFJP3D8TZP4NZX618E65QE",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/es_ES/59f931ae76c292cb0336a3e678f3b851.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/de_DE/4851be3e0d5e46ff16664704d8870bc6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/it_IT/18906304326466491db487324f3bddf4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/en_US/11dc55534f4f4fde42b54ca371c1a2b2.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/fr_FR/b0ecc2cbadf6ffa54a4a65c328b56c5d.jpg"
+  },
+  "name": "The Kraken",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "OCEAN_POWER": "8",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "[Gigantic]. (I am considered present in each of your Expeditions.)  {J} Sacrifice two Characters.  All regions are {O} and lose their other terrains."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-168-F-EN"
+}

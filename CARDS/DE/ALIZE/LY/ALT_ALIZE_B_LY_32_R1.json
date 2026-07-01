@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_32_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1K53ZDCSP79WGSXCYS4J782N0W",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2556KCQDM2MJVQW2K0TQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2556KCQDM2MJVQW2K0TQ",
+          "text": "Wie du mir, so ich dir!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J255XN6KX99TYW76BHJFD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J255XN6KX99TYW76BHJFD",
+          "text": "Ich kann es nicht glauben. Von meinem eigenen Alter Ego im Stich gelassen. Auf diesen Miesepeter kann man sich einfach nicht verlassen. Sein Schlaf ist ihm „heilig“ und er braucht immer eine bestimmte Menge davon pro Nacht. Verdammt, ich wusste, ich hätte ihn nicht wecken sollen, um ihn nach seiner Meinung zu fragen! Jetzt stehe ich wohl wieder ganz am Anfang, auch wenn ich mit meiner Planung sowieso nicht besonders weit gekommen bin. Improvisieren. Improvisieren. Lass dir etwas einfallen, egal was, und zieh es durch, egal, ob es funktioniert oder nicht. Aber ich gehe schon den ganzen Morgen auf und ab und noch nicht eine einzige Glühbirne ist über meinem Kopf erschienen. Du hast eine Idee, oder? Irgendwas Brillantes, Cleveres … Ich bin für alles dankbar. Aber nein, kein bisschen Hilfe, nicht mal für eine junge Dame in Nöten!\n\nAlle weitergehen, hier gibt es nichts zu sehen! Ich komme schon alleine zurecht, wie immer … Der Schneeball trifft mich mitten auf der Stirn und ich spucke (elegant) den kalten Schneematsch aus, den ich in den Mund bekommen habe. Dann starre ich die frechen Kinder an, die es wagten, mich zu stören, während ich in Gedanken versunken war. Die Straßenkinder starren verängstigt zurück. Kaum überraschend, ich hab mich heute Morgen nicht frisiert. Dann, plötzlich: DING! Die Ladung Schnee in meinem Gesicht hat mich offenbar inspiriert! Ist es das, was mit „einen kühlen Kopf bewahren“ gemeint ist? Ich lächle den Kindern zu. Vielleicht macht ihnen mein boshaftes Grinsen mehr Angst als meine Wut von vor ein paar Sekunden. Es ist immer gut, ein paar Helfer zu haben. Und jetzt schulden sie mir was!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J255KMFCXTPF7GX8S878B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J255KMFCXTPF7GX8S878B",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2544YV96P21RPS95GVT6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2544YV96P21RPS95GVT6",
+          "text": "NEVENKA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J254RJVNECQ30TJ0GKWFY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J254RJVNECQ30TJ0GKWFY",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1K53ZDCSP79WGSXCYS4J782N0W",
+      "reference": "ALT_ALIZE_B_LY_32_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5443b62db79a0668784d",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Bürger"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/42d41b56e0e6c09d3637",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/de_DE/d76669bf6f410a9129b775c00debddce.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/WEB_f87c38d0ad01b3e276dfae3242f5aa76",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/WEB_af998bad6365de95d04ba05335179a40",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/WEB_621452a22fa86fc7d5eba6974aaadb40"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_32_R1",
+  "reference": "ALT_ALIZE_B_LY_32_R1",
+  "id": "01J1Q4P4S72ESJDYMMDMPKH5N8",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/de_DE/d76669bf6f410a9129b775c00debddce.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/it_IT/f5902567187a3613b563ba5e36271b04.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/fr_FR/a6d05b4ea57e70c1efb169eb5795f387.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/es_ES/11963e6503c5ceb3c71fa6ac60ef073e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/en_US/a4ebe5b1069f550c352d6fad1fc3e6e0.jpg"
+  },
+  "name": "Schneeball-Kommando",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "#2#",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{H} Du darfst eine Karte deiner Wahl in der Reserve eines Gegners erschöpfen ({T}). Würfle dann einmal. Wenn du eine 1–3 würfelst — Dieser Gegner wählt eine Karte in deiner Reserve. Erschöpfe sie."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-039-R-DE"
+}

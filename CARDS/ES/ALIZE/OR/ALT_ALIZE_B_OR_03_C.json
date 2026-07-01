@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0T4GEABNRN83KB780X2PJQVTJB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J27ZY7S2AMYMEK0GPCX4C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J27ZY7S2AMYMEK0GPCX4C",
+          "text": "La senda de Ordis es la paciencia y la resistencia."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J280R5JMXT25RY2VTT4SB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J280R5JMXT25RY2VTT4SB",
+          "text": "392 AC - En mi piel marmórea la lluvia siento. / El Kraken ruge y emerge de las olas con empeño. / Soplo mi gran cuerno, despertando a todos de su sueño. / Al contrario que los árboles, a mí no me doblega el viento. / El deber me obliga, no hay lugar para la vacilación. / Las tropas se mueven como una sola sin romper la formación. / Sé valiente y muestra el orgullo en tu semblante. / En ristre lanza y sable, ¡carga, carga hacia adelante! / Las olas chocan y espuman contra la negra arena. / Aguas salvajes donde acechan peligros por doquiera. / Haced volar esas serpientes siseantes, ¡carga, carga! / Así la vil bestia se hunde en la noche más larga. / Así la esperanza brilla para todos al final. / Que el huracán se doblegue ante tu poder colosal... ¡Ja! De repente, Gulrang me sermonea y me pide que me calle. ¿No es momento de poesía? ¿Solo porque tengamos delante a un enemigo formidable, debemos reprimir nuestras ambiciones artísticas? ¡Que así sea!\n\nErguido sobre mi pedestal de piedra, hago sonar mi cuerno para dar la señal a los lanceros de que avancen. Gul está entre ellos, con su pesado pavés en alto para cubrir su avance. Me mira y me hace un sutil gesto con la cabeza. Hago sonar otra nota con mi instrumento, señalando a todos los soldados que se coloquen en posición. Al unísono, los percusionistas y pífanos de Lyra comienzan a tocar al ritmo, pero la actuación se convierte rápidamente en una cacofonía con todo el movimiento de las tropas. ¡Ja! Necesitan un director de orquesta para llevar el compás. Advierto a Gulrang. Siento que las ideas que ella canaliza de vuelta atraviesan mi cuerpo entero para fluir al mundo. Los glifos de «Coordinación», «Arreglo» y «Armonía» aparecen en mi caracola uno a uno. Soplo con todas mis fuerzas en el cuerno, con mis mecanismos internos actuando como fuelles, para extender las palabras entre todos los trovadores..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J280BJ7KNHFH3V85HJ8H8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J280BJ7KNHFH3V85HJ8H8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27Z1MKC0KPRP8R9D6JYX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J27Z1MKC0KPRP8R9D6JYX",
+          "text": "REBATO"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27ZGA6CBVNWW6Z5CYR15",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J27ZGA6CBVNWW6Z5CYR15",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "0T4GEABNRN83KB780X2PJQVTJB",
+      "reference": "ALT_ALIZE_B_OR_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héroe de"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/740574eff4d56b0b088c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/JPG/es_ES/3ad39f66b41d7f6b71709f8db651cb30.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/WEB_df9d1b15fbbb18a2aa7589e96735dc3c"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/HERO_THUMB_49ac3e6a447a439b96d6af8074ef8e17"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_03_C",
+  "reference": "ALT_ALIZE_B_OR_03_C",
+  "id": "01J1Q6XAGA8QY4C6BRV3DP6NPY",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/JPG/de_DE/509695d2759f4435b925e7ac7e41027b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/JPG/it_IT/30f784b5ef4998cdb58db059fdb1a63b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/JPG/en_US/e8ccd7d7b43ceccdaa59b6394492700f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/JPG/es_ES/3ad39f66b41d7f6b71709f8db651cb30.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/JPG/fr_FR/6d2da6c1dbf24baded52d22d80baa1ba.jpg"
+  },
+  "name": "Gulrang y Rebato",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "Cuando crees una ficha de personaje — Gana 1 potenciador.  Si tienes menos de ocho orbes de maná, las fichas [[potenciadas]] que controles tienen [Defensoras]. (Sus expediciones no pueden avanzar durante el anochecer.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-070-H-ES"
+}

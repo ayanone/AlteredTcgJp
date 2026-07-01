@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_LY_56_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/31QBDJT2Z49PWSPTZDY54H20Q5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A62M076FEKNWQYG6HK63",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A62M076FEKNWQYG6HK63",
+          "text": "„Ich könnte nie zulassen, dass mich die verschlungenen Fäden des Schicksals von meiner Tochter getrennt halten.“ – Efrén"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A638E4KZA83BTKJD27ZD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A638E4KZA83BTKJD27ZD",
+          "text": "393 AC - I turn my head to look behind me as we rapidly descend into the darkness of the City of Scholars. Dad is right behind me, using his wires to swing from block to block. It's crazy how he's able to keep up, as I zoom along at top speed on the one-wheeler I asked Aby to make for me. I jump and skid, my prostheses attached to the axle for maximum maneuverability. But more than amazement, what I really feel is pride. I didn't know he had both the guts and the talent needed to set out on an odyssey like ours. I'd always known him as lazy and indifferent, quick to yawn when holding the reins of our caravan, and always up for a nap at the first opportunity. As for his gifts for Alteration… His Ignescence is strong — much more so than mine, which has nosedived dramatically with using my Construct so much.\n\nSometimes, I see him sending one of his puppets up to a ledge to grab some artifact, then calling it back to him with the trinket or precious loot in its arms. Other times, he summons much tougher-looking dolls, fully equipped for combat. I remember seeing the marionettes he used for his performances. He had sculpted them with his golden hands and knew them inside and out, from the slightest workmanship defect to the texture of the wood used to build them. Even their personalities. But I didn't know these mannequins I was seeing now. I sensed that they were old and a bit crabby, as though he had stuck them in storage a long time ago and finally pulled them back out of the cabinet. It feels as though my father had pulled off the black mask he used for his performances and was showing me a new facet of himself. A facet I had never seen before…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A62ZSYEADN4ADQ2PQBYE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A62ZSYEADN4ADQ2PQBYE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A61YSXDTY9RRYSNGJPNG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A61YSXDTY9RRYSNGJPNG",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A629W27Z41CMPJMG5GR5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A629W27Z41CMPJMG5GR5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "31QBDJT2Z49PWSPTZDY54H20Q5",
+      "reference": "ALT_BISE_B_LY_56_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/477e464eb4a883e53193",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Künstler"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/21ce2592465a9786b81e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/de_DE/483fb23c80112211c6b8aa99f837d682.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/WEB_2f3ac3708301e585ce49e2878dc246c4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/WEB_8cfdddb4efb79bffd853a1faad2f0d9e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/WEB_e40ebd4886f5a4afc6ecbd62b7d148e8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_56_R2",
+  "reference": "ALT_BISE_B_LY_56_R2",
+  "id": "01JB1YGPBH0XD1TSVEEW83VGEZ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/de_DE/483fb23c80112211c6b8aa99f837d682.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/it_IT/6f4e2fd53daa5a9aeea1d0b5412fdb1d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/es_ES/c22211551299cd935f5540ae3d3c9eeb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/en_US/0216706bf8e3fd59f668763ce44ad146.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_56/JPG/fr_FR/310d42ded179dd6bb925f3781fc91d50.jpg"
+  },
+  "name": "Efrén, Marionettenspieler",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "#4#",
+    "MAIN_EFFECT": "#[Spähen] {2}.# (Du darfst mich für {2} mit „{h} Schicke mich in die Reserve“ aus der Hand spielen.)  {H} Würfle einmal. Bei:  • 4+ [Sabotage].  • 1–3 [Nachschub]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-044-F-DE"
+}

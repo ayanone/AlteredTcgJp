@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_32_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2PXEAR7BA590F8J02GFXJ15WX5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26DZKVYSYA7FERJGTVM9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26DZKVYSYA7FERJGTVM9",
+          "text": "\"Zzz...\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26EP943JJR313BTDRQ2J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J26EP943JJR313BTDRQ2J",
+          "text": "Ho imparato ad apprezzare la quiete di una foresta innevata. Il silenzio morbido e ovattato è perfetto per la contemplazione. La mia mente si rilassa a ogni passo sulla neve, permettendo al mio subconscio di riflettere ed esplorare un mondo di possibilità e potenziali soluzioni per il Fuso. Sento solamente lo scricchiolio sommesso dei miei piedi che affondano nella neve... finché uno strano suono nelle vicinanze non mi distoglie dalle mie riflessioni. Mi volto verso Spina, ma no, il rumore non proviene da lui. Rimango completamente immobile e ascolto con attenzione. La fonte è vicina e, quando inizio a camminare nella sua direzione, ad ogni passo scopro qualcosa di nuovo. Un leggero vibrato... Aspetta, è qualcuno che russa? Chi potrebbe dormire qui fuori? Dietro un tronco d'albero, trovo una giovane recluta Ordis che dorme profondamente distesa sulla schiena. Dubito che un cumulo di neve sia il posto più adatto per una siesta...\n\nMentre le avvicino una mano alla spalla per svegliarla, noto qualcosa sul suo petto: una creatura che guarda pensierosa il suo viso addormentato. È un fungolo. Un funghetto della pennichella, per la precisione. Mi accorgo subito che parte del cappello è stata rosicchiata. Beh, questo spiega l'inopportuno pisolino di questa novellina. Un'altra recluta che non ha prestato attenzione durante l'addestramento sui pericoli della foresta. In ogni caso, il cappello rosso a squame blu del fungolo avrebbe dovuto essere un chiaro avvertimento. Prendo in prestito i guanti impermeabili della recluta e raccolgo il piccolo fungo, che mi offre un po' del suo cappello. No, grazie, piccolo, ho appena mangiato. E so tutto delle tue proprietà narcotiche. Ma lo conserverò per dopo, così potrò preparare una zuppa che concili un sonno profondo e ristoratore, come fanno certe mamme per i loro bambini iperattivi. Nel frattempo, dovrò preparare una tisana per la recluta, che probabilmente si sveglierà con un brutto raffreddore... Ma cosa ci faceva qui fuori tutta sola?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26EAJKX4KGFPWYB9KZ1C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J26EAJKX4KGFPWYB9KZ1C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26D7WQP8446VDZ3XGZ1G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26D7WQP8446VDZ3XGZ1G",
+          "text": "ARJUN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26DKFW748BEPKNZDYSNY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J26DKFW748BEPKNZDYSNY",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2PXEAR7BA590F8J02GFXJ15WX5",
+      "reference": "ALT_ALIZE_B_MU_32_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f440644d1d6601443123",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Pianta"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7118c9039c18428b586f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/it_IT/c519c9c9d852a89007bf13719f9f858f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_77d2e7b25d10fd6be4ec8fef331363d6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_7b406ab8ec42cd3a8c5810eb583f5ce9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_94b168a5810a5498fc6a84b06a0389ce"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_32_C",
+  "reference": "ALT_ALIZE_B_MU_32_C",
+  "id": "01J1Q4P4SDA8SPK4V8SP1KVFB5",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/de_DE/0f8f84c085da4f120370cccf2469a632.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/es_ES/7195611d954327d9cb15be8523039f7d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/it_IT/c519c9c9d852a89007bf13719f9f858f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/en_US/ae9cdcc673e5c03e2c3d26e21cb84824.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/fr_FR/ca798e88df00292cc68579406f534236.jpg"
+  },
+  "name": "Funghetto della Pennichella",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "0",
+    "ECHO_EFFECT": "{D}: Un personaggio bersaglio che controlli con costo dalla mano pari o inferiore a {4} ottiene [[Dormiente]]. (Scartami dalla Riserva per eseguire questa azione.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-054-C-IT"
+}

@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_37_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4TQGZA1HBP8DC8R9B001EH0JEE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25FRQD18AHG7VKC4B58V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25FRQD18AHG7VKC4B58V",
+          "text": "\"Ho ho ho!\""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25GVRFKGJC9VED0N2KXP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J25GVRFKGJC9VED0N2KXP",
+          "text": "I snap my fingers to let Blotch know that the heist went well, putting my sunglasses on to look the part. With arms full of presents and pulling a bag full of loot, I leave without turning around and with the coolest attitude possible to avoid looking sus. Basically, minding my own business, because the right attitude can get you out of some very tricky situations. But I wasn't expecting the wave of snow that suddenly sprays me from out of nowhere. I shake my head to get rid of the frozen slush and come face to face with a big, burly man with a long white beard. This guy is a real heavyweight! He's wearing a gold chain, sunglasses on his nose, and the attitude of a biker who's been around the block a few times... We stare at each other for a few seconds before I recognize him, and I realize I'm in a bit of trouble. He frowns and looks disappointed.\n\nThen he nods to me and points to the empty compartment at the back of his sleigh. Oh, he thinks I'm a worker here? I grumble to myself, but it's not like I have any choice. I load up his bright red sleigh, which is streamlined like a race car, somewhat disappointed to be giving up the loot from my heist. Once the cargo is loaded, the Eidolon wastes no more time. He snaps the reins of his team, and the reindeer start to leap forward, weaving between the tents of the camp. Then he climbs into the sky and disappears into the clouds, unseen and unnoticed, free and easy. OK, I got lucky there... that was a close call! And I lost all my loot. But that ride of his... Wow, that thing kicks some serious butt. I already know what I'm going for with my next little scheme. One day it will be mine. Oh yes, one day it will be mine."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25GCHXAZKV4MDD0CC7P0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25GCHXAZKV4MDD0CC7P0",
+          "text": "Hey, guys! So, I guess you already know about Santa Claus? You probably know about his connection to Saint Nicolas (of Myra), and that he gives presents to good little children, right? Did you know that before he wore red clothing, he dressed in green or blue? And do you know the names of his reindeer? Tough one, right? In the poem A Visit from St. Nicholas, attributed to Clement Clarke Moore or Henry Livingston Jr., they're called Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donder and Blitzen. Rudolph and his red nose came much later..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25ER1PH6CBCA2CCP03RK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25ER1PH6CBCA2CCP03RK",
+          "text": "NEVENKA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25F7X8Z3D0QHJHB354F0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25F7X8Z3D0QHJHB354F0",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "4TQGZA1HBP8DC8R9B001EH0JEE",
+      "reference": "ALT_ALIZE_B_LY_37_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9d340f7d1f2a880bf776",
+      "reference": "MESSENGER",
+      "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+      "name": "Messenger"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ef32154af2a1f40b7a20",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/772171fccb2aa573fc85",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:19+00:00",
+      "question": "In which order to we resolve the {h}, {j}, {r} abilities of the Characters played thanks to Santa Claus effect?",
+      "answer": "When you resolve Santa Claus effect:  1. Each player plays their free cards.  2. The active player (normally, the one who played Santa Claus), resolve all of their reactions (including the {h}, {r}, {j} abilities) in the order of their choice.  3. The next player in turn order resolve any of their reactions in the order of their choice."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/en_US/412b64fd80af49e46165af2c338ad426.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/WEB_15ab4f2b79431d987f2dd7d3e09f05a3",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/WEB_9204d9997b88b430b14dd4822db0b2b2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/WEB_f4750b009af6b901b5e7655d6b74c39f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_37_R1",
+  "reference": "ALT_ALIZE_B_LY_37_R1",
+  "id": "01J1Q4P4S8VRS4MQ8C3VSJRWQ9",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/de_DE/7e8320c934bf4cdda5445a3313353f59.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/es_ES/e3f8047dcc537fe313a77de7f9d4f995.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/it_IT/d5faa1bf3c094229f21e965c0d1f3980.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/fr_FR/acfb81cd2839ebd313b803786ca398c9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/en_US/412b64fd80af49e46165af2c338ad426.jpg"
+  },
+  "name": "Santa Claus",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "#4#",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "#4#",
+    "MAIN_EFFECT": "{H} Starting with you, each player may immediately play a card with Hand Cost {3} or less for free."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-044-R-EN"
+}

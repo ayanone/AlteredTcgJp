@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_NE_02_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4JQX6TJ0XB88KATR342ERN82D0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J27SDPWSQ5ZMGJM2R562K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J27SDPWSQ5ZMGJM2R562K",
+          "text": "It is a shadow, a phantom, always hissing, always whispering. It wants to be found. It wants to be unleashed."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27T8MCQPCPZ037CBJZNV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J27T8MCQPCPZ037CBJZNV",
+          "text": "The wind hits my torso, and I plant my feet in the snow to steady myself. All around, the snow is whipped up from the ground and flung far and wide, stinging faces as it flies. Next to me, a porter covers their ears upon hearing the roar that rides the shockwave. I, on the other hand, listen intently. It's like a roar, like a lament reverberating within the snowbound valley. Chunks of snow and ice dislodge and fall from the peaks when the howl, the bloodcurdling wail, rings out. And at the same time, I feel my excitement grow. What kind of creature can cause such seismic activity from just its roar? What colossus could trigger these gigantic explosions? Could a Leviathan be behind the signs and omens we've been witnessing? Or is it something completely different?\n\nOver the last few weeks, its presence has been felt constantly. In the way the snow falls from branches, in the way stalactites break off... or even in the flowing of a stream. Signs and omens are everywhere, even in the most commonplace scenes. You could hear its roar floating in the air like white noise without really being aware of it. Or maybe no one really dared listen. But the closer we came to the summit, the harder it was to ignore... Now it demanded we listen. Some say that the roar is telling us to flee as quickly as possible. But that's not what I think. On the contrary. To me, it's calling us... either a call for help or a challenge. There's definitely a shadow over the mountain, a formidable beast urging us to find it. And that's exactly what I plan to do."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27ST0FNKF6B5WP2R0S7S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J27ST0FNKF6B5WP2R0S7S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27RBAADPQXWQJE8PJ29K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J27RBAADPQXWQJE8PJ29K",
+          "text": "BASIRA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27RYD3E1Y90BMPRTV1YG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J27RYD3E1Y90BMPRTV1YG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "4JQX6TJ0XB88KATR342ERN82D0",
+      "reference": "ALT_ALIZE_B_NE_02_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Token Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9e2bd745ba8205c63f7c",
+      "reference": "ILLUSION",
+      "id": "01J1QBG2268GSN3G0S560XZGZY",
+      "name": "Illusion"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/50571418eedf1d2fd91b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/en_US/1ace63e78bc5e83728b385c439002c3a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/WEB_aa64f44da7d0825f6aeec54ebb970d4d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_NE_02_C",
+  "reference": "ALT_ALIZE_B_NE_02_C",
+  "id": "01J1QCG337Q8CP02VDR4N8YQ7T",
+  "mainFaction": {
+    "@id": "/factions/NE",
+    "@type": "Faction",
+    "reference": "NE",
+    "color": "#8f95b2",
+    "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+    "name": "Neutral"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/es_ES/fa8dfde4b5d6228340bd3e74a7b6c6ec.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/fr_FR/81af2699c4db1ec7f117caf270be2bee.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/en_US/1ace63e78bc5e83728b385c439002c3a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/de_DE/94d443c4fedbc4723719739e297f5e81.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/it_IT/20b2bfd106cd14ee79cf63815d8779d6.jpg"
+  },
+  "name": "Dragon Shade",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "(If I leave the Expedition zone, remove me from the game.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-107-T-EN"
+}

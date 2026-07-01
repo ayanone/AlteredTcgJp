@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_44_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/14FJKSX93H9W3VYV552V5CDK4Z",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29J3SS15YBMEYKNFMYEA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29J3SS15YBMEYKNFMYEA",
+          "text": "Il suono del corno li destò dal sonno, mentre le ombre bianche uscivano dal bosco."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29KPZQP9QX6PJZWZ14GK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J29KPZQP9QX6PJZWZ14GK",
+          "text": "Baaaaaaaaaaaam! Baaaaaaaaaaaam! Suono il mio grande corno con tutta la forza che ho in corpo.\nAi vostri posti, in battaglia, valorosa guardia!\nSiate orgogliosi, anche se le vostre mani sono logorate e portano i segni della guerra!\nIntorno a noi, la resistenza prende il volo.\nAi vostri posti, in battaglia, valorosa guardia!\nE preparate il vostro corpo e il vostro cuore alla battaglia.\nIntorno a noi, la resistenza prende il volo.\nLottate per ogni metro e per ogni centimetro!\nE preparate il vostro corpo e il vostro cuore alla battaglia.\nAlzate al cielo la lancia splendente e la spada luminosa!\nLottate per ogni metro e per ogni centimetro!\nAnche se la battaglia infuria nel buio della notte.\nAlzate al cielo la lancia splendente e la spada luminosa!\nE richiamate dalla vostra anima tutta la forza della luce.\nAnche se la battaglia infuria nel buio della notte.\nCombattete finché l'alba non ci porterà una gloriosa ricompensa.\nBaaaaaaaaaaaam! Baaaaaaaaaaaam! Non c'è niente di meglio di qualche strofa per riscaldarsi e sollevare un po' lo spirito, soprattutto considerando ciò che vediamo arrivare nella nebbia davanti a noi.\n\nGulrang è in piedi accanto a me, avvolta in un cappotto bordato di pelliccia, con i lunghi dread che ondeggiano al vento. Mi batte il petto con la mano guantata, come per riportarmi al presente, ma il suono del metallo sulla pietra è appena udibile attraverso la bufera. Sono qui, Gul, dico semplicemente. Ripongo il corno nel mio scomparto di marmo, avvolto intorno alla spalla, e guardo le difese. La fortezza di terra che abbiamo fatto crescere dal terreno usando l'alterazione ci dà un certo vantaggio, ma non reggerà all'infinito contro l'assalto dei belisenki. I bastioni della città fortificata sono coperti di truppe e gli ufficiali iniziano a impartire ordini. La fortezza contiene circa 50 soldati, che stanno correndo per rispondere all'allarme che ho appena lanciato. Suppongo che non ci sia più tempo per la poesia... È ora di lasciare spazio al clangore delle armi."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29JMXX8D0WD0C89VXS6S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J29JMXX8D0WD0C89VXS6S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29H4HSTE7ZMGYX9T4NYT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J29H4HSTE7ZMGYX9T4NYT",
+          "text": "CAMPANA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J29HMBCDEYVXQF7F82W29",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J29HMBCDEYVXQF7F82W29",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "14FJKSX93H9W3VYV552V5CDK4Z",
+      "reference": "ALT_ALIZE_B_OR_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/51d31f626beca1d72a5b",
+      "reference": "SONG",
+      "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
+      "name": "Canzone"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/79932b9f7687432b1408",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/it_IT/2668f9ec37a8a79cbe8ff995417772ac.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/WEB_c5b9a8fbf48006e6e38ab438cc616076",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/WEB_8920b25e0c956255d684794a38c0f34a"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_44_R1",
+  "reference": "ALT_ALIZE_B_OR_44_R1",
+  "id": "01J1Q4P4SPGZZS4TK0CWMVFXSA",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/it_IT/2668f9ec37a8a79cbe8ff995417772ac.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/en_US/36aff37558bf8ecd72463236b20fe3a3.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/de_DE/45b0756910b21f66503492bc023af8c5.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/fr_FR/065b0b8f3af4524cea507456c01079b0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/es_ES/c0ba5ff51c506f65080eef6c21bc0f3b.jpg"
+  },
+  "name": "Segnale di Adunata",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Un personaggio bersaglio ottiene 1 rinforzo. Se ha [[Dormiente]], #ottiene [[Ancorato]]# e perde [[Dormiente]]. (Durante il riposo, non va nella Riserva e perde Ancorato)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-080-R-IT"
+}

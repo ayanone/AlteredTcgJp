@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_43_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1XADGA9CAP87BBMB0QV7AVMAK3",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2BVH2EBMTCAG9AM06QED",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2BVH2EBMTCAG9AM06QED",
+          "text": "Ballet with butterfly wings."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BWHV8TYG2BR2TFZZTYQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2BWHV8TYG2BR2TFZZTYQ",
+          "text": "Biology may be Saskia's specialty, but mine is handling Naali Spheres. Though Taru never stopped telling me it was a waste of time, I continued to light up my Irises every time I found myself near a Mana moth, dissecting them with my eyes at every opportunity. Horomancy is a versatile discipline, especially when combined with the principles of Eidomancy, which Kuwat taught me. I knew I could do it. I just knew I could. Of course, I had started by using an Effigy, but after a few failed attempts, I'd realized that using a physical statue was not suited to the nature of Mana moths. It's much better to materialize them by calling on something that evokes their fleeting nature… and what better than the ephemeral art of dance? Ready for a spot of ballet, Taru?\n\nWithout waiting for his answer, I perform a quick ballonné, followed by a series of déboulés. Meanwhile, Taru uses all his limbs to perform some enchanting moves of his own. I see him spinning like a sun as I alternate between pas de bourrées and arabesques. Our combined Kinemancy skills quickly manifest a swarm of moths in the world. By studying them day after day, I've learned by heart their behavior patterns, their translucent anatomy, the linguistic characteristics of their flight… all for the chance to call on them one day. And as I throw myself into a grand jeté, I silently thank Bogna for having been such a strict dance teacher. With each pirouette, more and more moths appear, gathering into compact swarms. Crafting creatures with such a tenuous grip on life from ideas and Mana isn't difficult at all. But will the Belisenki be fooled by this little trick?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BW1QYM5BE77AH8B0PQ0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2BW1QYM5BE77AH8B0PQ0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BSSZPDE80JE2HARHKJ6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2BSSZPDE80JE2HARHKJ6",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BTARJSQNAHS3ZSZC71W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2BTARJSQNAHS3ZSZC71W",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1XADGA9CAP87BBMB0QV7AVMAK3",
+      "reference": "ALT_ALIZE_B_YZ_43_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ee0d21306eb5b7bec628",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maneuver"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/66afd03296b108c0ea51",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/en_US/2153ee8ec381a673e9f97a9f032a9ba7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/WEB_b995d00add82d8bc2911c8c23bc042f8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/WEB_8ce07f9b731738d85aec22d6246f173d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_43_C",
+  "reference": "ALT_ALIZE_B_YZ_43_C",
+  "id": "01J1Q4P4SWD7ABYG5VK63B8RNN",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/es_ES/b66d3d72ff6f8b89c2bb8624d8506371.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/en_US/2153ee8ec381a673e9f97a9f032a9ba7.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/de_DE/e212a572c19e96e605a3454ee8b1946a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/fr_FR/e43d71235ed2af8f2130ad3a4273e4ad.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_43/JPG/it_IT/cb6ae9c64ac646c4738d9fe04ca32120.jpg"
+  },
+  "name": "Flutter of Moths",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "MAIN_EFFECT": "I cost {1} less if there are two or more exhausted cards in Reserve.  Create three [Mana Moth 2/2/2] Illusion tokens, distributed as you choose among any number of target Expeditions."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-098-C-EN"
+}

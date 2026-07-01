@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_A_OR_63_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0M8X3QR5RN8B1AGH4SXNYVE52P",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K477YZPJ2VDM2C18447CYPNM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K477YZPJ2VDM2C18447CYPNM",
+          "text": "Conscientes des avantages de l'organisation Ordis, les Factions lui confièrent la logistique de l'avant-poste."
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YZT88KSVNAQWEJWD59VH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01K477YZT88KSVNAQWEJWD59VH",
+          "text": "393 AC - Je sors de l'hôtel de ville après y avoir déposé mon rapport. Un mois de démobilisation forcée, à traiter des requêtes administratives qui ne sont vraiment pas mon violon d'Ingres... J'aurais mille fois préféré souffrir le martyre sur le terrain. Mais après une avalanche et m'être pris de plein fouet la rafale du vieux Mage, on avait estimé — peut-être à raison — que j'avais besoin de lever le pied quelques semaines. Oh, y'avait pas que des mauvais moments. Traîner au Mess avec Sunniva, ou avec Cat et sa bande, avait quelque chose de plaisant, mais c'était comme vivre leurs aventures par procuration. Seul lot de consolation, Sig avait eu à peu près les mêmes déboires, avec des missions barbantes. Ce qui m'avait permis de me moquer de lui à plus d'une occasion. Aux dernières nouvelles, après avoir foiré son intervention dans les grandes largeurs, il avait été affecté à la surveillance des troupeaux de dotouffus.\n\nFaut pas se mentir, ça ressemble clairement à une punition en bonne et due forme. D'ailleurs, note mentale, aller le chambrer à la première occasion. Tout en souriant, je me fraye un chemin sur la place bondée. C'est là que s'administrent toutes les doléances, et par extension, la gestion de la vie de camp en général. Le paradis des bureaucrates, en somme. Alors que je passe à côté de son pupitre, le crieur est en train consulter les nouveaux édits qui ont été promulgués la veille. Je me pose sur une vieille colonne effondrée pour soulager ma jambe encore un peu raide, avant de sortir de ma poche mon certificat d'aptitude fraîchement acquis. Avec ça, je pourrais aller voir un commis pour récupérer une affectation un peu plus active que celle de simple gratte-papier. Intendance, ou peut-être même protection rapprochée, qui sait ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YZRYJV10XT7PBS27ZM36",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K477YZRYJV10XT7PBS27ZM36",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YZKDHGHWZGY8FJ2N7DWQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01K477YZKDHGHWZGY8FJ2N7DWQ",
+          "text": "SUNISA"
+        },
+        {
+          "@id": "/lore_entry_elements/01K477YZN89NHX343VWMFFAH09",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K477YZN89NHX343VWMFFAH09",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "0M8X3QR5RN8B1AGH4SXNYVE52P",
+      "reference": "ALT_BISE_A_OR_63_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Repère Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/fc77d76dc5e3e9cc0145",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Lieu"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b5a7f6fb9bbb21a48ec3",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/fr_FR/3a8ed70bb26b6b2688b4d820d03df2ef.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/WEB_c1b562e03b23a49a6947dfe611391a2c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/WEB_691c12d020e6a3b3946a4da96529ddc9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_OR_63_C",
+  "reference": "ALT_BISE_A_OR_63_C",
+  "id": "01K42X0TPQ238X3CCJ0NBBZSJ8",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/fr_FR/3a8ed70bb26b6b2688b4d820d03df2ef.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/es_ES/6c5c52bb4a5c687f2a292788a9fd581d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/de_DE/63287aefbc3a2225ccad1324264e030f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/it_IT/2d1f337b16575b328a79729ac6b6f6af.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/en_US/7b0de546b7f9c565edefbf7804b0d997.jpg"
+  },
+  "name": "La Grand-Place",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Au Crépuscule — Je gagne 1 compteur Moral pour chaque Personnage que vous contrôlez.  {T}, Dépensez 6 de mes compteurs Moral : les Personnages dans une Expédition ciblée gagnent 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WEM-084-C-FR"
+}

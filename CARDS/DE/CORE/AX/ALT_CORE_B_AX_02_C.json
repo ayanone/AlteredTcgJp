@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_02_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YPHP925M19PB78TP079",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q6EVSV42T8Y082VWQMA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5Q6EVSV42T8Y082VWQMA",
+          "text": "Ein Energiesystem ist ein Teil einer raffinierten Maschinerie, die für Höchstleistungen optimiert werden muss."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q6SMM1EE2F3ENY7DN0Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5Q6SMM1EE2F3ENY7DN0Z",
+          "text": "392 AC - The legs of my chariot sink into the shifting ground, filling the air around us with the hissing of their hydraulic cylinders. As a Brassbug performs maintenance on him, Rossum turns from side to side, diligently watching the landscape. Curious about everything, he sometimes straightens up behind me, contemplating the flight of small rainbow-colored fish swimming in the air, or a hillside rapidly eroding as if molded from translucent multicolored jelly. A little further on, the branches of a flaming tree grove stretch out over turquoise rocks, illuminating the meadow we're currently crossing. How I wish Paju could be here with me right now… But I refrain from summoning his Eidolon. I need all the Mana my Alter Ego and I have collected to shield ourselves from the damage that's surely on its way.\n\nRossum places his hand on my shoulder and consoles me with a binary tinkling in my mind. Ever since our minds and essences were bonded by the Musubi, he can feel even the least of my emotions, just as I can feel his oppressive homesickness. We each bear our own sorrows. We both have wounds. But the prospect of helping him get back home soothes my grief, at least a little. And I can't help smiling when I see him exploring everywhere like an excited child. It feels good to smile again… I look at his metallic skin, all banged up after our recent expeditions. I'll need to reinforce his armor, maybe upgrade it with two or three more practical modifications. He'll need them when he goes into the Tumult alone before I arrive. I take my notebook from my pocket and start to quickly sketch a few diagrams."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q6KY5E181EFESWE222C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5Q6KY5E181EFESWE222C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q63JTJP4K51XD1JV8KJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5Q63JTJP4K51XD1JV8KJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5Q69GTMGMSHSR3W770QZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5Q69GTMGMSHSR3W770QZ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HNGY4YPHP925M19PB78TP079",
+      "reference": "ALT_CORE_B_AX_02_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Held"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ee1e2eca7ffc38765801",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b35d4b9dfe77dde29d09",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:38:07+00:00",
+      "question": "If a token is sent to Treyst & Rossum's controller's Reserve during the Afternoon, does Treyst gain a counter as the token is removed from the game?",
+      "answer": "No. The tokens do leave the Expedition zone and enter the Reserve (or discard pile if they were Fleeting), but being removed from the game does not qualify as \"leaving the Reserve\"."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_02/JPG/de_DE/d034fb078ece124ddbbff34aea064ed6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_02/ALT_CORE_B_AX_02_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_02/ALT_CORE_B_AX_02_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_02_C",
+  "reference": "ALT_CORE_B_AX_02_C",
+  "id": "01HKAFJNHAGP5G093V0GPX6XE3",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_02/JPG/de_DE/d034fb078ece124ddbbff34aea064ed6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_02/JPG/en_US/e8d562c8402df1d8ba79d70139706d11.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_02/JPG/fr_FR/7e5b29374278b12806fac1b987fc64b8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_02/JPG/it_IT/96be1f6ba67f46dd33ad384f963fcf44.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_02/JPG/es_ES/3807a54724ff47e3c686a3ce9b6dde2c.jpg"
+  },
+  "name": "Treyst & Rossum",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Wenn eine Karte am Nachmittag deine Reserve verlässt — Falls ich weniger als 5 Schrottzähler habe, erhalte ich 1 Schrottzähler.  Falls ich 5 oder mehr Schrottzähler habe, erhalte ich „{T} : Ziehe eine Karte und lege dann eine Karte aus deiner Hand in deine Reserve.“"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-003-H-DE"
+}

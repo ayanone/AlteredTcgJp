@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_61_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0SRR91269883ABN1JGKYK4J5HC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A5926C0TNJ25T3F2BGY0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A5926C0TNJ25T3F2BGY0",
+          "text": "Fiore è stato il primo delle Sette Lame a battersi con Atsadi."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A59H89K7NS856NGGCAM4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A59H89K7NS856NGGCAM4",
+          "text": "393 AC - Wow. OK, just don't move a muscle. I must admit, I've become an expert at hiding recently. I've been following Atsadi for days without him noticing. But it's gotten very tricky in the current conditions. He and the man in the hat have absolutely ravaged the place. I watched them exchange blows at incredible speed. And I know all about speed. The acceleration was phenomenal, on both sides. I look at the smoking ruins. Huge blocks lie cut in half or in slices. They definitely went all out, that's for sure. Although their styles are completely different, they put everything into their attacks. And when I say everything, that includes fire, lightning, explosions, rocks… everything and everywhere. It was the ultimate fireworks display. And obviously I almost became collateral damage on two or three occasions.\n\nI swallow while taking peeks from my hiding place. After a brief pause, the fighting seems to be starting again. Fiore — or whatever his name is — lays out repeated forward thrusts as if trying to skewer Atsadi, who in turn is just clinical: sharp blows without any unnecessary movement, just the bare minimum needed. Their styles are complete opposites, but it's clear that they're evenly matched. And that includes how incredibly stylish they are. After another exchange of blows, the two swordsmen stare into each other's eyes again. I watch Atsadi, and I can tell he's filled himself with all sorts of ideas to stand up to this Eidolon. But there's something not quite right. He could use more Alteration than just the Avgrunn, but he's not for some reason. I feel like he's holding back. I finally understand why when I see his stance and his eyes flashing…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A59915MSGK9MT8W3CXXC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A59915MSGK9MT8W3CXXC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A57VJA8TW1WR96KG85Y8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A57VJA8TW1WR96KG85Y8",
+          "text": "KOJO"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A583PFSYNH3FQ4VMAA0J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A583PFSYNH3FQ4VMAA0J",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "0SRR91269883ABN1JGKYK4J5HC",
+      "reference": "ALT_BISE_B_BR_61_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5191361eb1be22668e89",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/31dc3bb139dc540742af",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/it_IT/e086b370a4ff663201a77a8165556487.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/WEB_ce8dea886f100e105686c810640ea41b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/WEB_a6c38906614c42e744ab1e063c04819d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_61_C",
+  "reference": "ALT_BISE_B_BR_61_C",
+  "id": "01JB1YGPBDCEY90RGJK5R7NZNE",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/de_DE/04a5566b22ac7e2a9d471bacbcbbc5ad.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/it_IT/e086b370a4ff663201a77a8165556487.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/es_ES/2d8fd0de686635b6f1d8e5557f43430a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/en_US/cd1091a1d99ffb3b554d4891d769cc8b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_61/JPG/fr_FR/f950006fac9b94e45ae2b313833b8bfc.jpg"
+  },
+  "name": "Duello di Coraggio",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[[Fugace]]. (Mandami negli Scarti invece che nella Riserva dopo che il mio effetto si è risolto.)  Manda nella Riserva un personaggio bersaglio con costo dalla mano pari o inferiore a quello di un personaggio che controlli."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-032-C-IT"
+}

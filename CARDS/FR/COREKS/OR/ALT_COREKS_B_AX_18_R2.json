@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_18_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77WMYBY583Y6WZWEHWE5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7WHC2TWYWV5NPAK9QHAW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7WHC2TWYWV5NPAK9QHAW",
+          "text": "« Et, au milieu d’eux, Athéna aux yeux clairs, impérissable et immortelle. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WHT01VE5VK0WQS7CV7W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7WHT01VE5VK0WQS7CV7W",
+          "text": "Devant nous, Athéna se matérialise, soutenue par son hibou mécanique. Les ailes de l'oiseau se déploient, et elle file vers l'horizon. Le chef d'escadrille lui emboîte le pas, et nous en faisons de même à sa suite. Paju appuie sur l'accélérateur, et je sens la pression des g sur mon visage. L'airship s'élance, et nous intégrons à notre tour la formation. Athéna bifurque à tribord, et nous tournons aussi, faisant bien attention à respecter notre placement. Mais ça n'empêche pas Paju de pousser un cri d'allégresse. Je souris moi aussi. Loin devant, l'Eidolon disparaît au sein des nuages, et nous la pourchassons à travers le couvert cotonneux. Je garde un œil sur les instruments et les jauges, sans pour autant quitter du regard le radar. Tout est dans le vert. Si je n'ai pas réussi l'examen final de pilote à cause de ma vue, j'ai quand même réussi à décrocher une place de navigateur. Paju et moi, nous avons accompli notre rêve de voler ensemble.\n\nNous perçons la surface des nuages, tandis que des gouttelettes de condensation roulent sur l'habitacle. Dans l'azur infini, Athéna est un point lumineux qui étincelle dans le ciel. Quand elle est passée inspecter chaque airship, elle était loin d'avoir la même apparence que la première fois que je l'avais vue. Durant le défilé militaire de l'Ordis, elle était vêtue d'atours militaires, avec un grand casque à crête et une élégante lance. Aujourd'hui, elle était habillée comme nous, en uniforme de pilote. J'indique à Paju le niveau de carburant. C'est alors que le leader d'escadron nous donne nos ordres. Alors que nous décrochons et fonçons en piqué, je serre les dents à cause de l'accélération. Deux appareils nous suivent tandis que les trois autres continuent de s'élever. La simulation de combat aérien face à Athéna va pouvoir commencer."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WHKMK3CN9G2WJWX8FNQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7WHKMK3CN9G2WJWX8FNQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WGRJ36ANPP8SGYMG6G8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7WGRJ36ANPP8SGYMG6G8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WH5CDV99MXTDP7NXGQ6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7WH5CDV99MXTDP7NXGQ6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77WMYBY583Y6WZWEHWE5",
+      "reference": "ALT_COREKS_B_AX_18_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c40ae6074a5c62d7c36c",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/98e9e505a4049c24a6f5",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/fr_FR/fcc399c9944250b46d0e1cca8d4a105a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_463605d2fd8a7bb755ca9eb4ae9ad681",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_9cf5a361a77d5318c62fe9822f30b594",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_daa6c08741c08f74793f97c94764708c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_18_R2",
+  "reference": "ALT_COREKS_B_AX_18_R2",
+  "id": "01HN5TXR4JNA7ZVRKFDTKEHDA8",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/es_ES/4876c3c2703b62363a24cb6ba489db1d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/it_IT/91cddccde1b1fda9584a81fdc48b7916.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/fr_FR/fcc399c9944250b46d0e1cca8d4a105a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/en_US/60a8f10235fab281d45f774eb2a65047.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/de_DE/1a0fe5850ede657ec4328538ff0ff2e0.jpg"
+  },
+  "name": "Athéna",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "#{H} Si vous contrôlez au moins deux autres Personnages, je gagne 2 boosts.#  {R} Si vous contrôlez au moins deux #autres Personnages#, je perds [[Fugace]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-018-F-FR"
+}

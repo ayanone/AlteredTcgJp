@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_42_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/00KZ04Q2RP9KMTKFJMXCV93J1Z",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J279BRA7P6MGB4J85PAW3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J279BRA7P6MGB4J85PAW3",
+          "text": "They're not out of the woods yet."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27A51YZATZ7P14FY01XV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J27A51YZATZ7P14FY01XV",
+          "text": "Listening intently, I can make out a series of muffled cries coming from the forest. The woods have changed in the last few hours, with the frozen taiga gradually giving way to wooded expanses free of ice and snow… But it's not the peaceful haven it's supposed to be – far from it. The trees are agitated, and the plants as well. Each dendrite of the Skein that I deploy is met with a hostile shock. It would be one thing if this were just the ebullience of reawakening nature… But no, the forest is defiant, bitter, scathing, as though it wanted revenge for something. I head towards the cries, straying from my route, and the forest doesn't seem too happy about it. A bramble lashes my face, its thorns drawing blood. And the farther I go, the more it resists, so much so that I have to pull out my cutlass to hack down the thickets of stinging vines and branches oozing with poison.\n\nI emerge into a dark clearing, where the Eidolons of the Three Little Pigs are struggling with voracious roots and grasping stalks. The plant limbs burst out of the roiling earth, wild and menacing, and whip through the air like snakes, trying to wrap themselves around anything in reach. I see one of them grab a pig engineer, lifting him high over my head. I hurry over to hack down the vine, and the pig falls to the ground with a thump. What could have possibly provoked nature's anger like this? I can feel it attacking with all its strength, fighting to repel… Suddenly, I understand. This forest was here when the cold first arrived, and it was supplanted by the taiga. Now reawakened, it wants to take back this ecosystem and is fighting to reestablish itself. I turn to the Eidolons, who are giving off a powerful aura of fear. I yell at them to run away and not look back, as I drive back the lashing limbs of the forest."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J279Q2WQR0QNKGVPGQFJ6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J279Q2WQR0QNKGVPGQFJ6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J278EDT3X4QXAPD2JV8WT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J278EDT3X4QXAPD2JV8WT",
+          "text": "TEIJA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J278Y4C0QG6S41YMY9ZTF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J278Y4C0QG6S41YMY9ZTF",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "00KZ04Q2RP9KMTKFJMXCV93J1Z",
+      "reference": "ALT_ALIZE_B_MU_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f1067c0772ac2b4388cf",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disruption"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8bc34efe0176e82c9fe8",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/en_US/7020f288ac431baf00bf32fe60ff4f6b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_2262155b2f5b863e293219b0f9b49411",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_d9b689e66ce65e4dde1bfe6c108f59c9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_42_R1",
+  "reference": "ALT_ALIZE_B_MU_42_R1",
+  "id": "01J1Q4P4SGG6TEVFRSKNDKQK6G",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/de_DE/155e9810c35f039b96a164ee13f4138f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/es_ES/45c7c3763be5c727dfaa18530c5a92c6.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/fr_FR/933df27739d76af7c2581f2f1f09ae9e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/it_IT/94f36f9bd124013638b4249924b0b517.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/en_US/7020f288ac431baf00bf32fe60ff4f6b.jpg"
+  },
+  "name": "Lost in the Woods",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Fleeting]].  Choose one:  • Send target Character to Reserve. #If it wasn't in {V}, its controller draws a card.#  • Discard target Permanent."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-065-R-EN"
+}

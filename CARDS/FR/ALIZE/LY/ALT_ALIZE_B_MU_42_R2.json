@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_42_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/00KZ04Q2RP9KMTKFJMXCV93J1Z",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J279BRA7P6MGB4J85PAW3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J279BRA7P6MGB4J85PAW3",
+          "text": "Lierre de rien, ils ont perdu leur chemin."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27A51YZATZ7P14FY01XV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J27A51YZATZ7P14FY01XV",
+          "text": "Je tends l'oreille, et discerne une série de cris étouffés émaner de la forêt. Cette dernière a changé durant les dernières heures, la profonde taïga faisait peu à peu place à des étendues boisées dénuées de neige... Pour autant, ce n'est nullement le havre de paix qu'elle est supposée être. Les arbres sont agités, tout comme les plantes. Chaque dendrite du Skein que je déploie se confronte à une décharge hostile. Si seulement c'était la simple pétulance de la nature en train de renaître... Non, ici, elle est conquérante, hargneuse, mordante, comme si elle avait une revanche à prendre. Je me dirige vers les cris, bifurquant de ma route, et la forêt ne semble pas apprécier. Une ronce me fouette le visage, ses épines perçant ma peau jusqu'au sang. Et plus j'avance, plus je sens qu'elle devient teigneuse, au point que je dois sortir mon coutelas pour taillader les bosquets de lianes urticantes et les branches suppurantes de poison.\n\nJe débouche sur la sombre clairière, où les Eidolons des Trois Petits Cochons sont aux prises avec des racines voraces et des tiges préhensiles. Elles émergent de la terre meuble, hystériques et menaçantes, et cinglent l'air comme des serpents, essayant de s'enrouler autour de tout ce qui se trouve à proximité. Je vois l'une d'entre elles attraper l'un des cochons ingénieurs avant de le soulever de terre. Je me précipite et tranche la liane, le laissant retomber au sol. Bon sang, qu'est-ce qui a bien pu provoquer l'ire de la nature à ce point ? Je la sens lutter de toutes ses forces, pour repousser... Soudain, je comprends. Cette forêt avait connu l'arrivée du froid, et avait été supplantée par la taïga. Désormais réveillée, elle souhaitait reprendre possession de cet écosystème, et bataillait pour s'imposer de nouveau... Je me tourne vers les Eidolons, dont émane un sentiment d'effroi. Je leur crie de fuir sans se retourner, tandis que je garde à distance les appendices forestiers."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J279Q2WQR0QNKGVPGQFJ6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J279Q2WQR0QNKGVPGQFJ6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J278EDT3X4QXAPD2JV8WT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J278EDT3X4QXAPD2JV8WT",
+          "text": "TEIJA\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J278Y4C0QG6S41YMY9ZTF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J278Y4C0QG6S41YMY9ZTF",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "00KZ04Q2RP9KMTKFJMXCV93J1Z",
+      "reference": "ALT_ALIZE_B_MU_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c860f7fdb631581d9e4a",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8048483428f91d0b616d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/fr_FR/f226489d8b633d047726c0f61926b282.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_2262155b2f5b863e293219b0f9b49411",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_d9b689e66ce65e4dde1bfe6c108f59c9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_42_R2",
+  "reference": "ALT_ALIZE_B_MU_42_R2",
+  "id": "01J1Q4P4SGG6TEVFRSKNDKQK6K",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/fr_FR/f226489d8b633d047726c0f61926b282.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/de_DE/b9545a54bef2e152148eb402c9e29236.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/es_ES/0162f66b7984e15afd6aba0757b6d571.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/en_US/fbf4cb6ab906d6ba0bb946eab5f92568.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/it_IT/969a08562ec327238b7c8b9c28e7850f.jpg"
+  },
+  "name": "Perdu en Forêt",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "[[Fugace]].  Choisissez l'un :  • Envoyez un Personnage ciblé en Réserve. #S'il n'était pas en {V}, son contrôleur pioche une carte.#  • Défaussez un Permanent ciblé."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-065-F-FR"
+}

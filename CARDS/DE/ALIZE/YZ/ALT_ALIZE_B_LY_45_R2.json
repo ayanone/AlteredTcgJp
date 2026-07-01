@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_45_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1P3DB7FPRW8E8TJPE44GNG0RPK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26401K86RFFEQPQRCMNX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26401K86RFFEQPQRCMNX",
+          "text": "Wir hören sein Echo in den unendlichen Weiten widerhallen."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J264R3W3JJA2ECB1DT8N0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J264R3W3JJA2ECB1DT8N0",
+          "text": "Glücklicherweise gibt es in dieser Region mehr als nur dunkle Höhlen und abweisende Berge. Sonst wäre es ja langweilig! Hinter jeder Passkurve erwartet einen eine atemberaubende Landschaft. Auch diese hier steckt voll erstaunlicher biologischer und geologischer Phänomene. Man sagt, wir hätten diesen einzigartigen Ort entdeckt, als wir eine Schlucht erkundeten, durch die ein gefrorener Bach führte. Weiße Ufer, aus denen ockerfarbene Felsformationen hervorragen. Diese Mineralien scheinen in blockartigen Clustern aus dem Boden gewuchert zu sein. Während wir über das Eis gehen, erscheinen sie mir wie riesige steinerne Blumensträuße, die in einem schneeweißen Garten für Riesen wachsen. Auch die Vegetation fasziniert mich: lange blaue Gräser, die sich im rauschenden Wind neigen. Ich strecke die Hand nach ihnen aus, um mich an ihrer geschmeidigen Oberfläche zu erfreuen. Es ist großartig und gleichzeitig befremdlich zu sehen, wie sie sich aus dem Schnee geschoben haben und der Kälte trotzen.\n\nAls wir uns den Aufschlüssen des orangefarbenen Minerals nähern, ahne ich, um was es sich hier handelt. Obwohl sie aus Stein bestehen, ist ihr Ursprung eindeutig organisch. Es muss sich um einen Hybrid aus Mineralien und Blumen handeln – eine Art Koralle, die vor pflanzlichem Leben pulsiert. Einige Äste haben einen farbigen Kern. Außerdem erkenne ich farblich dunklere und konzentrische Aureolen – Ringe, wie sie in Baumstämmen vorkommen. Richtet sich ihr Auftreten oder ihre Farbe nach bestimmten Zyklen oder Jahreszeiten? Sie sind seltsam und doch faszinierend. Ich studiere jede Formation der Reihe nach, als ich plötzlich ein unheimliches Rascheln in der zuvor stillen Weite höre. Ich habe Gerüchte über Angriffe auf einige unserer Teams gehört. Also sollte ich wachsam bleiben. Ich weiß nur zu gut, dass Schönheit manchmal giftig sein kann … "
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J264DZ5TTE4AS3AHBQ83H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J264DZ5TTE4AS3AHBQ83H",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26345V277KHCFNSHWFPP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J26345V277KHCFNSHWFPP",
+          "text": "AURAQ"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J263JW6X9FNA9AFXKR1KQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J263JW6X9FNA9AFXKR1KQ",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "1P3DB7FPRW8E8TJPE44GNG0RPK",
+      "reference": "ALT_ALIZE_B_LY_45_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Bleibende Wahrzeichenkarte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/365a8c0f004411f264b3",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Ort"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e12dac51108d54e0d152",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/a38f8320a9f4d4e2f66a",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:16+00:00",
+      "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
+      "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/de_DE/cc634b406135d3aadb1731f4d6bc1907.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/WEB_77b7d27e4b3fff4a63372448069fca42",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/WEB_a2351caf25f187ce38209b18ea7b1f3d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_45_R2",
+  "reference": "ALT_ALIZE_B_LY_45_R2",
+  "id": "01J1Q4P4SBPWTN13PW61X9B2AM",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/es_ES/9657492902005f0b05a498696e1d5743.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/de_DE/cc634b406135d3aadb1731f4d6bc1907.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/it_IT/cd5479ce1b1a1e2254dbc65a848a6515.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/fr_FR/25dbced52ace87b7e675ebb416d6dc1a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/en_US/4b54c8bd48b9f79068c612883d7f6a6b.jpg"
+  },
+  "name": "Eisumfangene Tundra",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Wenn du einen Charakter spielst — Falls er in einem Gelände ist, wo seine Basisstatistik 0 ist, erhalte ich 1 Prüfungszähler.  Wenn ich meinen 3. Prüfungszähler erhalte — Opfere mich. Falls du das tust, erschaffe eine [Drachenecho 5/5/5]-Illusionsmarke in einer Expedition deiner Wahl und hole dann eine Karte aus deiner Reserve in deine Hand zurück."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-051-F-DE"
+}

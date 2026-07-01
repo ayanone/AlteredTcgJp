@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_42_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1MXQBRV86R9JESR1AFZ7YJ57QB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2BPZKJAK7FZYXZ8KM428",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2BPZKJAK7FZYXZ8KM428",
+          "text": "Malgré des mois de préparation, le vent glacial dévasta l'armée Ordis."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BRWT0DCGKB5T5R1JXW7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J2BRWT0DCGKB5T5R1JXW7",
+          "text": "Dans l'œil du cyclone, Afanas abat les nuées de Belisenki comme des mouches. Je le regarde avec horreur. Lorsque je lui ai révélé la nature de la relation entre les phalènes et ceux qui n'ont de cesse de nous harasser, je pensais qu'il utiliserait ce savoir pour les repousser, non les faucher de la sorte. J'ai beau crier, rien n'y fait, il n'entend plus. C'est comme si quelque chose avait soudain pris possession de lui, faisant de lui sa marionnette. Et ce n'est pas seulement nos ennemis qu'il malmène. Je vois des soldats Ordis tituber ou ramper pour se mettre à l'abri, ou bien lever leur bouclier pour se protéger des bourrasques terrifiantes. Je vois des combattants Bravos en déroute, s'arrimant comme ils peuvent à des rochers. Mais les cordes cèdent, et ils sont emportés, disparaissant dans les méandres de la tempête de neige que le sorcier est en train d'alimenter.\n\nUne corniche neigeuse s'effondre, et est balayée par les courants impétueux. Je vois les tentes du camp être arrachées de terre, réduites en lambeaux. Les feux s'éteignent, comme des bougies d'anniversaire. Et la neige se met à tout recouvrir. Un Recycleur Axiom finit enseveli sous un monticule de poudreuse, un arbre — appelé par l'Altération — est déraciné, avant d'être jeté en pâture aux vents tourbillonnants. C'est une catastrophe. Je dois faire quelque chose. À l'heure qu'il est, la solution est pire que la menace. C'est comme si quelqu'un était en train de se servir d'Afanas comme d'un conduit pour régurgiter un puits sans fond d'idées évoquant la tempête. Mais comment le faire se tarir ? En le coupant de la source ? Non. Avant ça, je dois juguler le danger immédiat. Et je ne connais qu'une seule personne, dans toute l'histoire d'Asgartha, qui a réussi à tenir tête à tant de dévastation..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BRBVMJE7QEWSP1VJNH5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2BRBVMJE7QEWSP1VJNH5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BNSTMBKJFHFM0VEQXMX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J2BNSTMBKJFHFM0VEQXMX",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2BPC0ZYTJK3PXVRW6F8V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2BPC0ZYTJK3PXVRW6F8V",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1MXQBRV86R9JESR1AFZ7YJ57QB",
+      "reference": "ALT_ALIZE_B_YZ_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6040ce509fd745ddbea4",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/76eafb9e384b901d122d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/fr_FR/9db8fbbfcd3ebe385f4e79fb56be0aa8.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/WEB_afaf5adb5c8143c362f946f8b4b3b83e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/WEB_301e5d8029ff1fbf4a42e6e263887c80"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_42_C",
+  "reference": "ALT_ALIZE_B_YZ_42_C",
+  "id": "01J1Q4P4SWD7ABYG5VK63B8RNC",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/fr_FR/9db8fbbfcd3ebe385f4e79fb56be0aa8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/de_DE/f26e3994d49e041eef759b6d018fc68b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/es_ES/ad10695d62827c3bde9d38c173ff64b6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/it_IT/6ca180c77ff7610b81014574b3f6d758.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_42/JPG/en_US/c0c54881c5af381ddbd0c50a141880c8.jpg"
+  },
+  "name": "Blizzard",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "MAIN_EFFECT": "[[Fugace]].  Envoyez en Réserve tous les Personnages d'une Expédition ciblée, puis épuisez-les ({T}). (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-097-C-FR"
+}

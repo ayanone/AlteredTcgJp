@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_58_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5B3CZCDETM8X6SZYFFA854DZ27",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4BVPF9R71XRJG9HH6GY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4BVPF9R71XRJG9HH6GY",
+          "text": "Es ist kein Kelon, aber dieses Harz wird dich wieder flott machen, versprochen."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4C6PQQRY0BJJGDGW7DE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A4C6PQQRY0BJJGDGW7DE",
+          "text": "393 AC - I love Brassbugs. Don't ask me why, I just do. I guess if you dig deep enough into the gray lump that acts as my brain, I'm sure you'll find a part of the hard worker that I was before. And those industrious and surprisingly empathetic creatures are nothing if not hard workers. So when I find one suffering from a little problem, I grab my tool kit and try to repair it. It's a gesture of solidarity — or even brotherliness — for our loyal companions who make our lives easier wherever we take them. No matter how much I complain to those who bring me their broken models, I can't help trying to fix them back up. That's just how it is. And ever since I got a glimpse backstage at the Foundry, I know how much they help it run smoothly from behind the scenes. They are the reason there are no leaks, and the reason it's generally so well maintained…\n\nThis morning, I almost stepped on one as I entered my workshop. Yes, I admit, that was partially my fault because of how untidy the place is. Luckily, after rummaging around with his damp nose, Marmo barked to warn me it was there, just as I was about to tread on it. Now, after emitting a bunch of choice expletives, I realize that the Brassbug isn't moving at all. I pick it up and examine it. Its protective backplate is covered in cracks, leaving its internal mechanisms unprotected, and leaks are beginning to eat away at its circuitry. It smells bad. Very bad. I place it on my workbench, while Marmo whines at my feet. Don't worry, old friend, I've got this. The first thing I need to do is restore its physical integrity. I grab my Sap gun to use as a glue gun. I've heard that a long time ago, the Ancients called this technique kintsugi…"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4C11P8VNV1Z11PSPPHG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4C11P8VNV1Z11PSPPHG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4BH7V15Q2PWJVJCEQSQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4BH7V15Q2PWJVJCEQSQ",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4BP387J7G7E83SSJTCH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4BP387J7G7E83SSJTCH",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "5B3CZCDETM8X6SZYFFA854DZ27",
+      "reference": "ALT_BISE_B_AX_58_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bf4197cc018a99a67416",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manöver"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/bdad3eb6409a06cfa9cf",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/de_DE/1e1ed5cdef40e4017e2dee53ce63de9f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/WEB_ae8370d122898b5454f2b5faa9da6a63",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/WEB_73d75f9d8ba5119e966f1157a6527109"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_58_R1",
+  "reference": "ALT_BISE_B_AX_58_R1",
+  "id": "01JB1YGPB6T61E0YAFG5S1GH84",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/de_DE/1e1ed5cdef40e4017e2dee53ce63de9f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/es_ES/ad248e9ec85036221d90e42debbc16d8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/it_IT/5e69114f504f80d8c00cf84ab460f515.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/fr_FR/3600c8b6b8adf54aae74fb15315b363f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_58/JPG/en_US/bb60f5c5c776035c70061e5dd82104e4.jpg"
+  },
+  "name": "Flotter Käfer",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#1#",
+    "MAIN_EFFECT": "[Abkühlung].  Du darfst 1 Zähler von einer Karte unter deiner Kontrolle oder in deiner Reserve ausgeben, um eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl zu erschaffen."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-012-R-DE"
+}

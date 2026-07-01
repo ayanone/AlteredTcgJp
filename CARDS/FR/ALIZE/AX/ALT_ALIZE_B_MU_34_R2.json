@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_34_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4B4MT6ZSA2903VHD673JCK1VAM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J26KBG1GAW5Q4XTW85CCC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J26KBG1GAW5Q4XTW85CCC",
+          "text": "« T'as du pot que j'm'occupe de toi. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26M3H518WGVSVKJ2NBCF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J26M3H518WGVSVKJ2NBCF",
+          "text": "À travers la baie vitrée de la serre, l'extérieur est un voile blanc que rien ne semble pouvoir transpercer. Je tiens Spike sur mes genoux, et récupère le thermomètre qu'il avait dans la bouche. 23°C, c'est bien plus que les 21°C habituels... Normal qu'il se sente si faible depuis hier. Assis·e sur un tabouret, j'attends que le jardinier termine avec ses précédents patients. La loutre se saisit d'un pot et le remplit avec des billes d'argile, un peu d'écorce et du terreau humide. Puis elle saisit la première plante sentiente et la positionne délicatement à l'intérieur de son récipient de convalescence. Comme elle borderait un lit, la loutre rempote tendrement le végétal, et le pose bien en évidence sous une source de lumière, pour qu'il puisse bénéficier de l'éclairage suffisant pour activer sa photosynthèse. Elle fait de même avec le petit Pignon, avant de s'occuper du champignon éternueur, qui n'arrête pas de crachoter des spores à moitié filtrés.\n\nC'est au tour de Spike de bénéficier de ses soins. Elle emmaillote le pot dans lequel elle le dépose, et tasse un peu la terre autour de ses petons. Puis la loutre rempoteuse enlève les fleurs fanées qui couvrent sa tête, afin que les nouveaux bourgeons puissent fleurir plus aisément. Quand Spike ira mieux, de nouvelles corolles rougeoyantes écloront au-dessus de sa petite bouille, et il aura sûrement la bougeotte. Il n'a jamais eu beaucoup de patience quand il s'agit de rester cloîtré quelque part à ne rien faire. Mais en attendant, il va lui falloir du repos. Quant à moi, j'avoue qu'un peu d'oisiveté ne me fera pas de mal. Plonger les mains dans l'humus me manque terriblement, et il y avait de quoi faire au sein de la serre. Je caresse doucement le crâne de ma Chimère, qui dodeline déjà de la tête, visiblement exténuée. Je n'aime pas la voir ainsi alitée, et j'espère que son rétablissement ne sera pas trop long..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26KQW4F678QJGE9ZF9S9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J26KQW4F678QJGE9ZF9S9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26HX6XJ37NK18YS05W4R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J26HX6XJ37NK18YS05W4R",
+          "text": "ARJUN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J26JWWR2MXCPWQSG7Q6N8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J26JWWR2MXCPWQSG7Q6N8",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "4B4MT6ZSA2903VHD673JCK1VAM",
+      "reference": "ALT_ALIZE_B_MU_34_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d697b3e3aad5ebfb9f8e",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/52a92629cdb2866b2652",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/fr_FR/140ebf0ea3a0be2391d7b8655a7ca8b1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/WEB_04ad7ecd5d8d0f52e1c22e533185c237",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/WEB_7b7453c56e1b667c8e1adf736c664496",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/WEB_f11aa1ab763fd9551ad376aea1c224f7"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_34_R2",
+  "reference": "ALT_ALIZE_B_MU_34_R2",
+  "id": "01J1Q4P4SDA8SPK4V8SP1KVFBX",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/it_IT/c18d5b33ab7f637e507d25f74dca8927.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/es_ES/186150fd56c15ec4e31d002ead3495d7.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/fr_FR/140ebf0ea3a0be2391d7b8655a7ca8b1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/en_US/428f2cf6638cb7ff57bc950e33e36eac.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_34/JPG/de_DE/0091ba96f4d109873b05fbf470fe6d90.jpg"
+  },
+  "name": "Loutre Rempoteuse",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "{J} Chaque joueur peut mettre une carte de sa main en Réserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-057-F-FR"
+}

@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_B_YZ_98_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/13Z3K1CFK28BFA1X1DFPQA0FHG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JZ37ZY3QDHDP5PYHYYE6TMK4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JZ37ZY3QDHDP5PYHYYE6TMK4",
+          "text": "«¡Maaaaaleros!»."
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZY4W079XXBQKM3AK0KW3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JZ37ZY4W079XXBQKM3AK0KW3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZY492M3B3518QMNKAAXF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JZ37ZY492M3B3518QMNKAAXF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZY1407ZXR2VRVYMYEYHW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JZ37ZY1407ZXR2VRVYMYEYHW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZY330MK9HM2SY78B8CJW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JZ37ZY330MK9HM2SY78B8CJW",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "13Z3K1CFK28BFA1X1DFPQA0FHG",
+      "reference": "ALT_DUSTER_B_YZ_98_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0d80f3be6cd5a155160b",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disrupción"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a846b1e77d42ace2005f",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maniobra"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Semillas de la unidad"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e473d630e7a222aca750",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/es_ES/f5331401ecee81bc52c57035b1b46b83.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/WEB_1201f805b249cd1d6794f119be34c2fa",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/WEB_2f9e39b9b1a3b63410e9db2f68916bc4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_98_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_B_YZ_98_C",
+  "id": "01JYP9SVQSZC2VV46PJC59X12Y",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/fr_FR/741c865ada9831950f85e378e06a2916.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/en_US/1e150ba8801e2fd8266516a1788016ae.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/it_IT/b0c08de8998f35ed8e44842bfafdfdf0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/es_ES/f5331401ecee81bc52c57035b1b46b83.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/de_DE/47d19f7f103da7844009cac445d27a8d.jpg"
+  },
+  "name": "Rematar la jugada",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "MAIN_EFFECT": "[[Fugacidad]].  Elige hasta tres opciones:  • Descarta un personaje objetivo.  • Descarta un permanente objetivo.  • [Sabotea]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "SDU-106-C-ES"
+}

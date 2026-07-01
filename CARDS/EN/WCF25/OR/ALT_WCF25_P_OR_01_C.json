@@ -1,0 +1,153 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCF25_P_OR_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4XE1GACNGT8TG944ZWYXVJR79N",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K3N7XQ877TR34123MQTME7R1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K3N7XQ877TR34123MQTME7R1",
+          "text": "\"Follow me, friends! If we stand together, nothing can stop us!\""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3N7XQ8FQP5W4NQMVDK5RHTS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K3N7XQ8FQP5W4NQMVDK5RHTS",
+          "text": "392 AC - Wingspan shrieks at our assailant as my sword strikes down on a different Chimera attacking us from the flank. I cast a glance at Sunisa and see that her shield already has several scratches. My aide-de-camp is covering our left and using the tip of her spear to try and repel the Tumult creatures attacking us. There are so many of them... seemingly an endless number. But we need to stay strong to allow the convoy to get through the pass. A clawed paw strikes my shield, lacerating the surface. I feel the weight of the attack on my shoulder, but grit my teeth and manage to withstand the impact. I push the creature away, using all my strength to force it to retreat. Wingspan manages to grab it with his beak and flicks it even further away.\n\nThe beasts swarming around us hiss, watching and waiting for an opportunity. I need to use this brief moment of calm to turn this clash to our advantage. Wingspan spreads his wings and takes off, his heavy wings generating powerful gusts. The creatures jump back. Now. I plant my sword in the ground, drawing on the Mana of my Alter Ego. With my free hand, I draw a Glyph in the air before placing it on the ground. The Eidolon of Maibritt appears in front of me, raising her thick shield to provide cover for me. And she's not alone. Another Ordis recruit appears at her sides. Halberds and lances glint within the ranks of the Tumult creatures. By concentrating my Mana, I call forth a torrent of paper sheets from my imagination. They fill the air and flutter around like a blizzard. Wherever a sheet lands, it sticks as if covered in glue. I smile as I see the creatures trapped under a pile of sticky sheets of paper."
+        },
+        {
+          "@id": "/lore_entry_elements/01K3N7XQ8AJDKXZCYK1HCTFED6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K3N7XQ8AJDKXZCYK1HCTFED6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3N7XQ802FJE22NNTG29PQKY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K3N7XQ802FJE22NNTG29PQKY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3N7XQ84Q4C5P87RA5G7QSJ0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K3N7XQ84Q4C5P87RA5G7QSJ0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "4XE1GACNGT8TG944ZWYXVJR79N",
+      "reference": "ALT_WCF25_P_OR_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Hero"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/WCF25",
+    "@type": "CardSet",
+    "id": "01JTJS48D59114PW9E8Z6SQQTN",
+    "reference": "WCF25",
+    "name": "World Championship 2025 - WORLD CHAMPION CARDS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9b1bbedd5d91c606839b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/en_US/3416f0955464ca6e8336f67de7db34ef.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/HERO_THUMB_8b6098e4b4f52e10e9a732a240b6fbcc"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/HERO_WIDE_b51f3ec56e3a9e04ad7295f0e2ca9e62"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/WEB_a778de6da816ad85ecad5a7dd6486984"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCF25_P_OR_01_C",
+  "isOwnerless": false,
+  "reference": "ALT_WCF25_P_OR_01_C",
+  "id": "01JTJTD4EM0W2NCG6VM3X6AJG4",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/fr_FR/7ca6d3509ba0d14682c9849efb2dac37.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/en_US/3416f0955464ca6e8336f67de7db34ef.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/it_IT/6850c73147ad381517f8e68fef628a2a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/es_ES/94554260293baee2cd8d8e44d1679531.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/de_DE/4283bf5a96aeb27761cf1da53f940442.jpg"
+  },
+  "name": "Sigismar & Wingspan",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "MAIN_EFFECT": "At Noon — Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition.  Ignore my ability during the first Day."
+  },
+  "isSuspended": false,
+  "isErrated": true,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "[NA]-EN"
+}

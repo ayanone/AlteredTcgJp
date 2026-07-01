@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50C7SSCP1AA7W75RDTGC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH638WB6WQ0C1JAFP7RZ55",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH638WB6WQ0C1JAFP7RZ55",
+          "text": "Le monde se nourrit de magie, et s'étiole en son absence."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH63A42BJJ6Z978QHMKG1R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH63A42BJJ6Z978QHMKG1R",
+          "text": "392 AC - J'ouvre les yeux et contemple ma création, exhalant longuement pour dissiper le reste du Mana qui s'agite en moi. Le cercle de pierres levées luit encore d'un éclat améthyste alors qu'il s'ancre dans le monde, grâce au Mana que Senka a ramené du Tumulte. Je me redresse en faisant craquer mon cou, tandis que des éclairs mauves zèbrent les alentours. Oui, ce lieu crépite de magie et de puissance, un maelström d'idées fugaces capturées par le nodus que j'ai façonné. Je pose une main sur la surface d'un menhir. La pierre aux teintes violacées a pris une texture organique, amas noueux de stries et de rainures, comme s'il s'agissait de fibres et de ligaments. Partout autour, des géoglyphes complexes et de fragiles cairns parachèvent mon ouvrage ésotérique, que d'autres Initiés pourront exploiter à loisir quand ils parviendront jusqu'à ce lieu.\n\nJe tends la main, et Senka vient se poser sur mon bras, plantant ses serres dans ma chair. De son bec, il perce ma peau, faisant couler un peu de sang dont il se repaît. C'est mon offrande pour le service qu'il m'a rendu. Je serre les dents et le laisse aspirer mon fluide vital. Il suffit. Mon oiseau de nuit reprend son envol, alors que je matérialise autour de mes blessures une bandelette de tissu, qui se pare immédiatement de rouge. Telle une ombre, Senka tournoie au-dessus du site. Tel un oiseau de proie, il fonce sur des idées, qu'il attrape au vol et gobe comme s'il s'agissait de vulgaires souris. Et pendant un bref instant, une angoisse affleure à la surface de mon esprit. À chaque avancée, je le vois devenir de plus en plus puissant. Ses ailes grandissent, de même que la nuit qu'il contient. J'ai besoin qu'il prenne de l'ampleur, mais est-ce sage de le laisser se gaver de la sorte ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH639JA3VK0MJ7PCVG7XFB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH639JA3VK0MJ7PCVG7XFB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH637D9QVJ8TEEW6YKJB4P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH637D9QVJ8TEEW6YKJB4P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6386FKZ34S32VKQ6S79V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH6386FKZ34S32VKQ6S79V",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HNGY50C7SSCP1AA7W75RDTGC",
+      "reference": "ALT_CORE_B_YZ_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/52b7411345d3c2fe0827",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/fr_FR/0f96a108839f4dd5be886fe30890ab9f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/ALT_CORE_B_YZ_03_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/ALT_CORE_B_YZ_03_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_03_C",
+  "reference": "ALT_CORE_B_YZ_03_C",
+  "id": "01HKAFJNZ5PPRN5KCAKG61BYP4",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/es_ES/2bc19e599259641bca3e535a62a32732.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/it_IT/d1d3e07be5e0ca153bab2f7c31fa0c14.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/en_US/92c36c5389a664d69297c3d18dc1fb11.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/fr_FR/0f96a108839f4dd5be886fe30890ab9f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/de_DE/42179bdf7c032112d1ae80a106c13a6f.jpg"
+  },
+  "name": "Afanas & Senka",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Les sorts que vous jouez de Coût de Main {1} ou moins ont [[Fugace]].  Lorsque vous jouez un Sort — Un Personnage ciblé que vous contrôlez gagne 1 boost[]. (Faites cela après la résolution du sort. Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+  },
+  "isSuspended": false,
+  "isErrated": true,
+  "isBanned": false,
+  "collectorNumber": "BTG-152-H-FR"
+}

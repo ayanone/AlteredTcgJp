@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_29_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50EXFCNDTF95B9HZ1SWX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH671TAMCHE2S4P8EQZ0E6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH671TAMCHE2S4P8EQZ0E6",
+          "text": "Ce n'est pas un simple colifichet, mais un fragment même du rêve."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6730NB0ESTW2RDJV8TAD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH6730NB0ESTW2RDJV8TAD",
+          "text": "C'est désormais au tour de Matera de s'avancer. Ses épaules sont crispées, et ses pas hésitants tandis qu'elle récupère marteau et burin des mains de Flamel. Elle me jette un discret coup d'œil, et je hoche la tête pour la rassurer. Elle soupire et fait quelques pas vers le Mégalithe, qui pulse d'une lueur améthyste. Après cette cérémonie, elle sera officiellement une Initiée Yzmir. Après cette formalité, elle sera mon égale. Je la vois retenir sa respiration. En face d'elle, le météore d'Éther pulse dans la pénombre, intimidant. Elle positionne la pointe de son burin sur sa surface, prenant soin de viser une petite aspérité. Puis elle souffle longuement pour chasser son trac, lève le bras... et frappe avec le marteau. Le tintement métallique résonne dans l'immensité du gouffre et se réverbère en des milliers d'échos. Le fragment qui a été arraché du Mégalithe tombe au sol, et elle se penche pour le ramasser.\n\nCette pierre en forme de larme lui permettra de canaliser plus efficacement sa magie. Mais tout à coup, je la vois interrompre son geste. À côté d'elle, le Mégalithe a commencé à frémir, à palpiter frénétiquement. Matera attrape prestement l'éclat avant de reculer de quelques pas. Elle sursaute quand Flamel pose une main sur son épaule, mais comprend rapidement qu'il est juste en train de la mettre à l'écart pour me laisser toute la place nécessaire. Le frémissement est devenu grondement. Mais je suis prêt. Immédiatement, je pose une statuette sur le sol pour invoquer l'un des gardiens du Puits des Larmes. Matera m'observe, serrant son fragment contre sa poitrine. Les Disciples et Initiés fraîchement intronisés se mettent en retrait, et commencent à incanter pour m'apporter leur aide. Les éclats du Mégalithe brillent dans l'obscurité, tandis que des effluves irisés se mettent à danser dans l'air."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH672DECKW0277SNGTSDEG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH672DECKW0277SNGTSDEG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH670MMB935X1NC4ZGDW64",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH670MMB935X1NC4ZGDW64",
+          "text": " Afanas"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6717X6RT7PHT82T9SAPJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH6717X6RT7PHT82T9SAPJ",
+          "text": "386 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY50EXFCNDTF95B9HZ1SWX",
+      "reference": "ALT_CORE_B_YZ_29_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/610e717ea996cefe5569",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f51156407fefd15b892a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/fr_FR/b49adf91dd594d86825bb37f1f8fe7a7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/ALT_CORE_B_YZ_29_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/ALT_CORE_B_YZ_29_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_29_C",
+  "reference": "ALT_CORE_B_YZ_29_C",
+  "id": "01HKAFJP5RSTJNZ2BGF94XC90Q",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/it_IT/b080ba60f3051b04185e23195780b404.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/es_ES/ea46862e449f0b67fafb585b643ad7b7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/en_US/12d8da7f16dbc95d65a442bccce8c151.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/fr_FR/b49adf91dd594d86825bb37f1f8fe7a7.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/de_DE/e0163df9cb5f23ccbb9a06f84d63ffc0.jpg"
+  },
+  "name": "Fragment d'Éther",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "MAIN_EFFECT": "À Midi — Piochez une carte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-179-C-FR"
+}

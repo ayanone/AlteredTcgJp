@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79BGWMPYTF1P0QZP7J8R",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME89CEHTREAE6KNFMC0JXH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME89CEHTREAE6KNFMC0JXH",
+          "text": "Whatever ordeals we may face, good manners and politeness are always in fashion!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89DT822GPAPVKFSR9BBT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME89DT822GPAPVKFSR9BBT",
+          "text": "392 AC - I lean over Itoro and place a damp cloth on her forehead. The Lyra calligrapher manages a smile despite the pain, and I return it while squeezing her hand. For a moment, I feel like I'm back in the Cloister, looking after my sister. I hope Kumari is doing okay… Tomorrow, if there's time, I'll send her a letter and tell her all about my adventures. I'll include a few sketches I've done of the environments I've seen, and maybe I'll add a few emotions to give her a taste of what I felt. Taru interrupts my daydreaming by placing a sticky tentacle on my forearm. I know, this is no time to be lost in thought. The Tumult wave that hit the Ouroboros caused a lot of damage, as well as some mild parasitization.\n\nI place my hands on the chest of the Lyra artist, summoning a Sigil to stimulate her metabolism. Through my Irises, I perform diagnostics on her and examine her to distinguish the nature and location of the ideas that have sadly been grafted onto her. \"Ribbon\" and \"Rubber\". Her leg is indeed limp and elastic, as if all her bones have been turned to liquid and her muscles transformed into rubber. And her left hand… Where her fingers should be, she has laces of silky flesh that hang limply. Beside me, Esmeralda crosses her arms over her chest, concerned about her friend's condition. But by tapping into the Eidolon's thoughts, I can surely create an accurate mental image of what Itoro looked like before these unfortunate changes. By summoning her memories, I'll be able to restore her original appearance. OK, let's go! I turn toward Taru, who waves his tentacles. I'll need his dexterity to isolate and remove the intrusive ideas…"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89D5TZX99TQHT6XM3GHZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME89D5TZX99TQHT6XM3GHZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89B3VDZ9THDRYPYW7HFM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME89B3VDZ9THDRYPYW7HFM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME89BRPHN5W5RFCEB8HFRH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME89BRPHN5W5RFCEB8HFRH",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "01HPMB79BGWMPYTF1P0QZP7J8R",
+      "reference": "ALT_COREKS_B_YZ_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Hero"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0f272a82e9c60b28daaf",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_01/JPG/en_US/35a88766db2b288c75bf1014e4ec82f4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_01/ALT_CORE_B_YZ_01_C_WEB.jpg"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_01/ALT_CORE_B_YZ_01_C_HERO_THUMB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_01_C",
+  "reference": "ALT_COREKS_B_YZ_01_C",
+  "id": "01HN5TXRJ114GNZ0NK8AEW6W20",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_01/JPG/it_IT/c4d434215d4da12aaaa9ff5b803fd416.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_01/JPG/de_DE/519c61cf5f8cd6b57c56cbfa7bf67cfd.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_01/JPG/fr_FR/40a610d1c8e54a3f71b7e0740347d89d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_01/JPG/en_US/35a88766db2b288c75bf1014e4ec82f4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_01/JPG/es_ES/1b504f9ddee0ba67b49d35fc9d89bcd2.jpg"
+  },
+  "name": "Akesha & Taru",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "{T} : [After You]. You can only activate this if you are the first player. (End your turn as if you had played a card. You may still play cards later this Day.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-151-H-EN"
+}

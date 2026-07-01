@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_10_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB796M2P7F3EKRSHC5JKKB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME82JFB0CE93GK2Q46CYGE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME82JFB0CE93GK2Q46CYGE",
+          "text": "« Ça va aller. Je touche du bois. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82KDDCAPF2ZBD1CAXXM0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME82KDDCAPF2ZBD1CAXXM0",
+          "text": "À côté de moi, une belette escalade furtivement la balustrade et vient se percher sur un petit promontoire de bois laqué. Je me baisse légèrement pour qu'elle grimpe sur mon épaule, et elle ne se fait pas prier. Après avoir frénétiquement couru le long de ma nuque, glissant d'épaule en épaule sous mes cheveux en m'arrachant quelques rires, elle se positionne sur ma tête, aux aguets. Le bois du ponton craque sous mes pas, alors que je suis la langoureuse procession. Mais malgré le temps que prend la traversée du Mugen, l'heure est à la fête. Des rouges-gorges dansent avec des avocettes, des renards et des blaireaux jouent entre les jambes des pèlerins. Car à l'occasion du Ryukkōsai, il n'y a plus de prédateurs ou de proies. Toutes les espèces respectent la trêve édictée par les Muna.\n\nJe débouche enfin sur la sixième île, où virevoltent des centaines de lucioles échevelées. Je me prosterne devant l'autel dédié à Yong-Su, frappant trois fois dans mes mains en signe de respect. Lorsque la capitale avait été coupée du monde par une Singularité de Tumulte et condamnée à la famine, c'était lui qui avait créé le Mugen, le pont aux dix-neuf tronçons reliant la Katkera à Arkaster. L'Altérateur avait réussi à convaincre toutes les espèces sentientes de Kirighai de réunir des offrandes et de les acheminer vers la métropole congestionnée. C'était grâce à lui, et à ce pont miraculeux, que la capitale était parvenue à survivre. Non loin de moi, un orang-outan au pelage bleu se met à crier, imité par de nombreux autres animaux. Sur les eaux tranquilles, l'Eidolon de Yong-Su s'est manifesté, flottant dans les airs tandis qu'à ses pieds, de nonchalantes ondes concentriques glissent sur les flots. Des fleurs de lotus se mettent à éclore sous chacun de ses pas. Je m'incline une nouvelle fois, les larmes aux yeux devant cette apparition."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82JY3ASF19KYZYK1VA9H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME82JY3ASF19KYZYK1VA9H",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82HFYEATE5V9QSBYPX9M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME82HFYEATE5V9QSBYPX9M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82HZ16WBFNK0T5F6HC67",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME82HZ16WBFNK0T5F6HC67",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB796M2P7F3EKRSHC5JKKB",
+      "reference": "ALT_COREKS_B_MU_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b533ede8063199d85ef1",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druide"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0b3eff62a7cf5078cda0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/fr_FR/ce2e1c8b75501fb130d2c741240a42a8.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/ALT_CORE_B_MU_10_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/ALT_CORE_B_MU_10_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_10/ALT_CORE_B_MU_10_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_10_R1",
+  "reference": "ALT_COREKS_B_MU_10_R1",
+  "id": "01HN5TXRQ6KWHVARZMCW0RTYFS",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/it_IT/93a3727a08cbcc7480a1103a7b01ba36.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/es_ES/a30bc68b768917bac6aaa0e9e0efa0ff.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/fr_FR/ce2e1c8b75501fb130d2c741240a42a8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/en_US/88de9fcd1422315b08a250211079c476.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_10/JPG/de_DE/e3bfca3107b4bcbf77e1476496710795.jpg"
+  },
+  "name": "Yong-Su, Tisserand Verdoyant",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "#2#",
+    "MOUNTAIN_POWER": "#2#",
+    "FOREST_POWER": "#2#",
+    "MAIN_EFFECT": "{J} Si vous contrôlez au moins deux Plantes, je gagne 2 boosts[]. (Les cartes en Réserve ne sont pas contrôlées. Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-106-R-FR"
+}

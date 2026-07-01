@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_08_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z9GXBZ24NFZJQBYC8F5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5RP6X5BS7Y6637WEMQZX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5RP6X5BS7Y6637WEMQZX",
+          "text": "« Reste sur le chemin, qu'ils disaient. Je trace mon propre chemin ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RPQBGJHA0T04JSVMCYA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5RPQBGJHA0T04JSVMCYA",
+          "text": "Sunniva gravit la falaise à ma suite. Elle se hisse sur la petite corniche où je me suis réfugié pour souffler un coup, le temps qu'elle me rejoigne. Elle se pose à côté de moi, sucette mentholée en bouche, et me tend un tube de dragées. J'en fourre une petite poignée dans ma bouche, me demandant pourquoi elle choisit ce genre de bonbons plutôt que des fruits secs et des barres de céréales. Bon, on est à mi-parcours. Le fjord semble déjà loin en regardant en contrebas, et au-dessus de nos têtes, le sommet est loin d'avoir été vaincu. Mais je dois dire que l'ascension est agréable. C'est toujours cool, ce genre d'entraînement, surtout quand la compagnie l'est également. Faut dire que contrairement aux autres binômes, Sun est pas dans la confrontation permanente. C'est comme si elle relevait tous ces défis pour elle-même plutôt que pour être à tout prix meilleure que les autres.\n\nEn tout cas, sa technique semble marcher. Reconnaissance, orientation, survie... Elle est en haut du classement sur pas mal de disciplines — la coqueluche des instructeurs, alors que je stagne souvent au cœur du peloton ou dans le bas du classement. Peut-être que je devrais lui demander des conseils ? Aaaah. Et dire qu'une fois arrivés là-haut, ce sera que le début de la torture... Les Bravos appellent ce lieu l'Abîme, et à voir le canyon vertigineux, il a vraiment pas volé son nom. Là-haut, on va devoir faire face à un labyrinthe de pontons, de poulies et de mécanismes plus vicieux les uns que les autres. La dernière fois, Sun était arrivée presque aux trois-quarts du parcours, et moi, j'avais réussi à seulement atteindre le tiers. Heureusement que les Yzmir ont placé des Sceaux pour ralentir notre chute, parce que ç'aurait été une autre paire de manches si chaque faux pas voulait dire tomber comme une pierre une centaine de mètres plus bas..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RPFT2JE8P05GN48PGN7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5RPFT2JE8P05GN48PGN7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RNPMF7PN78K9DV2SA75",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5RNPMF7PN78K9DV2SA75",
+          "text": "Kojo"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RNYAN2BVM18YPVDXP1E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5RNYAN2BVM18YPVDXP1E",
+          "text": "389 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4Z9GXBZ24NFZJQBYC8F5",
+      "reference": "ALT_CORE_B_BR_08_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5c66da3b863d2f0a1fb8",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/bf1993cf97f08ec0976b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_08/JPG/fr_FR/268cfce67c194524f1a5305e085ea163.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_08/ALT_CORE_B_BR_08_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_08/ALT_CORE_B_BR_08_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_08/ALT_CORE_B_BR_08_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_08_C",
+  "reference": "ALT_CORE_B_BR_08_C",
+  "id": "01HKAFJNN9WX6R6TPZP4W4J0TJ",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_08/JPG/es_ES/1e1ad0a050d7442b6607b9c1a9d3e76b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_08/JPG/it_IT/8a8b5bc8f26ee3b0d4adb3cdc50811be.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_08/JPG/en_US/48100018839b5151611f95de05b49516.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_08/JPG/de_DE/6e9528d009b44646d304ba34b3e101fe.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_08/JPG/fr_FR/268cfce67c194524f1a5305e085ea163.jpg"
+  },
+  "name": "Pionnière Bravos",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "0"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-037-C-FR"
+}

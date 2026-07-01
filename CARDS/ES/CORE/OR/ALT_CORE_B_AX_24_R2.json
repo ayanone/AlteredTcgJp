@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_24_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z4WRRFH9G1P2VNTCNJN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5R0308TX7C4ZFRFK4B5G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5R0308TX7C4ZFRFK4B5G",
+          "text": "Pocos visitan las profundidades de la Fundición, y aún menos pueden explicar cómo fueron creados los bicholatas."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R0HCA3W1JTJRRD9EZBP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5R0HCA3W1JTJRRD9EZBP",
+          "text": "\"You're the most qualified person, Bash. We're counting on you, Bash.\" Surprise, surprise: It's always me that winds up with the thankless tasks. Grunting, I crawl through the opening and emerge into a cavity with a coppery hue. I shake my gloves to get rid of the strange jelly covering the ground. Marmo barks back at me over his shoulder. Yes, yes, I'm coming! I dust myself off and look around. It's amazing to think that the cliffs behind the Foundry have all these vast, high-ceilinged caverns. It's unlikely anyone has set foot here since the Faction installed the sewer system decades ago. Except for the Brassbugs… It's all a tangle of cables and pipes here. Metal flowers seem to grow amidst strange structures crafted by the little metal creatures.\n\nI reach Marmo, who is wagging his tail next to an enormous metal ball. Now is not the time to play ball… But as I draw nearer, I realize that the sphere is actually something the Brassbugs have made. And there are dozens of them here. Wow, those damned critters made their own charging stations. I shake my head in disbelief. They never cease to amaze me. In any case, it bodes well. Maybe I'll find out why many of them are in such a bad way at the moment. For a few days now, it's as if they've been moving in slow motion, avoiding the rest of the Foundry. The problem is, we've become very reliant on them to meet deadlines and maximize yield. So if they have a problem, we also have a problem. I've noticed that they regularly come out of their mounds and all go marching off in the same direction, in single file, like ants… Where are they going?"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R0AH109Y8M2GYEEDWT6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5R0AH109Y8M2GYEEDWT6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QZMDBEB8X8FFE1Z2QSA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5QZMDBEB8X8FFE1Z2QSA",
+          "text": "Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QZW9ANJC0CG3AEQJ2Q2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QZW9ANJC0CG3AEQJ2Q2",
+          "text": "378 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY4Z4WRRFH9G1P2VNTCNJN",
+      "reference": "ALT_CORE_B_AX_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanente"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/349365fec5aed8c13cb1",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Hito"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a455a5c3bf11a8492de3",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/ec072663a5512236ac8b",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-01T10:37:36+00:00",
+      "question": "What happens to the counters when the card leaves the Landmark zone?",
+      "answer": "All counters disappear, whether the card is sent to Reserve, hand, deck, or discard."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/es_ES/74360a528a2f2dc64e8b0043fbe74d16.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/ALT_CORE_B_AX_24_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/ALT_CORE_B_AX_24_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_24_R2",
+  "reference": "ALT_CORE_B_AX_24_R2",
+  "id": "01HKAFJNKXV950MVWSZV4E26CQ",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/de_DE/0ab13a43ec9dd22b9a3770ee6a5ff01f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/en_US/04b9b169b495eeeffdb5a4c918dfa3d9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/fr_FR/8625d8342238223e80c6c1d314f31f9c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/it_IT/a381fafd1f32da2c7d14404bc6c0b7db.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/es_ES/74360a528a2f2dc64e8b0043fbe74d16.jpg"
+  },
+  "name": "Central de bicholatas",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{J} Gano 3 contadores de kelón.  Al mediodía — Puedes pagar {1} y gastar 1 de mis contadores de kelón para crear una ficha de robot [Bicholata 2/2/2] en una expedición objetivo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-026-F-ES"
+}

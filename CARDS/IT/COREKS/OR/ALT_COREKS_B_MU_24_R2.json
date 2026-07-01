@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_24_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB797X8MM9ZF7BXEW7G29S",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME84JRCZ60EX36MWYHG9JE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME84JRCZ60EX36MWYHG9JE",
+          "text": "Non c'è gioia più grande del vedere tutto ciò che è verde crescere e prosperare."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84KVN1GD09QTAYT3E7A7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME84KVN1GD09QTAYT3E7A7",
+          "text": "Now available from Cornucoopia - Discount applies until December 2, 393\nGardening Section\n\nLIQUID FERTILIZER\nSpring Dew Line\n1 oz bottle - 5ƒ99\nLiquid fertilizer, loaded with Mana and the concepts of \"Resilience\" and \"Luxuriance\"\nCan be used in a spray or a bubble machine, ideal for gardens and meadows\n\nCornucoopia offers a wide range of liquid fertilizers to meet all your springtime needs. Fun and easy to use, put them in bubble wands or concentrated sprays to sustainably fertilize your fields, shrubs, and gardens. Even in the dead of winter, your days will be brighter when you see vegetation flourishing as luxuriantly as in the warmer season. Guaranteed quick flowering, low maintenance.\n\nAlso available in 2 oz (10ƒ99) and 4 oz (19ƒ99) bottles\n\nSPECIAL OFFER: When you buy a 4 oz bottle, get a free packet of seeds!\nYour choice of: Sarcococca hookeriana humilis, Daphne odora, Clematis armandii, Rosa x centifolia Muscosa, Lonicera japonica Aureoreticulata, Trachelospermum jasminoides"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84KANWM0WWZJQWEVYCX3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME84KANWM0WWZJQWEVYCX3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84HJSR9VCD3NV4TYKJBJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME84HJSR9VCD3NV4TYKJBJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME84J7CM64D5BN4SPDBQXN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME84J7CM64D5BN4SPDBQXN",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HPMB797X8MM9ZF7BXEW7G29S",
+      "reference": "ALT_COREKS_B_MU_24_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanente"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d86599628b9a3478db32",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Fulcro"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2bb4dc9d07b4c3e9e787",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/it_IT/e97e39a3a0cf3d05c4fec07e5a12e9c6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_24/WEB_90cd003417f4eadc75a000e8349f54bf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_24/WEB_f2a9fd863c678406d786fda33c9fc388"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_24_R2",
+  "reference": "ALT_COREKS_B_MU_24_R2",
+  "id": "01HN5TXRS8CQ81REPH3PGGGQGP",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/de_DE/e39e38ed750e96749f797dda13f9f18e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/en_US/7f9e0de1de4d1cfac7ca4f3bf5f7b4fb.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/it_IT/e97e39a3a0cf3d05c4fec07e5a12e9c6.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/es_ES/edbf350ec5b4097279157a94285e9e3f.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/fr_FR/337526485ba1a2f195d4b562257f273b.jpg"
+  },
+  "name": "Prateria Generosa",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{T}: Il prossimo #Burocrate# che giochi in questo turno costa {1} in meno."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-119-F-IT"
+}

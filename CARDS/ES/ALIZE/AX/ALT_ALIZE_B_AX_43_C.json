@@ -1,0 +1,171 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_43_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5KVJ0MZ66S9WMT148EEWX7JKGM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23PGK0ZJVQZM65MR2PP5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23PGK0ZJVQZM65MR2PP5",
+          "text": "Un poco de calor ayuda mucho a alegrar un día gélido."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23QTSBW93AFDSKKES1NK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23QTSBW93AFDSKKES1NK",
+          "text": "Con la caída la noche, la temperatura ha descendido al instante. Mi araña mecánica sigue avanzando, pero noto que sus movimientos no son tan fluidos. Es como si las patas se fueran trabando y ralentizándose. Lo que está pasando resulta obvio. El hielo está penetrando por todas partes: en su cuerpo, en sus articulaciones… Debería haberla adaptado mejor al invierno. Por suerte, ya hemos llegado al campamento y puedo dedicarme a las reparaciones. No obstante, la sensación de alivio no dura. Rossum me avisa con un pitido y adivino lo que pasa con un rápido vistazo. Veo a mis compañeros temblando, congelados. Deberíamos haber sido más rápidos. Maldigo para mis adentros, pero la culpa no sirve de nada. Activo mi exoesqueleto, que chisporrotea. También tiene problemas para arrancar. En cuanto noto que se establecen las conexiones, doy un pisotón y muevo las articulaciones para deshacerme del hielo.\n\nBajo del vehículo y me dirijo a las cajas que había ido a recuperar. Abro una y rebusco en su interior: nada interesante. Refunfuño y paso a la siguiente. El corazón me da un vuelco cuando encuentro un calentador kelónico. Es justo lo que necesitamos. Me lo cargo a los hombros y me dirijo al grupo de ingenieros, que tiritan intensamente acurrucados junto al fuego. Tienen los labios azules y la ropa congelada. Coloco el calentador en el suelo y lo pongo al máximo. El elemento en espiral empieza a brillar en rojo y a emitir un ligero calor que derrite la nieve de alrededor. A medida que el hielo comienza a derretirse, las gotitas empiezan a perlar sus trajes. Se acercan más trabajadores para entrar en calor y noto que uno de ellos me hace un sutil gesto con la cabeza. Ya me dará las gracias más tarde cuando dejen de castañearles los dientes…"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23QHH3TJ09ZRWMH10JA3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23QHH3TJ09ZRWMH10JA3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23N6R8YZ79YE2Q7K6EJD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23N6R8YZ79YE2Q7K6EJD",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23NSWW3ED6EV7T09GT5R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23NSWW3ED6EV7T09GT5R",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "5KVJ0MZ66S9WMT148EEWX7JKGM",
+      "reference": "ALT_ALIZE_B_AX_43_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanente de expedición"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ec8569761b63b9a2e4e4",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Accesorio"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b0b145285d8cd1ce72d1",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/3a8907a77450aaecc1a5",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:16+00:00",
+      "question": "When I play an Exhausted Character from Reserve thanks to Kelonic Heater, does it arrive in the Expedition ready or exhausted?",
+      "answer": "Ready!"
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b44f8f7f8e556a02a603",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:16+00:00",
+      "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
+      "answer": "Yes, an Exhausted Resupply counts as a Resupply."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/es_ES/62e36403dca9f07fb029a8a81ea66228.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/WEB_4f4c9a515118aabb063670673626ab9b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/WEB_2350f7c7eebf1aa838a96126af5e87a9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_43_C",
+  "reference": "ALT_ALIZE_B_AX_43_C",
+  "id": "01J1Q4P4RWK42AHDHYE196SYCX",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/de_DE/cad432cd5aaa93666e09744bf3efa304.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/it_IT/ac3fc71b7070bc3736125aa82494f2e0.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/fr_FR/5cdb2d5aa6ff219519d594929a115f37.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/es_ES/62e36403dca9f07fb029a8a81ea66228.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_43/JPG/en_US/931ecf00380eff27ac4dd60ab4c25526.jpg"
+  },
+  "name": "Calentador kelónico",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "{J} [Reabastece y agota]. (Coloca la primera carta de tu mazo en la reserva y luego agótala {T}.)  Puedes jugar personajes agotados de tu reserva en mi expedición."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-015-C-ES"
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_28_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79E1YBGG5RDHJAMH9067",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8DK4H5VAQJ318TB81G3G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8DK4H5VAQJ318TB81G3G",
+          "text": "Hay quienes la llaman «patapollo», en parte por su choza."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DN3HT8JXCBHDQEW3EMX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8DN3HT8JXCBHDQEW3EMX",
+          "text": "I make my way over to the raised front steps of the isba, following the long ribbed legs the cabin is perched on. I could see from afar that Baba Yaga was at home, as there was a plume of smoke coming from the chimney. But I'm still surprised when I open the front door. Facing me, comfortably seated in an armchair, is a Muna drinking a cup of tea, while the witch is in the kitchen preparing what looks like – or rather smells like – a borscht. The Muna beckons me to sit down opposite her. She is sitting cross-legged, one foot dangling casually as she sips at her concoction. I remember her name: Saskia, if I'm not mistaken. It's not unusual for Muna to seek out Baba Yaga. The Eidolon was also responsible for watching over the expanses of forest...\n\nYet there's something a little off about the look on the young Muna's face. I can sense danger, even though there's nothing in the room to suggest it. The lace doilies, the dried flowers hanging from the rafters, the kitchen utensils neatly arranged above the wood stove... Everything has an old-fashioned, almost rustic charm, but nothing that would suggest any sort of threat. Except Baba Yaga, of course. So that means it's the Muna's presence that I find unsettling. I sit down on a chair, pushing aside the tartan covering it. Saskia gets up and places a porcelain plate next to me with some sugar-crusted pryaniki on it. The hut's wooden frame creaks with each movement of the isba. Nothing seems out of the ordinary. But beneath the smell of cumin, nutmeg and star anise, and behind the other guest's fixed smile, something sinister is brewing..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DM5FFKN7RC9759VRKEM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8DM5FFKN7RC9759VRKEM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DGZKT7WQKZKS95AF5DZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8DGZKT7WQKZKS95AF5DZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8DJ2AP323YFRDQPM961R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8DJ2AP323YFRDQPM961R",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HPMB79E1YBGG5RDHJAMH9067",
+      "reference": "ALT_COREKS_B_YZ_28_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanente"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/64b105aef0be2f0e3cec",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Hito"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/50d20e84c4cc14a65907",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_28/JPG/es_ES/b18866ac43526e33a71ba1c7e7a11c0d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/WEB_7ad19e4e387d8f5ee14537926dc8f1ee",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/WEB_de26dc97c43a821f1302211818756922"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_28_R1",
+  "reference": "ALT_COREKS_B_YZ_28_R1",
+  "id": "01HN5TXRNHXNCX52M1GTGQ48MJ",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_28/JPG/de_DE/c8176abb72d2a4519e5a40df3e56fc88.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_28/JPG/it_IT/c7073319c846d4de9a4bde98a21b3cf5.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_28/JPG/es_ES/b18866ac43526e33a71ba1c7e7a11c0d.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_28/JPG/fr_FR/71b2d36aa4a43667b2ca5d12a2d47e1a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_28/JPG/en_US/58b0a3589d7dc673d01f15623d44a4d2.jpg"
+  },
+  "name": "Choza de Baba Yagá",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{J} Roba una carta.  {T}, sacrificar un personaje: [Después de ti]. (Termina tu turno como si hubieras jugado una carta. A lo largo del día actual, puedes jugar más cartas.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-178-R-ES"
+}

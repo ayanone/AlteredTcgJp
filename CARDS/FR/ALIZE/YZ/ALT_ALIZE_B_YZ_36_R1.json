@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_36_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/30R7RSFHJ58EBAVN6Z7WRP6JSV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2AX9QYY08NSRFVP4G36T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2AX9QYY08NSRFVP4G36T",
+          "text": "Même seule, elle parvint à dompter la marée."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AY703T4H9RTAJ0W3R9X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J2AY703T4H9RTAJ0W3R9X",
+          "text": "Je lutte contre les éléments que j'ai moi-même créés. Tout autour, le blizzard frappe, se déploie comme une houle furieuse. Je sens dans mon esprit des idées parasites : celles d'écailles qui se meuvent, comme si j'étais tombé dans un nid de serpents. Akesha hurle encore, mais je ne l'entends pas. Je ne suis plus que le jouet de quelque chose de plus grand, et qui fait de moi le vecteur de sa rage. Une colère sourde gronde en moi, alors que je deviens moi-même tempête. Je suis le vent qui déchire, la pluie qui cingle, la neige qui lacère. Je suis le froid qui transit, l'éclair qui fend l'air... En face de moi, un Eidolon apparaît. Ce n'est pas moi qui l'ai invoqué. Akesha ? Je reconnais Aroro Niski, la pourfendeuse de cyclone. Elle se dresse face à moi, comme elle s'est dressée face au tsunami qui a ravagé Arkaster et menacé d'engloutir Asgartha. Et je comprends que c'est ce que je suis en train de devenir : un souffle impitoyable, prêt à dévaster le monde.\n\nL'Eidolon enchaîne Gestuelle après Gestuelle, et se barde de Sceaux. Le tonnerre gronde autour et à l'intérieur de moi. Aroro se prépare à réceptionner ma ruée, à faire rempart de son être, comme elle l'a fait il y a de nombreuses années de cela. Au fond de moi, je sais que je dois l'aider. Mais à mon corps défendant, quelque chose est en train de faire de moi son instrument. La puissance crépite dans mes doigts, tandis que je vomis rafales après rafales, cueillant mes ennemis, qui tombent comme des fruits trop mûrs. Mais de plus en plus, je sens la pression qu'exerce Aroro. Je la sens essayer de contenir mes attaques, de les contrer, de les annuler. Comme une machine qui perd son carburant, l'orage que je génère est en train de refluer."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AXRR2BDA5WF6R5ZPMTQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2AXRR2BDA5WF6R5ZPMTQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AW85KRSQZADFVE7YP38",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J2AW85KRSQZADFVE7YP38",
+          "text": "AFANAS"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AWS6DK8SGNE6C5WQVYP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2AWS6DK8SGNE6C5WQVYP",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "30R7RSFHJ58EBAVN6Z7WRP6JSV",
+      "reference": "ALT_ALIZE_B_YZ_36_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d8e9ee7359dfb8d5a314",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mage"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5862184ac081aa725cd1",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/fr_FR/e5a55e3e857c7c256556fb7151f885c6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_857d5d6cc51a3a623557ebefbd8f6536",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_1350e90561aa21560d4ec35850e26e0c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_5e53194f95457f01acfb6a6bff8dea73"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_36_R1",
+  "reference": "ALT_ALIZE_B_YZ_36_R1",
+  "id": "01J1Q4P4STVYKQPX3X8SF0WV9Y",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/en_US/77c2c14923ef198438fba41168025a4b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/es_ES/482444548beab535ef9ea0032099a3ab.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/fr_FR/e5a55e3e857c7c256556fb7151f885c6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/de_DE/79b76a8dee926ac9ea508e78ef936773.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/it_IT/e420ca8e5e8eb72dc95a90747cb5f3da.jpg"
+  },
+  "name": "Aroro, Rempart d'Asgartha",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{H} Vous pouvez défausser un Sort de votre Réserve pour me donner #2 boosts.#",
+    "ECHO_EFFECT": "#{D} : Le prochain Sort que vous jouez ce tour coûte {1} de moins.# (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-092-R-FR"
+}

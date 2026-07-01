@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_25_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z4ZA11XEDS2E6PQEWFE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5R1E01HX8NNH2C9BDPB1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5R1E01HX8NNH2C9BDPB1",
+          "text": "Nichts wird geschaffen, nichts geht verloren, alles verwandelt sich."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R1YVAZM56Z5CS4ZH0VY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5R1YVAZM56Z5CS4ZH0VY",
+          "text": "The tracks of the mobile Reprocessor make the ground rumble as it moves into position in the Recyclery. The other workers and I wait for the jacks to engage and anchor it into the ground. The vehicle is a big factory on wheels with everything it needs inside to sort and melt scrap metal. Receiving a signal from the Lead Sifter, I lower my visor and wait for the built-in blower to dissipate the condensation forming inside. Then I slip on my mechanical gauntlets and push the conveyor belt alongside the other workers. I can already feel the heat from the oven burning in the armored vehicle. It would be unbearable without my suit and helmet. Not to mention the acrid fumes coming out of it. It's a thankless task, but there's no point trying to shirk – that would only cause shortages further up the line.\n\nOnce the conveyor belt is in place, I climb into the motorized crane and flip on various switches to start it up. I wipe my hand over the filthy windshield so I can see out of it and position myself at the controls, while Marmo settles in under the seat as usual. Using the levers, I direct the articulated pincer to the first pile of scrap metal. I grab a big pile and carefully place it at the end of the conveyor belt. The other workers spread the scrap out properly while it moves toward the vehicle. Huh… I'd never noticed it before, but from here, the Reprocessor looks like an insatiable monster that swallows up everything that falls into its gaping mouth. Thinking about that makes my belly growl. Marmo yips in agreement. Speaking of insatiable appetites… I look at my watch and sigh. Two more hours to go before my snack break."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R1NMWSSVFMBACXCDTEB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5R1NMWSSVFMBACXCDTEB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R0ZMM4CVQ2GD5QWH42M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5R0ZMM4CVQ2GD5QWH42M",
+          "text": " Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5R17C00WQ4JV6V16PX70",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5R17C00WQ4JV6V16PX70",
+          "text": "374 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY4Z4ZA11XEDS2E6PQEWFE",
+      "reference": "ALT_CORE_B_AX_25_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Bleibende Karte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9efcfba6ea917b349d0e",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Wahrzeichen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e7f18971984ed3afbc0e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_25/JPG/de_DE/74a5ef7a45570757b9508f48c0211120.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_25/ALT_CORE_B_AX_25_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_25/ALT_CORE_B_AX_25_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_25_R1",
+  "reference": "ALT_CORE_B_AX_25_R1",
+  "id": "01HKAFJNKZ36CEFYFVVDS27NVR",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_25/JPG/en_US/215bfd61f1f1fb94935d4c36121b2318.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_25/JPG/es_ES/fb5dd7567b67734d1c14d9fbd6a7ddfb.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_25/JPG/fr_FR/003930f21139f1ecd0bc79de3be32d65.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_25/JPG/de_DE/74a5ef7a45570757b9508f48c0211120.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_25/JPG/it_IT/af3237c239653ca80c0e36786cc3d217.jpg"
+  },
+  "name": "Axiom-Aufbereiter",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "#{J} [Nachschub].#  Zum Mittag — [Nachschub]. (Lege die oberste Karte deines Decks in die Reserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-029-R-DE"
+}

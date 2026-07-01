@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_13_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB796X9A55H8BMHH8YYFK1",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME82VD7DT624EQTD35Y1VZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME82VD7DT624EQTD35Y1VZ",
+          "text": "\"Siamo le sentinelle della Skein, tendiamo sempre l'orecchio a ogni segnale della natura.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82WJZRGDF0888GHD55PG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME82WJZRGDF0888GHD55PG",
+          "text": "I turn around and see my parents in the distance, while we move away. My father holds my mother in his arms, their small figures silhouetted beneath the foliage of the trees. I feel tears forming in my eyes. I don't know when I'll see them again... My whole life, I've only known the Earth Refuge and its shaded canopy. I try to capture everything with my gaze, to keep it all firmly rooted in my memory. Here, a cluster of low hills where we used to play with Nauraa. There, a tree where we used to shelter from the rain... I tighten my grip around a tuft of my Chimaera's fur. The giant fox lifts his head and looks at me with a hint of sadness. He too must be feeling distress at the thought of leaving our home. But no matter what happens, we'll always be there for one another.\n\nIn front of us, the Muna Druid rides his mount without hurrying. For the next few years, he will be my instructor, my professor. I've seen him many times, meditating near the river, his expression serene yet attentive. Like many other Muna, he had come to the Katkera on a pilgrimage, staying with us for a few days before leaving again. His laugh was bright, and he was caring. He graciously answered every question I asked about the capital, the other peninsulas, and Asgartha in general... But seeing him again after his journey filled me with a strange foreboding, like a dull trepidation. He'd had a long conversation with my parents. And when they left the monastery where they'd shut themselves in, a single look was enough for me to guess that my entire life was about to change."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82W0HYPN5A8FSMSEWRG8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME82W0HYPN5A8FSMSEWRG8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82TD5T24FNPP962QA40Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME82TD5T24FNPP962QA40Q",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME82TXCEWJ7MW0HT6XC4VC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME82TXCEWJ7MW0HT6XC4VC",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB796X9A55H8BMHH8YYFK1",
+      "reference": "ALT_COREKS_B_MU_13_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a77ef4ffa93cf0bd572f",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druido"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5cf2b1fd36445004f0d9",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/JPG/it_IT/7d26f95938ac48c4f22960ec29ae7cc6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_13/ALT_CORE_B_MU_13_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_13/ALT_CORE_B_MU_13_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_13/ALT_CORE_B_MU_13_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_13_R2",
+  "reference": "ALT_COREKS_B_MU_13_R2",
+  "id": "01HN5TXRQPPNP93KBXPRSC71HW",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/JPG/de_DE/cdec21f8a9f84e296b88e3f2d53d7c39.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/JPG/en_US/9e58ea06ceea9dc8caad6d16a295f689.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/JPG/it_IT/7d26f95938ac48c4f22960ec29ae7cc6.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/JPG/es_ES/9985279b7824ea8146ce0f930eba8aeb.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/JPG/fr_FR/88982808df07a4726940afa281567a64.jpg"
+  },
+  "name": "Druido Muna",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "3",
+    "ECHO_EFFECT": "{D}: Un personaggio bersaglio con costo dalla mano pari o inferiore a {3} ottiene [[Ancorato]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-102-F-IT"
+}

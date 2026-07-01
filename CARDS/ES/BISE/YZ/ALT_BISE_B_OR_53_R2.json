@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_OR_53_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/13ET01GYB78ANBPVJVA4J34M04",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A97CB8XY438SDB1A9X2K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A97CB8XY438SDB1A9X2K",
+          "text": "Es la encargada de todas las tareas de la guarnición."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A99AQT39KS555CWY7GBQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A99AQT39KS555CWY7GBQ",
+          "text": "393 AC - I always view the roll call of new recruits with caution. I can never tell whether it's a blessing or a curse. It's a bit like the lottery, basically. Is it a good idea to take on new recruits? Of course. It helps to make the Rediscovery Endeavor go faster, to relieve certain soldiers we are demobilizing, and to reinforce our troops on the front. And yet… At the same time, I always wonder if these people could be better used elsewhere, helping the people back in Asgartha, developing their individual talents, or something else? I'm always somewhat torn about recruitment. How many really know what they're signing up for? Which of them know that this is their true calling and which of them are only there for romanticized reasons? And each time, perhaps selfishly, I think back to Kojo.\n\nThe dispatcher, in her gleaming uniform designed to impress (or reassure) the crowds, shouts out names and assignments. As I said, it's like bingo: this one assigned to the Tagmata, that one assigned to quartermaster duties… Thankfully, not many of them will go to the front, based on the assignments and call-ups. The instruction from the Storhvit is still to go easy on the exploration forces. And that's not a bad thing. I've seen what's down there, and it's no walk in the park. The administrator continues to shout as I let my thoughts wander. I wonder why she doesn't use a microphone and amplifier behind her lectern. She must like shouting, I guess… Maybe she likes to show her power and authority? I glance at Tocsin and smile. Maybe I should ask him to lend his megaphone…?"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A97Q7B4MQJMPQDCQTERD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A97Q7B4MQJMPQDCQTERD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A96PZXMH6KMKJJMG87D6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A96PZXMH6KMKJJMG87D6",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A971RC1CM0B25PBHEFM9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A971RC1CM0B25PBHEFM9",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "13ET01GYB78ANBPVJVA4J34M04",
+      "reference": "ALT_BISE_B_OR_53_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2ef49e1f3a516fd8fd35",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldado"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c0f6f35ea389fb15768b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/es_ES/31b9792feec38efbb425e3999e4bcc38.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_4ac09f2db830ac1b70d309fee3d92cbb",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_3a566e302c31dbd25861ecc49327623f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_326ea304eef2f955298a47903926e089"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_53_R2",
+  "reference": "ALT_BISE_B_OR_53_R2",
+  "id": "01JB1YGPBVGB6DPE03BAS3WEPK",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/de_DE/8e72ff1403ff346a7e9a5deb3ab205b3.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/fr_FR/200ed30976ffb745406fcbec7bf814dc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/en_US/c0e12bd4851ef3a5175a6d47e3b24568.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/it_IT/f0a138339a177b313898679bc6c93aea.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/es_ES/31b9792feec38efbb425e3999e4bcc38.jpg"
+  },
+  "name": "Coordinadora de Ordis",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{R} Puedes gastar 1 de mis potenciadores para crear #dos fichas# de soldado [Recluta de Ordis 1/1/1] en tu otra expedición.",
+    "ECHO_EFFECT": "{I} Cuando #juegues un hechizo# — Gano 1 potenciador, hasta un máximo de 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-076-F-ES"
+}

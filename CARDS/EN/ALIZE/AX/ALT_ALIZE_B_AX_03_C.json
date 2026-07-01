@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1ET3HJG6Q285F9Z7CVQ48HPR6A",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J22ZZ90WA38Z5M2WWYZKD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J22ZZ90WA38Z5M2WWYZKD",
+          "text": "There are still endless possibilities, even in a world of finite resources. In the end, it all comes down to how you choose to spend 'em."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J230DZ0BCTKSNDQGFF0NH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J230DZ0BCTKSNDQGFF0NH",
+          "text": "392 AC - I reach out and take the wrench that Marmo is holding in his mouth. I tighten the last bolt with a grunt, then wipe my slobber-soaked fingers on my suit. OK, this is the moment of truth. I switch on the kelonic battery, and my dorsal antenna starts to hum. Everything seems to be running smoothly. My Alter Ego barks, and I rummage in my pack for a bone-shaped dog treat. I throw it to him. He definitely deserves a little reward. While he devours it with happy munching sounds, I adjust the helmet on my head to make sure it fits tightly. By arranging my Construct, I summon a flashlight and point its light at the cave entrance. Right, it's time to see if there's any damned Kelon in these tunnels. And there had better be, because I'm fed up with returning empty-handed.\n\nAs I enter the cave, I can't help seeing it like a mouth about to swallow me up. I don't really want to end up like one of Marmo's dog treats, crunched up between a giant pair of jaws. The pink wafts of the Tumult part like curtains before me, pushed back by the waves of my antenna. Meanwhile, Marmo bounds along boldly, unaffected by the rolling mist. He even gorges on it, while I feel the Mana flowing into him like a battery being charged. I rearrange my Construct, forming a Kelon Elemental in front of me. The axolotl appears and starts to sniff the air. If there's Kelon in the area, the axolotl should react. Any second now… I see it suddenly rush forward. Ah! Bingo. I set off after it, grabbing my kelonic pickax. As I switch it on, the Kelon cylinder that powers it starts to pulse with a blue glow, bathing the chamber in a pale purple light."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2306V6H4MQXQ9BZ15SAF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2306V6H4MQXQ9BZ15SAF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J22ZFRYY63CV3R4MV8E9M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J22ZFRYY63CV3R4MV8E9M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J22ZRFZ9BD6BY68GCR6RG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J22ZRFZ9BD6BY68GCR6RG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "1ET3HJG6Q285F9Z7CVQ48HPR6A",
+      "reference": "ALT_ALIZE_B_AX_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Hero"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/24fdf7a7ef1690f101da",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/en_US/dc4bf56522d25c0b6f3e31f18d9785e8.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/WEB_1d6d374e82900bb6ccc0a0f78aa98e47"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/HERO_THUMB_9805f6e77c35518e938f8699b8d1ce2d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_03_C",
+  "reference": "ALT_ALIZE_B_AX_03_C",
+  "id": "01J1Q59TJPS3JJQZY1YF703QG5",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/fr_FR/21c8f29127746760692b5d6502f380f6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/en_US/dc4bf56522d25c0b6f3e31f18d9785e8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/de_DE/72cb6608922cb02513b9a0df1c77af0a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/it_IT/039503423118ecac0c13b6e6c62dc895.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/es_ES/6f0e4b82d454ec754da9e1313118bdf5.jpg"
+  },
+  "name": "Subhash & Marmo",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "At Noon — You may pay {1} and put a card from your hand in Reserve to create a [Brassbug 2/2/2] Robot token in target Expedition."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-002-H-EN"
+}

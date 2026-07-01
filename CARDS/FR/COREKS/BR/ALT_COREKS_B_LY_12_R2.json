@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_12_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB782E12STKDXKNVV6544T",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME802CBY49ZR3QM93E1GVR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME802CBY49ZR3QM93E1GVR",
+          "text": "Tout comme les Bravos, les Lyra sont attirés par la liberté et l'horizon lointain."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME803Z2SEV2AJ6W4TVNR1R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME803Z2SEV2AJ6W4TVNR1R",
+          "text": "Kibble colle son museau humide contre ma joue, et je lui fais un petit geste de la main pour lui dire de me laisser tranquille. Il faut dire que la soirée d'hier a été animée autant qu'elle a été arrosée, me laissant avec un mal de crâne des familles que je ne peux qu'encaisser. Et le fait de me trouver sur un bateau n'arrange rien à l'histoire. Ça m'apprendra à jouer la fière et à faire la fête plus que de raison la veille du grand départ... Le moins qu'on puisse dire, c'est que ces vacances commencent sous de bons auspices. Ou pas. Quelques matelots passent à côté de moi, ricanant plus ou moins discrètement. Pas du tout, même. Mais je sais bien de quoi je dois avoir l'air : le teint verdâtre, le mascara qui coule sur mes joues... Ça, je ne peux m'en prendre qu'à moi-même. Au final, c'est plutôt la houle qui me dérange, pas les messes basses des marins. J'essaie de respirer un grand coup, laissant les embruns fouetter mon visage...\n\nPuis, j'entends un bruit de pas sur le bastingage, et vois du coin de l'œil une silhouette m'enjamber alors que je me penche vers l'écume et les vagues en contrebas. Je lève les yeux, et regrette immédiatement de m'être tournée vers le soleil de midi et sa clarté inquisitrice. Je maugrée dans ma barbe, étrécissant les yeux tout en ravalant un léger filet de bile. Comment peut-elle être si guillerette ? La navigatrice se suspend aux cordages, parfaitement dans son élément, tandis que des oiseaux marins se pressent au-dessus des flots. Comme eux, elle observe les crêtes blanches qui s'agitent devant le navire, alors que nous voguons sur la Muir Concordia. Hm ? Elle semble regarder la surface de l'eau, comme si elle attendait quelque chose. Soudain, une flopée de poissons volants émergent des ondes, déployant leurs petites ailes membraneuses. Et pendant une seconde, je souris devant ce spectacle. Mais une seconde seulement."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8034RH295VGAPYCHP3QV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8034RH295VGAPYCHP3QV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80017ZTFKFTVGV2X1881",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME80017ZTFKFTVGV2X1881",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME801727J2B5EB81J0SGH1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME801727J2B5EB81J0SGH1",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB782E12STKDXKNVV6544T",
+      "reference": "ALT_COREKS_B_LY_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0a94c943d5a34ca834b6",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Citoyen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/61e82497e4bc8068b1a4",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/fr_FR/16c61eb1519ecc99d09ca44166d4e2d9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_12/ALT_CORE_B_LY_12_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_12/ALT_CORE_B_LY_12_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_12/ALT_CORE_B_LY_12_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_12_R2",
+  "reference": "ALT_COREKS_B_LY_12_R2",
+  "id": "01HN5TXRB810F8F9KXX22BZYPB",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/de_DE/73df08b43c21afe30eddde482689c5bf.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/es_ES/73e1883be33290aaf6d7ecccd69dd920.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/fr_FR/16c61eb1519ecc99d09ca44166d4e2d9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/en_US/d5165edbd5c5518c6c7104b3a5d875fe.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_12/JPG/it_IT/fe45b1b52eb5a6c5a32f315bbbb2d66c.jpg"
+  },
+  "name": "Navigatrice Lyra",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "0"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-070-F-FR"
+}

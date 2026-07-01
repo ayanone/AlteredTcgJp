@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_YZ_33_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3T51JE1G8B9F9BX7CN3EFB6G4Y",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2AEH6F3WM7D9Z3P58TQ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2AEH6F3WM7D9Z3P58TQ5",
+          "text": "...Costruiscono il loro bozzolo di ghiaccio per diventare eteree."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AGP0JF3T3GBH1R7TVKX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2AGP0JF3T3GBH1R7TVKX",
+          "text": "Sento che Lindiwe mi chiede una breve pausa per poter essere se stessa e accolgo la sua richiesta. Ci siamo solo noi nella distesa boscosa della taiga e non c'è niente di male a lasciarle prendere il controllo della propria esistenza per qualche minuto, o anche per qualche ora, se sono dell'umore giusto. Mentre le permetto di riacquisire un certo controllo del suo corpo, le sue spalle si incurvano. Le lacrime le scorrono sulle guance mentre io mi metto in disparte. Ma il suo spirito rimane forte. Inciampa, poi inizia a toccare la neve. Sa di non avere molto tempo a disposizione, quindi dovrà sfruttarlo al massimo. Guarda a sinistra, poi a destra. Il Latte di Arcolano che le scorre nelle vene le dà la visione di una terra immacolata. Tocca il tronco di una betulla e ne respira il profumo, assaporando questo breve momento di libertà.\n\nPoi su un ramo vede una piccola crisalide quasi trasparente. Ah, una falena di mana. Sento un nodo formarsi nel suo stomaco quando si rende conto di non essere poi così diversa. Anche lei sta aspettando di uscire dal suo bozzolo, dalla sua prigione. Ma le ricordo con un pensiero che, finché sono il suo carceriere, sono io a decidere quando può uscire e quando deve restare in cella. Sprezzante, concentra il suo mana e lo soffia nella ninfa. Forse è un atto di ribellione per lei, usare il mana che ho raccolto per un'azione così insignificante. Ma le permetto di farlo. Quasi subito la crisalide si apre e, con una serie di spinte, ne esce una falena. È davvero così che vuole trascorrere il suo tempo libero? Ah, ma ora capisco. Questa creatura può essere veramente libera, a differenza sua. Quindi osserva, incantata, vivendo indirettamente per il tramite della falena appena nata. Sa benissimo che non mollerò mai la presa su di lei..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AG2FHRPVGQ917QG44A3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2AG2FHRPVGQ917QG44A3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2AD64BFP1WC60D942FAK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2AD64BFP1WC60D942FAK",
+          "text": "FAUCE"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2ADWE9ZPGT1QQDT845C1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J2ADWE9ZPGT1QQDT845C1",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "3T51JE1G8B9F9BX7CN3EFB6G4Y",
+      "reference": "ALT_ALIZE_B_YZ_33_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0bb89090a6d545d50a56",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7de7ec573098705ce7b0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/it_IT/7c1cb590ddd6d7a89383a222eebb83eb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/WEB_400fd54a644da01c50ca1e1399d96200",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/WEB_cf148154922041962fd95b2854353ed4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/WEB_a8bf2ac3f915697d387d97068f3ae423"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_33_R2",
+  "reference": "ALT_ALIZE_B_YZ_33_R2",
+  "id": "01J1Q4P4SS1510DW0H3674JC8J",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/de_DE/6e3ec22f6093f29e5b23c9ef62f54f17.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/es_ES/cf01a3ea15c6370f68b616ca2aad0879.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/it_IT/7c1cb590ddd6d7a89383a222eebb83eb.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/fr_FR/cd9068b566afd4de88337952c81f7cf3.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_33/JPG/en_US/6d586e559a61e1c08d5fc24a234a2429.jpg"
+  },
+  "name": "Crisalide",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "#2#",
+    "MAIN_EFFECT": "[Difensore]. (La mia spedizione non può avanzare durante il crepuscolo.)  Quando lascio l'area delle spedizioni — Crea una pedina Illusione [Falena di Mana 2/2/2] nella mia spedizione.",
+    "ECHO_EFFECT": "#{D}: Consuma una carta bersaglio nella Riserva.# (Scartami dalla Riserva per eseguire questa azione.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-089-F-IT"
+}

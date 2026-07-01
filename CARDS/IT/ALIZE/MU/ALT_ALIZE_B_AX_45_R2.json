@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_45_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/104H5DJ3VP9NAB73AYBN71K1ZV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J23TB440CMSVSXNJ4NGPN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J23TB440CMSVSXNJ4NGPN",
+          "text": "Nulla si crea, nulla si distrugge... nemmeno il ghiaccio."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23TWCD46G1D4VKF1W4RX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J23TWCD46G1D4VKF1W4RX",
+          "text": "Nonostante l'aggiunta dello spartineve anteriore realizzato da Vishwakarma, il ricondizionatore si arrampica sul pendio a passo di lumaca, mentre i tre porcellini lo guidano di qua e di là per non farlo precipitare nel vuoto. Strambo vola intorno al veicolo, chiaramente preoccupato. Cinguetta avvertimenti stridenti, e fa bene: è un'operazione delicata. È stata un'idea un po' folle portare qui il veicolo corazzato; forse sarebbe stato meglio procedere con più cautela. D'altra parte, capisco perfettamente perché il caposquadra non volesse separarsi da questa risorsa e ha insistito affinché la portassimo tra la nostra attrezzatura. Stringo i pugni mentre il ricondizionatore si avvicina al bordo del precipizio. I suoi cingoli raschiano la neve polverosa e scivolano su uno strato di ghiaccio. C'è solo una manciata di centimetri a separarlo da un tuffo nel vuoto... Il minimo errore e potrebbe...\n\nMi mordo le labbra quando vedo la sporgenza rocciosa creparsi. Tiro fuori dalla tasca il mio costrutto. Mentre la pietra si rompe, lo tocco furiosamente e riesco ad applicare l'idea di robustezza alla roccia. Ma ho fatto le cose di fretta e il mio lavoro si rivela maldestro. Sono riuscita solo a guadagnare qualche secondo... Una lastra di neve si stacca dal bordo e scivola verso il basso, frantumandosi sulle rocce taglienti prima di sciogliersi come un torrente nella valle profonda. Spero che non ci sia nessuno laggiù. Ma non posso perdere la concentrazione. Materializzo alcuni supporti e telai metallici... qualsiasi idea io riesca a lanciare contro le crepe della parete rocciosa. Allo stesso tempo, i conducenti del veicolo corazzato inseriscono la retromarcia per allontanarsi dal pericolo, senza più preoccuparsi di urtare qualcosa. Molto più in basso di me, il terreno inizia a rombare."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23TMRT4RWCEQGE4YQEWG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J23TMRT4RWCEQGE4YQEWG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23SQACYFH25GMBT8X50W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J23SQACYFH25GMBT8X50W",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J23T1ZHEQVAG5JV23AE3W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J23T1ZHEQVAG5JV23AE3W",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "104H5DJ3VP9NAB73AYBN71K1ZV",
+      "reference": "ALT_ALIZE_B_AX_45_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente Fulcro"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/96eafcf5b93b74f73649",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Costruzione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e3a173fecf9cc0152b82",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/523a8dcaef5ae64d507e",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:12+00:00",
+      "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
+      "answer": "Yes, an Exhausted Resupply counts as a Resupply."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/it_IT/a24e26f8e78efbf121355d92a3baa2f3.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/WEB_fb423ec8f43eeba811be1023e64a63fc",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/WEB_aec91771f690760617f9bf9b01fc0071"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_45_R2",
+  "reference": "ALT_ALIZE_B_AX_45_R2",
+  "id": "01J1Q4P4RWK42AHDHYE196SYDN",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/fr_FR/f65d95d72e918e4f7dead93a8ce4ad52.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/de_DE/dadf77450fefb07f89c4a6b31530163e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/it_IT/a24e26f8e78efbf121355d92a3baa2f3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/es_ES/34bcd85575f71a0791f0150e07f6f3ed.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/en_US/647b0b3d884890a762b754a42841e884.jpg"
+  },
+  "name": "Ricondizionatore Ghiacciato",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "#{J} [Rifornisci-Consuma].# (Metti la prima carta del tuo mazzo nella Riserva, poi consumala {T}.)  A mezzogiorno — [Rifornisci-Consuma].  Puoi tenere una carta aggiuntiva nella Riserva durante la notte se è consumata."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-017-F-IT"
+}

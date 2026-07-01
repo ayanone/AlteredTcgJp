@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_26_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZBAMFMH3EEHMF8HYRC9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5SPV7936770CVW6NKWDF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5SPV7936770CVW6NKWDF",
+          "text": "100 pompes, 100 abdos, 100 squats,10 km de course à pied et le désir de faire ses preuves : l'entraînement typique des Bravos. "
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SQMKBQ03J7152PVX4RE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5SQMKBQ03J7152PVX4RE",
+          "text": "Ah, le Kurung... Baluchon sur mon épaule, je me fraye un chemin entre les attroupements de recrues qui s'entraînent. Quelques cadets sont en train de faire le tour de la cour intérieure, trottinant dans leur tunique trempée de sueur. D'autres troupiers sont en train de s'entraîner sur le gazon central, frappant des mannequins de paille ou des cibles de bois. Je salue un instructeur d'un discret signe de tête, alors qu'une cohorte de gamins passe en courant à côté de moi. Je ne peux m'empêcher de sourire. Moi aussi, je faisais partie de cette clique ; une pupille parmi tant d'autres, dont la caserne était devenue mon foyer. Regardant en direction de l'orphelinat, je guette avec nostalgie la silhouette de Nanshe. Mais je ne vois l'Eidolon nulle part, pas même l'un de ses pélicans. J'aurai le temps d'aller la voir une fois installée dans mon dortoir.\n\nAlors que je longe les bâtiments administratifs de la Petite Cour de Justice, je vois au sein d'une arrière-cour un instructeur corriger la posture d'un de ses élèves. Ce dernier semble s'offusquer, rageant contre son mentor du haut de son ego blessé. Je hausse les sourcils en remarquant l'expression de son coach et la colère froide peinte sur son visage. Ha, s'il s'entête, c'est clair qu'il va écoper d'une dérouillée et d'un tour de corvées supplémentaire. Mais qui suis-je pour juger ? Moi aussi, j'ai été hargneuse et récalcitrante. Moi aussi, j'ai été rappelée à l'ordre au moins trois fois par jour. De la pointe de son épée, l'instructeur désigne le cercle de duel. Et c'est parti pour une bonne leçon. Il a raison de ne pas se laisser marcher sur les pieds. Le petit piou-piou a mérité une bonne correction. Encore aujourd'hui, je m'étonne de la patience de mes formateurs. En vérité, j'avais été bien pire, et ils avaient réussi à faire de moi ce que j'étais à présent..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SQBPND9HQTSHVENQFK4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5SQBPND9HQTSHVENQFK4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SP5PWPFDF2Y22SMAVNC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5SP5PWPFDF2Y22SMAVNC",
+          "text": "Basira"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5SPGQM581Q6RDJGR26B8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5SPGQM581Q6RDJGR26B8",
+          "text": "368 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY4ZBAMFMH3EEHMF8HYRC9",
+      "reference": "ALT_CORE_B_BR_26_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/04c70133dd64a93b28e5",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Bénédiction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ed88979ac2476322d646",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/fr_FR/fde033fbb8a9b8648930cded50f9590a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/ALT_CORE_B_BR_26_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/ALT_CORE_B_BR_26_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_26_R2",
+  "reference": "ALT_CORE_B_BR_26_R2",
+  "id": "01HKAFJNQPAZK24YWPG749K5BV",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/de_DE/400c0659c595031f61511e22632c9e07.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/en_US/372979dbfd7d5c5c29f3a21d224f6891.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/fr_FR/fde033fbb8a9b8648930cded50f9590a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/es_ES/0f3053d094a60ebf571c5c45f3ea1bb5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_26/JPG/it_IT/f8b1667a624cbb451b80cafd184abfea.jpg"
+  },
+  "name": "Entraînement Physique",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Un Personnage ciblé gagne 3 boosts[]. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-058-F-FR"
+}

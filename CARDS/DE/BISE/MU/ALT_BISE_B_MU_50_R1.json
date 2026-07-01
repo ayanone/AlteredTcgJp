@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_MU_50_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1Z67EYB9888F98D3PZ7RFNG8D7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A6Z16RCJY2AKT1MFW1W3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A6Z16RCJY2AKT1MFW1W3",
+          "text": "Hummelrüben spielen für die Muna eine wichtige Rolle beim Bestäuben und Kultivieren von Nutzpflanzen an der Oberfläche."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6ZQW78078QBXA89EXQ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A6ZQW78078QBXA89EXQ5",
+          "text": "393 AC - I wake up with a start and the aftertaste of strawberry in my mouth. In my dream, I was standing in the middle of a field of pumpkins that only Cinderella could say were too small. I had a spray bottle in my hand and I was meticulously spraying the plants, turning over the soil before spraying it with a liquid that seemed to have gold flakes mixed into it. I had suddenly heard a noise — or rather a rustling — and I quickly turned towards a garden bed just behind some rows of squash. Everything was huge: flowers, tomatoes, parsnips, lettuces, cauliflowers, green beans… so much so that I wondered whether the vegetables had grown or I had shrunk. There, on a slope, some shoots were rustling and shaking their leaves. The dark earth around them was expanding as if something below was trying to get out. Was it a mouse? Or maybe a mole?\n\nI took off my straw hat and watched the sheaf, which looked like a bouquet of dandelions, shake itself. Then another plant next to it did the same, and then another one. Suddenly, the tubers burst out of the ground all together in a concerted effort. They were beets, or something quite similar. Watching them buzzing around in the air, I saw that the bulbs had little feet and their leaves served as wings. They were in fact insects — half-bee, half-beet — with a large, round, red body and an insect's head. And they flew around in buzzing, busy circles. The merry dance flew off to another field, before digging into the earth to settle down elsewhere, perhaps in a quieter corner. It wasn't uncommon to see stick bugs in the shape of leaves or twigs in the swamps of Kiragata, but I had never seen an insect camouflaged as a vegetable before… I must tell Celestino about this strange dream before the memory of it fades."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6ZDA5CEJF8JD78T625W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A6ZDA5CEJF8JD78T625W",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6YD8XVVA0W2F4GFQ7RA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A6YD8XVVA0W2F4GFQ7RA",
+          "text": "FLORE"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A6YQ03P6Y18MPJA2HTA1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A6YQ03P6Y18MPJA2HTA1",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1Z67EYB9888F98D3PZ7RFNG8D7",
+      "reference": "ALT_BISE_B_MU_50_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e83306b5a7998e4a7de3",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Tier"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e2e0794ee85718865d0b",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Pflanze"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ce6437e7a5e75647ff96",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/de_DE/4ec573808861d9fa7bc594f42c4821fe.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_75ba3676ba7dca5560ccb9511c48dfbe",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_57af396206cdacd09c53aee9b5a998a9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_3dbdf283ffeb3c6dcfebcb99b6adccd9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_50_R1",
+  "reference": "ALT_BISE_B_MU_50_R1",
+  "id": "01JB1YGPBNB8J0VP19NC8TN171",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/de_DE/4ec573808861d9fa7bc594f42c4821fe.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/it_IT/040362818b6abc1b0d4c2715f96a9d79.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/en_US/dbab82bf41e7e2c73211670e0a67ee3f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/es_ES/dee7316b0a1d5d852a0ec59f2718e8ea.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/fr_FR/625a45609b44936f2edad2a78d12ca7c.jpg"
+  },
+  "name": "Hummelrübe",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#3#",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#{R} Ich erhalte [[Verankert]].#",
+    "ECHO_EFFECT": "{I} Zum Mittag — Ich erhalte 1 Verstärkung, bis maximal 2."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-055-R-DE"
+}

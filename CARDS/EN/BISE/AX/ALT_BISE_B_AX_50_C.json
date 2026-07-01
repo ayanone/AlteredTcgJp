@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_50_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/51ECGVXFTM9PNR39K53GKKG1PG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A449CCVDR7WD0VXQ6R6V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A449CCVDR7WD0VXQ6R6V",
+          "text": "The more you dig, the better your chances of finding something unique."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A44J92EZ2TMNPT6K2A68",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A44J92EZ2TMNPT6K2A68",
+          "text": "393 AC - I head to the dig site to investigate a Sap vein. Rossum follows me closely with all the gear I need for my analyses. I sometimes enjoy leaving my workshop to do some exploring around the Screed. Exploring with Paju was my original dream. Visiting far-off places, exploring the country in search of adventure and the unknown… That's why we wanted to be pilots. With a wave of sadness, I realize how much I still miss my friend, and I rev the motor of my chair to reach my destination faster, forcing Rossum to speed up. Once I arrive, I pause for a moment to look all around me. An army of drones performs a meticulous ballet while clearing a pile of rubble and rocks to gain access to a vein of sap.\n\nI admire the artistry of the work, the precision of the machine's movements, the accuracy of the sequence of maneuvers: One arm digs, guided by sensors on its front panel, while the other arm guides the rubble to the open hatch that leads to the inside of its steel abdomen. As it drills, a siren and flashing light warn nearby workers that the machine is in operation. Its belly full, the drone closes the hatch and flies off to the quarry to drop off its load. A new drone takes its place and continues to drill in the exact spot where the previous one stopped. It's mesmerizing. It's hard to stop watching the perfect timing of the machines' rotation. I can't help noticing a similarity with the workers in a hive or anthill, the ones Paju and I watched as children when our heads were full of dreams. I finally snap out of my trance to go and inspect the samples recovered by the Axiom engineers in charge of operating this mine."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A44D33T430J2ARZYSC7G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A44D33T430J2ARZYSC7G",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A43ZQR3C12PMPTE1052T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A43ZQR3C12PMPTE1052T",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A444JHW69NGKHPM1HXCX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A444JHW69NGKHPM1HXCX",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "51ECGVXFTM9PNR39K53GKKG1PG",
+      "reference": "ALT_BISE_B_AX_50_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bb8bd296fdcc910cacf1",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/11112903ed2edcc69b63",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/en_US/7ef8970db989e56de885866ef7a55ce5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_bb4a868c6957a0a77c3a3e83ab97fad6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_4ec57fc128536280040e4be94b6a25d2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_c29b032a1cd3e30bec0b4a353e9a2b7c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_50_C",
+  "reference": "ALT_BISE_B_AX_50_C",
+  "id": "01JB1YGPAZFRZH5Y34FMDV61D5",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/de_DE/116835350c61749bb69bfc0e582a465e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/fr_FR/6b4b09a485cabe647467b38cd958c8d5.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/es_ES/981b097b58d658857e37fb0bccb478b8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/it_IT/6deefb02adbd8e9eae678a20631dff77.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/en_US/7ef8970db989e56de885866ef7a55ce5.jpg"
+  },
+  "name": "Dredger Drone",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{R} You may spend 1 of my boosts to [Resupply]. (Put the top card of your deck in Reserve.)",
+    "ECHO_EFFECT": "{I} At Noon — Choose one:  • I gain 1 boost, up to a max of 3.  • {T} : I gain 2 boosts, up to a max of 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-006-C-EN"
+}

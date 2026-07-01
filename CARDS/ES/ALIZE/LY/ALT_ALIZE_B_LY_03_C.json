@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5GK8HS2ZNA9NTT0X2WN87CQ6B6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J250CW806KCXZCE2NZMBF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J250CW806KCXZCE2NZMBF",
+          "text": "Cuando escuchas la voz del viento, siempre te lleva allí donde el destino te espera."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2519CT7BHXTWMAMVF2AW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2519CT7BHXTWMAMVF2AW",
+          "text": "392 AC - ¡Ja, ja, ja, JA, JA, JA! La risa de Asmodeo resuena en la noche mientras el suelo se resquebraja y empieza a entrar en ebullición a nuestro alrededor. La lava fundida fluye de las grietas e ilumina la penumbra con un resplandor infernal. ¡CHAAAAAAAAN! A lo lejos, más allá de las montañas y los ríos, Espantajo saca su guitarra eléctrica y empieza a tocar un riff tan brutal que me pone los pelos como escarpias. Las notas parecen flotar en el aire como pajarillos que cruzan el tiempo y el espacio. Extraigo fuerzas de mi ignescencia, mi fuego interior. Doy rienda suelta a mi inspiración y dejo que mi espíritu vague sin trabas, haciendo acopio de todas las ideas que surgen. El Arenero emerge cerca de mí, esparciendo polvo de sueños por doquier. Una danzatelas gira sobre nuestras cabezas, suspendida de una nube...\n\nMe permito trascender. En este momento, ya no existo. Solo existe la música y el umbral del sueño. Me dejo abrasar, consumir por las llamas. Y cuando por fin abro la boca, las llamas que arden en mi corazón estallan en cánticos enardecidos. Fuom, fuom. Fuuum, dadadum. Una nota de bajo profunda y pulsante atraviesa la noche. Bum, bum. Las notas se extienden y entonces... ¡Krrang, krrang! Estalla un intenso redoble de tambores, perturbando el mismo tiempo y creando miniterremotos. Espantajo se lanza de repente a un furioso solo. Las notas agudas surcan el cielo como relámpagos, coqueteando con notas ultrasónicas. En un arrebato de maná, empiezo a cantar. Paso de contralto a soprano de coloratura. A nuestro alrededor, bailarines fantasmales empiezan a danzar y a mecerse al ritmo de la música. Estallan colores en los instrumentos. En el aire aparecen imágenes fugaces. ¡Y así es como transformaré el mundo!"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J250W4Z07ZZFFMGEKVG4S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J250W4Z07ZZFFMGEKVG4S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24ZGEBGVP4X4Q0HMNXJD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J24ZGEBGVP4X4Q0HMNXJD",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J24ZYS760KYRKTZJ6N9GP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J24ZYS760KYRKTZJ6N9GP",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero",
+        "description": ""
+      },
+      "id": "5GK8HS2ZNA9NTT0X2WN87CQ6B6",
+      "reference": "ALT_ALIZE_B_LY_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héroe de"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/aae0c493a5e9e20a2ed1",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/es_ES/2bb643325da6ac6c3cced2fb9976d488.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/WEB_1170777d30c90d28a126da895f04655b"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/HERO_THUMB_fe20cff9f5507dad76eb52c872f9e278"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_03_C",
+  "reference": "ALT_ALIZE_B_LY_03_C",
+  "id": "01J1Q6KYCBJMANFXM1VQZVF0F2",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/fr_FR/0036158b10556d14f06cbcd63b5dc0a0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/en_US/96101559b3ae91cb6025ccba53d07f1d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/de_DE/16d3766e07a8b1b063bd661ccce792bf.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/es_ES/2bb643325da6ac6c3cced2fb9976d488.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/it_IT/9f2b65cc2abc0a3560b231f217d1509b.jpg"
+  },
+  "name": "Fen y Espantajo",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "MAIN_EFFECT": "Durante la mañana, roba una sola carta. Luego, coloca la primera carta de tu mazo en tu zona de maná en lugar de una carta de tu mano.  Al mediodía — [Reabastece]. (Coloca la primera carta de tu mazo en la reserva.)  Ignora mis habilidades durante el primer día."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-035-H-ES"
+}

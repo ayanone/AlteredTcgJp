@@ -1,0 +1,175 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_29_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77Y2271FSNPFQCY7E7F5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7X2EPT39FJ3A9FBQ8AKY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7X2EPT39FJ3A9FBQ8AKY",
+          "text": "Incastonata in una parete rocciosa, si affaccia sulla città e ricorda a chiunque la osservi che impegnandosi nulla è inarrivabile."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7X325495M3B343JZ9A31",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7X325495M3B343JZ9A31",
+          "text": "The tram zigzags along the viaduct, lurching on the rails as we finally approach the Foundry. I hurry over to the window and open it quickly, letting the wind rush into the carriage. I stick my head outside to feel the air and spray whip against my face. I know people are staring at me, but I don't care. I don't want to miss any of this. I marvel at the formidable structure of the Axiom Bastion overhead as the tram slips inside the building. I study the solid metal beams that anchor it to the cliff as the tram's brakes screech and squeal. We come to a stop at the platform and the workers around me file out of the vehicle's doors, holding their toolboxes in one hand. Others wait to climb aboard, their faces smeared with soot and dust.\n\nI join the throng, following the tide of mechanics and engineers. The smell of sulfur, steam and steel lingers in the air. As I leave the station with my equipment, I start to hear the clanging of the forges and the clamor of the workshops, while waves of heat from the furnaces hit my face. I see metalworkers pouring molten metal into sizzling molds, while a foreman inspects a batch of mechanical parts. I notice a huge wheel turning within the vault, powered by a river of artificial water, and Kelon cylinders gleam here and there with a blue-tinged glow. Hammers clang all around, pistons roar, and the air is dense with humidity. I smile at it all, knowing that this is where I'll set down my bags and put my tools to good use."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7X2TFYZA2NEZB2JDZ52A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7X2TFYZA2NEZB2JDZ52A",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7X1SQTJPTHSF4NHFEG5M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7X1SQTJPTHSF4NHFEG5M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7X26A7YG3CS5SNKHSFYV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7X26A7YG3CS5SNKHSFYV",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HPMB77Y2271FSNPFQCY7E7F5",
+      "reference": "ALT_COREKS_B_AX_29_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanente"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6f5d2600d1690b5318d2",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Fulcro"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/bbfc28f834d128784965",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/3baeb8fec4b724aca761",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:59+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of The Foundry, Axiom Bastion said \"{T} : Activate the {r} triggers of the next Character you play from your hand this turn.\"\n\nfuture printings will say:\n\"{T} : The next Character you play from your hand this turn activates its {r} abilities (as if it had been played from Reserve).\""
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/a8dc2415806982d51951",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:59+00:00",
+      "question": "How does the Foundry, Axiom Bastion interact with an effect that prevents the activation of abilities, such as the Council?",
+      "answer": "In general, if an effect tells you to do something and another tells you that you cannot, the negative effect wins. The Foundry has no effect on Characters played in front of the Council."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_29/JPG/it_IT/42493264c3615bd26b4b1ee83e1f4add.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_29/ALT_CORE_B_AX_29_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_29/ALT_CORE_B_AX_29_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_29_R2",
+  "reference": "ALT_COREKS_B_AX_29_R2",
+  "id": "01HN5TXR667Y24P1BEXDFFXP14",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_29/JPG/es_ES/c33805968ca2e66e7f85037cec56426a.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_29/JPG/fr_FR/1f1069573bbaa13f76b00d9dd1f476c2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_29/JPG/de_DE/361cc34c6e75a70552c08bf53d963ca5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_29/JPG/en_US/048c53a7ae621e417ec7ffd929e6bb09.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_29/JPG/it_IT/42493264c3615bd26b4b1ee83e1f4add.jpg"
+  },
+  "name": "La Fonderia, Bastione Axiom",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{T}: il prossimo personaggio che giochi dalla tua mano in questo turno attiva le sue abilità {r} (come se fosse stato giocato dalla Riserva)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-028-F-IT"
+}

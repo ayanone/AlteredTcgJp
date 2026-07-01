@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_LY_23_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4ZVBECS69ZHKPR04Q1F0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5VMQANDSEVV94TJXT058",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5VMQANDSEVV94TJXT058",
+          "text": "Up above the world so high, like a diamond in the sky."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VNEQFPH8XZ57BKZY5X7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5VNEQFPH8XZ57BKZY5X7",
+          "text": "Auraq runs a hand through her jade hair, somewhat confused. Three or four kids have taken advantage of her inattentiveness to leave the dormitory and go snooping where they shouldn't. I was there listening to her story, and saw that even Crowbar was moved by the show she put on with Sierra. The puppets had come to life and told one of my favorite fables: the one about the Paramours of Seki. But even after several years, Auraq still doesn't seem to grasp that she's dealing with a bunch of little devils. It's been, what, five years now since she came aboard the Ouroboros? She should know by now that these rascals will do anything to delay going to bed by a few minutes. I tug Qannik along by the ear, while Aru motions for Phong and Luka to get back in their beds. As for Crowbar, he lights up his eyes to scare Oleneo, who is up to no good as usual.\n\nI sit down on an empty bed while my Chimaera stands guard at the door. It's not the right time to give them a lecture. I signal to Aruzhan and create a small lyre in her hands. If she can put Eidolons to sleep, she won't have any trouble with a few little monkeys. The 10-year-old singer – the minimum age to stay with the adults – starts to pluck the strings, while the children curl up under their blankets. Then she starts to sing a nursery rhyme about a little star that keeps shining in the darkness, a little twinkling light that guides travelers in the blackest of nights... As I listen, her words resonate with me. We were once those travelers, living through what was probably the darkest hour in our history. Finding the Exiled Tribe was a faint beacon on the horizon, and one that we headed towards without knowing where it would lead us."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VN3VZQKQFDMES49VK2S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5VN3VZQKQFDMES49VK2S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VKZS3YHWKRHY659MBGZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5VKZS3YHWKRHY659MBGZ",
+          "text": "Fen"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5VMBPF0V2SSF3MR8MGRA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5VMBPF0V2SSF3MR8MGRA",
+          "text": "386 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HNGY4ZVBECS69ZHKPR04Q1F0",
+      "reference": "ALT_CORE_B_LY_23_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/171581283b30b009c956",
+      "reference": "SONG",
+      "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
+      "name": "Song"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8e7e3ad719ae3b24dd8e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/576505dfbd09c4fa4731",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-10-02T10:38:08+00:00",
+      "question": "Can I play a Spell if there's no valid target?",
+      "answer": "Yes. Note that your Characters are valid targets for this Spell."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/en_US/f31c4e0bc0e3900ceaa5b9af3457a085.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/ALT_CORE_B_LY_23_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/ALT_CORE_B_LY_23_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_23_R1",
+  "reference": "ALT_CORE_B_LY_23_R1",
+  "id": "01HKAFJNTMC64Q278E56AAVKH3",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/es_ES/8726ca3e190bd289bef4c98f5e5ec195.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/en_US/f31c4e0bc0e3900ceaa5b9af3457a085.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/fr_FR/112645cbf6b2930903546e176d53fb9c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/de_DE/1a3bd9986f1e82e5f948e35da994cc1f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_23/JPG/it_IT/0d61f52383150aff69d8f6b54bddce43.jpg"
+  },
+  "name": "Twinkle Twinkle",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "#[[Fleeting]].# (Send me to Discard instead of Reserve after my effect resolves.)  #All Characters in target Expedition# gain [[Asleep]]. (This only affects one player's Characters. During Dusk, ignore their statistics. During Rest, they don't go to Reserve and they lose Asleep.)",
+    "ECHO_EFFECT": "{D} : The next card you play this turn costs {1} less."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-084-R-EN"
+}

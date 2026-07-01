@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_31_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/741K1KEG6P91NRKP1S9EDXPEZY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J283938ZJAESJ3RGQQN1S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J283938ZJAESJ3RGQQN1S",
+          "text": "Protéger le peuple d'Asgartha est le plus grand honneur qui soit."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2854F5TN2CY3K5BJEZN6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J2854F5TN2CY3K5BJEZN6",
+          "text": "Je jette un coup d'œil en arrière alors que nous cheminons, et vois mon adjudante me suivre diligemment, sa lance double scintillant dans la lumière rosie du crépuscule. Pendant un bref instant, j'hésite à lancer une boutade, avant de me remémorer que ce n'est plus Sunisa qui m'accompagne, mais une toute nouvelle recrue. Sun est à des lieues d'ici, préparant comme je le lui ai ordonné l'ascension du flanc est du Cais Adarra. Le tempérament de Nina est à l'opposé de celui de ma précédente aide de camp. Là où Sunisa était impertinente et n'avait pas sa langue dans la poche, Nina est bien plus discrète, presque déférente, et c'est un changement radical pour moi. Même si je n'ai rien contre elle, je dois avouer que Sun et son effronterie me manquent. Mais peut-être n'est-ce qu'une question de temps avant qu'elle se sente suffisamment à l'aise pour exprimer sa personnalité...\n\nAutour de nous, les troncs se sont couverts de champignons aux chapeaux rouge et bleu, tandis que des spores dérivent dans l'air comme des flocons de neige. Je dois dire que c'est agréable d'avoir quitté les bosquets resserrés de conifères pour évoluer dans des sous-bois bien plus aérés et lumineux. Un froissement louche résonne au loin, et je lève mon poing. Nina s'arrête dans l'instant, lance brandie. En usant de notre langage de bataille, je lui intime de se positionner sur mon flanc et de rester en retrait, tandis que j'avance lentement en direction de la source du bruit. Si jamais nous tombons sur des Belisenki, les choses vont dégénérer bien vite. Je regarde la cime des arbres, les talus recouverts de neige... Je ne tarde pas à identifier la cause du friselis, car elle ne se cache nullement. C'est un petit bonhomme de neige, pas plus haut que mon genou, portant sur son dos tout un attirail de camping. Une Chimère ? Je me mets en tête de la suivre..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J284QZ4GT4G5SKZ8T6H9R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J284QZ4GT4G5SKZ8T6H9R",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2823W6C5AB0GEPBE78TZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J2823W6C5AB0GEPBE78TZ",
+          "text": "SIGISMAR"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J282Q7DQ8TSA31XX0YWJ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J282Q7DQ8TSA31XX0YWJ7",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token",
+        "description": ""
+      },
+      "id": "741K1KEG6P91NRKP1S9EDXPEZY",
+      "reference": "ALT_ALIZE_B_OR_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Jeton Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6f7d707ffe3d3b6888dc",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f64040d33ba3a38e9efc",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/fr_FR/358ad65308918087e2785daa7b1e79b7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/WEB_5888054282f61268cab7c52ab5b1b876"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_31_C",
+  "reference": "ALT_ALIZE_B_OR_31_C",
+  "id": "01J1Q4P4SQPNA2YQYR2C1KF8ZG",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/es_ES/9222496b20a1bd58240a0ac54d31f41d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/it_IT/1178b7ba57e655bd7e2aed4ce3282876.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/de_DE/ad8fa5aad0e64ce589d7a25904773ec9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/fr_FR/358ad65308918087e2785daa7b1e79b7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_31/JPG/en_US/b97ef478768352d2c7b5a9780a0a45e7.jpg"
+  },
+  "name": "Recrue Ordis",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "(Si je quitte la zone d'Expédition, retirez-moi du jeu.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-105-T-FR"
+}

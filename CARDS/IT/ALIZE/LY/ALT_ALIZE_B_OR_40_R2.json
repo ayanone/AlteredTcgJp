@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_OR_40_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1NYM0Z188492Z9WAR01SPS8S88",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J29283215X24MQSHGWK3S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J29283215X24MQSHGWK3S",
+          "text": "Se ti addormenti nel freddo, potresti non risvegliarti."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2948JYTZ381CNY2YN2JZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2948JYTZ381CNY2YN2JZ",
+          "text": "Faccio scorrere la mano lungo la parete di ghiaccio e vi scruto attraverso. Sebbene siano distorte dallo spesso strato di ghiaccio, riesco comunque a distinguere le sagome di un warlock Yzmir e di un altro esploratore, intrappolati dall'altra parte lungo la riva di un grande lago sotterraneo. Batto sul muro di ghiaccio e vedo il warlock dirigersi verso di me. Mack osserva la scena attraverso i miei occhi e mi avverte che l'uomo non ha più molto mana; tutt'al più può tentare di proteggersi dal freddo. Con le mani saggio il ghiaccio che ci divide. È come se fosse apparso all'istante, non lasciando a questi poveri avventurieri il tempo di fuggire. Lo stesso fenomeno sta consumando rapidamente tutto il loro calore, ricoprendo di ghiaccio e brina i loro vestiti a una velocità allarmante.\n\nBisogna fare presto. Entrambi mostrano segni di ipotermia acuta. Mentre il warlock riesce ancora a rimanere in piedi, lo stesso non si può dire per il suo compagno, che giace a terra con i segni vitali in rapido indebolimento. Dobbiamo tirarli subito fuori da lì. Faccio un segnale al narratore Lyra, che srotola una corda con cui tirare fuori i prigionieri una volta rotte le sbarre traslucide della loro prigione di ghiaccio. Traccio un glifo approssimativo sulla parete. Contiene l'idea primitiva ed esplicita di un'esplosione, e spero che sia sufficiente per sfondare il muro. Vedo già nuovi motivi di ghiaccio che si formano sulla superficie, segno che il processo di congelamento è ancora in corso e che la massa di ghiaccio non farà altro che aumentare con il tempo. Il warlock rabbrividisce, ma i suoi occhi sono pieni di speranza. Infondo il glifo con il mana mentre il narratore fa roteare il suo rampino..."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J292VJ3CWAQYQVX5TED00",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J292VJ3CWAQYQVX5TED00",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2913RVC4RWM9TYYZX1VT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2913RVC4RWM9TYYZX1VT",
+          "text": "WARU"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J291N969VTTM157428DD2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J291N969VTTM157428DD2",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1NYM0Z188492Z9WAR01SPS8S88",
+      "reference": "ALT_ALIZE_B_OR_40_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6d9e4688e11eed16dd71",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/adb6bcf41a114f144b55",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/it_IT/5b5bde69ac0c6484de1b0cc46a37dbb5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/WEB_5da96e97aec9961cde03c79e3fe053d9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/WEB_8698b5ee26be342663239a1fbebfb064"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_40_R2",
+  "reference": "ALT_ALIZE_B_OR_40_R2",
+  "id": "01J1Q4P4SN8RYANNFV99ET5V41",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/fr_FR/40bd7f3eb4d234d209d7f9c3e3224559.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/es_ES/13fac7506b30011fdd76a0366a533cc8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/de_DE/4d784f106cbc2f86b5754ba7e8884952.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/it_IT/5b5bde69ac0c6484de1b0cc46a37dbb5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/en_US/35d6689c21e612a712d03231cfab5ceb.jpg"
+  },
+  "name": "Ipotermia",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "MAIN_EFFECT": "Ogni giocatore sceglie un personaggio che controlla. Ottiene [[Dormiente]]. (Scegli prima tu. Durante il crepuscolo, ignora le statistiche dei personaggi con Dormiente. Durante il riposo, non vanno nella Riserva e perdono Dormiente.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-081-F-IT"
+}

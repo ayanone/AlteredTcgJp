@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_MU_27_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB7985BS87D10ZZFFBEAVG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME852KY0CEXKY79C214T8V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME852KY0CEXKY79C214T8V",
+          "text": "Quando il sole brilla, noi brilliamo con lui."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME853QBVQT46NT4V3PGM8E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME853QBVQT46NT4V3PGM8E",
+          "text": " \"The Muna's relationship with nature is unparalleled. Few others can claim to be as closely linked to the things and beings around them. Of this we have collected many clues, if not outright evidence. The matter is not so clear at first glance, however. When you study Muna philosophy, it can be distinguished as primarily inward-facing. But do not see this as egocentrism — quite the contrary. The Muna practice introspection, owing to which they possess a self-knowledge far exceeding most ordinary individuals. I think this internal wisdom is what ultimately guides a Muna's relationship with the world and with others. Being lucid about themself, they can focus their full awareness on what they want to contribute to what is outside of themself. They know their place in the world. Certain unknowns remain, of course. What the Muna call the Skein is one of them. If what they say is true, Mana — which we thought was a result of the Confluence — could have existed before the cataclysm. But it was invisible then, firmly rooted in living beings and inanimate objects. According to their claims, this Mana is arranged within a vast and interwoven fabric. As we are not Muna, we cannot verify this information. But if it were found to be true, this would open new perspectives on what we might be able to accomplish... perhaps even find a solution to stabilize reality!\"\n\nTestimony from Issur, 157 AC\nAt the panel to decide the Muna's status as a Faction"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME853567SJGXRFNW4QW4RY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME853567SJGXRFNW4QW4RY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME851EBNKJAYR3G5VVSVVB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME851EBNKJAYR3G5VVSVVB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8521DA9X482S9W9B2400",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8521DA9X482S9W9B2400",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB7985BS87D10ZZFFBEAVG",
+      "reference": "ALT_COREKS_B_MU_27_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d02c362b8fdaa787fd4b",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Vantaggio"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/789e5683ea45b87f921c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_27/JPG/it_IT/c8158e08782b9c8c559c9eac069bb34b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/ALT_CORE_B_MU_27_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/ALT_CORE_B_MU_27_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_27_R1",
+  "reference": "ALT_COREKS_B_MU_27_R1",
+  "id": "01HN5TXRSPEZN0XP29A8ZDR8DP",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_27/JPG/fr_FR/1e0ddd62b4470b32b2ea19750593a3cf.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_27/JPG/de_DE/b337ab5a7fdb1f15c0fc3d5ad470299c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_27/JPG/it_IT/c8158e08782b9c8c559c9eac069bb34b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_27/JPG/es_ES/1d45916dfe4e50de9f557b237307f786.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_27/JPG/en_US/56f494668035f54d7e2af57cc1236fed.jpg"
+  },
+  "name": "Coltivare",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Fino a due personaggi bersaglio ottengono #2 rinforzi[]# ciascuno. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-116-R-IT"
+}

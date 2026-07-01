@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_10_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77VXVRQKKZW86SVS2D2S",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7W6PVAMKY7G02TSBPG70",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7W6PVAMKY7G02TSBPG70",
+          "text": "«Este aerolito no parece verse afectado por la gravedad. Si explotamos sus propiedades, podríamos crear barcos y ciudades flotantes y volar junto a las nubes...»."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W73YM6NEBH7M78Z8R2C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME7W73YM6NEBH7M78Z8R2C",
+          "text": "Jian Lam places a hand on the Aerolith core, tapping its surface while he talks to us about its properties. I listen carefully to the Eidolon. Like Kelon, Aerolith is a material that emerged with the Confluence. The Tumult Nomads had already mentioned it during their travels: floating ruins, rocks suspended in the air as if by magic… It wasn't just a simple freak of nature, but a new element that could be exploited. That's what Jian Lam had done over 300 years ago. He had designed levitating barges and platforms, and lots of other unconventional and visionary inventions… In a way, it's even thanks to him that the capital looks the way it does today, with lakeside areas that float above the water without support columns.\n\nLam presses a button, and the Aerolith sphere rises a few inches. He then activates his own dorsal propellor and rises as well. It's not always easy to follow his explanations. Paju describes him as someone who's absent-mindedly passionate and has the temperament of a dreamer. But when he talks about his inventions, his eyes sparkle and his enthusiasm is infectious. Even though he sometimes loses track of time and his lessons never finish when they're supposed to… For us, the Aerolith is what allows our airships to rise up into the sky and fly with the birds. Located in the middle of the ship, just behind the cockpit, this core is a bit like our flotation device. By sending pulses to it, we can adjust our altitude, while the Kelon motors propel us forwards and backwards. I put on my jet pack when the Eidolon tells us to. I love this part of our practical lessons."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W6WJZ5JP5J9P0R1WNB6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7W6WJZ5JP5J9P0R1WNB6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W68AV8KT0F63CB8CZ36",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME7W68AV8KT0F63CB8CZ36",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W6G0Y0CSZMHES112NVS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7W6G0Y0CSZMHES112NVS",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77VXVRQKKZW86SVS2D2S",
+      "reference": "ALT_COREKS_B_AX_10_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c477d2c91c850b5ff952",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingeniero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ea09ea4ee48a0b6279a5",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b7b4f297a52653bcf707",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:42+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of (Rare) Jian, Assembly Overseer had the Support Ability \"{D} : Activate the {j} triggers of target Permanent you control. (Discard me from Reserve to do this.)\"  Future printings will read \"{D} : Activate the {j} abilities of target Permanent you control. (Discard me from Reserve to do this.)\" "
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/es_ES/c95fb7fe4e3cec17efc6cc452160b94d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_10/ALT_CORE_B_AX_10_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_10/ALT_CORE_B_AX_10_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_10/ALT_CORE_B_AX_10_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_10_R1",
+  "reference": "ALT_COREKS_B_AX_10_R1",
+  "id": "01HN5TXR3AMG2PDQ8PATA28ZB7",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/it_IT/1656ccb9404126ad8507c73a49a451e2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/es_ES/c95fb7fe4e3cec17efc6cc452160b94d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/de_DE/81d47d60fa5abb57e0de704690eb5e95.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/en_US/82b925a8cfb58b37d8dbfd4b4126e543.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/fr_FR/553012bec41576e3817b77588aa239e1.jpg"
+  },
+  "name": "Jian, supervisor de ensamblaje",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "0",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "3",
+    "ECHO_EFFECT": "#{D}: Activa las habilidades {j} de un permanente objetivo que controles.# (Descártame de la reserva para hacer esto.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-009-R-ES"
+}

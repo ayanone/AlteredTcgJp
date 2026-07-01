@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_34_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1FFFFG6HHZ83FT4NAYG2XXA9X1",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25976BBJRP2D5W4BM3T5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25976BBJRP2D5W4BM3T5",
+          "text": "« Bien sûr que je triche. La magie, c'est de la triche. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J259VCYCM11DX4CM12ZZA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01J21J259VCYCM11DX4CM12ZZA",
+          "text": "Nyala me lance un regard noir. Non, vraiment, le rabibochage n'est pas pour aujourd'hui. Emmitouflée dans sa couverture de survie, trempée comme soupe et grelottante, la belle Nyala n'a pas fière allure au coin du feu de camp. Est-ce ma faute s'il fallait d'abord mettre à l'abri les enfants plutôt que de lui éviter le bouillon ? Après tout, n'est-elle pas l'experte des disparitions et des apparitions ? Je tente de réprimer le sourire qui naît aux coins de mes lèvres. Allons, allons. Il faut savoir être à la hauteur de sa réputation. Je vais donc être fidèle à moi-même et laisser ma superbe indifférence faire le reste. Je tourne les talons d'un geste souple et calculé, croisant les jambes avec lenteur pour attirer les regards. Oui, c'est du dédain. Voyons, on ne mélange pas les serpillières comme Nyala et les étoffes brodées comme moi.\n\nTout en m'éloignant de cette triste scène, je laisse mes pensées vagabonder sur les performances de la malheureuse avant qu'elle ne sombre dans les glaces. Il faut dire que Nyala a bien mené son show tout à l'heure. Je me remémore ses passes à la magie assurée. On sentait toute la sensualité de cette spécialiste des tours de passe-passe. Ses mains décrivaient des vrilles et des arabesques, au rythme de ses boucles sur la glace. Un ballet magnifique où je voyais ondoyer le Mana au bout de ses doigts, générant des bouches vers je-ne-sais-où. Elle semblait toucher du doigt les capacités de relocalisation que les Yzmir exhibaient parfois, fendant la réalité pour mitiger les distances. Certes, sa maîtrise est spectaculaire, mais cette pauvre Nyala s'en sert pour faire des numéros de prestidigitation digne d'une foire de campagne. Elle a juste remplacé le lapin du chapeau par une martengale ou un moissonneur du fuseau... Un éternuement me sort soudain de ma rêverie, et je souris. À tes souhaits, Nyala !"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J259HGC29VB69K7AVPP41",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J259HGC29VB69K7AVPP41",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J258GRZEDWR7DMQDBMTR9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01J21J258GRZEDWR7DMQDBMTR9",
+          "text": "AURAQ"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J258W6P5WW73QPGAQAC7H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J258W6P5WW73QPGAQAC7H",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "1FFFFG6HHZ83FT4NAYG2XXA9X1",
+      "reference": "ALT_ALIZE_B_LY_34_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/dc5f52d8abbd1440a408",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mage"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Épreuve du froid"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f88e3de89522425a3000",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/fr_FR/fb66820a7a2ffe02f608ffdc93e30f18.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_15e18972de3fed635c40f9d8ccbd3e41",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_5cb65cb01922f3544f60445e91bc376f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_f6e417ebecbd0cae5f44791d4a9a3402"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_34_R2",
+  "reference": "ALT_ALIZE_B_LY_34_R2",
+  "id": "01J1Q4P4S72ESJDYMMDMPKH5NX",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/de_DE/e90c2dac3d203117f9965bd091cfe7d2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/it_IT/0c42dfbeb6564d7d92905ec114af2ccf.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/fr_FR/fb66820a7a2ffe02f608ffdc93e30f18.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/es_ES/e46c89e375c0311009c60ce6c3149c1f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/en_US/db2c70de66f488b6eae4622c8a7d0af8.jpg"
+  },
+  "name": "Nyala, Habile Illusionniste",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{J} Échangez une carte ciblée de votre Réserve contre une carte de votre main."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-041-F-FR"
+}

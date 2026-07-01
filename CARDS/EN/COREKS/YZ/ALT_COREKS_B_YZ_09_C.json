@@ -1,0 +1,165 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_YZ_09_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79C8X35G7KHAWJ0G9K65",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME8AD6166MDNASMKS2F8Z1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME8AD6166MDNASMKS2F8Z1",
+          "text": "\"One day, I will show you the wonders of Avalon and the true might of the Fae realms.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8AEJ6S5W3HKHNK95FEJ8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME8AEJ6S5W3HKHNK95FEJ8",
+          "text": "I open my mouth and let Senka burst out of me in thick mauve plumes. My nighthawk spreads its wings while its alabaster mask solidifies to cover its head. I feel the Mana flowing through me like pure spring water, and I immediately channel it into the Effigy I have placed at my feet. The Megalith is shaking in front of me. The ground trembles, and the Tumult oozes from the floating crystal. I need to send it back to its age-long slumber in a hurry. And for that, I call on one of its guardians. The statuette of Nimue shatters, and I feel her presence burst forth from the microscopic breach I've opened to the Empyrean. The Lady of the Lake speaks into the world, holding in her hand Excalibur, the legendary sword of the sleeping king. The Eidolon turns to me, then to the meteor of Aether.\n\nHer feet brush against the ground and generate idle ripples in the stone as if it were the surface of a calm lake. Her hair floats around her in a downy halo, as though lulled by an imperceptible breeze. The walls of the cavern are now like obsidian mirrors, warping as the sluggish waves hit them. In her hand, Excalibur gently vibrates, and she whispers a few words to calm it down. The sword seems to perceive the threat lurking in the half-light of this untouched sanctuary. The rock sparkles as though adorned with stars and constellations, and comes to life as if being crossed by galaxies and spinning celestial bodies. Then, without saying a word, Nimue plunges the sword into the mass of Aether and leaves it there, buried almost up to the hilt. The tremors suddenly stop, and the spectral glimmers fade away. But I know that this is only a brief respite. Two more guardians will be needed to seal the Tumult Singularity."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8ADXMN1RD1QCRF5GC73J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME8ADXMN1RD1QCRF5GC73J",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8ABVHBZ2AJVY5CYS1K0E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME8ABVHBZ2AJVY5CYS1K0E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME8ACHM8HKE1TH9ZQAXZGT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME8ACHM8HKE1TH9ZQAXZGT",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79C8X35G7KHAWJ0G9K65",
+      "reference": "ALT_COREKS_B_YZ_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/84e1fad5ea5c741c9b4d",
+      "reference": "FAIRY",
+      "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+      "name": "Fairy"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/82218c6020eb8fc117c5",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Spirit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f21547c8f88a9756aafb",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_09/JPG/en_US/7ae0b6dd980891f71460a7b57a3ccabf.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/ALT_CORE_B_YZ_09_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/ALT_CORE_B_YZ_09_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/ALT_CORE_B_YZ_09_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_09_C",
+  "reference": "ALT_COREKS_B_YZ_09_C",
+  "id": "01HN5TXRJRR163QCMRNEQ9N6R3",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_09/JPG/de_DE/56b9df2c3dd628466f40e3d98b09dbaf.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_09/JPG/it_IT/7cc2bf61d78a0f87da6419237aa788d4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_09/JPG/es_ES/d9136ee7bf9548dbdf98aa4a8f77240b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_09/JPG/en_US/7ae0b6dd980891f71460a7b57a3ccabf.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_09/JPG/fr_FR/3b3ffd956084fdb6cc67ca547aa6801a.jpg"
+  },
+  "name": "Lady of the Lake",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-158-C-EN"
+}

@@ -1,0 +1,185 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_OR_21_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB79ADGFBQF5KBSV6T8NKN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME87X1JCTD460J6ENAJHA8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME87X1JCTD460J6ENAJHA8",
+          "text": "« L'arc de l'univers moral est long, mais il tend vers la justice. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87Y9HZFP4EQF3VVR7B38",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME87Y9HZFP4EQF3VVR7B38",
+          "text": "Commme c'est ammusant. Un bandit de grand chemmin qui se fait désormmais passer pour un banquier. Hihi, on aura tout vu. Je mme cure les griffes tandis que Waru et l'Eidolon discutent dans l'alcôve isolée du troquet. Et commme d'hab, c'est qui qui mmonte la garde ? C'est bibi. Autour de mmoi, le bar est bondé. On trinque, on parle un peu trop fort, on fait la bringue, on pousse la chansonnette. En vérité, y'a peu de personnes qui semblent s'intéresser à nous. Deux inconnus encapuchonnés et une hermmine dans l'arrière-salle d'une taverne de la breivikensveg... Circulez, y'a rien à voir. Alors je mme contente de siroter ma mmousse et de faire le pied de grue. Ha, autrefois, on disait que Robin des Bois était un grand voleur, dérobant aux riches pour donner aux pauvres. C'était intéressant qu'il soit devenu l'un des argentiers de l'Isura. Avec cette position, c'était sûr qu'il pouvait s'assurer de la bonne répartition des richesses...\n\nÀ travers les oreilles de Waru, j'écoute distraitement ce dont ils causent. Hmmm. Ça négo sévère, là-dedans. Ça parle du fait que l'Effort de Redécouverte va de facto repousser les plans de développemment des villes secondaires du Protectorat — qui en ont pourtant bien besoin —, du fait que l'entreprise est un risque inutile, un investissemment à perte... J'entends Waru titiller Robin au sujet de son passé de brigand, du fait qu'il a pu s'élever au sein de la population... tous les argumments censés provoquer son ire. Hihi, ça semble mmarcher. Tout à coup, je remmarque la paire d'yeux qui les observe depuis le comptoir. Probablemment un espion à la solde d'Avkan. Bien, la seconde phase du plan est en train de porter ses fruits. Hihi. J'avertis Waru de la présence du mmalotru. Pour l'instant, tout semble aller commme sur des roulettes."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87XMQ7JVBJ2Q77857QQV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME87XMQ7JVBJ2Q77857QQV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87VTEA3YK19R3NGJYKFP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME87VTEA3YK19R3NGJYKFP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME87WEGGBR6GN5YD87FDRY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME87WEGGBR6GN5YD87FDRY",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB79ADGFBQF5KBSV6T8NKN",
+      "reference": "ALT_COREKS_B_OR_21_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/66800c288dce136bb843",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Bureaucrate"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5bd83bb7574f3707f670",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/a3402a9059d78eb98c73",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-11-15T10:37:53+00:00",
+      "question": "What happens if a player plays a card for free, such as with The Kadigir, Yzmir Bastion, while their opponent controls Robin Hood?",
+      "answer": "A free card remains free even against Robin Hood!  Playing a card for free means bypassing its cost entirely, which is different from reducing it to zero."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/2ec459184cca572831a3",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-11-15T10:37:53+00:00",
+      "question": "Was this card updated ?",
+      "answer": "Yes. The first printing of Robin Hood said  \"Characters your opponents play cost {1} more.\"  Future printings will say  \"Characters your opponents play can't cost less than {2}. (If they would cost less, they cost {2} instead.)\"\n\nThis change impacts all versions of this effect, including the ones found on Unique cards. Any card that uses the previous wording should be read as if it used the new one. Any card that uses the previous wording should be read as if it used the new one."
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/6c399e429970b6fe804d",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-11-15T10:37:53+00:00",
+      "question": "If I control Robin Hood, can my opponent reduce the cost of a card using an effect such as Martengale?",
+      "answer": "They can, but if this would bring the card cost under 2, the cost would remain 2."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/fr_FR/eb0285435fef6b617172a519509535e4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/WEB_7d4d384c6830dc788e872d452e5246a0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/WEB_d690d3ad0568ec9b25973cc3e785fc99",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/WEB_aa4e3a7d5171176678d6606f70982495"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_21_R2",
+  "reference": "ALT_COREKS_B_OR_21_R2",
+  "id": "01HN5TXRGVZJQ82GYF53HRNFQS",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/de_DE/089c71b55be70ae46b732b038ed7923c.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/fr_FR/eb0285435fef6b617172a519509535e4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/it_IT/b2ec1aac3a17e40a767de0d99372f7f1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/es_ES/98884cbc0b1a8f701b0f46fbb0f54ff0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/en_US/ab21bf518ce29d2adc0a2add232cdc3e.jpg"
+  },
+  "name": "Robin des Bois",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "#3#",
+    "MOUNTAIN_POWER": "#0#",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "Les Personnages joués par vos adversaires ne peuvent pas coûter moins de {2}. (S'ils coûtent moins, ils coûtent {2} à la place.)",
+    "ECHO_EFFECT": "#{D} : La prochaine carte que vous jouez ce tour coûte {1} de moins.# (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-139-F-FR"
+}

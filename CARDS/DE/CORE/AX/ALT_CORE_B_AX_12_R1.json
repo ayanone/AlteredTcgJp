@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_12_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4YVKNJNZD98B287303MB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5QGT9MEEC94ZKAMGVSCS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5QGT9MEEC94ZKAMGVSCS",
+          "text": "Gemeinsam können sie mehr bauen als nur ein Haus aus Stein."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QH7V6V54M4YPX9STXAS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5QH7V6V54M4YPX9STXAS",
+          "text": "One of them snores loudly at his desk, while another taps a stick on his hoof as if counting the seconds. As for the third, he trots between the ranks of Apprentices, casting furtive glances at the students’ work. There is a studious silence in the classroom as students scribble, draw lines with their rulers, and measure with compasses. The Journeyman who was supposed to be supervising us summoned the Three Little Pig Eidolons to cover for him, and the pigs – well, one of them at least – are taking their jobs seriously. I get back to work on the design of my machine. There are only two hours left to finish, and I won't have much time to waste.\n\nAs I start in again on my drawing, I see one of the Eidolons – the most eager of the three – leaning over my assembly diagram. From the corner of my eye, I see him nod approvingly. Is that a sign I'm on the right track? The Three Little Pigs are known within the Axiom as great engineers and project managers. If this one's encouraging me, then… I shake my head, trying to curb my enthusiasm and refocus on my objective. For those who do well in this competition, the reward may be one of a handful of available spots in the Fulcrum, the Guild responsible for developing the technical equipment used by the Expeditionary Corps. The heavy silence in the room is a testimony to the high stakes, as is the intensity in everyone's expressions. I just hope I made the right choice by applying so soon after starting my apprenticeship."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QH1ZNKAEB8R6YCM81ME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5QH1ZNKAEB8R6YCM81ME",
+          "text": "In this English tale, three pigs leave the family home to gain their independence. Out of laziness, the first one builds a house of straw, while the second builds one out of sticks. But the Big Bad Wolf huffs, puffs and blows strongly on the two buildings, and they both collapse with a crash. After greedily devouring the two brothers, he attacks the third pig. But this pig has built a house of brick that resists the wolf's attacks. While trying to enter the house through the chimney, the wolf slips and falls, landing in a pot of boiling water where he's unceremoniously boiled to death."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QGE8DQVT96N104RVFKT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5QGE8DQVT96N104RVFKT",
+          "text": "Sierra"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5QGMZC5NB6EC1VD00VX9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5QGMZC5NB6EC1VD00VX9",
+          "text": "381 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4YVKNJNZD98B287303MB",
+      "reference": "ALT_CORE_B_AX_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7bd9add7a0b92ed17161",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingenieur"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/ecf328152ae4ef021c38",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/JPG/de_DE/0550cf65985acbb377d3d51106dc5435.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/ALT_CORE_B_AX_12_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/ALT_CORE_B_AX_12_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/ALT_CORE_B_AX_12_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_12_R1",
+  "reference": "ALT_CORE_B_AX_12_R1",
+  "id": "01HKAFJNJFX7JX4VA9ZRPBAPGY",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/JPG/es_ES/21e38dbf395d6817cb7610ef09bcab54.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/JPG/it_IT/78ee7cf2e1e13d12fe2dab7fb8f0a762.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/JPG/fr_FR/7d47d2fd1cdd74fadf66d8817511c632.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/JPG/en_US/ba4f5db97b78e2fbbf905230032e9c0e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_12/JPG/de_DE/0550cf65985acbb377d3d51106dc5435.jpg"
+  },
+  "name": "Drei kleine Schweinchen",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{J} Falls du mindestens zwei Wahrzeichen kontrollierst, erhalte ich #2 Verstärkungen[]#. (Karten in der Reserve werden nicht kontrolliert. Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-014-R-DE"
+}

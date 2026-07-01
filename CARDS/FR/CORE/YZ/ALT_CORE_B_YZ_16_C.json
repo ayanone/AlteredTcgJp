@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_16_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50DJNFJ61MW32B8M88R6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH655GC9KM2HE6XA9DH4R8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH655GC9KM2HE6XA9DH4R8",
+          "text": "« J'ai l'impression que nous ne sommes plus au Kansas. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH656ZYJ8RM8NY2AEG3WZE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH656ZYJ8RM8NY2AEG3WZE",
+          "text": "Ozma me prend par le bras et pose sa tête contre mon épaule, se pressant contre moi. Délicatement, je dépose un baiser sur son front avant de tourner les yeux par-delà la rambarde du balcon où nous nous tenons. Au-delà de la Cité d'Émeraude, au-delà même du Pays Winkie et du Désert Mortel, le Dominion du Roi des Nomes est en proie au Tumulte, qui ne cesse de rogner les terres orientales depuis des lustres. Combien de temps avant qu'Oz tout entier ne soit emporté ? J'enlace ma bien-aimée, mon amie, ma princesse. Nous avons fait ce que nous avons pu pour endiguer sa progression, pour sauvegarder ce qui pouvait l'être de ce royaume de l'imaginaire. Mais nous avons besoin de l'humanité pour mettre un terme à la calamité, tout comme elle a besoin de nous pour subsister. Ozma lève la tête et me regarde avec bienveillance, sentant probablement mon trouble. Je lui souris pour dissiper ses inquiétudes.\n\nTout ce que nous pouvons faire, c'est porter assistance à celles et ceux qui nous ont créés. Je ferme les yeux, me laissant emmener vers toutes les versions de moi auxquelles l'humanité a fait appel. Je converse avec un magicien sur les marches du Magisterium, j'aide la Chimère de foudre à traverser un marais luxuriant... Ailleurs, je console un enfant qui a perdu son jouet, et plus loin, je siège aux côtés d'un conseiller politique de l'Astérion, l'aidant à peaufiner son décret sur l'usage de l'Altération... Il y a des centaines, des milliers d'interprétations de moi qui évoluent en parallèle dans le monde des mortels, et chacune d'entre elles me nourrit et me renforce. Je suis en train de rire, d'essuyer quelques larmes, de discourir, de contempler l'océan. Et je sais qu'Ozma est en train de faire de même, tout en me serrant dans ses bras."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH656CSER0N6V9N2JW4KPD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH656CSER0N6V9N2JW4KPD",
+          "text": "Dorothy Gale est le personnage principal de nombreux romans situés dans le Pays d'Oz. Créée par L. Frank Baum dans Le Magicien d'Oz, Dorothy est une jeune fille du Kansas qui est emportée par une tornade et catapultée avec son chien Toto dans le royaume magique d'Oz. S'alliant avec le bûcheron en fer blanc, l'épouvantail et le lion peureux, ils voyagent ensemble le long de la route de brique jaune jusqu'à la Cité d'Émeraude, où le fameux magicien pourra peut-être exaucer leurs vœux respectifs."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH6543JFM5SC66WJ01SES2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH6543JFM5SC66WJ01SES2",
+          "text": " Dorothy"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH654VV1TZA12EZ0HZZEHP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH654VV1TZA12EZ0HZZEHP",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50DJNFJ61MW32B8M88R6",
+      "reference": "ALT_CORE_B_YZ_16_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d3d9bcf9d142f27731ea",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Citoyen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1588e464b81f68fba25e",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/21632996b35eb76fca6a",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-01-15T10:37:38+00:00",
+      "question": "What happens if I use Dorothy to target a Tough Character?",
+      "answer": "You either pay extra Mana, target another Character, or don't use her power."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/fr_FR/82c7d9b37d925f8ecb46bff6fee4c12c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_16_C",
+  "reference": "ALT_CORE_B_YZ_16_C",
+  "id": "01HKAFJP2YYPFGFZ7PDE8B4CTN",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/de_DE/6ec97ef1e32603710e4ba67f889a84a7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/en_US/81c02e94940c9e0a99c7aa5b15f1feae.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/fr_FR/82c7d9b37d925f8ecb46bff6fee4c12c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/it_IT/42c5ac227434f5551d0f20ca41787fa9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/es_ES/13639a95e824feb0de12406c0b37c94b.jpg"
+  },
+  "name": "Dorothy Gale",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{H} Vous pouvez envoyer un Personnage ciblé en Réserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-166-C-FR"
+}

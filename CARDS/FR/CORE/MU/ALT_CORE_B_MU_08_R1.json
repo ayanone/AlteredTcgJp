@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_08_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY5062BX0J7P6C487NSV5K",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5WT8BG5CCYXBNRK8CPAG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5WT8BG5CCYXBNRK8CPAG",
+          "text": "« Atchoum ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WV2819D6BV0A0FFDRCP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH5WV2819D6BV0A0FFDRCP",
+          "text": "Je dépose un linge humide sur le front de la petite fille, pose le dos de ma main sur sa joue. La fièvre est suffisamment tombée ; nous allons pouvoir tenter de la soigner. Comme beaucoup d'autres, elle a été affectée par la petite Singularité de Tumulte qui a émergé dans le village. Fort heureusement, nul n'a été atteint au point d'en perdre la vie. Je fais un signe de tête à son père avant de canaliser mon Mana. J'appelle par le prisme de mon esprit la petite créature qui va pouvoir nous aider ici. Le mush apparaît et tombe à la renverse, avant de se relever péniblement, la goutte au nez. Il me dévisage avant de se tourner vers la jeune malade, les yeux étrécis et la mine contractée, comme s'il luttait pour ne pas éternuer. Je sais qu'il va m'aider à purifier son Mana, rendu instable par le Tumulte.\n\nLe champignon éternueur avance diligemment vers l'enfant, l'expression concentrée et sérieuse. Il escalade le lit et les couvertures, reniflant à plusieurs reprises. Puis en me regardant une dernière fois, il étend son réseau de mycélium depuis ses petits petons, le propageant sur la peau de la fillette. Ses filaments captent le Mana tumultueux, l'absorbent en lampées continues. La jeune fille s'agite dans son sommeil, et son père resserre sa main sur la sienne. Le traitement va énormément la fatiguer, mais je sens déjà que le mush fait son office, filtrant son Mana à travers son organisme. Sans prévenir, je commence à chatouiller le nez de la créature, qui éternue sans se faire prier. Il relâche par la même occasion d'innombrables gouttelettes de Mana sain dans l'air, que je me mets à récupérer malgré sa mine courroucée. Nourrir ma patiente avec cette énergie devrait vite lui redonner des couleurs."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WTNMES3SFC3WBWKYRWH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5WTNMES3SFC3WBWKYRWH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WSE17HSBHJ9K56WTHA3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH5WSE17HSBHJ9K56WTHA3",
+          "text": "Teija"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5WSV91GTA8XE66WFMPJ4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5WSV91GTA8XE66WFMPJ4",
+          "text": "DATE: 382 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY5062BX0J7P6C487NSV5K",
+      "reference": "ALT_CORE_B_MU_08_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4991f552c9a87ac2ad03",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plante"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9443a870587e8dc53e49",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_08/JPG/fr_FR/35b79f901c92ee6b7e089a9cd78637d0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_08/ALT_CORE_B_MU_08_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_08/ALT_CORE_B_MU_08_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_08/ALT_CORE_B_MU_08_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_08_R1",
+  "reference": "ALT_CORE_B_MU_08_R1",
+  "id": "01HKAFJP6MWRE6CZTH46K7CXBQ",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_08/JPG/de_DE/fbd80abe17b63f94c6edfaacf727684e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_08/JPG/es_ES/ffe6539dc17fcbdda39e0c6f6395aa44.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_08/JPG/it_IT/c898b5c78c0e4229781dcad22b2b9b6e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_08/JPG/en_US/38030ac2b2e4832bc920ab22d2ddd188.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_08/JPG/fr_FR/35b79f901c92ee6b7e089a9cd78637d0.jpg"
+  },
+  "name": "Champignon Éternueur",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{J} Je gagne [[Ancré]]. (Au Repos, je ne vais pas en Réserve et je perds Ancré.)  #À Midi — Je gagne 1 boost[].# (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-099-R-FR"
+}

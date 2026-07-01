@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_BR_28_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB78103MV9WQ82VYG4F9XT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7YSZYNKCKAHBY1NKE0DM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7YSZYNKCKAHBY1NKE0DM",
+          "text": "La terrible bête se recroquevilla en tremblant devant la force des Bravos."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YTPPVAXP2WF68R8M5SQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7YTPPVAXP2WF68R8M5SQ",
+          "text": "Silje se redresse, bombant le torse et me toisant de haut. Elle me dépasse d'au moins une tête, et je ne suis pas le plus chétif du lot, bien au contraire. Mais à ce moment, j'ai l'impression d'être un petit lapin dans le collimateur d'un lion pas commode, une boule de poils grelottante qui a malencontreusement dérangé un dragon durant sa sieste. Ses yeux s'étrécissent en me fixant avec véhémence. Peut-être que j'ai un peu présumé de notre amitié... Je fais un pas en arrière, levant les mains en signe d'apaisement. On a déjà fait le planton en maintes occasions, elle et moi. Mais là, c'est comme si ça ne voulait rien dire, comme si toutes ces heures à poireauter ensemble n'avaient été que du vent. Certes, on avait toujours eu un fonctionnement \"bon garde, mauvais garde\" assez clair, et c'était amusant de ce point de vue-là.\n\nMais en me retrouvant de l'autre côté de la barrière, je ressens désormais tout le poids de sa pression, de sa faculté de dissuasion. Et ça me donne des frissons dans le dos. Je me tourne vers la Garde Phénixienne qui tient encore sa lettre dans sa main, l'air paniqué. Je la lui ôte délicatement des doigts malgré ses protestations et lui assure qu'elle sera délivrée à temps, lui envoyant tous les signes que je peux pour la faire rebrousser chemin. Son insistance n'aurait pour effet que de braquer Silje davantage, de toute manière. Un peu chiffonnée, la Combattante Phénixienne fait demi-tour, et je regarde Silje avec toute la sollicitude et la déférence dont je suis capable, brandissant la lettre comme un laissez-passer. Lentement, son expression s'attendrit — même si attendrir est un bien grand mot — et sèchement, elle me fait un signe de la tête pour me dire de passer. Je joins mes mains devant moi en guise de remerciement, et déguerpis aussi vite que je le peux."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YTA9QJS3T0RPZ077ZYZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7YTA9QJS3T0RPZ077ZYZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YS9PDPN7C1CQE9AJYDN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7YS9PDPN7C1CQE9AJYDN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7YSM19QCNRRA61162G28",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7YSM19QCNRRA61162G28",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "01HPMB78103MV9WQ82VYG4F9XT",
+      "reference": "ALT_COREKS_B_BR_28_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/22ace71ec01ba1940ec2",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a82253fde8365dd75765",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/023bb5af01c212fa7fe2",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:40+00:00",
+      "question": "Can I target a token with Intimidation?",
+      "answer": "Yes! You could consider token Characters as having a cost of 0. However, note that they will be removed from the game upon leaving the Expedition zone, so their controller won't keep them in hand."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_28/JPG/fr_FR/a9f35d5372e7a01922111fa149f99c00.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_28/ALT_CORE_B_BR_28_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_28/ALT_CORE_B_BR_28_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_28_R2",
+  "reference": "ALT_COREKS_B_BR_28_R2",
+  "id": "01HN5TXR9PPEBD02HRFDTEGZS8",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_28/JPG/es_ES/6c50a9b399f324ef73e9ba3d5128a4b6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_28/JPG/de_DE/d36a51e0186aa7fce42cd03297dbb2b6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_28/JPG/it_IT/10a0990185bddb2db73046ab50c7e5d4.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_28/JPG/fr_FR/a9f35d5372e7a01922111fa149f99c00.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_28/JPG/en_US/1c1e5de169387e1b9e829ede7d61382c.jpg"
+  },
+  "name": "Intimidation",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Renvoyez un Personnage ou Permanent ciblé avec un Coût de Main #{5} ou moins# dans la main de son propriétaire."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-056-F-FR"
+}

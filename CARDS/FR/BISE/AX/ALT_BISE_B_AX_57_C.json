@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_AX_57_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2AW22WEHK48JXBG64EV4XPBH5K",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4AV4MXVK07TGJ46ZRT2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4AV4MXVK07TGJ46ZRT2",
+          "text": "Il n'est plus défectueux, mais il y a encore des progrès à faire."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4B6D7W59EFPFNQVJJYV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JBT1A4B6D7W59EFPFNQVJJYV",
+          "text": "393 AC - Façonner des Automates qui ont des champs d'application restreints est plutôt aisé. Mes Smiters sont plutôt explicites, tout comme Fetch, d'ailleurs. Ils ont une fonction principale, et ils la remplissent bien. Enfin, plutôt bien. Le problème, c'est quand on tente de leur affecter toute une panoplie de rôles et d'utilités. Plus ils sont censés être polyvalents, plus leur cryptex se doit d'être complexe, et c'est là que le bât blesse. Puissance de calcul, efficience, tout doit être revu légèrement à la baisse. C'est d'ailleurs ce qui était arrivé à la précédente itération de ce prototype. Parce qu'il était obligé de computer un millier de données à un instant T, il n'avait pas su bien traiter les afflux de données. Résultat, temps de calculs en berne, latence, avec pour résultat un temps de réaction proche de zéro... Boum, patatras. Je pose une main sur son abdomen renforcé. Si seulement je pouvais lui donner la grâce des modèles Ballerina...\n\nMais ces dernières agissaient selon une chorégraphie préenregistrée... Là, il était question de lui donner de l'adaptabilité, presque une proto-conscience, en somme. Sa tête se penche dans ma direction, alors que je suis en lévitation à côté de lui, sur la plate-forme que j'ai empruntée aux gestionnaires de l'Axiom. La Sève qui l'alimente pulse dans son noyau central tout en se diffusant dans sa carlingue. J'ai bien entendu remplacé tous les éléments de bric et de broc dont je l'avais affublé au sein du Storhvit — passé Lyra oblige — pour les remplacer par des pièces rutilantes... Mais je savais que son design intérieur nécessitait encore pas mal de travail, même si je lui avais rajouté pas mal de fonctionnalités et d'améliorations notables, dont un stabilisateur pour optimiser son maintien. Il était désormais capable de courir, ce qui n'était pas un mince exploit. Je lui souris pour me montrer rassurante. On va trouver ensemble quelque chose pour te rendre parfait, ne t'inquiète pas."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4B0HF8WDQ10XR6RG87F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A4B0HF8WDQ10XR6RG87F",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4AGS265RTDNMR5MX276",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JBT1A4AGS265RTDNMR5MX276",
+          "text": "SIERRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4APVW06MNSXABWYRSDJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4APVW06MNSXABWYRSDJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "2AW22WEHK48JXBG64EV4XPBH5K",
+      "reference": "ALT_BISE_B_AX_57_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ad43f5c94dfac98d9066",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Murmures du Labyrinthe"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/529d19d9392d96f12273",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/fr_FR/fb9e0649bb467fa8d2e089237960300a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_1209dc81b7155e172fa92612eae069d4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_d65ed2e0673a2c4b0407b226786e92a7",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_3c3eb50ebb228ff6a5cdb00a644fc8f0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_57_C",
+  "reference": "ALT_BISE_B_AX_57_C",
+  "id": "01JB1YGPB5ZTJXSKJSWCJVQ9ZE",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/de_DE/72189faa23bf96cccf586acdf2817034.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/es_ES/665e087e2a0a285ff57e2c8da65b0797.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/it_IT/0de166cb13f85bb5d13b1f2199373774.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/en_US/02a730b0cef0ad2a848d398d5b695679.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/fr_FR/fb9e0649bb467fa8d2e089237960300a.jpg"
+  },
+  "name": "Prototype Amélioré",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{R} Vous pouvez dépenser 1 de mes boosts pour redresser deux Orbes de Mana.",
+    "ECHO_EFFECT": "{I} À Midi — Choisissez l'un :  • Je gagne 1 boost, jusqu'à un max de 3.  • {T} : Je gagne 2 boosts, jusqu'à un max de 3."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-011-C-FR"
+}

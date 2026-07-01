@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_YZ_54_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/22E21Q951Y8FEA7B3SYXKTR4FD",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1ABNND5D2F2WGRSKHN5V6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1ABNND5D2F2WGRSKHN5V6",
+          "text": "\"Io e te sappiamo bene che la spada ha sempre avuto un ruolo marginale.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABQR4PSPHVVRSEMXYTMP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1ABQR4PSPHVVRSEMXYTMP",
+          "text": "393 AC - He stops not far from me, blocking my way, with his scepter raised and pulsing with a menacing glow. Although there's a semblance of a smile on his lips, there's no such happiness in his eyes, which appear sad and cynical, as if thousands of years are reflected on their surface. And a glimmer of madness dances within them… He's wearing the type of outfit my father would wear for a business lunch, and his hat is one of the kind I like. I suddenly realize that the Eidolon is drawing from my imagination to manifest himself without asking for my permission. My Irises flare, and I examine the intruder, who is shamelessly hijacking my imagination to materialize in the world, as only the most powerful Oneiroi can. Self-assured and unfazed, he lets me study him. And I gradually understand why as the central ideas of his identity parade before my wide-open eyes.\n\n\"Merlin\", is all I say to Taru, as my Chimaera starts to waggle his tentacles. A cold sweat forms on my back as the gnawing realization takes root in my mind. This Oneiros has never allowed us to summon his Eidolon. And now here he is in front of me, incarnated by siphoning some of my memories. The stubble comes from my cousin, the cloak is the one I wore to my graduation ceremony, the scepter is one of those displayed in the Museum of Alteration… He has rummaged through my memories like you would with a box of keepsakes, shaping himself without my knowledge. His imperious, uncompromising voice resonates in my head. It won't tolerate any interruption, and it won't be stifled. \"Destiny is in motion,\" he says. \"The king will awaken, and you will play your part.\" I look at him defiantly and focus my mind to try and turn it into a metal vice. Merlin simply raises his eyebrows as a smile twitches at the corners of his lips."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABQA85ZMMPET17FHJ7TA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1ABQA85ZMMPET17FHJ7TA",
+          "text": "Merlin is a central figure in Arthurian legends. He is a wild hermit, tortured prophet, magician and conspirator. Born from the union of a demon and a mortal, he is an ambiguous character but still chooses the side of good. Through his spells and scheming, he brings about King Arthur's birth and guides him to the throne. It's said that he allowed himself to be locked up by the Lady of the Lake, with whom he fell madly in love, even though his foresight had already shown him what the outcome of their romance would be."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABMT0AFESYDQXAATGTXB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1ABMT0AFESYDQXAATGTXB",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1ABN8FR6TDN4TD2YT03T4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1ABN8FR6TDN4TD2YT03T4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "22E21Q951Y8FEA7B3SYXKTR4FD",
+      "reference": "ALT_BISE_B_YZ_54_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/790116c7c38bedf5a071",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mago"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/90063d4fe3e1453cf8c8",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/it_IT/7715e1d572ae2e181838c29a12e4e264.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/WEB_0d2bb8a16eb5b20dbb038be45c9837a1",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/WEB_b7649b85f1089a4b54bce6aa7d279526",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/WEB_0005e0aedbfe05a69d2b3d11f818034f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_54_R2",
+  "reference": "ALT_BISE_B_YZ_54_R2",
+  "id": "01JB1YGPC2Q3NTVGMMSJ2VZ6ZJ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/it_IT/7715e1d572ae2e181838c29a12e4e264.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/de_DE/e32863f6a3eb50c4539e0e35d6056f1e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/fr_FR/a5dbdbd16488b66284d4136f1ab97a8a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/en_US/f7f6b53da79ab561fd9d56df6d202326.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/es_ES/d3d1d9c078fdc134079957a0279686ae.jpg"
+  },
+  "name": "Merlino",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "[Esploratore] {4}. (Puoi giocarmi dalla mano per {4} con \"{h} Mandami nella Riserva\".)  {H} Puoi #scartare# un personaggio #o un permanente# bersaglio."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-095-F-IT"
+}

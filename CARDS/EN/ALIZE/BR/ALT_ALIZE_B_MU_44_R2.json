@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_MU_44_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4B3EQP2KM18EWVH6C8X34GY5MC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J27EZV685EB9JPBJADCA5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J27EZV685EB9JPBJADCA5",
+          "text": "A beautiful shelter from the raging elements outside."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27FS9Y7ZFM7YHJFT9GF2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J27FS9Y7ZFM7YHJFT9GF2",
+          "text": "I place the back of my hand on Rin's forehead and sigh with relief to find there's no sign of fever. All around us, the petals of the floral tent are being buffeted by swirling winds. I was lucky to have been close enough at the time to see her fall, even through the blizzard. And fortunately, the layer of fresh powder had been thick enough to break her fall. Even so, it had taken me nearly an hour to reach her, long enough for her body temperature to noticeably drop. Spike suddenly tugs at my sleeve. Yes, little sprout, I know. I take the kettle from the fire and pour a bit of hot water into a metal cup. Then I sprinkle in a bit of black compost to spice up the mixture that he needs to endure the cold. A strong gust rattles the petal walls and whistles angrily in our ears. Spike wraps himself up in his blanket, looking worried and perhaps a bit dejected.\n\nWe were fortunate to get this shelter to grow despite the violent weather. Our crown of leaves is well-positioned in line with the wind to deflect a lot of its force. I turn to the pistils, which are starting to glow. That means night must be falling outside. Let's hope the storm will have lost a bit of its intensity by morning… There's a sudden scratching at the entrance to the tent, and I gently touch the floral membrane to make it open slightly. Covered in snow and looking thoroughly frozen, the mush I had sent out to seek word from the other explorers enters. Snuggling in among the pistils to soak in their warmth, the mushroom regains its composure and communicates through its mycelium to share some emotions that greatly reassure me. Other floral tents were able to grow, providing shelter for all the other explorers. I breathe a sigh of relief. Now I just have to wait for the little one to wake up."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27FCW4JB5BY2G2Y1SC7T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J27FCW4JB5BY2G2Y1SC7T",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27E03AB89ZFQJZMGF060",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J27E03AB89ZFQJZMGF060",
+          "text": "ARJUN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J27EECR34KM8X2JYNMD43",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J27EECR34KM8X2JYNMD43",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "4B3EQP2KM18EWVH6C8X34GY5MC",
+      "reference": "ALT_ALIZE_B_MU_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Expedition Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6178e0d68b9940b1de7f",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Gear"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/64d5c3fafa80b2acdc68",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/en_US/74c534e22800eeb1de7e12179188ae23.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/WEB_3d6c78a8e34fa5d87a1a2d351a7fde20",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/WEB_1fc7ad33fd9c8afe4ee29534b2b00b70"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_44_R2",
+  "reference": "ALT_ALIZE_B_MU_44_R2",
+  "id": "01J1Q4P4SGG6TEVFRSKNDKQK75",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/de_DE/97bfe3b8cd0d69beb7593d951e43024e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/it_IT/89fafb99c6ca9b6d3088f0d120fad1fa.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/es_ES/9066133210d91c77cc80b5e7b30392ac.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/fr_FR/0a7f2b152d1bd985336ee6e78323dc81.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/en_US/74c534e22800eeb1de7e12179188ae23.jpg"
+  },
+  "name": "Floral Tent",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "{J} [Resupply].  If a #[[Boosted]] Character# would leave my Expedition during the Afternoon, #it loses all its boosts# instead.",
+    "ECHO_EFFECT": "#{D} : Target Character with Hand Cost {3} or less gains [[Anchored]].# (Discard me from Reserve to do this.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-067-F-EN"
+}

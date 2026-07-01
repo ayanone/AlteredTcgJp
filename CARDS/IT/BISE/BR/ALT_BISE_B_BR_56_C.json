@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_BISE_B_BR_56_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/139R9GDNB08MGS0AEF769H7NCQ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JBT1A4ZYK3QZT09VB6RPXD5G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JBT1A4ZYK3QZT09VB6RPXD5G",
+          "text": "Quando dentro di te si accende la scintilla ardente, puoi finalmente unirti alla Guardia fenicia."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A50BHV4D0FYWWJRGHV7J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JBT1A50BHV4D0FYWWJRGHV7J",
+          "text": "393 AC - I try to hold back my protégé, but she's much too quick. I grit my teeth and curse her recklessness as she rushes to help out Sidqi. But at the same time, I can't help feeling a touch of pride to see her spirit and audacity. If you think I'll let you take all the accolades, think again, my girl. Before I join in, I check that the prospectors and scholars we were supposed to be protecting are out of danger. But when I turn to Aoife, my eyes widen as I take in the show she's putting on. Her blades burn with fire — just like Sitina's — and slash through the shadows, banishing them with their intense light. But that's not all. Her hair, which is already a flaming red, catches fire, and her eyes burn with an incandescent glow as she performs the steps of her deadly dance.\n\nI yell to Sidqi to get out of there, and he doesn't need to be told twice given his wounds. Because he has also seen what is happening. Aoife is manifesting the gift of the Phoenix. Her whole body is receiving its blessing. She is not just becoming fire, but an inferno. I can't stop a smile as I watch her transcendence. Once the shadows have been chased away, once everyone is safe on the surface, I'll need to find the representatives of the Phoenixian Guard to tell them they now have a new member. She will bend the knee as she is inducted and then will rise as Rune's heir… I raise a hand to stop Kai from helping her, because I know she doesn't need it. I won't deprive her of her moment of glory, her triumph. All we need to do is sheathe our weapons and enjoy her dance of death."
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A504Y3T2CG455W6JF1NN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JBT1A504Y3T2CG455W6JF1NN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4YY7CFG14K8P3Q5TQ4Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JBT1A4YY7CFG14K8P3Q5TQ4Z",
+          "text": "BASIRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01JBT1A4ZQME87MN08YQ7B4Z56",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JBT1A4ZQME87MN08YQ7B4Z56",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "139R9GDNB08MGS0AEF769H7NCQ",
+      "reference": "ALT_BISE_B_BR_56_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6cbe0e805d87b6c8fd4e",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Avventuriero"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f0ff90b59ad1b21e33ea",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Elementale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/BISE",
+    "@type": "CardSet",
+    "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+    "reference": "BISE",
+    "name": "Whispers from the Maze"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/85d55404c3e845ef5b54",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/it_IT/fe14cd440d4a29ef2698e7f26b617188.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/WEB_1dcd3412738a1f3331740291e9d37328",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/WEB_fb133a2f714cabd71c98056e5a488ea4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/WEB_d7c82fb230458eb492bff04b43815cae"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_56_C",
+  "reference": "ALT_BISE_B_BR_56_C",
+  "id": "01JB1YGPBBZWWPFJGWZ68G4WXS",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/it_IT/fe14cd440d4a29ef2698e7f26b617188.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/de_DE/677a11b68f52ff6e7bcf3e159c357cfe.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/es_ES/067737f36e7a7cb1844cbae007646db2.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/fr_FR/91499533986517e42adb2e430ceb8d15.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/en_US/0f199285207ab3b718c787ffa4e6c18e.jpg"
+  },
+  "name": "Aoife, Avatar del Fuoco",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "[Esploratore] {2}. (Puoi giocarmi dalla mano per {2} con \"{h} Mandami nella Riserva\".)  {J} Puoi far perdere [[Fugace]] a un altro personaggio bersaglio e fargli ottenere 1 rinforzo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "WFM-027-C-IT"
+}

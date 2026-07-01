@@ -1,0 +1,176 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_YZ_18_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50DSB7WF2GMYDV6SV0H9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH65E4YZD9X1QTRDKPFBX0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH65E4YZD9X1QTRDKPFBX0",
+          "text": "Cuando un ser tan terrorífico aparece en tu camino, dar un paso atrás es la reacción natural."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65FP3JRAAWFFXYGYC464",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH65FP3JRAAWFFXYGYC464",
+          "text": "Though still invisible, the abominations leave furrows in the long grass. The Black Wave sometimes regurgitates unspeakable creatures, and the Yzmir's job is to stop them from attacking the people. I say it back to myself over and over again to give me courage... Will two of us be enough? Baba Yaga mounts her mortar and flies off towards the monsters, her laugh piercing the air like a shrieking bird of prey. There are so many aberrations: I see at least seven, not counting any others that may be hidden. We need reinforcements. I start to utter incantations, channeling as much Mana as I can without destabilizing the area. Floating above the melee, Baba rains down fiery lashes over the clearing as thick black smoke rises up into the sky.\n\nAnswering my call, Sakarabru appears before me, shaking the ground as he lands. I cling to the railing of the forest hut as my legs buckle from the impact, and I watch the stone colossus unfold to his full height. The mineral blue of his skin glows faintly in the moonlight, then turns to pale purple as his ghostly arms appear. His eyes open half-way and start to lock on to the intruders. As he straightens up, the ground pitches, shakes and wobbles. Slowly, his mouth opens and he begins to roar. And with nothing but his voice, he bends the tall grass and reveals the chimeric monsters attacking us. Even they realize they are no match for him. They start to retreat, run off, and head for the hills. Excellent. Now that they're scattered, they'll be easier to track down and neutralize. Come on, Taru, it's our turn!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65EW5EWTGHPX7EQ2V6RK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH65EW5EWTGHPX7EQ2V6RK",
+          "text": "Sakarabru is the protector god of the Anyi people, who are originally from West Africa. It's said that he has two sides, like the moon: a dark side and a benevolent side. On one hand, he attacks all those who leave their hut after dark; and on the other, he protects the villagers from evil beings that prowl in the dark, and even from many illnesses if he receives the right offerings."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65CT0P2RRHPB2F8R1QMR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH65CT0P2RRHPB2F8R1QMR",
+          "text": "Akesha"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH65DG48PFKF9VY2W2F6J5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH65DG48PFKF9VY2W2F6J5",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY50DSB7WF2GMYDV6SV0H9",
+      "reference": "ALT_CORE_B_YZ_18_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a7bacd500182b9a94208",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deidad"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/61754bbec1a23585e752",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/8071f54729f91e4d2047",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-09-06T10:37:53+00:00",
+      "question": "Did the wording of this card change?",
+      "answer": "The first printing of Sakarabru said \"Your opponent's Expedition facing mine moves backwards one region.\"  Future printings will say \"Your opponent's Expedition facing me moves backwards one region.\""
+    },
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/b9cceeb7ba67d3ff0946",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-08-28T10:37:53+00:00",
+      "question": "What happens if Sakarabru is played during the tiebreaker?",
+      "answer": "In the Arena, Expeditions can't move forward nor backwards since there's only one Region. Any such effect becomes irrelevant."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/JPG/es_ES/c0f09411bfdd8137e41be5b8eba1b126.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/ALT_CORE_B_YZ_18_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/ALT_CORE_B_YZ_18_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/ALT_CORE_B_YZ_18_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_18_C",
+  "reference": "ALT_CORE_B_YZ_18_C",
+  "id": "01HKAFJP3QZ2ZTXSJGTEN0ADPR",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/JPG/es_ES/c0f09411bfdd8137e41be5b8eba1b126.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/JPG/it_IT/9938f700759d58e6510f65e97136ca92.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/JPG/de_DE/7b8c999fcab3e8fd64836824746eb1f1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/JPG/en_US/ef1b1accbd3e9d7274351ee3d5d19b08.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/JPG/fr_FR/2638d99899eb8d222530bd6b6aec9d81.jpg"
+  },
+  "name": "Sakarabru",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "4",
+    "MOUNTAIN_POWER": "4",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MAIN_EFFECT": "{H} La expedición de tu oponente enfrentada a mí retrocede una región."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-167-C-ES"
+}

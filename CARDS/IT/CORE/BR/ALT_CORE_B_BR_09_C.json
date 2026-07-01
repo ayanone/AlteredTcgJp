@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_BR_09_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY4Z9K4A7FAK0MHBDPVPZM",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5RQSKG7K6ZXYJF1NH6MM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5RQSKG7K6ZXYJF1NH6MM",
+          "text": "\"D'accordo, giovane, mostrami cosa hai imparato.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RRAJSDJZ419WRFJRCD0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5RRAJSDJZ419WRFJRCD0",
+          "text": "He draws back his bow and adjusts his posture. His arms are still shaking slightly as I point out his target. I'll need to put a little more into his physical training to correct all that. I smile and adjust his bearing a bit, along with the position of his shoulders. Although he's skinny and still timidly stepping out of childhood, Kutun has determination in spades, and that's all that really matters in the end. With determination, nothing is impossible. With determination, even a runt like him can become a proud warrior. I ask him to completely clear his lungs, then hold his breath. I tell him to empty his mind and concentrate on the target. Only on the target. Good. I feel his hands get a bit steadier. Now. The arrow pierces the air and slips through the trunks.\n\nWith a thump, it sticks in the straw dummy, still slightly left of the bullseye. I hear Kutun sigh. I sense him fuming internally. I ruffle his hair as he mutters a curse, and congratulate him even though he's mad at himself for still missing the center of the target by an inch. There's no doubt he'll make a fine addition to the Aegis contingents, once he's old enough to join the Expeditionary Corps. As I watch him head to the target to retrieve his arrows, I notice the sun is already quite high in the sky. It'll be time to change workshops soon. We've been here since dawn, and we still have plenty of fields to cover. Kutun returns with his quiver refilled. He sees me preparing our meal, but he's content to pout. Very well, insolent boy. One last thrashing before the snack."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RR2FSP80M3X0JGYE290",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5RR2FSP80M3X0JGYE290",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RQ84S1CB7W66D3EQ4DH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5RQ84S1CB7W66D3EQ4DH",
+          "text": "Venka"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5RQH7QZXTGTSGCKQAD29",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5RQH7QZXTGTSGCKQAD29",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY4Z9K4A7FAK0MHBDPVPZM",
+      "reference": "ALT_CORE_B_BR_09_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9a1d15630a40c254284d",
+      "reference": "APPRENTICE",
+      "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
+      "name": "Apprendista"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4f2504804560e69bbb38",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/JPG/it_IT/f7cf664d7aa47e9cae53df203f325419.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_09_C",
+  "reference": "ALT_CORE_B_BR_09_C",
+  "id": "01HKAFJNNEF7XGX9N6P81HE1VD",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/JPG/es_ES/b5130a00712bde9828a62c453ac0219e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/JPG/en_US/1474025f3fba7faabcd82b449d25ca11.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/JPG/fr_FR/5e1dc48699aa95582a91d6ecfd8ae916.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/JPG/it_IT/f7cf664d7aa47e9cae53df203f325419.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/JPG/de_DE/4ca2944989401ee817d9ecd79e142ef9.jpg"
+  },
+  "name": "Allievo del Rifugio",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "4",
+    "FOREST_POWER": "3",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{R} Ottengo 2 rinforzi[]. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-042-C-IT"
+}

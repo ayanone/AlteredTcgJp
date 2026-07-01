@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_42_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7WVVKJ5NZ39CSBVV5EP2JW6WRZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J25WZRECDX3WP0M45QAFH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J25WZRECDX3WP0M45QAFH",
+          "text": "„Das Eis brechen“ war eigentlich nicht wörtlich gemeint."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25XRT85CEDZW5J28ZMR5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J25XRT85CEDZW5J28ZMR5",
+          "text": "Hmm, dieses Geräusch erfüllt mich nicht gerade mit Zuversicht. Es ist eine Art durchdringendes Knacken und es erinnert mich spontan an das Geräusch eines reißenden Seils, das durch die Luft peitscht, bevor das große Zelt einstürzt. Nur dass ich nicht in einem Zirkus bin, sondern an einem eisigen Bach stehe. Bach, Eis, Zirkus … diese Wörter reimen sich zwar nicht, haben aber einen poetischen Klang. Wenn Fen hier wäre, könnte sie bestimmt die Musikalität des Geräusches analysieren. Aber für mich ist es ein böses Omen. Ich schaue sofort auf das Eis unter meinen Füßen. Obwohl Nyala hier vorbeigelaufen ist, glaube ich nicht, dass das Eis wegen ihrer Schlittschuhe bricht. Nein, da sind tiefe Kerben, die von etwas Größerem und Schwererem verursacht wurden.\n\nVielleicht Skier oder Kufen? Nein, viel größer. Ein Schlitten? Mir fällt auf, dass die Spuren zwar chaotisch miteinander verflochten sind, aber elegant wirken. Aber die Linien, die von ihnen ausstrahlen … Hmmm, an ihnen ist nichts Elegantes oder Harmonisches. Sie wirken wütend und sind voller schwarzer Galle. Ich mache mich zu Nyala auf, um sie zu warnen. Sie macht immer noch Axel- und Rittbergersprünge auf dem See, ohne die Risse zu bemerken. Plötzlich höre ich Kinder am Ufer schreien und lachen. Ich drehe mich zu ihnen um, mit einem Knoten im Magen. Sie scheinen sich der Gefahr um sie herum nicht bewusst zu sein. Für einen Moment kann ich mich nicht zwischen der Schlittschuhläuferin und den Kindern entscheiden, doch dann renne ich auf die kleinen Racker zu. Ich werde sie mit Ideen von Wärme bewerfen, um sie vor der Kälte zu schützen. Als ich zurückschaue, sehe ich, wie das Eis unter Nyala nachgibt. Ich wollte zwar das Eis zwischen uns brechen, damit wir unser Verhältnis wieder in Ordnung bringen könnten … Aber so hatte ich das natürlich nicht gemeint."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25XD0KHAMW4GZN3RSVW5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J25XD0KHAMW4GZN3RSVW5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25W3VJ9EV90DP1KAT6PA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J25W3VJ9EV90DP1KAT6PA",
+          "text": "AURAQ"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J25WF5BM4YHP0V00WCS3F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J25WF5BM4YHP0V00WCS3F",
+          "text": "393 A. C."
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "7WVVKJ5NZ39CSBVV5EP2JW6WRZ",
+      "reference": "ALT_ALIZE_B_LY_42_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c70184e4cefa33d828ed",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Unterbrechung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a73c159a669c22f40074",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/de_DE/cbeb052260a11b680d4a25f707749274.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_2aa59a81bdb10404830a5cd76f2190cf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_dd7d9e26c76106bb83b2db4b31ff23d2"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_42_R1",
+  "reference": "ALT_ALIZE_B_LY_42_R1",
+  "id": "01J1Q4P4SA983VFNNBWVRZT9T2",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/de_DE/cbeb052260a11b680d4a25f707749274.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/en_US/f6cee6c82ba2be642db653c04368f80a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/es_ES/284c3e76f843d0282e5c4438b933abbe.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/it_IT/ac8b77220e8bc38d8826a55d9aef6102.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/fr_FR/8426fa72ca16b996da470b159570d138.jpg"
+  },
+  "name": "Eisbrecher",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "#[Abkühlung].# (Falls ich in die Reserve gehe, nachdem mein Effekt abgeklungen ist, erschöpfe mich {T}.)  Ich koste {2} weniger, falls es unter den Charakteren, die du kontrollierst, mindestens drei Basisstatistiken von 0 gibt.  Schicke einen Charakter deiner Wahl in die Reserve, dann erschöpfe ihn ({T})."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-048-R-DE"
+}

@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_AX_35_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7YX7GEDV6A9PSRFB68WG4Y0DBR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J236Q7FB3W3CQ0CZHXCHR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J236Q7FB3W3CQ0CZHXCHR",
+          "text": "L'energia e la perseveranza conquistano tutte le cose."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2379ZJFXP8F44VB4QTNK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J2379ZJFXP8F44VB4QTNK",
+          "text": "Vaike Swiftwater... Guida il gruppo lungo il passo innevato, usando di tanto in tanto il suo cannone termico per sciogliere la neve spessa davanti a lei. Il cielo è coperto e ha iniziato a soffiare un vento freddo e pungente. Era strano vedere il suo eidolon qui, in questo paesaggio ghiacciato, piuttosto che all'interno dell'Athanor. In pochi decenni, l'intera Asgartha e quasi tutte le tecnologie degli Axiom erano state convertite per utilizzare la fonte di energia che lei aveva sviluppato. Per molti versi, era anche grazie a lei che potevo usare parzialmente le gambe... Alza un braccio per proteggersi il viso dai pesanti fiocchi di neve che cadono dal cielo. Con un colpo di polso, Vaike accende il cannone ad aria calda, sciogliendo il ghiaccio e liberando un passaggio per i nostri veicoli. Con il suo aiuto, non era stato difficile convertire la semplice stufetta kelonica che ci avevano mandato in una pistola termica, decisamente più utile.\n\nQuando il tempo si farà più mite e l'ambiente più percorribile, forse materializzerò un velivolo per concludere il viaggio, anche se l'idea non mi entusiasma. Mi concentro per percepire in quale direzione si è mosso Rossum. Ma prima di riuscire a contattarlo, all'improvviso mi giungono all'orecchio delle grida. Ascolto con attenzione e le sento di nuovo, mischiate all'ululato costante del vento. È una richiesta di aiuto. Strizzo gli occhi e mi pulisco gli occhiali, che continuano ad appannarsi. La voce proviene dal lago che si estende di fronte a noi, ghiacciato e martoriato dalla bufera di neve. Sul ghiaccio ci sono diverse figure. Faccio un segnale a Vaike, che alza il suo cannone di una tacca. Vedo anche Bash che si allontana di corsa. E fa bene: non c'è tempo da perdere."
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2372V0QT3SC1D2V90T73",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J2372V0QT3SC1D2V90T73",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J2368SVP509EW8K6N19TA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J2368SVP509EW8K6N19TA",
+          "text": "TREYST"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J236GQ2HZ6JNADXHHVRYN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J236GQ2HZ6JNADXHHVRYN",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "7YX7GEDV6A9PSRFB68WG4Y0DBR",
+      "reference": "ALT_ALIZE_B_AX_35_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/83f744932ff90f50591c",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingegnere"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/251d9a84cad71b248eb7",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/577d0ac6fb4e77afb5af",
+      "eventFormat": "STANDARD",
+      "createdAt": "2025-01-31T10:38:20+00:00",
+      "question": "When I play an Exhausted Character or Permanent from Reserve thanks to Vaike, does it arrive in the Expedition/the Landmark zone ready or exhausted?",
+      "answer": "Ready!"
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/it_IT/4da564782247e93e6a533e414f9648dd.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/WEB_fb2e5c6674c581da280d09951941ea7c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/WEB_c9b9e6617652694111d0e7a9d4bc60ee",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/WEB_faf38f5d933835bd0b6eaae0860e3ab3"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_35_R1",
+  "reference": "ALT_ALIZE_B_AX_35_R1",
+  "id": "01J1Q4P4RPMZ8VWX4YR153F1YJ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/it_IT/4da564782247e93e6a533e414f9648dd.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/es_ES/b5c849fff4770e13cb1459b1589ca12b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/fr_FR/7792ebfbd2e968029ae81176bd8950de.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/de_DE/17b9e50bec32d7e4ddeddb2990874199.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_35/JPG/en_US/65507603f178e3d4f7d460a6ff515715.jpg"
+  },
+  "name": "Vaike, Pioniera dell'Energia",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "#1#",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "Puoi giocare carte consumate dalla tua Riserva.  #{R} [Rifornisci-Consuma].# (Metti la prima carta del tuo mazzo nella Riserva, poi consumala {T}.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-005-R-IT"
+}

@@ -1,0 +1,175 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_06_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77VHJDBPD3M75TE90RH4",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7W26QDGMHZDVA8J0ZA8R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7W26QDGMHZDVA8J0ZA8R",
+          "text": "À chaque coup de marteau, Ogun forge le destin des Axiom."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W2JM4AR2SN4FJ7HVZA5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7W2JM4AR2SN4FJ7HVZA5",
+          "text": "Le feu crépite tandis qu'Ogun frappe le métal. À chaque impact, les étincelles jaillissent et chutent autour de lui en une pluie embrasée. Sa large main enserre son marteau, ses coups puissants et précis résonnent au sein de l'atelier. Je l'observe alors qu'il plonge le lingot qu'il forge dans l'eau, regarde la surface du liquide bouillir dans un nuage crachotant de vapeur. Il me fait un signe de tête, et j'active mon Construct. Je pianote, combine les symboles qui sont à sa surface. Le morceau de métal qu'il martelait consciencieusement se met à rougeoyer de nouveau alors que je ravive sa température grâce à l'Altération. Il pose la barre incandescente sur son enclume et se met à la rudoyer de nouveau. Le métal se craquelle tandis qu'Ogun, à chaque choc, chasse les impuretés du minerai.\n\nÀ demi hypnotisée par le métal rutilant et les étincelles qui grésillent, je repense à ce que l'Eidolon m'a dit : \"Tu as un don pour l'Altération\". Est-ce que c'est la voie que je dois choisir ? Ne pas pouvoir intégrer le Fulcrum avait été dur à encaisser, mais peut-être que devenir Altératrice m'ouvrirait les portes des Corps expéditionnaires ? Ogun dépose le pain de métal sur l'établi et y appose son poinçon, son Vévé. En utilisant mon Construct, je le refroidis jusqu'à lui donner sa forme définitive. L'Eidolon lève les yeux dans ma direction. Il semble lire sur mon visage mes hésitations, mes doutes. J'essaie de les chasser de mon esprit. Je prends le lingot d'acier et le pose sur la pile de ceux qu'il a déjà façonnés. Je saisis une pièce d'acier et l'embrasse, comme il est de coutume quand on fait appel à lui. Satisfait, il se désincarne lentement tandis que le Mana suinte hors de lui et se répand dans l'air..."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W2B4FTZ3P4H871V9TM2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7W2B4FTZ3P4H871V9TM2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W1RKFH5KZHZV0XX4JWF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7W1RKFH5KZHZV0XX4JWF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7W205P3KMTAG0Y32HWDJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7W205P3KMTAG0Y32HWDJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB77VHJDBPD3M75TE90RH4",
+      "reference": "ALT_COREKS_B_AX_06_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5f89bc574bad0e22b6ec",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/431e5403caea27856587",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/90f987060e48840a1ddd",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "cardRulings": [
+    {
+      "@type": "CardRuling",
+      "@id": "/.well-known/genid/a12327b276e330959e5a",
+      "eventFormat": "STANDARD",
+      "createdAt": "2024-02-01T10:37:49+00:00",
+      "question": "Does Ogun boost the Robots in Reserve?",
+      "answer": "No: Characters in Reserve are not \"controlled\"."
+    }
+  ],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/JPG/fr_FR/4860e95619eaa4f7ea04dfef530410cc.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_06_C",
+  "reference": "ALT_COREKS_B_AX_06_C",
+  "id": "01HN5TXR2RECGA2E3SEP6Q4E6D",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/JPG/de_DE/a4447337f3702acfc828340923888681.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/JPG/it_IT/2d5668147fab50f1a4c27c20e3996637.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/JPG/fr_FR/4860e95619eaa4f7ea04dfef530410cc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/JPG/en_US/3477163c85bc6312fec6903c3520a133.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/JPG/es_ES/a0485bf32664b95787a3d10a7cc37696.jpg"
+  },
+  "name": "Ogun",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{J} Les Robots que vous contrôlez gagnent 1 boost[]. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-011-C-FR"
+}

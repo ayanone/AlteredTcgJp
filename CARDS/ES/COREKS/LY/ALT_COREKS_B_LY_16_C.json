@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_LY_16_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB782SE4N00MJ6GT5D7TWZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME80FKH8H086335Y6XG207",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME80FKH8H086335Y6XG207",
+          "text": "Eidolones o humanos, a todos nos dan forma las historias. Son las piezas con las que se construye nuestra identidad."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80GEKP5XXJPZ7VQH1HB0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HPME80GEKP5XXJPZ7VQH1HB0",
+          "text": "I watch her place her hands on the fresco, oblivious to our presence. There's an unconditional love in her eyes as the paintings and bas-reliefs flicker in her pupils and in the crucible of her mind. With a simple touch, a gentle caress, she summons the ideas contained in the images and allows them to express themselves. The Alterer contemplates the scenes that play out in front of her in an evanescent mist, and tries to interpret what they are saying. I smile, pleased with her work. As always, Somayeh excels in the art of extracting a story from what's hidden in the stone. Dismissing the sketches from her little ghostly theater, she sits down for a few moments to gather her thoughts about what she has witnessed. She arranges, organizes and structures the narrative of the story she has just seen.\n\nThen she lights a fire, both to banish the chill and darkness of nightfall and to set an appropriate atmosphere for her tale. Like us, she's a collector. Like us, she's a storyteller. So, we sit down and we listen. Focusing on the dancing flames, we make room on the shelves of our minds to welcome this new tale. It's the story of Naem, a protégé of Terpsichore, who danced for pontiffs and kings. But then she fell in love, and wanted to flee with her lover rather than become a Matriarch. And for that, she was disgraced. But the wrath leveled against her didn't end there. Fleeing from the Muses and weak with hunger, she took refuge in an orchard. There, she stole fruit to feed her lover and satisfy her own ravenous appetite. Both of them bit into the fruit, unaware that they had been branded with Polyhymnia's mark. From that point on, they could never again express the love they felt for each other... The story finishes, and I open my eyes to notice that the flames have burned down to embers. A single tear rolls down my cheek."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80G0FXZC821FWV38MQSY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME80G0FXZC821FWV38MQSY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80ENPTYESDWR8FD5N1J7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HPME80ENPTYESDWR8FD5N1J7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME80F6FV14RFE711BDHHED",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME80F6FV14RFE711BDHHED",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HPMB782SE4N00MJ6GT5D7TWZ",
+      "reference": "ALT_COREKS_B_LY_16_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3b71ec3a4b35fc4e82c0",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artista"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Beyond the Gates - KS Edition"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/70e936af8072076a4fd2",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_16/JPG/es_ES/c480c304d77a78aa25b45b92db0f80a3.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_16/ALT_CORE_B_LY_16_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_16/ALT_CORE_B_LY_16_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_16/ALT_CORE_B_LY_16_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_16_C",
+  "reference": "ALT_COREKS_B_LY_16_C",
+  "id": "01HN5TXRBQAB9SZHCHQZAG8H5T",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_16/JPG/de_DE/e6a87adf4eca1dd08782115ebedaeac8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_16/JPG/it_IT/2b869eb2ecb849c4c069b317c91ae028.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_16/JPG/en_US/dba3fddccefb964ec223d63fe9fd2c5f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_16/JPG/es_ES/c480c304d77a78aa25b45b92db0f80a3.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_16/JPG/fr_FR/b6faa7def055492319fe309f94f501ed.jpg"
+  },
+  "name": "Cronista de Lyra",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "0",
+    "FOREST_POWER": "4"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-073-C-ES"
+}

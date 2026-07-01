@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_ALIZE_B_LY_33_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/28NK97P9F59NYV14MGJW62JAVX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01J21J2579TXM8X0ZJYMP1ZYAN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01J21J2579TXM8X0ZJYMP1ZYAN",
+          "text": "¿Qué se derretirá primero, él o tu corazón?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J257X20G0PE9SJAVPEM7C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01J21J257X20G0PE9SJAVPEM7C",
+          "text": "Espantajo y yo por fin terminamos nuestro muñeco de nieve en la linde del bosque. Admiro nuestro trabajo conjunto: un encantador montículo de nieve fresca con ramas muertas de un abedul cercano como brazos, una zanahoria flácida por nariz y piedras en los ojos y la boca. No pude resistirme a añadirle una bufanda roja vieja y un hierbajo en la cabeza para que pareciera un anciano. Ojalá tuviéramos una pipa de madera. Después de inventar una cancioncilla para dar la bienvenida a nuestro nuevo amigo, nos disponemos a iniciar una guerra de bolas de nieve. Espantajo decide ser un capullo y es implacable, así que me refugio en un matorral cercano. Escondida entre dos espesos arbustos, espero a que cese la andanada. El Viento transporta un ritmo a mis oídos, una melodía sincopada de pequeños crujidos, como pisadas sobre la nieve.\n\nEcho un vistazo por encima de mi barrera improvisada, atenta a una emboscada de Espantajo, mientras le pido un alto el fuego. Nuestro muñeco de nieve sigue donde lo dejamos, con los brazos extendidos hacia el cielo. Debería haberle puesto guantes y gorro al pobre. Ahora hay otro caminando alrededor del que hicimos.  Es del tamaño de un niño pequeño y lleva una mochila grande y un gorro de aviador con orejeras. ¡Todo un explorador! Parece muy interesado por la réplica que hemos hecho, y lo mira de arriba abajo con atención. Probablemente intenta adivinar la conexión familiar entre él y nuestra creación. Me resisto a salir de la maleza para poder seguir contemplando este espectáculo. Detrás de mí, siento que Espantajo también observa. Al final, el pequeñín se despide del muñeco de nieve mayor antes de seguir su camino. Si le lanzara una bola, ¿se uniría a nuestra pelea?"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J257K9DPXBQ1295G80VSH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01J21J257K9DPXBQ1295G80VSH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J256H1X5HXVJ93GEX49F4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01J21J256H1X5HXVJ93GEX49F4",
+          "text": "FEN"
+        },
+        {
+          "@id": "/lore_entry_elements/01J21J256ZX98CWJBRQ8BKS3D2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01J21J256ZX98CWJBRQ8BKS3D2",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "28NK97P9F59NYV14MGJW62JAVX",
+      "reference": "ALT_ALIZE_B_LY_33_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/75075817be7725a7d1be",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Elemental"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/ALIZE",
+    "@type": "CardSet",
+    "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+    "reference": "ALIZE",
+    "name": "Trial by Frost"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/40185b2830f966a19622",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/es_ES/1eed6df93cf68211de1d1b1075f7ca57.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_bf520d8267baf4533eb5dddc4b6f02ce",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_eb5d8eab445464c60b7cf202df8c5196",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_a1d65e9e3ec766f87c0831df94298836"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_33_R1",
+  "reference": "ALT_ALIZE_B_LY_33_R1",
+  "id": "01J1Q4P4S72ESJDYMMDMPKH5NH",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/de_DE/48c461c61e2e76965f9d749b31f9189e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/it_IT/0db61eda10edbc51a8e59050708587ab.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/fr_FR/5a2b1e209a985033570ad9285ac0d738.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/e6388d9b8748f1d8b8aa5a9107d6b5b7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/es_ES/1eed6df93cf68211de1d1b1075f7ca57.jpg"
+  },
+  "name": "El muñeco de nieve",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "#2#",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{J} A menos que esté en {O}, gano [[Fugacidad]]. (Si fuese a ir a la reserva, en vez de eso, descártame.)",
+    "ECHO_EFFECT": "#{D}: [Reabastece y agota].# (Descártame de la reserva para hacer esto)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "TBF-037-R-ES"
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_OR_30_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY50BPPNEF5CVBA9A3X5X1",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH62HV3Z30671T3CHE97YD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH62HV3Z30671T3CHE97YD",
+          "text": "Le flot des recrues Ordis ne semble pas vouloir se tarir."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62KR02XAT351F2N6A5AF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HNJH62KR02XAT351F2N6A5AF",
+          "text": "Le vent s'engouffre dans l'ascenseur quand les portes s'ouvrent, et je referme le col de mon manteau autour de mon cou. Sunisa me précède et maintient la porte ouverte alors que je pose le pied sur la passerelle métallique, luttant contre un léger vertige en voyant le sol, si loin en contrebas. Nous nous frayons un chemin entre les manouvriers et les techniciens. Certains tirent des câbles, d'autres acheminent du matériel d'un pont à un autre. Et lorsque nous atteignons enfin la plate-forme centrale de l'altiport, la silhouette titanesque du transporteur se dévoile de tout son long, véritable ville volante aux proportions gargantuesques. Je pose les mains sur la rambarde pour le contempler. Deux de ces immenses barges — celles de Verbera et de Sojourn — ont été réquisitionnées pour participer à l'Effort de Redécouverte, au grand dam du Commodore Bayly.\n\nJe scrute la nef avec la plus grande attention : les ailes d'or stylisées dessinées sur sa coque, ainsi que ses tours aux liserés anguleux. Je consigne tous ces détails dans ma mémoire, apprenant par cœur ses formes, ses lignes, ses dimensions... J'aurai besoin de me les remémorer, si je souhaite le matérialiser au sein du Tumulte. À côté de moi, Sunisa sort une pomme d'une de ses poches et se met à la croquer. Cela fait des semaines qu'elle me suit ainsi, afin que je puisse contempler tel bâtiment, telle personnalité. Cela doit être d'un ennui mortel pour elle, même si je sais qu'elle comprend mes motivations. Dans ma tête, j'associe au souvenir que je suis en train de créer les séries de Glyphes qui me permettront de l'invoquer. Dans quelques mois, ce transporteur servira d'escorte à l'Ouroboros, et fera office de demeure pour des centaines d'aventuriers des Corps expéditionnaires... Trois navires, face à l'immensité de l'inconnu. De quoi donner le tournis, si on y pense."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62JWQHEFFMT16CTDRDQW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH62JWQHEFFMT16CTDRDQW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62GEM4HP3JAYA3Y7VRFZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HNJH62GEM4HP3JAYA3Y7VRFZ",
+          "text": "Sigismar"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH62H56CQY9V4AGMZM7NJW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH62H56CQY9V4AGMZM7NJW",
+          "text": "391 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HNGY50BPPNEF5CVBA9A3X5X1",
+      "reference": "ALT_CORE_B_OR_30_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a35b09d949c082519317",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Au-delà des portes"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c49f19bffb2c3911ac0f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/fr_FR/63bc6e7565578f0d67e6bc2a251ee49e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/ALT_CORE_B_OR_30_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/ALT_CORE_B_OR_30_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_30_R1",
+  "reference": "ALT_CORE_B_OR_30_R1",
+  "id": "01HKAFJNYX7FD7DN7NERNV9DEF",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/es_ES/689c2c43021635a0ca55d9ccb5e77d8f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/it_IT/4b024002dbf6c51221ec032daea55256.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/fr_FR/63bc6e7565578f0d67e6bc2a251ee49e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/en_US/72d0cccf5afbe0ad4721665f22100885.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/de_DE/2b0ee226e9e1fdd9ccf0a88ee664dd70.jpg"
+  },
+  "name": "Transporteur Ordis",
+  "elements": {
+    "MAIN_COST": "#5#",
+    "RECALL_COST": "#5#",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "À Midi — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans #chacune de vos Expéditions.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-148-R-FR"
+}

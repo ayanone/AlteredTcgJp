@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_COREKS_B_AX_25_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HPMB77XB8WKGC1XZAM62SST6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HPME7WW884PAGZ0NYDTCW9S1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HPME7WW884PAGZ0NYDTCW9S1",
+          "text": "Rien ne se perd, rien ne se crée, tout se transforme."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WWS4NFBQWGNQQ2QDYZY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01HPME7WWS4NFBQWGNQQ2QDYZY",
+          "text": "Les chenilles du Recycleur mobile font vibrer le sol tandis qu'il prend position au sein de la Recyclerie. On attend, les autres ouvriers et moi, le temps que les vérins s'enclenchent et l'ancrent au sol. Le véhicule est une grosse usine sur roues, avec tout ce qu'il faut à l'intérieur pour trier et fondre la ferraille. Sur un signe du Ramasseur en chef, je rabats ma visière et attends que la soufflerie intégrée chasse la condensation qui se forme à l'intérieur. Puis j'enfile mes gantelets mécaniques et pousse le tapis roulant aux côtés des autres ouvriers. Je peux déjà sentir la chaleur du four qui brûle dans le blindé. Sans mon casque et ma combinaison, elle serait difficile à supporter. Et c'est sans parler des fumées âcres qui en sortent. Ok, la tâche est ingrate, mais y'a pas à tergiverser : pas question de causer des pénuries là-haut.\n\nUne fois le convoyeur installé, je me hisse dans la grue motorisée et enclenche les divers interrupteurs nécessaires à la démarrer. Je passe une main sur le pare-brise crasseux histoire d'y voir quelque chose et me mets aux commandes tandis que Marmo s'installe sous le siège, comme à son habitude. En manipulant les leviers, je dirige la pince articulée vers un premier monticule de déchets métalliques. J'en saisis un gros tas et le dépose précautionneusement à l'extrémité du tapis. Les autres manœuvres s'affairent pour répartir convenablement la ferraille, tandis qu'elle glisse en direction du véhicule. Ha, j'avais jamais remarqué, mais de là où je suis, le Recycleur ressemble à un monstre qui gobe tout ce qui passe dans sa bouche enflammée. À l'idée, mon estomac se met à grogner. Marmo jappe à son tour. En parlant d'estomac sur pattes... Je regarde ma montre et soupire. Encore deux heures à tenir avant la collation."
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WWFX2KAGX84Z3TDQA9E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HPME7WWFX2KAGX84Z3TDQA9E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WVQX4EXTQ88Q8S7M5G5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01HPME7WVQX4EXTQ88Q8S7M5G5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HPME7WW006ANXRE48JC9T314",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HPME7WW006ANXRE48JC9T314",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent",
+        "description": ""
+      },
+      "id": "01HPMB77XB8WKGC1XZAM62SST6",
+      "reference": "ALT_COREKS_B_AX_25_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ab17b9971e80979b0217",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/COREKS",
+    "@type": "CardSet",
+    "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+    "reference": "COREKS",
+    "name": "Au-delà des portes - Édition KS"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/fd08c34c48b3f0fe1a28",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_25/JPG/fr_FR/39393b81232f6a5cfa89ebe671f048d9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_25/ALT_CORE_B_AX_25_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_25/ALT_CORE_B_AX_25_R_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_25_R2",
+  "reference": "ALT_COREKS_B_AX_25_R2",
+  "id": "01HN5TXR5J5JHQJ93TV9DSPNT4",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_25/JPG/es_ES/411216edede5fd3a1447e85ade5e047c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_25/JPG/it_IT/a20c9e049ccfdc5815259aac652058b7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_25/JPG/en_US/116faefbff9895065c74285a4e17e166.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_25/JPG/fr_FR/39393b81232f6a5cfa89ebe671f048d9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_25/JPG/de_DE/5e6abeb1cbed485837bcbdf46dbe59f8.jpg"
+  },
+  "name": "Recycleur Axiom",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "À Midi — [Ravitaillez]. (Mettez la première carte de votre deck en Réserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-029-F-FR"
+}

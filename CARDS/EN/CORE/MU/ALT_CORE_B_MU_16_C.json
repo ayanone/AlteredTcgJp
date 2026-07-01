@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_MU_16_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/01HNGY506YXXH0CVQ166P12GKG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01HNJH5XGHKTCQZMEMQKFSXNGS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01HNJH5XGHKTCQZMEMQKFSXNGS",
+          "text": "Moisturizing every day is essential."
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XHJYQ0P6K1ZH6JJ0JJ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01HNJH5XHJYQ0P6K1ZH6JJ0JJ5",
+          "text": "You win, Spike! I tap into the bits of Mana he's gathered along the way. Yeah, I know, buddy. Scanning the surrounding area, I spy a place where the terrain might be a good fit. It's a little basin, nestled in between large rocks and well placed to shelter us from the wind. Then I imagine a natural pool surrounded by little waterfalls, with sulfur-tinged water and a nice temperature — not too hot, not too cold. Drawing on the Mana, I materialize my illusion, superimpose it onto the world. With help from the Skein, I embed it within reality, so that the onsen will stick around long enough for us to enjoy it. I let out a long breath. Spike is already rushing to the hot springs, being careful to avoid the snowbanks. He dives in and does a cannonball, before coming back to the surface to splash around.\n\nI feel him tugging on our bond, on my Alteration powers. Such a kid. Of course, there's still something missing here. I call little Vera from my mind, and the graceful plant appears not far from the pond. Delighted to see her playmate again, she sinks her long slender legs into the steaming water, and Spike motions again and again for her to join him. I watch them play in the water like children, while a fog settles in around us as warm and cold temperatures collide. I keep watch on the surroundings. The rocky terrain might be harboring any number of unexpected dangers. Suddenly, I notice Spike has come up to me. Pouting, he then implores me with his eyes. Oh, really, it's that important? He nods vigorously, and I eventually give in to his whim. Two iced teas for two rascals!"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XGZ1JHAVYG86D1P02H3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01HNJH5XGZ1JHAVYG86D1P02H3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XFPA9WWNCW7G4FR2FFD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01HNJH5XFPA9WWNCW7G4FR2FFD",
+          "text": "Arjun"
+        },
+        {
+          "@id": "/lore_entry_elements/01HNJH5XG4GHADYFHX369GZAB2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01HNJH5XG4GHADYFHX369GZAB2",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character",
+        "description": ""
+      },
+      "id": "01HNGY506YXXH0CVQ166P12GKG",
+      "reference": "ALT_CORE_B_MU_16_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/943f5347a09c9db26eb8",
+      "reference": "PLANT",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "name": "Plant"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/edb11e2e67045f4e520a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/JPG/en_US/696996a851b9e44ebabaa0da82c51459.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/WEB_ba91240970e64f5891560414c28ab941",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/WEB_a31862e1bff5629ffe1d030dc306d91a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/WEB_156d0e3b1d980202a0c839c3b4eb39d1"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_16_C",
+  "reference": "ALT_CORE_B_MU_16_C",
+  "id": "01HKAFJP7JY2726QN2P4P5JE4H",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/JPG/es_ES/4ee9db28ccc89e04969d158d733f6243.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/JPG/en_US/696996a851b9e44ebabaa0da82c51459.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/JPG/it_IT/bbac03db5bb37c3ce4f39f670a68139b.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/JPG/fr_FR/b94f76e3a0c1439844f3e10781737a05.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_16/JPG/de_DE/bd8853e2020b5322f4fc32bfd51b6a40.jpg"
+  },
+  "name": "Aloe Vera",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "MOUNTAIN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "At Noon — [Resupply]. (Put the top card of your deck in Reserve.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "BTG-103-C-EN"
+}
