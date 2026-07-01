@@ -90,7 +90,7 @@ class CameraScreen(Screen):
         ).start()
 
     def _process_image(self, image_bytes):
-        from app.config import GEMINI_API_KEY, CSV_PATH, UNIQUES_CSV_PATH, OUTPUT_DIR, KEYWORDS_PATH
+        from app.config import GEMINI_API_KEY, CSV_PATH, UNIQUES_CSV_PATH, OUTPUT_DIR, KEYWORDS_PATH, ODT_REFERENCE_PATH
         from app.services.card_recognizer import recognize_card, translate_card
         from app.services.csv_manager import (
             find_translation, append_translation,
@@ -138,6 +138,7 @@ class CameraScreen(Screen):
                 GEMINI_API_KEY, card_name, card_text,
                 csv_path=CSV_PATH, keywords_path=KEYWORDS_PATH,
                 super_types=super_types, card_type=card_type, card_subtypes=card_subtypes,
+                odt_path=ODT_REFERENCE_PATH,
             )
             if result is None:
                 update_status("翻訳失敗。もう一度試してください。")

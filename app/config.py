@@ -20,3 +20,6 @@ TEMPLATE_DOCX_PATH = os.environ.get("TEMPLATE_DOCX_PATH", "和訳シールテン
 
 # 出力docxの保存先ディレクトリ
 OUTPUT_DIR = os.environ.get("OUTPUT_DIR", ".")
+
+# 翻訳スタイル参考ODTファイルのパス（任意）
+ODT_REFERENCE_PATH = os.environ.get("ODT_REFERENCE_PATH", "")

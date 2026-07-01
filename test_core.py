@@ -10,7 +10,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from dotenv import load_dotenv
 load_dotenv()
 
-from app.config import GEMINI_API_KEY, CSV_PATH, UNIQUES_CSV_PATH, KEYWORDS_PATH
+from app.config import GEMINI_API_KEY, CSV_PATH, UNIQUES_CSV_PATH, KEYWORDS_PATH, ODT_REFERENCE_PATH
 from app.services.card_recognizer import recognize_card, translate_card
 from app.services.csv_manager import (
     find_translation, append_translation,
@@ -49,6 +49,7 @@ def main():
     rarity = card_info.get("rarity", "")
     unique_number = card_info.get("unique_number")
     card_name = card_info.get("card_name", "")
+    super_types = card_info.get("super_types", [])
     card_type = card_info.get("card_type", "")
     card_subtypes = card_info.get("card_subtypes", [])
     card_text = card_info.get("card_text", "")
@@ -85,7 +86,8 @@ def main():
         result = translate_card(
             GEMINI_API_KEY, card_name, card_text,
             csv_path=CSV_PATH, keywords_path=KEYWORDS_PATH,
-            card_type=card_type, card_subtypes=card_subtypes,
+            super_types=super_types, card_type=card_type, card_subtypes=card_subtypes,
+            odt_path=ODT_REFERENCE_PATH,
         )
         if result is None:
             print("翻訳失敗")
