@@ -83,7 +83,7 @@ def recognize_card(api_key, image_bytes):
   "rarity": "U など1文字",
   "unique_number": "18245のような数字（ユニーク以外はnull）",
   "card_name": "カード上部に書かれた英語のカード名",
-  "super_types": ["Token", "Gear", "Landmark" の特殊タイプのリスト。なければ空リスト],
+  "super_types": ["Token", "Expedition", "Landmark" の特殊タイプのリスト。なければ空リスト],
   "card_type": "Character / Permanent / Spell / Hero のいずれか",
   "card_subtypes": ["Mage", "Plant", "Feat" などサブタイプのリスト。なければ空リスト],
   "card_text": "上記ルールを適用したカードの能力テキスト全文（英語のまま）"
@@ -119,9 +119,9 @@ def _load_keywords(keywords_path):
             jp = row.get("日本語", "").strip()
             if not en or not jp:
                 continue
-            category = row.get("カテゴリ", "").strip()
-            annotation = row.get("注釈文", "").strip()
-            note = row.get("備考", "").strip()
+            category = (row.get("カテゴリ") or "").strip()
+            annotation = (row.get("注釈文") or "").strip()
+            note = (row.get("備考") or "").strip()
             result[en] = (jp, category, annotation, note)
     return result
 
