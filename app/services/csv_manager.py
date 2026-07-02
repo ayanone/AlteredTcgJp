@@ -3,17 +3,16 @@ import os
 import re
 
 
-FIELDNAMES = ["年月", "カード番号", "レアリティ", "日本語名", "能力", "訳者コメント"]
+FIELDNAMES = ["年月", "カード番号", "レアリティ", "陣営", "英語名", "日本語名", "能力", "訳者コメント"]
 UNIQUE_FIELDNAMES = ["年月", "カード番号", "レアリティ", "ユニーク番号", "日本語名", "能力", "訳者コメント"]
 
 # レアリティのソート順
-_RARITY_ORDER = {"H": 0, "C": 1, "R": 2, "F": 3, "E": 4, "U": 5}
+_RARITY_ORDER = {"H": 0, "C": 1, "R": 2, "F": 3, "E": 4, "U": 5, "T": 6}
 
 
 def _sort_key(row):
-    """CSVのソートキー: 年月昇順 → カード番号昇順 → レアリティ順(H→C→R→F→E)"""
+    """CSVのソートキー: 年月昇順 → カード番号昇順 → レアリティ順(H→C→R→F→E→U→T)"""
     card_num = row["カード番号"]
-    # "BTG-052" → ("BTG", 52) として数値ソート
     m = re.match(r"([A-Za-z]+)-(\d+)", card_num)
     if m:
         prefix, num = m.group(1), int(m.group(2))
@@ -66,11 +65,32 @@ def find_translation(csv_path, card_number, rarity):
     return load_csv(csv_path).get((card_number, rarity))
 
 
+def find_translation_by_name(csv_path, card_name_en, rarity=None, faction=None):
+    """
+    英語名でカードを検索する。
+    rarity と faction が指定された場合はそれで絞り込む。
+    複数ヒットする場合は最初の1件を返す。見つからなければ None を返す。
+    """
+    rows = load_csv(csv_path).values()
+    candidates = [r for r in rows if r.get("英語名", "").lower() == card_name_en.lower()]
+    if not candidates:
+        return None
+    if rarity:
+        filtered = [r for r in candidates if r["レアリティ"] == rarity]
+        if filtered:
+            candidates = filtered
+    if faction:
+        filtered = [r for r in candidates if r.get("陣営", "") == faction]
+        if filtered:
+            candidates = filtered
+    return candidates[0] if candidates else None
+
+
 def _rewrite_sorted(csv_path, rows):
     """rowsをソートしてCSVを全書き換えする"""
     rows_sorted = sorted(rows, key=_sort_key)
     with open(csv_path, encoding="utf-8", newline="", mode="w") as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(rows_sorted)
 
@@ -113,8 +133,6 @@ def append_unique_translation(csv_path, card_number, unique_number, name_jp, abi
         return
 
     year_month = get_year_month(csv_path, card_number)
-    # uniques.csv が別パスのため AlteredTcgJp.csv から年月を取得することもある
-    # （年月不明なら空欄）
 
     new_row = {
         "年月": year_month,
@@ -128,28 +146,28 @@ def append_unique_translation(csv_path, card_number, unique_number, name_jp, abi
     all_rows = list(existing.values()) + [new_row]
     rows_sorted = sorted(all_rows, key=_unique_sort_key)
 
-    file_exists = os.path.exists(csv_path)
     with open(csv_path, encoding="utf-8", newline="", mode="w") as f:
         writer = csv.DictWriter(f, fieldnames=UNIQUE_FIELDNAMES)
         writer.writeheader()
         writer.writerows(rows_sorted)
 
 
-def append_translation(csv_path, card_number, rarity, name_jp, ability_jp, comment=""):
+def append_translation(csv_path, card_number, rarity, name_jp, ability_jp, comment="",
+                       faction="", name_en=""):
     """新しい翻訳をCSVに追加し、ソート順を維持して保存する"""
-    # 既存データを読み込む
     existing = load_csv(csv_path)
     key = (card_number, rarity)
     if key in existing:
-        return  # 既に存在する場合は追加しない
+        return
 
-    # 年月をプレフィックスから取得（不明なら空欄）
     year_month = get_year_month(csv_path, card_number)
 
     new_row = {
         "年月": year_month,
         "カード番号": card_number,
         "レアリティ": rarity,
+        "陣営": faction,
+        "英語名": name_en,
         "日本語名": name_jp,
         "能力": ability_jp,
         "訳者コメント": comment,

@@ -54,18 +54,40 @@ def _call_gemini(api_key, prompt, image_bytes=None, mime_type="image/jpeg", max_
 def recognize_card(api_key, image_bytes):
     """
     カード画像からカード番号・レアリティ・カード名・テキストを抽出する。
+    カード番号が見えない場合はカード名・宝石色・旗色からカードを特定する。
     Returns:
-        dict with keys: card_number, rarity, card_name, card_text
+        dict with keys: card_number, rarity, card_name, card_text, faction
         失敗時は None
     """
     prompt = """この画像はAltered TCGのカードです。以下の情報をJSON形式で返してください。
 
 【カード番号・レアリティの読み取り】
 カードの下部にある識別文字列から読み取ってください。
-レアリティはC（コモン）、R（レア）、F（色違い）、E（エグザルテッド）、H（ヒーロー）、U（ユニーク）です。
+レアリティはC（コモン）、R（レア）、F（色違い）、E（エグザルテッド）、H（ヒーロー）、U（ユニーク）、T（トークン）です。
 
 通常カードの形式: 「BTG-052-R」→ card_number=BTG-052, rarity=R, unique_number=null
 ユニークカードの形式: 「ROC-102-U-18245」→ card_number=ROC-102, rarity=U, unique_number=18245
+
+カード番号が読み取れない場合は card_number=null、rarity=null とし、
+代わりに宝石マークと旗マークの色からレアリティ・陣営を判定してください（後述）。
+
+【宝石マーク（カード名の上）によるレアリティ判定】
+カード番号が読み取れない場合、カード名の上にある宝石マークの色でレアリティを判定します。
+・宝石マークなし（白い円）→ C（コモン）
+・青色の宝石マーク → R または F（旗マークの色で区別）
+・金色の宝石マーク → U（ユニーク）
+
+【旗マーク（カード右上）による陣営・R/F判定】
+カード右上にある旗マークの色で陣営を判定し、R と F を区別します。
+・茶色の旗 → Axiom
+・赤い旗   → Bravos
+・ピンクの旗 → Lyra
+・緑の旗   → Muna
+・青い旗   → Ordis
+・紫の旗   → Yzmir
+
+同じカード名で陣営が異なる場合、その陣営のカードが F（色違い）です。
+（例: Axiom の旗色 = 茶色なら R、Bravos の旗色 = 赤なら F、のように陣営ごとにどちらかが R でどちらかが F になります）
 
 【カードテキストの記号変換ルール（必ず適用すること）】
 以下のアイコン・記号を指定の文字列に置き換えてテキストを出力してください。
@@ -79,10 +101,11 @@ def recognize_card(api_key, image_bytes):
 
 【出力形式】
 {
-  "card_number": "ROC-102のように接頭辞-番号の形式",
-  "rarity": "U など1文字",
+  "card_number": "ROC-102のように接頭辞-番号の形式（読み取れない場合はnull）",
+  "rarity": "U など1文字（読み取れない場合は宝石マークから推定、それも不明ならnull）",
   "unique_number": "18245のような数字（ユニーク以外はnull）",
   "card_name": "カード上部に書かれた英語のカード名",
+  "faction": "Axiom / Bravos / Lyra / Muna / Ordis / Yzmir のいずれか（旗マークから判定、不明はnull）",
   "super_types": ["Token", "Expedition", "Landmark" の特殊タイプのリスト。なければ空リスト],
   "card_type": "Character / Permanent / Spell / Hero のいずれか",
   "card_subtypes": ["Mage", "Plant", "Feat" などサブタイプのリスト。なければ空リスト],
