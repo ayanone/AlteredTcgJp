@@ -128,19 +128,16 @@ def lookup_translation(card_info, csv_data, uniques_data):
 
 def generate_pdf_direct(sticker_cards, pdf_path):
     """
-    reportlab で和訳シール PDF を直接生成する。
-    A4 縦・3カラム・游ゴシック Light 6pt。
+    reportlab canvas で和訳シール PDF を直接生成する。
+    A4 縦・3カラム（各 63mm）・游ゴシック Light 6pt。
+    _xxx_ は下線付きテキストとして canvas.line() で描画。
+    カラム境界と行間に破線の切り取り線を引く。
     """
     from reportlab.lib.pagesizes import A4
     from reportlab.lib.units import mm
     from reportlab.pdfbase import pdfmetrics
     from reportlab.pdfbase.ttfonts import TTFont
-    from reportlab.platypus import (
-        SimpleDocTemplate, Paragraph, Spacer, FrameBreak,
-        NextPageTemplate, Frame, PageTemplate,
-    )
-    from reportlab.lib.styles import ParagraphStyle
-    from reportlab.lib.enums import TA_LEFT
+    from reportlab.pdfgen import canvas as rl_canvas
     import os, re
 
     # 游ゴシック Light を登録
@@ -149,59 +146,164 @@ def generate_pdf_direct(sticker_cards, pdf_path):
         font_path = r"C:\Windows\Fonts\meiryo.ttc"
     pdfmetrics.registerFont(TTFont("YuGothL", font_path))
 
+    # ── レイアウト定数 ──────────────────────────────────────
     page_w, page_h = A4
-    margin = 10 * mm
-    col_gap = 5 * mm
-    n_cols = 3
-    col_w = (page_w - 2 * margin - (n_cols - 1) * col_gap) / n_cols
-    frame_h = page_h - 2 * margin
+    CARD_W = 63 * mm          # MTG スタンダードサイズと同じ横幅
+    N_COLS = 3
+    L_MARGIN = (page_w - N_COLS * CARD_W) / 2   # 左右マージン（自動計算）
+    T_MARGIN = 10 * mm
+    B_MARGIN = 10 * mm
 
-    frames = [
-        Frame(margin + i * (col_w + col_gap), margin, col_w, frame_h,
-              leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)
-        for i in range(n_cols)
-    ]
-    template = PageTemplate(id="main", frames=frames)
-    doc = SimpleDocTemplate(pdf_path, pagesize=A4,
-                            leftMargin=margin, rightMargin=margin,
-                            topMargin=margin, bottomMargin=margin)
-    doc.addPageTemplates([template])
-
-    # スタイル定義
-    FONT_SIZE = 6
+    FONT = "YuGothL"
     HEADER_SIZE = 6.5
-    header_style = ParagraphStyle(
-        "header", fontName="YuGothL", fontSize=HEADER_SIZE,
-        leading=HEADER_SIZE * 1.3, spaceAfter=0, spaceBefore=1 * mm,
-        textColor="#222222", alignment=TA_LEFT,
-    )
-    body_style = ParagraphStyle(
-        "body", fontName="YuGothL", fontSize=FONT_SIZE,
-        leading=FONT_SIZE * 1.4, spaceAfter=2 * mm, spaceBefore=0,
-        alignment=TA_LEFT,
-    )
+    BODY_SIZE = 6.0
+    LEADING = BODY_SIZE * 1.45
+    HEADER_LEADING = HEADER_SIZE * 1.35
+    PAD_X = 1.5 * mm          # セル内の左右パディング
+    PAD_Y = 1.0 * mm          # セル内の上下パディング
+    TEXT_W = CARD_W - 2 * PAD_X
 
-    def esc(text):
-        """reportlab XML エスケープ + アンダースコア下線変換"""
-        text = text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-        # _xxx_ → <u>xxx</u>
-        text = re.sub(r"_([^_]+)_", r"<u>\1</u>", text)
-        return text
+    # ── _xxx_ をランのリストに分解 ──────────────────────────
+    def parse_runs(text):
+        """[(文字列, underline:bool), ...] を返す"""
+        runs = []
+        for part in re.split(r"(_[^_]+_)", text):
+            if part.startswith("_") and part.endswith("_") and len(part) > 2:
+                runs.append((part[1:-1], True))
+            elif part:
+                runs.append((part, False))
+        return runs
 
-    story = []
-    for card in sticker_cards:
+    # ── ランリストを行単位に折り返す ────────────────────────
+    def wrap_runs(runs, font, size, max_w):
+        """
+        CJK 文字を1文字ずつ折り返す。
+        返り値: [[(文字列, bool), ...], ...]  ← 行ごとのランリスト
+        """
+        lines = []
+        current_line = []
+        current_w = 0.0
+
+        for text, ul in runs:
+            for ch in text:
+                ch_w = pdfmetrics.stringWidth(ch, font, size)
+                if current_w + ch_w > max_w and current_line:
+                    lines.append(current_line)
+                    current_line = []
+                    current_w = 0.0
+                # 同じ下線状態なら直前のランに結合
+                if current_line and current_line[-1][1] == ul:
+                    prev_text, prev_ul = current_line[-1]
+                    current_line[-1] = (prev_text + ch, prev_ul)
+                else:
+                    current_line.append((ch, ul))
+                current_w += ch_w
+
+        if current_line:
+            lines.append(current_line)
+        return lines
+
+    # ── カードのセル高さを計算 ──────────────────────────────
+    def measure_card_h(card):
         header_text = f"{card['card_number']}-{card['rarity']} {card['name_jp']}"
-        story.append(Paragraph(esc(header_text), header_style))
+        n_header_lines = len(wrap_runs(parse_runs(header_text), FONT, HEADER_SIZE, TEXT_W))
+        n_header_lines = max(n_header_lines, 1)
 
-        ability = card["ability_jp"]
-        if ability:
-            lines = ability.splitlines()
-            body_text = "<br/>".join(esc(l) for l in lines)
-            story.append(Paragraph(body_text, body_style))
-        else:
-            story.append(Spacer(1, 2 * mm))
+        ability = card.get("ability_jp") or ""
+        n_body_lines = 0
+        for raw_line in ability.splitlines():
+            wrapped = wrap_runs(parse_runs(raw_line), FONT, BODY_SIZE, TEXT_W)
+            n_body_lines += max(len(wrapped), 1)
 
-    doc.build(story)
+        h = (PAD_Y
+             + n_header_lines * HEADER_LEADING
+             + n_body_lines * LEADING
+             + PAD_Y)
+        return h
+
+    # ── 1ランの行を描画 ────────────────────────────────────
+    def draw_run_line(c, run_line, x, baseline_y, font, size):
+        """run_line = [(str, underline), ...] を x,baseline_y に描画"""
+        cx = x
+        for text, ul in run_line:
+            w = pdfmetrics.stringWidth(text, font, size)
+            c.setFont(font, size)
+            c.drawString(cx, baseline_y, text)
+            if ul:
+                ul_y = baseline_y - 0.5
+                c.setLineWidth(0.4)
+                c.setDash([])
+                c.line(cx, ul_y, cx + w, ul_y)
+            cx += w
+
+    # ── 切り取り線 ────────────────────────────────────────
+    def set_cut_dash(c):
+        c.setDash([2, 2])
+        c.setLineWidth(0.3)
+        c.setStrokeColorRGB(0.5, 0.5, 0.5)
+
+    def draw_hline(c, y):
+        """水平破線（行間の切り取り線）"""
+        set_cut_dash(c)
+        c.line(L_MARGIN, y, L_MARGIN + N_COLS * CARD_W, y)
+
+    def draw_vlines(c, y_top, h):
+        """垂直破線（カラム境界の切り取り線）"""
+        set_cut_dash(c)
+        for i in range(N_COLS + 1):
+            x = L_MARGIN + i * CARD_W
+            c.line(x, y_top - h, x, y_top)
+
+    # ── 1枚のカードセルを描画 ──────────────────────────────
+    def draw_card_cell(c, card, x, y_top):
+        """カードを (x, y_top) から下向きに描画。次の y_top を返す"""
+        y = y_top - PAD_Y
+
+        # ヘッダー行
+        header_text = f"{card['card_number']}-{card['rarity']} {card['name_jp']}"
+        for run_line in wrap_runs(parse_runs(header_text), FONT, HEADER_SIZE, TEXT_W):
+            y -= HEADER_LEADING
+            draw_run_line(c, run_line, x + PAD_X, y, FONT, HEADER_SIZE)
+
+        # 能力テキスト
+        ability = card.get("ability_jp") or ""
+        for raw_line in ability.splitlines():
+            wrapped = wrap_runs(parse_runs(raw_line), FONT, BODY_SIZE, TEXT_W)
+            if not wrapped:
+                y -= LEADING
+                continue
+            for run_line in wrapped:
+                y -= LEADING
+                draw_run_line(c, run_line, x + PAD_X, y, FONT, BODY_SIZE)
+
+        return y - PAD_Y
+
+    # ── メイン描画ループ ────────────────────────────────────
+    c = rl_canvas.Canvas(pdf_path, pagesize=A4)
+
+    # カードを N_COLS 枚ずつの行にグループ化
+    rows = [sticker_cards[i:i + N_COLS] for i in range(0, len(sticker_cards), N_COLS)]
+
+    y_cursor = page_h - T_MARGIN  # 現在の描画 y 位置（上から下へ）
+
+    for row_cards in rows:
+        row_h = max(measure_card_h(card) for card in row_cards)
+
+        # ページ不足なら改ページ
+        if y_cursor - row_h < B_MARGIN:
+            c.showPage()
+            y_cursor = page_h - T_MARGIN
+
+        draw_vlines(c, y_cursor, row_h)
+
+        # 各カードを列に配置
+        for col_idx, card in enumerate(row_cards):
+            x = L_MARGIN + col_idx * CARD_W
+            draw_card_cell(c, card, x, y_cursor)
+
+        y_cursor -= row_h
+
+    c.save()
     return pdf_path
 
 
