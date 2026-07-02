@@ -159,7 +159,39 @@ def _write_xml_to_docx(docx_path, inner_path, xml_bytes):
     os.replace(tmp_path, docx_path)
 
 
-def get_output_path(output_dir):
+def generate_sticker_docx(docx_path, cards):
+    """
+    カードリストから和訳シールdocxを一括生成する。
+    cards: [{"card_number": str, "rarity": str, "name_jp": str, "ability_jp": str}, ...]
+    """
+    from app.config import TEMPLATE_DOCX_PATH
+    if not os.path.exists(TEMPLATE_DOCX_PATH):
+        raise FileNotFoundError(f"テンプレートが見つかりません: {TEMPLATE_DOCX_PATH}")
+
+    shutil.copy2(TEMPLATE_DOCX_PATH, docx_path)
+    _clear_body(docx_path)
+
+    with zipfile.ZipFile(docx_path, "r") as z:
+        xml = z.read("word/document.xml")
+    tree = etree.fromstring(xml)
+    body = tree.find(f"{{{W}}}body")
+    sect_pr = body.find(f"{{{W}}}sectPr")
+
+    for card in cards:
+        new_p = _make_paragraph(
+            card["card_number"], card["rarity"],
+            card["name_jp"], card["ability_jp"]
+        )
+        if sect_pr is not None:
+            sect_pr.addprevious(new_p)
+        else:
+            body.append(new_p)
+
+    xml_bytes = etree.tostring(tree, xml_declaration=True, encoding="UTF-8", standalone=True)
+    _write_xml_to_docx(docx_path, "word/document.xml", xml_bytes)
+
+
+def get_output_path(output_dir, stem="和訳シール"):
     """日付ベースの出力ファイル名を返す"""
     today = datetime.now().strftime("%y%m%d")
-    return os.path.join(output_dir, f"{today}和訳シール.docx")
+    return os.path.join(output_dir, f"{today}{stem}.docx")
