@@ -125,14 +125,16 @@ def find_unique_translation(csv_path, card_number, unique_number):
     return load_uniques(csv_path).get((card_number, str(unique_number)))
 
 
-def append_unique_translation(csv_path, card_number, unique_number, name_jp, ability_jp, comment=""):
+def append_unique_translation(csv_path, card_number, unique_number, name_jp, ability_jp,
+                              comment="", year_month=None):
     """ユニークカードの翻訳を uniques.csv に追加してソート保存する"""
     existing = load_uniques(csv_path)
     key = (card_number, str(unique_number))
     if key in existing:
         return
 
-    year_month = get_year_month(csv_path, card_number)
+    if not year_month:
+        year_month = get_year_month(csv_path, card_number)
 
     new_row = {
         "年月": year_month,

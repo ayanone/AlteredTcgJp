@@ -84,10 +84,16 @@ def recognize_all_cards(api_key, image_path):
 def lookup_translation(card_info, csv_data, uniques_data):
     """
     カード情報から翻訳行を返す。見つからなければ None。
+
     検索優先順位:
       1. ユニークカード: カード番号 + ユニーク番号
       2. 英語名 + レアリティ + 陣営（カード名は大きく明瞭なためOCR精度が高い）
       3. カード番号 + レアリティ（番号はOCRで誤読されやすいため補助的に使用）
+
+    レアリティ曖昧ケースの処理:
+      識別文字列が不明でOCRがデフォルト値を返した場合、カード名と陣営でCSVと突合して正確なレアリティを取得する。
+      ・C（宝石なし）→ C / H / T の可能性あり。カード名で一意に特定できる。
+      ・R（青宝石）→ R / F の可能性あり。カード名 + 陣営で特定する（同名で陣営が異なればF）。
     """
     rarity = (card_info.get("rarity") or "").strip()
     card_number = (card_info.get("card_number") or "").strip()
@@ -107,14 +113,28 @@ def lookup_translation(card_info, csv_data, uniques_data):
         candidates = [r for r in csv_data.values()
                       if r.get("英語名", "").lower() == name_lower]
         if candidates:
-            if rarity:
+            # レアリティでの絞り込み:
+            # OCRがデフォルト C を返した場合は C/H/T すべてを候補に残す（カード名で一意に決まる）
+            # OCRがデフォルト R を返した場合は R/F を候補に残し、陣営で絞り込む
+            if rarity == "C":
+                filtered = [r for r in candidates if r["レアリティ"] in ("C", "H", "T")]
+                if filtered:
+                    candidates = filtered
+            elif rarity == "R":
+                filtered = [r for r in candidates if r["レアリティ"] in ("R", "F")]
+                if filtered:
+                    candidates = filtered
+            elif rarity:
                 filtered = [r for r in candidates if r["レアリティ"] == rarity]
                 if filtered:
                     candidates = filtered
+
+            # 陣営で絞り込む（R/F の区別と F の特定に使用）
             if faction:
                 filtered = [r for r in candidates if r.get("陣営", "") == faction]
                 if filtered:
                     candidates = filtered
+
             return candidates[0]
 
     # 3. カード番号 + レアリティ（フォールバック）
