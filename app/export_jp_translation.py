@@ -427,7 +427,10 @@ def main():
         sys.exit(1)
 
     # --- Step 3: PDF 生成 ---
-    # reportlab で直接生成
+    from datetime import datetime
+    timestamp = datetime.now().strftime("%Y%m%d-%H%M")
+    pdf_path = os.path.join(output_dir, f"{timestamp}和訳シール.pdf")
+
     try:
         generate_pdf_direct(sticker_cards, pdf_path)
         print(f"PDF を出力: {pdf_path}")
