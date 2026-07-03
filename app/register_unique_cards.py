@@ -182,7 +182,6 @@ def main():
             super_types=super_types,
             card_type=card_type,
             card_subtypes=card_subtypes,
-            odt_path=None,
         )
 
         if not translation:

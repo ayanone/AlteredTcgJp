@@ -153,43 +153,8 @@ def _load_keywords(keywords_path):
     return result
 
 
-def _load_odt_examples(ref_path, max_samples=8):
-    """翻訳スタイル参考例をODTまたはテキストファイルから取得する"""
-    import os as _os
-    if not ref_path or not _os.path.exists(ref_path):
-        return ""
-    try:
-        if ref_path.lower().endswith(".odt"):
-            import zipfile as _zf
-            from lxml import etree as _etree
-            with _zf.ZipFile(ref_path) as z:
-                xml = z.read('content.xml')
-            tree = _etree.fromstring(xml)
-            ns = 'urn:oasis:names:tc:opendocument:xmlns:text:1.0'
-            texts = []
-            for p in tree.iter(f'{{{ns}}}p'):
-                t = ''.join(p.itertext()).strip()
-                if t and len(t) > 20:
-                    texts.append(t)
-            samples = texts[:max_samples]
-        else:
-            with open(ref_path, encoding="utf-8") as f:
-                lines_all = [l.strip() for l in f if l.strip() and len(l.strip()) > 20]
-            samples = lines_all[:max_samples]
-        if not samples:
-            return ""
-        lines = ["【翻訳スタイル参考（過去の翻訳例。文体・表現を合わせること）】"]
-        for s in samples:
-            lines.append(f"・{s}")
-        lines.append("")
-        return "\n".join(lines)
-    except Exception:
-        return ""
-
-
 def translate_card(api_key, card_name, card_text, csv_path=None, keywords_path=None,
-                   super_types=None, card_type=None, card_subtypes=None,
-                   odt_path=None):
+                   super_types=None, card_type=None, card_subtypes=None):
     """
     カード名とテキストを日本語に翻訳する。
     csv_path      : 既存翻訳CSVのパス（スタイル参考例に使う）
@@ -214,8 +179,8 @@ def translate_card(api_key, card_name, card_text, csv_path=None, keywords_path=N
             "・キーワード処理（sabotage/resupply等）: 注釈文があれば、文末に注釈文をつける。英語テキストにカッコ書きで注釈が続いていても、その注釈は出力しないこと。例: 「Sabotage. (Discard up to ...)」→「サボタージュする。（リザーブのカード最大1枚を対象とし、それを捨て札にする。）」",
             "・記号（[ウラ]/[表]/[両面]/＜サポート＞/[捨て札]/[永続]）: 括弧ごと固定表記を使う",
             "・カードタイプ（Character/Permanent/Spell/Hero）: 日本語のみ表記（英語名不要）。例: Character → キャラクター",
-            "・カンマ区切りで二つ名を表しているカード名は、日本語のカード名では二つ名と名前の順を入れ替える。例: Leo, Relic Expert → 遺物の専門家、レオ",
-            "・&区切りの物は二つ名ではないためそのままの順序で訳す。&は「と」と訳す。 例: Akesha & Taru → アケシャとタル",
+            "・カンマ区切りで通称を表しているカード名は、日本語のカード名では通称と名前の順を入れ替える。例: Leo, Relic Expert → 遺物の専門家、レオ",
+            "・&区切りのカード名は通称ではないためそのままの順序で訳す。&は「と」と訳す。 例: Akesha & Taru → アケシャとタル",
             "・トークンを生成する個数が1個の場合は数を省略しない。例: create a ～ token -> ～トークン1個を生成する",
             "・生け贄に捧げる個数が1個の場合は数を省略しない。例: sacrefice a character -> キャラクター1体を生け贄に捧げる",
             "",
@@ -232,9 +197,6 @@ def translate_card(api_key, card_name, card_text, csv_path=None, keywords_path=N
             lines.append("")
 
         keywords_text = "\n".join(lines)
-
-    # ODTファイルからスタイル参考例を取得
-    odt_examples_text = _load_odt_examples(odt_path)
 
     # 既存CSVから参考例を最大5件取得
     examples_text = ""
@@ -291,7 +253,6 @@ def translate_card(api_key, card_name, card_text, csv_path=None, keywords_path=N
 
 {permanent_rule}
 {subtype_rule}
-{odt_examples_text}
 {examples_text}
 【翻訳対象】
 カード名: {card_name}

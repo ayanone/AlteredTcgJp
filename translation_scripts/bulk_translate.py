@@ -30,7 +30,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from app.config import GEMINI_API_KEY, CSV_PATH, KEYWORDS_PATH
-from app.card_recognizer import _call_gemini, _load_keywords, _load_odt_examples
+from app.card_recognizer import _call_gemini, _load_keywords
 from app.csv_manager import load_csv, get_year_month, FIELDNAMES, _RARITY_ORDER
 
 # ────────────────────────────────────────────────────────────────
@@ -194,7 +194,11 @@ def _build_batch_prompt(batch: list[tuple[str, str]], keywords_path: str, odt_pa
             "・キーワード処理（sabotage/resupply等）: 注釈文があれば、文末に注釈文をつける。英語テキストにカッコ書きで注釈が続いていても、その注釈は出力しないこと。例: 「Sabotage. (Discard up to ...)」→「サボタージュする。（リザーブのカード最大1枚を対象とし、それを捨て札にする。）」",
             "・記号（[ウラ]/[表]/[両面]/＜サポート＞/[捨て札]/[永続]）: 括弧ごと固定表記を使う",
             "・カードタイプ（Character/Permanent/Spell/Hero）: 日本語のみ表記（英語名不要）。例: Character → キャラクター",
-            "・二つ名を持つカード名は、日本語のカード名では二つ名と名前の順を入れ替える。例: Leo, Relic Expert → 遺物の専門家、レオ",
+            "・カンマ区切りで通称を表しているカード名は、日本語のカード名では通称と名前の順を入れ替える。例: Leo, Relic Expert → 遺物の専門家、レオ",
+            "・&区切りのカード名は通称ではないためそのままの順序で訳す。&は「と」と訳す。 例: Akesha & Taru → アケシャとタル",
+            "・トークンを生成する個数が1個の場合は数を省略しない。例: create a ～ token -> ～トークン1個を生成する",
+            "・生け贄に捧げる個数が1個の場合は数を省略しない。例: sacrefice a character -> キャラクター1体を生け贄に捧げる",
+            "",
             "",
         ]
         for cat, entries in categories.items():
@@ -207,8 +211,6 @@ def _build_batch_prompt(batch: list[tuple[str, str]], keywords_path: str, odt_pa
                     lines.append(f"    備考: {note}")
             lines.append("")
         keywords_text = "\n".join(lines)
-
-    odt_text = _load_odt_examples(odt_path, max_samples=5)
 
     examples_text = ""
     if csv_path and os.path.exists(csv_path):
@@ -236,7 +238,6 @@ def _build_batch_prompt(batch: list[tuple[str, str]], keywords_path: str, odt_pa
     return f"""以下の{len(batch)}枚のAltered TCGカードを日本語に翻訳してください。
 
 {keywords_text}
-{odt_text}
 {examples_text}
 【翻訳対象】
 {cards_text}
