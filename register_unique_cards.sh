@@ -35,4 +35,4 @@ echo "依存パッケージを確認しています..."
 
 # ── メインスクリプトを実行 ──────────────────────────────
 echo ""
-"$PYTHON" register_unique_cards.py "$IMAGE"
+"$PYTHON" app/register_unique_cards.py "$IMAGE"

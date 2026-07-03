@@ -36,8 +36,8 @@ fi
 # ── 依存パッケージのインストール ────────────────────────
 echo "依存パッケージを確認しています..."
 "$PYTHON" -m pip install --quiet --upgrade pip
-"$PYTHON" -m pip install --quiet python-dotenv lxml docx2pdf reportlab
+"$PYTHON" -m pip install --quiet python-dotenv reportlab
 
 # ── メインスクリプトを実行 ──────────────────────────────
 echo ""
-"$PYTHON" export_jp_translation.py "$IMAGE" "$OUTPUT_DIR"
+"$PYTHON" app/export_jp_translation.py "$IMAGE" "$OUTPUT_DIR"

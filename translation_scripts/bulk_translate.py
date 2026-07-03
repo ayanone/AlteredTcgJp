@@ -25,13 +25,13 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
-sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).parent.parent))
 from dotenv import load_dotenv
 load_dotenv()
 
-from app.config import GEMINI_API_KEY, CSV_PATH, KEYWORDS_PATH, ODT_REFERENCE_PATH
-from app.services.card_recognizer import _call_gemini, _load_keywords, _load_odt_examples
-from app.services.csv_manager import load_csv, get_year_month, FIELDNAMES, _RARITY_ORDER
+from app.config import GEMINI_API_KEY, CSV_PATH, KEYWORDS_PATH
+from app.card_recognizer import _call_gemini, _load_keywords, _load_odt_examples
+from app.csv_manager import load_csv, get_year_month, FIELDNAMES, _RARITY_ORDER
 
 # ────────────────────────────────────────────────────────────────
 # 定数
@@ -345,7 +345,7 @@ def main():
         print(f"\n[バッチ {batch_num}/{total_batches}] {[n for n, _ in batch_names_effects]}")
 
         results = translate_batch(GEMINI_API_KEY, batch_names_effects,
-                                  KEYWORDS_PATH, ODT_REFERENCE_PATH, CSV_PATH)
+                                  KEYWORDS_PATH, None, CSV_PATH)
 
         if results is None:
             print("  → スキップ（後で再実行してください）")

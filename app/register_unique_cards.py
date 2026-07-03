@@ -12,14 +12,14 @@ import re
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from dotenv import load_dotenv
-load_dotenv(Path(__file__).parent / ".env")
+load_dotenv(Path(__file__).parent.parent / ".env")
 
-from app.config import GEMINI_API_KEY, CSV_PATH, UNIQUES_CSV_PATH, KEYWORDS_PATH, ODT_REFERENCE_PATH
-from app.services.csv_manager import load_csv, load_uniques, append_unique_translation
-from app.services.card_recognizer import _call_gemini, translate_card
+from app.config import GEMINI_API_KEY, CSV_PATH, UNIQUES_CSV_PATH, KEYWORDS_PATH
+from app.csv_manager import load_csv, load_uniques, append_unique_translation
+from app.card_recognizer import _call_gemini, translate_card
 
 
 RECOGNIZE_PROMPT = """この画像にはAltered TCGのユニークカードが複数枚含まれています。
@@ -182,7 +182,7 @@ def main():
             super_types=super_types,
             card_type=card_type,
             card_subtypes=card_subtypes,
-            odt_path=ODT_REFERENCE_PATH if ODT_REFERENCE_PATH else None,
+            odt_path=None,
         )
 
         if not translation:

@@ -15,11 +15,5 @@ UNIQUES_CSV_PATH = os.environ.get("UNIQUES_CSV_PATH", "uniques.csv")
 # キーワード辞書CSVのパス
 KEYWORDS_PATH = os.environ.get("KEYWORDS_PATH", "keywords.csv")
 
-# 和訳シールテンプレートのパス
-TEMPLATE_DOCX_PATH = os.environ.get("TEMPLATE_DOCX_PATH", "和訳シールテンプレ.docx")
-
-# 出力docxの保存先ディレクトリ
+# 出力pdfの保存先ディレクトリ
 OUTPUT_DIR = os.environ.get("OUTPUT_DIR", ".")
-
-# 翻訳スタイル参考ODTファイルのパス（任意）
-ODT_REFERENCE_PATH = os.environ.get("ODT_REFERENCE_PATH", "")
