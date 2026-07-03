@@ -94,7 +94,7 @@ def normalize_effect(text: str) -> str:
 def normalize_echo_effect(text: str) -> str:
     """ECHO_EFFECT の正規化。アイコン種別によって3種類に分岐:
     - {D}: ＜サポート＞[捨て札]: 形式（手札捨てコストのサポート能力）
-    - {I}: 先頭アイコンを除去し、そのままテキスト（WFM固有パッシブ予約能力）
+    - {I}: ＜サポート＞[永続] 形式（永続的に効果を発揮するサポート能力）
     - [[Completed]]: 達成済み状態トリガー（[[]]除去後にそのまま）
     """
     if not text:
@@ -116,7 +116,7 @@ def normalize_echo_effect(text: str) -> str:
         text = re.sub(r'^\{I\}\s*', '', text)
         for raw, repl in ICON_MAP.items():
             text = text.replace(raw, repl)
-        return f"[永続]{text.strip()}"
+        return f"＜サポート＞[永続]{text.strip()}"
 
     # その他（[[Completed]]トリガー等）は共通アイコン変換のみ
     for raw, repl in ICON_MAP.items():
@@ -162,10 +162,12 @@ def collect_cards(target_sets: list[str]) -> list[dict]:
                         effect = main_text + "\n" + echo_text
                     else:
                         effect = main_text or echo_text
+                    faction = (data.get("mainFaction") or {}).get("name", "")
                     cards.append({
                         "card_number": card_number,
                         "rarity": rarity,
                         "name": name,
+                        "faction": faction,
                         "effect": effect,
                     })
                 except Exception as e:
@@ -187,12 +189,12 @@ def _build_batch_prompt(batch: list[tuple[str, str]], keywords_path: str, odt_pa
         lines = ["【必ず以下の訳語・表記ルールを使うこと（変更禁止）】", ""]
         lines += [
             "■ 表記ルール",
-            "・状態キーワード（Fleeting/asleep/anchored等）: テキスト中では _日本語名_ とアンダースコアで囲む。英語テキストにカッコ書きで注釈が続いていても、その注釈は出力しないこと。例: 「Fleeting. (Send me to Discard...)」→「_一過_」",
+            "・状態キーワード（Fleeting/asleep/anchored等）: テキスト中では _日本語名_ とアンダースコアで囲み、文末に注釈文をつける。英語テキストにカッコ書きで注釈が続いていても、その注釈は出力しないこと。例: 「Fleeting. (Send me to Discard...)」→「_一過_（私がリザーブに送られるなら、代わりに捨て札にする。）」例: 「gain Anchored. (During Rest, ...)」→「_アンカー_を得る。（休息時、私はリザーブに送られず、代わりにアンカーを失う。）」",
             "・キーワード能力（Gigantic/Seasoned等）: 「日本語名（注釈文）」の形式で出力する。アンダースコアや句点は不要。例: 巨大（私はあなたの両方の探検隊に存在しているとみなす。）",
+            "・キーワード処理（sabotage/resupply等）: 注釈文があれば、文末に注釈文をつける。英語テキストにカッコ書きで注釈が続いていても、その注釈は出力しないこと。例: 「Sabotage. (Discard up to ...)」→「サボタージュする。（リザーブのカード最大1枚を対象とし、それを捨て札にする。）」",
             "・記号（[ウラ]/[表]/[両面]/＜サポート＞/[捨て札]/[永続]）: 括弧ごと固定表記を使う",
-            "・[永続]はリザーブに置かれている限り効果を発揮し続ける能力を示す固定表記。[永続]の後に能力テキストを続ける。",
             "・カードタイプ（Character/Permanent/Spell/Hero）: 日本語のみ表記（英語名不要）。例: Character → キャラクター",
-            "・サブタイプ（Robot/Plant/Mage等）: 能力テキスト中に登場する場合は「日本語名/サブタイプ名」の形式で表記。ただし「create ～ Token」の中に登場するサブタイプは日本語名のみ。",
+            "・二つ名を持つカード名は、日本語のカード名では二つ名と名前の順を入れ替える。例: Leo, Relic Expert → 遺物の専門家、レオ",
             "",
         ]
         for cat, entries in categories.items():
@@ -305,7 +307,7 @@ def main():
     unique_effects: dict[tuple, list] = {}
     for c in missing:
         key = (c["name"], c["effect"])
-        unique_effects.setdefault(key, []).append((c["card_number"], c["rarity"]))
+        unique_effects.setdefault(key, []).append((c["card_number"], c["rarity"], c.get("faction", "")))
 
     unique_list = list(unique_effects.items())
     if args.limit:
@@ -358,7 +360,7 @@ def main():
             if ability_jp:
                 print(f"    {ability_jp[:70]}")
 
-            for card_number, rarity in variants:
+            for card_number, rarity, faction_val in variants:
                 year_month = get_year_month(CSV_PATH, card_number)
                 if not year_month:
                     prefix = re.match(r"([A-Z]+)-", card_number)
@@ -368,6 +370,8 @@ def main():
                     "年月": year_month,
                     "カード番号": card_number,
                     "レアリティ": rarity,
+                    "陣営": faction_val,
+                    "英語名": name,
                     "日本語名": name_jp,
                     "能力": ability_jp,
                     "訳者コメント": "",
@@ -408,7 +412,7 @@ def _save_csv(all_rows: list[dict]):
 
     all_rows = sorted(all_rows, key=sort_key)
     with open(CSV_PATH, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(all_rows)
 
