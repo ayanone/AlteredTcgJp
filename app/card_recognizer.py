@@ -186,6 +186,8 @@ def translate_card(api_key, card_name, card_text, csv_path=None, keywords_path=N
             "・&区切りのカード名は通称ではないためそのままの順序で訳す。&は「と」と訳す。 例: Akesha & Taru → アケシャとタル",
             "・トークンを生成する個数が1個の場合は数を省略しない。例: create a ～ token -> ～トークン1個を生成する",
             "・生け贄に捧げる個数が1個の場合は数を省略しない。例: sacrefice a character -> キャラクター1体を生け贄に捧げる",
+            "・youであるかどうかは自明ではないため、訳す際に省略しない。例: Discard your hand. -> あなたの手札を捨てる。 例: in your landmarks -> あなたのランドマークに",
+            "・Iであるかどうかは自明ではないため、訳す際に省略しない。例: I gain 1 boost. -> 私は1ブーストを得る。 例: my expedition  -> 私の探検隊",
             "",
         ]
 
