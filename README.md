@@ -1,15 +1,6 @@
 # AlteredTcgJp
 
-Altered TCG のカードの日本語訳データ・和訳シール作成ツールです。
-
-## セットアップ
-
-1. [Python](https://www.python.org/) をインストールしてください。
-2. プロジェクトのルートに `.env` ファイルを作成し、Google AI Platform の API キーを以下のように記入してください。
-
-```
-GEMINI_API_KEY=あなたのAPIキー
-```
+Altered TCG のカードの非公式日本語訳データ・和訳シール作成ツールです。
 
 ## 日本語訳データ（AlteredTcgJp.csv）
 
@@ -61,6 +52,16 @@ GEMINI_API_KEY=あなたのAPIキー
 
 1. `AlteredTcgJp.csv` から必要なカードのテキストをコピーし、テンプレートに貼り付けます。
 2. 印刷時は **A4・フチなし** の設定にしてください。
+
+
+## セットアップ
+コマンドラインツールを使用するためには以下のセットアップが必要です。
+1. [Python](https://www.python.org/) をインストールしてください。
+2. プロジェクトのルートに `.env` ファイルを作成し、Google AI Platform の API キーを以下のように記入してください。
+
+```
+GEMINI_API_KEY=あなたのAPIキー
+```
 
 ## コマンドラインツール
 
