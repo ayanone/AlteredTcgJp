@@ -3,9 +3,8 @@ import json
 import re
 import urllib.request
 import urllib.error
-from pathlib import Path
 
-from app.prompts import COMMON_PROMPT
+from app.prompts import RECOGNIZE_PROMPT
 
 def _call_gemini(api_key, prompt, image_bytes=None, mime_type="image/jpeg", max_retries=3):
     """Gemini 2.0 Flash API を呼び出す。429時はリトライする"""
@@ -61,22 +60,7 @@ def recognize_card(api_key, image_bytes):
         dict with keys: card_number, rarity, card_name, card_text, faction
         失敗時は None
     """
-    prompt = f"""1枚目の画像はAltered TCGのカードです。以下の情報をJSON形式で返してください。
-{COMMON_PROMPT}""" + """
-【出力形式】
-{
-  "card_number": "ROC-102のように接頭辞-番号の形式（読み取れない場合はnull）",
-  "rarity": "U など1文字（読み取れない場合は宝石マークから推定、それも不明ならnull）",
-  "unique_number": "18245のような数字（ユニーク以外はnull）",
-  "card_name": "カード上部もしくはカード中央（Permanentの場合）に書かれた英語のカード名",
-  "faction": "Axiom / Bravos / Lyra / Muna / Ordis / Yzmir のいずれか（旗マークから判定、不明はnull）",
-  "super_types": ["Token", "Expedition", "Landmark" の特殊タイプのリスト。なければ空リスト],
-  "card_type": "Character / Permanent / Spell / Hero のいずれか",
-  "card_subtypes": ["Mage", "Plant", "Feat" などサブタイプのリスト。なければ空リスト],
-  "card_text": "上記ルールを適用したカードの能力テキスト全文（英語のまま）"
-}
-
-JSONのみ返してください。マークダウンのコードブロックは不要です。"""
+    prompt = f"""{RECOGNIZE_PROMPT}"""
 
     try:
         response = _call_gemini(api_key, prompt, image_bytes)

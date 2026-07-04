@@ -12,6 +12,9 @@ from pathlib import Path
 import base64
 import urllib.request
 
+import numpy as np
+import polars as pl
+
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
@@ -20,38 +23,26 @@ load_dotenv(Path(__file__).parent.parent / ".env")
 
 from app.config import GEMINI_API_KEY, CSV_PATH, UNIQUES_CSV_PATH, OUTPUT_DIR
 from app.csv_manager import load_csv, load_uniques
-from app.prompts import COMMON_PROMPT
+from app.prompts import RECOGNIZE_PROMPT
 
-RECOGNIZE_PROMPT = """画像にはAltered TCGのカードが複数枚含まれています。
-画像に写っているカードをすべてリストアップし、各カードについて以下の情報をJSON配列で返してください。
-{COMMON_PROMPT}""" + """
-【出力形式】
-[
-    {
-        "card_number": "ROC-102 のように接頭辞3文字-番号の形式（読み取れない場合はnull）",
-        "rarity": "R など1文字（読み取れない場合は宝石マークから推定）",
-        "unique_number": "ユニーク番号（非ユニークはnull）",
-        "card_name": "カード上部もしくはカード中央（Permanentの場合）に書かれた英語のカード名",
-        "faction": "Axiom / Bravos / Lyra / Muna / Ordis / Yzmir（旗マークから判定）"
-    }
-]
-
-JSON配列のみ返してください。マークダウンのコードブロックは不要です。"""
+blackets_match = re.compile("\(.*?\)")
 
 def _call_gemini(api_key, prompt, image_bytes=None, mime_type="image/jpeg", max_retries=3):
-    """Gemini 2.0 Flash API を呼び出す。429時はリトライする"""
+    """Gemini 3.0 Flash API を呼び出す。429時はリトライする"""
     import time
 
     url = (
         "https://generativelanguage.googleapis.com/v1beta/models/"
-        f"gemini-2.5-flash:generateContent?key={api_key}"
+        f"gemini-3.5-flash:generateContent?key={api_key}"
     )
 
-    parts = [{"text": prompt}]
+    parts = []
 
     if image_bytes is not None:
         b64 = base64.b64encode(image_bytes).decode("utf-8")
         parts.append({"inline_data": {"mime_type": mime_type, "data": b64}})
+
+    parts.append({"text": prompt})
 
     payload = json.dumps({
         "contents": [{"parts": parts}]
@@ -102,69 +93,201 @@ def recognize_all_cards(api_key, image_path):
     return json.loads(response)
 
 
+# csv_data を DataFrame にキャッシュする（同一オブジェクトなら再構築しない）
+_df_cache: tuple | None = None  # (id(csv_data), pl.DataFrame, list[row])
+
+_PRIMARY_LEV_FIELDS = [
+    # (card_info キー,  CSV列名,          重み)
+    ("card_name",      "英語名",          4),
+]
+
+_EXACT_FIELDS = [
+    # (card_info キー,  CSV列名,          重み)
+    ("rarity",         "レアリティ",      1),
+    ("faction",        "陣営",            1),
+    ("main_cost",      "手札コスト",      1),
+    ("recall_cost",    "リザーブコスト",  1),
+    ("forest",         "森",              1),
+    ("mountain",       "山",              1),
+    ("ocean",          "海",              1),
+]
+
+_SECONDARY_LEV_FIELDS = [
+    # (card_info キー,  CSV列名,          重み)
+    ("card_number",    "カード番号",      1),
+    ("card_type",      "カードタイプ",    1),
+    ("_subtypes",      "サブタイプ",      1),  # "_subtypes" は特別処理
+    ("card_text",      "英語能力",        2),
+]
+_ALL_CSV_COLS = [c for _, c, _ in _PRIMARY_LEV_FIELDS] + [c for _, c, _ in _SECONDARY_LEV_FIELDS] + [c for _, c, _ in _EXACT_FIELDS]
+
+
+def _build_df(csv_data: dict) -> tuple:
+    rows = list(csv_data.values())
+
+    def col(key):
+        return [str(r.get(key) or "").strip() for r in rows]
+
+    df = pl.DataFrame({c: col(c) for c in _ALL_CSV_COLS})
+    return df, rows
+
+
+def _get_df(csv_data: dict) -> tuple:
+    global _df_cache
+    if _df_cache is None or _df_cache[0] != id(csv_data):
+        df, rows = _build_df(csv_data)
+        _df_cache = (id(csv_data), df, rows)
+    return _df_cache[1], _df_cache[2]
+
+
+def _lev_dist(a: str, b: str) -> int:
+    """numpy配列ベースのレーベンシュタイン距離"""
+    a = blackets_match.sub("", a)
+    b = blackets_match.sub("", b)
+    if a == b:
+        return 0
+    la, lb = len(a), len(b)
+    if la == 0:
+        return lb
+    if lb == 0:
+        return la
+    prev = np.arange(lb + 1, dtype=np.int32)
+    curr = np.empty(lb + 1, dtype=np.int32)
+    for i, ca in enumerate(a):
+        curr[0] = i + 1
+        for j, cb in enumerate(b):
+            curr[j + 1] = min(prev[j + 1] + 1, curr[j] + 1, prev[j] + (ca != cb))
+        prev, curr = curr, prev
+    return int(prev[lb])
+
+
+_TOP_K = 20  # 一次フィルタで残す候補数
+
+
+def _score_exact_and_name(card_info: dict, df: pl.DataFrame) -> np.ndarray:
+    """
+    一次フィルタ用スコア: 完全一致フィールド全部 + 英語名（レーベンシュタイン）のみ計算。
+    全行に対して実行し、スコア配列を返す。
+    """
+    n = len(df)
+    total_score = np.zeros(n, dtype=np.float64)
+    total_weight = np.zeros(n, dtype=np.float64)
+
+    # 英語名（レーベンシュタイン）
+    for ocr_key, csv_col, weight in _PRIMARY_LEV_FIELDS:
+        ocr_val = (card_info.get(ocr_key) or "").strip()
+        if not ocr_val:
+            continue
+        csv_vals = df[csv_col].to_list()
+        la = len(ocr_val)
+        sims = np.array([
+            _lev_dist(ocr_val, v) / max(la, len(v)) if v else 1.0
+            for v in csv_vals
+        ], dtype=np.float64)
+        total_score += sims * weight
+        total_weight += weight
+
+    # 完全一致フィールド（polarsベクトル演算）
+    for ocr_key, csv_col, weight in _EXACT_FIELDS:
+        ocr_val = (card_info.get(ocr_key) or "").strip()
+        if not ocr_val:
+            continue
+        col = df[csv_col]
+        has_val = (col != "").to_numpy()
+        mismatch = (col != ocr_val).to_numpy().astype(np.float64)
+        total_score += mismatch * has_val * weight
+        total_weight += has_val * weight
+
+    mask = total_weight > 0
+    result = np.ones(n, dtype=np.float64)
+    result[mask] = total_score[mask] / total_weight[mask]
+    return result
+
+
+def _score_all(card_info: dict, df: pl.DataFrame) -> np.ndarray:
+    """
+    全CSV行に対する距離スコアをnumpy配列で一括計算する（0=完全一致、1=完全不一致）。
+    一次フィルタで上位 _TOP_K 件に絞ってから残りのレーベンシュタインフィールドを計算する。
+    """
+    subtypes_ocr = card_info.get("card_subtypes") or []
+    if isinstance(subtypes_ocr, list):
+        subtypes_ocr = "/".join(subtypes_ocr)
+
+    n = len(df)
+
+    # ── 一次フィルタ: 完全一致 + 英語名 ──────────────────────
+    first_scores = _score_exact_and_name(card_info, df)
+    if n > _TOP_K:
+        top_indices = np.argpartition(first_scores, _TOP_K)[:_TOP_K]
+    else:
+        top_indices = np.arange(n)
+    df_top = df[top_indices]
+
+    # ── 二次スコア: 残りのレーベンシュタインフィールドを追加 ──
+    k = len(top_indices)
+    total_score = np.zeros(k, dtype=np.float64)
+    total_weight = np.zeros(k, dtype=np.float64)
+
+    # 一次フィルタで計算済みのスコアを引き継ぐ（英語名 + 完全一致分）
+    total_score += first_scores[top_indices]
+    # 一次フィルタの重みを再計算して引き継ぐ
+    name_weight = 4.0 if (card_info.get("card_name") or "").strip() else 0.0
+    exact_weight = sum(
+        w for key, _, w in _EXACT_FIELDS if (card_info.get(key) or "").strip()
+    )
+    inherited_weight = name_weight + exact_weight
+    total_weight += inherited_weight
+
+    # 残りのレーベンシュタインフィールド
+    for ocr_key, csv_col, weight in _SECONDARY_LEV_FIELDS:
+        ocr_val = subtypes_ocr if ocr_key == "_subtypes" else (card_info.get(ocr_key) or "").strip()
+        if not ocr_val:
+            continue
+        csv_vals = df_top[csv_col].to_list()
+        la = len(ocr_val)
+        sims = np.array([
+            _lev_dist(ocr_val, v) / max(la, len(v)) if v else 1.0
+            for v in csv_vals
+        ], dtype=np.float64)
+        total_score += sims * weight
+        total_weight += weight
+
+    mask = total_weight > 0
+    top_result = np.ones(k, dtype=np.float64)
+    top_result[mask] = total_score[mask] / total_weight[mask]
+
+    # 全行スコアに書き戻す（足切りされた行は 1.0 のまま）
+    result = np.ones(n, dtype=np.float64)
+    result[top_indices] = top_result
+    return result
+
+
 def lookup_translation(card_info, csv_data, uniques_data):
     """
     カード情報から翻訳行を返す。見つからなければ None。
 
-    検索優先順位:
-      1. ユニークカード: カード番号 + ユニーク番号
-      2. 英語名 + レアリティ + 陣営（カード名は大きく明瞭なためOCR精度が高い）
-      3. カード番号 + レアリティ（番号はOCRで誤読されやすいため補助的に使用）
+    ユニークカード（rarity=U）はカード番号＋ユニーク番号で直接検索する。
+    それ以外は、各フィールドの類似度スコア（0=完全一致）を重み付き平均して
+    最もスコアが低い行をマッチ結果とする。
 
-    レアリティ曖昧ケースの処理:
-      識別文字列が不明でOCRがデフォルト値を返した場合、カード名と陣営でCSVと突合して正確なレアリティを取得する。
-      ・C（宝石なし）→ C / H / T の可能性あり。カード名で一意に特定できる。
-      ・R（青宝石）→ R / F の可能性あり。カード名 + 陣営で特定する（同名で陣営が異なればF）。
+    重み: card_name・card_text = 4、その他 = 1
     """
     rarity = (card_info.get("rarity") or "").strip()
     card_number = (card_info.get("card_number") or "").strip()
     unique_number = card_info.get("unique_number")
-    card_name = (card_info.get("card_name") or "").strip()
-    faction = (card_info.get("faction") or "").strip()
 
-    # 1. ユニークカード: カード番号 + ユニーク番号
+    # ユニークカード: カード番号 + ユニーク番号で直接検索
     if rarity == "U" and card_number and unique_number:
         row = uniques_data.get((card_number, str(unique_number)))
         if row:
             return row
 
-    # 2. 英語名 + レアリティ + 陣営（優先）
-    if card_name:
-        name_lower = card_name.lower()
-        candidates = [r for r in csv_data.values()
-                      if r.get("英語名", "").lower() == name_lower]
-        if candidates:
-            # レアリティでの絞り込み:
-            # OCRが W を返した場合は C/H/T すべてを候補に残す（カード名で一意に決まる）
-            # OCRが B を返した場合は R/F を候補に残し、陣営で絞り込む
-            if rarity == "W":
-                filtered = [r for r in candidates if r["レアリティ"] in ("C", "H", "T")]
-                if filtered:
-                    candidates = filtered
-            elif rarity == "B":
-                filtered = [r for r in candidates if r["レアリティ"] in ("R", "F")]
-                if filtered:
-                    candidates = filtered
-            elif rarity:
-                filtered = [r for r in candidates if r["レアリティ"] == rarity]
-                if filtered:
-                    candidates = filtered
+    if not csv_data:
+        return None
 
-            # 陣営で絞り込む（R/F の区別と F の特定に使用）
-            if faction:
-                filtered = [r for r in candidates if r.get("陣営", "") == faction]
-                if filtered:
-                    candidates = filtered
-
-            return candidates[0]
-
-    # 3. カード番号 + レアリティ（フォールバック）
-    if card_number and rarity:
-        row = csv_data.get((card_number, rarity))
-        if row:
-            return row
-
-    return None
+    df, rows = _get_df(csv_data)
+    scores = _score_all(card_info, df)
+    return rows[int(np.argmin(scores))]
 
 
 def generate_pdf_direct(sticker_cards, pdf_path):
@@ -394,10 +517,10 @@ def main():
                 "name_jp":     row["日本語名"],
                 "ability_jp":  row["能力"],
             })
-            print(f"  ✓  {name} ({card_info.get('rarity','?')}) → {row['日本語名']}")
+            print(f"  ✓  {name}  → {row['カード番号']}-{row['レアリティ']} {row['日本語名']}")
         else:
             not_found.append(card_info)
-            print(f"  ✗  {name} ({card_info.get('rarity','?')}) [card_number={card_info.get('card_number')}] — 翻訳データなし")
+            print(f"  ✗  {name}  [card_number={card_info.get('card_number')}] — 翻訳データなし")
 
     print(f"\n翻訳データ: {len(sticker_cards)}/{len(cards_raw)} 枚")
 

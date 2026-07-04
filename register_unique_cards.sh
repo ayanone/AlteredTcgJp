@@ -31,7 +31,7 @@ fi
 # ── 依存パッケージのインストール ────────────────────────
 echo "依存パッケージを確認しています..."
 "$PYTHON" -m pip install --quiet --upgrade pip
-"$PYTHON" -m pip install --quiet python-dotenv lxml
+"$PYTHON" -m pip install --quiet -r requirements.txt
 
 # ── メインスクリプトを実行 ──────────────────────────────
 echo ""
