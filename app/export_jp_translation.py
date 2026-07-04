@@ -20,46 +20,20 @@ load_dotenv(Path(__file__).parent.parent / ".env")
 
 from app.config import GEMINI_API_KEY, CSV_PATH, UNIQUES_CSV_PATH, OUTPUT_DIR
 from app.csv_manager import load_csv, load_uniques
-from app.card_recognizer import _call_gemini
+from app.prompts import COMMON_PROMPT
 
-
-RECOGNIZE_PROMPT = """この画像にはAltered TCGのカードが複数枚含まれています。
+RECOGNIZE_PROMPT = """画像にはAltered TCGのカードが複数枚含まれています。
 画像に写っているカードをすべてリストアップし、各カードについて以下の情報をJSON配列で返してください。
-
-【カード番号・レアリティの読み取り】
-カードの下部にある識別文字列（例: BTG-052-R）から読み取ってください。
-レアリティ: C（コモン）/ R（レア）/ F（色違い）/ E（エグザルテッド）/ H（ヒーロー）/ U（ユニーク）/ T（トークン）
-
-通常カード: 「BTG-052-R」→ card_number=BTG-052, rarity=R, unique_number=null
-ユニーク:   「ROC-102-U-18245」→ card_number=ROC-102, rarity=U, unique_number=18245
-
-カード番号が読み取れない場合は card_number=null とし、宝石マーク・旗マークの色でレアリティと陣営を判定してください。
-
-【宝石マーク（カード名の上）によるレアリティ判定】
-・宝石マークなし（白い円） → C / H / T のいずれか（カード名で区別できます）
-・青色の宝石マーク → R または F（旗マークの色で区別）
-・銅色の宝石マーク → E（エグザルテッド）
-・金色の宝石マーク → U（ユニーク）
-
-【旗マーク（カード右上）による陣営・R/F判定】
-・茶色 → Axiom
-・赤   → Bravos
-・ピンク → Lyra
-・緑   → Muna
-・青   → Ordis
-・紫   → Yzmir
-
-同名カードで陣営が異なる方が F（色違い）、同名コモンカードと同じ陣営の方が R（レア）です。
-
+{COMMON_PROMPT}""" + """
 【出力形式】
 [
-  {
-    "card_number": "BTG-052（読み取れない場合はnull）",
-    "rarity": "R（読み取れない場合は宝石マークから推定）",
-    "unique_number": "ユニーク番号（非ユニークはnull）",
-    "card_name": "カード上部の英語カード名",
-    "faction": "Axiom / Bravos / Lyra / Muna / Ordis / Yzmir（旗マークから判定）"
-  }
+    {
+        "card_number": "ROC-102 のように接頭辞3文字-番号の形式（読み取れない場合はnull）",
+        "rarity": "R など1文字（読み取れない場合は宝石マークから推定）",
+        "unique_number": "ユニーク番号（非ユニークはnull）",
+        "card_name": "カード上部もしくはカード中央（Permanentの場合）に書かれた英語のカード名",
+        "faction": "Axiom / Bravos / Lyra / Muna / Ordis / Yzmir（旗マークから判定）"
+    }
 ]
 
 JSON配列のみ返してください。マークダウンのコードブロックは不要です。"""
@@ -74,6 +48,7 @@ def _call_gemini(api_key, prompt, image_bytes=None, mime_type="image/jpeg", max_
     )
 
     parts = [{"text": prompt}]
+
     if image_bytes is not None:
         b64 = base64.b64encode(image_bytes).decode("utf-8")
         parts.append({"inline_data": {"mime_type": mime_type, "data": b64}})
@@ -160,13 +135,13 @@ def lookup_translation(card_info, csv_data, uniques_data):
                       if r.get("英語名", "").lower() == name_lower]
         if candidates:
             # レアリティでの絞り込み:
-            # OCRがデフォルト C を返した場合は C/H/T すべてを候補に残す（カード名で一意に決まる）
-            # OCRがデフォルト R を返した場合は R/F を候補に残し、陣営で絞り込む
-            if rarity == "C":
+            # OCRが W を返した場合は C/H/T すべてを候補に残す（カード名で一意に決まる）
+            # OCRが B を返した場合は R/F を候補に残し、陣営で絞り込む
+            if rarity == "W":
                 filtered = [r for r in candidates if r["レアリティ"] in ("C", "H", "T")]
                 if filtered:
                     candidates = filtered
-            elif rarity == "R":
+            elif rarity == "B":
                 filtered = [r for r in candidates if r["レアリティ"] in ("R", "F")]
                 if filtered:
                     candidates = filtered
@@ -399,6 +374,10 @@ def main():
     print(f"{len(cards_raw)} 枚のカードを検出しました。")
 
     # --- Step 2: 翻訳データ検索 ---
+    log_path = os.path.join(output_dir, f"ocr_log.txt")
+    with open(log_path, "wt", encoding="utf-8") as f:
+        json.dump(cards_raw, f, indent=4)
+        
     csv_data = load_csv(CSV_PATH)
     uniques_data = load_uniques(UNIQUES_CSV_PATH) if os.path.exists(UNIQUES_CSV_PATH) else {}
 
