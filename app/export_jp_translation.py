@@ -103,14 +103,14 @@ _PRIMARY_LEV_FIELDS = [
 
 _EXACT_FIELDS = [
     # (card_info キー,  CSV列名,          重み)
-    ("rarity_ocr",     "レアリティ",      0.6),
-    ("rarity_symbol",  "レアリティ",      0.4),
+    ("rarity_ocr",     "レアリティ",      1),
+    ("rarity_symbol",  "レアリティ",      0.5),
     ("faction",        "陣営",            1),
     ("main_cost",      "手札コスト",      1),
     ("recall_cost",    "リザーブコスト",  1),
-    ("forest",         "森",              1),
-    ("mountain",       "山",              1),
-    ("ocean",          "海",              1),
+    ("forest",         "森",              0.5),
+    ("mountain",       "山",              0.5),
+    ("ocean",          "海",              0.5),
 ]
 
 _SECONDARY_LEV_FIELDS = [
