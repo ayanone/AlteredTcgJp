@@ -103,7 +103,8 @@ _PRIMARY_LEV_FIELDS = [
 
 _EXACT_FIELDS = [
     # (card_info キー,  CSV列名,          重み)
-    ("rarity",         "レアリティ",      1),
+    ("rarity_ocr",     "レアリティ",      0.6),
+    ("rarity_symbol",  "レアリティ",      0.4),
     ("faction",        "陣営",            1),
     ("main_cost",      "手札コスト",      1),
     ("recall_cost",    "リザーブコスト",  1),
@@ -115,6 +116,7 @@ _EXACT_FIELDS = [
 _SECONDARY_LEV_FIELDS = [
     # (card_info キー,  CSV列名,          重み)
     ("card_number",    "カード番号",      1),
+    ("unique_number",  "ユニーク番号",    1),
     ("card_type",      "カードタイプ",    1),
     ("_subtypes",      "サブタイプ",      1),  # "_subtypes" は特別処理
     ("card_text",      "英語能力",        2),
@@ -272,18 +274,15 @@ def lookup_translation(card_info, csv_data, uniques_data):
 
     重み: card_name・card_text = 4、その他 = 1
     """
-    rarity = (card_info.get("rarity") or "").strip()
-    card_number = (card_info.get("card_number") or "").strip()
-    unique_number = card_info.get("unique_number")
+    rarity_ocr = (card_info.get("rarity_ocr") or "").strip()
+    rarity_symbol = (card_info.get("rarity_symbol") or "").strip()
 
     # ユニークカード: カード番号 + ユニーク番号で直接検索
-    if rarity == "U" and card_number and unique_number:
-        row = uniques_data.get((card_number, str(unique_number)))
-        if row:
-            return row
-
-    if not csv_data:
-        return None
+    if rarity_ocr == "U" or rarity_symbol == "U":
+        df, rows = _get_df(uniques_data)
+        scores = _score_all(card_info, df)
+        if np.min(scores) < 0.3:
+            return rows[int(np.argmin(scores))]
 
     df, rows = _get_df(csv_data)
     scores = _score_all(card_info, df)
