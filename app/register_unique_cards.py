@@ -1,13 +1,11 @@
 """
 Usage: python register_unique_cards.py <image_path>
 
-画像内のユニークカードを Gemini API で認識し、
-AlteredTcgJp.csv の日本語カード名を使いながら能力テキストを翻訳して
+画像内のユニークカードを Gemini API で認識し、英語名と能力テキストを一括翻訳して
 uniques.csv に登録する。
 """
 import sys
 import os
-import json
 import re
 from pathlib import Path
 
@@ -18,94 +16,44 @@ from dotenv import load_dotenv
 load_dotenv(Path(__file__).parent.parent / ".env")
 
 from app.config import GEMINI_API_KEY, CSV_PATH, UNIQUES_CSV_PATH, KEYWORDS_PATH
-from app.csv_manager import load_csv, load_uniques, append_unique_translation
-from app.card_recognizer import _call_gemini, translate_card
+from app.csv_manager import load_csv, load_uniques, append_unique_translation, lookup_csv_row
+from app.export_jp_translation import recognize_all_cards
+from app.translate_card import translate_card
 
+TRANSLATE_PROMPT_TEMPLATE = """\
+以下はAltered TCGのユニークカードの英語能力テキストリストです。
+各カードの能力テキスト（card_text）を日本語に翻訳してください。
 
-RECOGNIZE_PROMPT = """この画像にはAltered TCGのユニークカードが複数枚含まれています。
-画像に写っているユニークカードをすべてリストアップし、各カードについて以下の情報をJSON配列で返してください。
+翻訳ルール:
+- AlteredTCGの公式日本語版の訳文スタイルに合わせて翻訳する。
+- card_text 内の {{H}} {{R}} {{J}} {{T}} {{D}} [1] [2] などの記号はそのまま残す。
+- [Support] は ＜サポート＞ に、[Completed] は ＜達成済み＞ に置き換える。
+- card_text が空の場合は ability_jp も空文字にする。
 
-【カード番号・ユニーク番号の読み取り】
-カード下部の識別文字列（例: BTG-029-U-2080）から読み取ってください。
-- card_number: 接頭辞-番号の部分（例: BTG-029）
-- unique_number: 末尾の個体番号（例: 2080）
+入力JSON:
+{input_json}
 
-番号の桁数は必ず原文のまま読み取ってください（0埋めせず、見えた通りに）。
-
-【カードテキストの記号変換ルール（必ず適用すること）】
-以下のアイコン・記号を指定の文字列に置き換えてテキストを出力してください。
-
-・テキスト欄に手のアイコンがある → [Recto] と書く
-・テキスト欄にカードが光っているようなアイコン（予約アイコン）がある → [Turbo] と書く
-・テキスト欄に右向き矢印のアイコンがある → [Dual] と書く
-・テキスト欄に丸で囲まれた数字（①②③など）がある → [1][2][3] のように角括弧付きの数字に置き換える
-・テキスト欄にカードの上にXが書いてあるアイコン（破棄アイコン）がある → [Discard] と書く
-・サポート能力欄の識別方法と読み取り方:
-  カード下部のテキスト欄は2つの領域に分かれています。
-  上側の領域（MAIN_EFFECT）: 背景が透明でカードイラストが透けて見える。
-  下側の領域（ECHO_EFFECT / サポート能力）: 背景がカード右上の旗マークと同じ陣営カラーで単一色に塗りつぶされている。
-    （Axiom=茶色、Bravos=赤、Lyra=ピンク、Muna=緑、Ordis=青、Yzmir=紫、中立=グレー）
-  この塗りつぶし背景の領域に書かれているテキストがサポート能力です。
-  サポート能力が存在する場合は、そのテキストの先頭に [Support] を付けて card_text に続けてください。
-
-【キャラクターのスタッツについて】
-Altered のキャラクターには必ず3つのスタッツがあります（Mountain/Forest/Water の順）。
-カードテキスト中に「1/1 Soldier token」のように見える場合でも、実際は「1/1/1」の3値です。
-トークンを生成する効果（"Create a ... token"）では、必ずスタッツを3値で読み取ってください。
-
-【出力形式】
+以下の形式のJSON配列のみを返してください（マークダウン不要）:
 [
-  {
-    "card_number": "BTG-029（見えた通り、0埋め不要）",
-    "unique_number": "2080",
-    "card_name": "カード上部の英語カード名",
-    "faction": "Axiom / Bravos / Lyra / Muna / Ordis / Yzmir（旗マークの色から判定: 茶=Axiom, 赤=Bravos, ピンク=Lyra, 緑=Muna, 青=Ordis, 紫=Yzmir）",
-    "card_type": "Character / Permanent / Spell / Hero のいずれか",
-    "super_types": ["Token", "Expedition", "Landmark" の特殊タイプ。なければ空リスト],
-    "card_subtypes": ["Mage", "Plant" などサブタイプ。なければ空リスト],
-    "card_text": "上記ルールを適用したカードの能力テキスト全文（英語のまま）"
-  }
+  {{
+    "index": 0,
+    "ability_jp": "翻訳した日本語能力テキスト"
+  }},
+  ...
 ]
-
-JSON配列のみ返してください。マークダウンのコードブロックは不要です。"""
+"""
 
 
 def _pad_card_number(card_number: str) -> str:
-    """
-    カード番号の数字部分を3桁に0埋めする。
-    例: SKY-22 → SKY-022, BTG-029 → BTG-029（変化なし）
-    """
+    """カード番号の数字部分を3桁に0埋めする。例: SKY-22 → SKY-022"""
     m = re.match(r"^([A-Za-z]+)-(\d+)$", card_number)
     if not m:
         return card_number
-    prefix, num = m.group(1), m.group(2)
-    return f"{prefix}-{num.zfill(3)}"
+    return f"{m.group(1)}-{m.group(2).zfill(3)}"
 
 
-def recognize_all_unique_cards(api_key: str, image_path: str) -> list:
-    """画像内のユニークカードをすべて認識してリストで返す"""
-    with open(image_path, "rb") as f:
-        image_bytes = f.read()
-
-    ext = Path(image_path).suffix.lower().lstrip(".")
-    mime_map = {
-        "jpg": "image/jpeg", "jpeg": "image/jpeg",
-        "png": "image/png", "webp": "image/webp", "gif": "image/gif",
-    }
-    mime = mime_map.get(ext, "image/jpeg")
-
-    response = _call_gemini(api_key, RECOGNIZE_PROMPT, image_bytes, mime)
-    response = response.strip()
-    response = re.sub(r"^```[a-z]*\n?", "", response)
-    response = re.sub(r"\n?```$", "", response)
-    return json.loads(response)
-
-
-def lookup_csv_row(csv_data: dict, card_number: str) -> dict | None:
-    """
-    カード番号でCSVを検索して最初にヒットした行を返す（複数レアリティがある場合は最初の1件）。
-    日本語名・年月の取得に使う。
-    """
+def _lookup_csv_row(csv_data: dict, card_number: str) -> dict | None:
+    """カード番号でCSVを検索して最初にヒットした行を返す"""
     for (num, _rarity), row in csv_data.items():
         if num == card_number:
             return row
@@ -126,17 +74,64 @@ def main():
         print("エラー: GEMINI_API_KEY が設定されていません。.env ファイルを確認してください。")
         sys.exit(1)
 
+    # --- Step 1: OCR ---
     print(f"画像を認識中: {image_path}")
-    cards = recognize_all_unique_cards(GEMINI_API_KEY, image_path)
-    print(f"  → {len(cards)} 枚のユニークカードを検出")
+    cards_raw = recognize_all_cards(GEMINI_API_KEY, image_path)
+    print(f"  → {len(cards_raw)} 枚のカードを検出")
 
+    csv_data = load_csv(CSV_PATH)
+    uniques_data = load_uniques(UNIQUES_CSV_PATH) if os.path.exists(UNIQUES_CSV_PATH) else {}
+
+    # --- Step 2: ユニークカードの絞り込み・既登録チェック ---
+    to_translate = []   # 翻訳が必要なカード
+
+    for card in cards_raw:
+        rarity = (card.get("rarity") or card.get("rarity_ocr") or "").strip()
+        if rarity != "U":
+            continue
+
+        raw_number = (card.get("card_number") or "").strip()
+        unique_number = str(card.get("unique_number") or "").strip()
+
+        if not raw_number or not unique_number:
+            print(f"  スキップ（カード番号またはユニーク番号が読み取れませんでした）: {card.get('card_name')}")
+            continue
+
+        card_number = _pad_card_number(raw_number)
+        if card_number != raw_number:
+            print(f"  カード番号を補正: {raw_number} → {card_number}")
+
+        if (card_number, unique_number) in uniques_data:
+            print(f"  スキップ（登録済み）: {card_number}-U-{unique_number} {card.get('card_name')}")
+            continue
+
+        csv_row = _lookup_csv_row(csv_data, card_number)
+        year_month = csv_row.get("年月", "") if csv_row else ""
+        name_jp = csv_row.get("日本語名", "") if csv_row else ""
+
+        entry = {
+            "index": len(to_translate),
+            "card_number": card_number,
+            "unique_number": unique_number,
+            "card_name": (card.get("card_name") or "").strip(),
+            "card_text": (card.get("card_text") or "").strip(),
+            "name_jp": name_jp,
+            "year_month": year_month,
+        }
+        to_translate.append(entry)
+
+    if not to_translate:
+        print("登録対象のユニークカードがありませんでした。")
+        return
+
+    print(f"\n{len(to_translate)} 枚を翻訳中...")
     csv_data = load_csv(CSV_PATH)
     uniques_data = load_uniques(UNIQUES_CSV_PATH)
 
     registered = 0
     skipped = 0
 
-    for card in cards:
+    for card in to_translate:
         raw_number = (card.get("card_number") or "").strip()
         unique_number = str(card.get("unique_number") or "").strip()
         card_name = (card.get("card_name") or "").strip()
@@ -199,11 +194,10 @@ def main():
 
         append_unique_translation(
             UNIQUES_CSV_PATH,
-            card_number=card_number,
-            unique_number=unique_number,
+            year_month=year_month,
             name_jp=name_jp,
             ability_jp=ability_jp,
-            year_month=year_month,
+            card=card,
         )
         print(f"    登録完了: {name_jp}")
         registered += 1

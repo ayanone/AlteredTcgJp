@@ -30,7 +30,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from app.config import GEMINI_API_KEY, CSV_PATH, KEYWORDS_PATH
-from app.card_recognizer import _call_gemini, _load_keywords
+from app.translate_card import _call_gemini, _load_keywords
 from app.csv_manager import load_csv, get_year_month, FIELDNAMES, _RARITY_ORDER
 
 # ────────────────────────────────────────────────────────────────

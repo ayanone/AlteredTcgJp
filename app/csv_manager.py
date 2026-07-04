@@ -125,25 +125,31 @@ def find_unique_translation(csv_path, card_number, unique_number):
     return load_uniques(csv_path).get((card_number, str(unique_number)))
 
 
-def append_unique_translation(csv_path, card_number, unique_number, name_jp, ability_jp,
-                              comment="", year_month=None):
+def append_unique_translation(csv_path, year_month, name_jp, ability_jp, card):
     """ユニークカードの翻訳を uniques.csv に追加してソート保存する"""
     existing = load_uniques(csv_path)
-    key = (card_number, str(unique_number))
+    key = (card["card_number"], str(card["unique_number"]))
     if key in existing:
         return
 
-    if not year_month:
-        year_month = get_year_month(csv_path, card_number)
-
     new_row = {
         "年月": year_month,
-        "カード番号": card_number,
+        "カード番号": card["card_number"],
         "レアリティ": "U",
-        "ユニーク番号": str(unique_number),
+        "ユニーク番号": str(card["unique_number"]),
+        "陣営": card["faction"],
+        "英語名": card["card_name"],
+        "カードタイプ": card["card_type"],
+        "サブタイプ": "/".join(card["_subtypes"]),
+        "手札コスト": card["main_cost"],
+        "リザーブコスト": card["recall_cost"],
+        "森": card["forest"],
+        "山": card["mountain"],
+        "海": card["ocean"],
+        "英語能力": card["card_text"],
         "日本語名": name_jp,
         "能力": ability_jp,
-        "訳者コメント": comment,
+        "訳者コメント": "",
     }
     all_rows = list(existing.values()) + [new_row]
     rows_sorted = sorted(all_rows, key=_unique_sort_key)

@@ -4,15 +4,13 @@ import re
 import urllib.request
 import urllib.error
 
-from app.prompts import RECOGNIZE_PROMPT
-
 def _call_gemini(api_key, prompt, image_bytes=None, mime_type="image/jpeg", max_retries=3):
     """Gemini 2.0 Flash API を呼び出す。429時はリトライする"""
     import time
 
     url = (
         "https://generativelanguage.googleapis.com/v1beta/models/"
-        f"gemini-2.5-flash:generateContent?key={api_key}"
+        f"gemini-3.5-flash:generateContent?key={api_key}"
     )
 
     parts = [{"text": prompt}]
@@ -50,29 +48,6 @@ def _call_gemini(api_key, prompt, image_bytes=None, mime_type="image/jpeg", max_
             else:
                 raise
     raise RuntimeError("Gemini API: リトライ上限に達しました")
-
-
-def recognize_card(api_key, image_bytes):
-    """
-    カード画像からカード番号・レアリティ・カード名・テキストを抽出する。
-    カード番号が見えない場合はカード名・宝石色・旗色からカードを特定する。
-    Returns:
-        dict with keys: card_number, rarity, card_name, card_text, faction
-        失敗時は None
-    """
-    prompt = f"""{RECOGNIZE_PROMPT}"""
-
-    try:
-        response = _call_gemini(api_key, prompt, image_bytes)
-        response = response.strip()
-        # ```json ... ``` 形式で返ってきた場合に対応
-        response = re.sub(r"^```[a-z]*\n?", "", response)
-        response = re.sub(r"\n?```$", "", response)
-        data = json.loads(response)
-        return data
-    except Exception as e:
-        print(f"recognize_card error: {e}")
-        return None
 
 
 def _load_keywords(keywords_path):
