@@ -1,9 +1,9 @@
 .env
-.pyc
+*.pyc
 .venv/
 .claude/
 CARDS/
-_pycache_/
-.pdf
+**/__pycache__/**
+*.pdf
 uniques.csv
 *log.txt

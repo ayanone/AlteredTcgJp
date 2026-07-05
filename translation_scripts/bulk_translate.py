@@ -30,7 +30,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from app.config import GEMINI_API_KEY, CSV_PATH, KEYWORDS_PATH
-from app.card_recognizer import _call_gemini, _load_keywords
+from app.translate_card import _call_gemini, _load_keywords
 from app.csv_manager import load_csv, get_year_month, FIELDNAMES, _RARITY_ORDER
 
 # ────────────────────────────────────────────────────────────────
@@ -192,13 +192,14 @@ def _build_batch_prompt(batch: list[tuple[str, str]], keywords_path: str, odt_pa
             "・状態キーワード（Fleeting/asleep/anchored等）: テキスト中では _日本語名_ とアンダースコアで囲み、文末に注釈文をつける。英語テキストにカッコ書きで注釈が続いていても、その注釈は出力しないこと。例: 「Fleeting. (Send me to Discard...)」→「_一過_（私がリザーブに送られるなら、代わりに捨て札にする。）」例: 「gain Anchored. (During Rest, ...)」→「_アンカー_を得る。（休息時、私はリザーブに送られず、代わりにアンカーを失う。）」",
             "・キーワード能力（Gigantic/Seasoned等）: 「日本語名（注釈文）」の形式で出力する。アンダースコアや句点は不要。例: 巨大（私はあなたの両方の探検隊に存在しているとみなす。）",
             "・キーワード処理（sabotage/resupply等）: 注釈文があれば、文末に注釈文をつける。英語テキストにカッコ書きで注釈が続いていても、その注釈は出力しないこと。例: 「Sabotage. (Discard up to ...)」→「サボタージュする。（リザーブのカード最大1枚を対象とし、それを捨て札にする。）」",
-            "・記号（[ウラ]/[表]/[両面]/＜サポート＞/[捨て札]/[永続]）: 括弧ごと固定表記を使う",
+            "・記号（[ウラ]/[表]/[両面]/＜サポート＞/[捨て札]/[永続]/＜_達成済み_＞）: 括弧ごと固定表記を使う",
             "・カードタイプ（Character/Permanent/Spell/Hero）: 日本語のみ表記（英語名不要）。例: Character → キャラクター",
             "・カンマ区切りで通称を表しているカード名は、日本語のカード名では通称と名前の順を入れ替える。例: Leo, Relic Expert → 遺物の専門家、レオ",
             "・&区切りのカード名は通称ではないためそのままの順序で訳す。&は「と」と訳す。 例: Akesha & Taru → アケシャとタル",
             "・トークンを生成する個数が1個の場合は数を省略しない。例: create a ～ token -> ～トークン1個を生成する",
             "・生け贄に捧げる個数が1個の場合は数を省略しない。例: sacrefice a character -> キャラクター1体を生け贄に捧げる",
-            "",
+            "・youであるかどうかは自明ではないため、訳す際に省略しない。例: Discard your hand. -> あなたの手札を捨てる。 例: in your landmarks -> あなたのランドマークに",
+            "・Iであるかどうかは自明ではないため、訳す際に省略しない。例: I gain 1 boost. -> 私は1ブーストを得る。 例: my expedition  -> 私の探検隊",
             "",
         ]
         for cat, entries in categories.items():
