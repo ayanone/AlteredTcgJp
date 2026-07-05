@@ -72,8 +72,7 @@ def _load_keywords(keywords_path):
     return result
 
 
-def translate_card(api_key, card_name, card_text, csv_path=None, keywords_path=None,
-                   super_types=None, card_type=None, card_subtypes=None):
+def translate_card(api_key, card_name, card_text, csv_path=None, keywords_path=None, card_type=None):
     """
     カード名とテキストを日本語に翻訳する。
     csv_path      : 既存翻訳CSVのパス（スタイル参考例に使う）
@@ -140,7 +139,8 @@ def translate_card(api_key, card_name, card_text, csv_path=None, keywords_path=N
 
     # パーマネントの特殊タイプ注釈文ルール
     permanent_rule = ""
-    if card_type == "Permanent" and super_types and keywords:
+    if "Permanent" in card_type and keywords:
+        super_types = card_type.split(" ")[:-1]
         annotations = []
         for super_type in super_types:
             if super_type in keywords:

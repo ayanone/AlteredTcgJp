@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 load_dotenv(Path(__file__).parent.parent / ".env")
 
 from app.config import GEMINI_API_KEY, CSV_PATH, UNIQUES_CSV_PATH, KEYWORDS_PATH
-from app.csv_manager import load_csv, load_uniques, append_unique_translation, lookup_csv_row
+from app.csv_manager import load_csv, load_uniques, append_unique_translation
 from app.export_jp_translation import recognize_all_cards
 from app.translate_card import translate_card
 
@@ -86,8 +86,7 @@ def main():
     to_translate = []   # 翻訳が必要なカード
 
     for card in cards_raw:
-        rarity = (card.get("rarity") or card.get("rarity_ocr") or "").strip()
-        if rarity != "U":
+        if card.get("rarity_ocr") != "U" or card.get("rarity_symbol") != "U":
             continue
 
         raw_number = (card.get("card_number") or "").strip()
@@ -113,6 +112,15 @@ def main():
             "index": len(to_translate),
             "card_number": card_number,
             "unique_number": unique_number,
+            "faction": card["faction"],
+            "card_name": card["card_name"],
+            "card_type": card["card_type"],
+            "card_subtypes": card["card_subtypes"],
+            "main_cost": card["main_cost"],
+            "recall_cost": card["recall_cost"],
+            "forest": card["forest"],
+            "mountain": card["mountain"],
+            "ocean": card["ocean"],
             "card_name": (card.get("card_name") or "").strip(),
             "card_text": (card.get("card_text") or "").strip(),
             "name_jp": name_jp,
@@ -137,7 +145,6 @@ def main():
         card_name = (card.get("card_name") or "").strip()
         card_text = (card.get("card_text") or "").strip()
         card_type = card.get("card_type") or ""
-        super_types = card.get("super_types") or []
         card_subtypes = card.get("card_subtypes") or []
 
         if not raw_number or not unique_number:
@@ -159,7 +166,7 @@ def main():
         print(f"  処理中: {card_number}-U-{unique_number} {card_name}")
 
         # AlteredTcgJp.csv から日本語カード名・年月を取得
-        csv_row = lookup_csv_row(csv_data, card_number)
+        csv_row = _lookup_csv_row(csv_data, card_number)
         name_jp = csv_row.get("日本語名") or None if csv_row else None
         year_month = csv_row.get("年月") or None if csv_row else None
         if name_jp:
@@ -174,9 +181,7 @@ def main():
             card_text,
             csv_path=CSV_PATH,
             keywords_path=KEYWORDS_PATH if os.path.exists(KEYWORDS_PATH) else None,
-            super_types=super_types,
             card_type=card_type,
-            card_subtypes=card_subtypes,
         )
 
         if not translation:
