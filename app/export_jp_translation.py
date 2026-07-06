@@ -294,7 +294,11 @@ def generate_pdf_direct(sticker_cards, pdf_path):
     reportlab canvas で和訳シール PDF を直接生成する。
     A4 縦・3カラム（各 63mm）・游ゴシック Light 6pt。
     _xxx_ は下線付きテキストとして canvas.line() で描画。
-    カラム境界と行間に破線の切り取り線を引く。
+    列優先（各カラムを上から下へ詰めてから次のカラムへ）でカードを配置し、
+    カラムの残り高さにカード1枚が収まらない場合はそのカラムを打ち切って
+    次のカラムへ送る（カードが分断されることはない）。
+    カードのセル高さが5cmを超える場合はフォントサイズを縮小して5cm以下に収める。
+    カラム境界に破線の切り取り線を引く。
     """
     from reportlab.lib.pagesizes import A4
     from reportlab.lib.units import mm
@@ -316,15 +320,20 @@ def generate_pdf_direct(sticker_cards, pdf_path):
     L_MARGIN = (page_w - N_COLS * CARD_W) / 2   # 左右マージン（自動計算）
     T_MARGIN = 10 * mm
     B_MARGIN = 10 * mm
+    USABLE_H = page_h - T_MARGIN - B_MARGIN     # 1カラムあたりの使用可能な高さ
 
     FONT = "YuGothL"
     HEADER_SIZE = 6.5
     BODY_SIZE = 6.0
-    LEADING = BODY_SIZE * 1.45
-    HEADER_LEADING = HEADER_SIZE * 1.35
+    HEADER_LEADING_RATIO = 1.35
+    LEADING_RATIO = 1.45
     PAD_X = 1.5 * mm          # セル内の左右パディング
     PAD_Y = 1.0 * mm          # セル内の上下パディング
     TEXT_W = CARD_W - 2 * PAD_X
+
+    MAX_CARD_H = 50 * mm      # カード1枚あたりの最大の縦幅（5cm）
+    MIN_FONT_SCALE = 0.5      # フォント縮小の下限（元サイズの50%まで）
+    FONT_SCALE_STEP = 0.02
 
     # ── _xxx_ をランのリストに分解 ──────────────────────────
     def parse_runs(text):
@@ -366,23 +375,42 @@ def generate_pdf_direct(sticker_cards, pdf_path):
             lines.append(current_line)
         return lines
 
-    # ── カードのセル高さを計算 ──────────────────────────────
-    def measure_card_h(card):
+    # ── カードのセル高さを計算（フォントサイズを指定可能） ──
+    def measure_card_h(card, header_size, body_size):
+        header_leading = header_size * HEADER_LEADING_RATIO
+        leading = body_size * LEADING_RATIO
+
         header_text = f"{card['card_number']}-{card['rarity']} {card['name_jp']}"
-        n_header_lines = len(wrap_runs(parse_runs(header_text), FONT, HEADER_SIZE, TEXT_W))
+        n_header_lines = len(wrap_runs(parse_runs(header_text), FONT, header_size, TEXT_W))
         n_header_lines = max(n_header_lines, 1)
 
         ability = card.get("ability_jp") or ""
         n_body_lines = 0
         for raw_line in ability.splitlines():
-            wrapped = wrap_runs(parse_runs(raw_line), FONT, BODY_SIZE, TEXT_W)
+            wrapped = wrap_runs(parse_runs(raw_line), FONT, body_size, TEXT_W)
             n_body_lines += max(len(wrapped), 1)
 
         h = (PAD_Y
-             + n_header_lines * HEADER_LEADING
-             + n_body_lines * LEADING
+             + n_header_lines * header_leading
+             + n_body_lines * leading
              + PAD_Y)
         return h
+
+    # ── カードごとのフォントサイズを決定（5cm を超えるなら縮小） ──
+    def fit_font_size(card):
+        scale = 1.0
+        while scale > MIN_FONT_SCALE:
+            header_size = HEADER_SIZE * scale
+            body_size = BODY_SIZE * scale
+            h = measure_card_h(card, header_size, body_size)
+            if h <= MAX_CARD_H:
+                return header_size, body_size, h
+            scale -= FONT_SCALE_STEP
+        # 下限まで縮小しても収まらない場合は下限サイズのまま返す
+        header_size = HEADER_SIZE * MIN_FONT_SCALE
+        body_size = BODY_SIZE * MIN_FONT_SCALE
+        h = measure_card_h(card, header_size, body_size)
+        return header_size, body_size, h
 
     # ── 1ランの行を描画 ────────────────────────────────────
     def draw_run_line(c, run_line, x, baseline_y, font, size):
@@ -405,66 +433,100 @@ def generate_pdf_direct(sticker_cards, pdf_path):
         c.setLineWidth(0.3)
         c.setStrokeColorRGB(0.5, 0.5, 0.5)
 
-    def draw_hline(c, y):
-        """水平破線（行間の切り取り線）"""
+    def draw_col_border(c, x, y_top, h):
+        """カラム左右の垂直破線（切り取り線）"""
         set_cut_dash(c)
-        c.line(L_MARGIN, y, L_MARGIN + N_COLS * CARD_W, y)
+        c.line(x, y_top - h, x, y_top)
+        c.line(x + CARD_W, y_top - h, x + CARD_W, y_top)
 
-    def draw_vlines(c, y_top, h):
-        """垂直破線（カラム境界の切り取り線）"""
+    def draw_hline(c, x, y):
+        """カラム内、カード間の水平破線（切り取り線）"""
         set_cut_dash(c)
-        for i in range(N_COLS + 1):
-            x = L_MARGIN + i * CARD_W
-            c.line(x, y_top - h, x, y_top)
+        c.line(x, y, x + CARD_W, y)
 
     # ── 1枚のカードセルを描画 ──────────────────────────────
-    def draw_card_cell(c, card, x, y_top):
-        """カードを (x, y_top) から下向きに描画。次の y_top を返す"""
+    def draw_card_cell(c, card, x, y_top, header_size, body_size):
+        """カードを (x, y_top) から下向きに描画。次の y_top（セル下端）を返す"""
+        header_leading = header_size * HEADER_LEADING_RATIO
+        leading = body_size * LEADING_RATIO
+
         y = y_top - PAD_Y
 
         # ヘッダー行
         header_text = f"{card['card_number']}-{card['rarity']} {card['name_jp']}"
-        for run_line in wrap_runs(parse_runs(header_text), FONT, HEADER_SIZE, TEXT_W):
-            y -= HEADER_LEADING
-            draw_run_line(c, run_line, x + PAD_X, y, FONT, HEADER_SIZE)
+        for run_line in wrap_runs(parse_runs(header_text), FONT, header_size, TEXT_W):
+            y -= header_leading
+            draw_run_line(c, run_line, x + PAD_X, y, FONT, header_size)
 
         # 能力テキスト
         ability = card.get("ability_jp") or ""
         for raw_line in ability.splitlines():
-            wrapped = wrap_runs(parse_runs(raw_line), FONT, BODY_SIZE, TEXT_W)
+            wrapped = wrap_runs(parse_runs(raw_line), FONT, body_size, TEXT_W)
             if not wrapped:
-                y -= LEADING
+                y -= leading
                 continue
             for run_line in wrapped:
-                y -= LEADING
-                draw_run_line(c, run_line, x + PAD_X, y, FONT, BODY_SIZE)
+                y -= leading
+                draw_run_line(c, run_line, x + PAD_X, y, FONT, body_size)
 
         return y - PAD_Y
 
-    # ── メイン描画ループ ────────────────────────────────────
+    # ── 事前計算: カードごとのフォントサイズとセル高さ ──────
+    layouts = []
+    for card in sticker_cards:
+        header_size, body_size, h = fit_font_size(card)
+        layouts.append({
+            "card": card,
+            "header_size": header_size,
+            "body_size": body_size,
+            "height": h,
+        })
+
+    # ── メイン描画ループ（列優先でカラムを下まで詰める） ────
     c = rl_canvas.Canvas(pdf_path, pagesize=A4)
 
-    # カードを N_COLS 枚ずつの行にグループ化
-    rows = [sticker_cards[i:i + N_COLS] for i in range(0, len(sticker_cards), N_COLS)]
+    idx = 0
+    n = len(layouts)
+    is_first_page = True
 
-    y_cursor = page_h - T_MARGIN  # 現在の描画 y 位置（上から下へ）
-
-    for row_cards in rows:
-        row_h = max(measure_card_h(card) for card in row_cards)
-
-        # ページ不足なら改ページ
-        if y_cursor - row_h < B_MARGIN:
+    while idx < n:
+        if not is_first_page:
             c.showPage()
-            y_cursor = page_h - T_MARGIN
+        is_first_page = False
 
-        draw_vlines(c, y_cursor, row_h)
+        for col in range(N_COLS):
+            if idx >= n:
+                break
 
-        # 各カードを列に配置
-        for col_idx, card in enumerate(row_cards):
-            x = L_MARGIN + col_idx * CARD_W
-            draw_card_cell(c, card, x, y_cursor)
+            x = L_MARGIN + col * CARD_W
+            col_top = page_h - T_MARGIN
+            col_used = 0.0
+            placed = []
 
-        y_cursor -= row_h
+            while idx < n:
+                item = layouts[idx]
+                h = item["height"]
+                # カラムが空でなく、かつ残り高さに収まらないなら次のカラムへ送る
+                # （カード1枚がカラムをまたいで分断されることを防ぐ）
+                if placed and col_used + h > USABLE_H:
+                    break
+                placed.append(item)
+                col_used += h
+                idx += 1
+
+            # カラム内のカードを上から順に描画
+            cur_y = col_top
+            for i, item in enumerate(placed):
+                cur_y = draw_card_cell(
+                    c, item["card"], x, cur_y,
+                    item["header_size"], item["body_size"],
+                )
+                if i < len(placed) - 1:
+                    draw_hline(c, x, cur_y)
+
+            # カラムの外枠（縦の切り取り線）
+            if placed:
+                draw_col_border(c, x, col_top, col_used)
 
     c.save()
     return pdf_path

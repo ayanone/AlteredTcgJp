@@ -51,18 +51,18 @@ RECOGNIZE_PROMPT = """
 [
     {
         "card_number": "ROC-102 のように接頭辞3文字-番号の形式（読み取れない場合はnull）",
-        "rarity_ocr": "R など1文字。カード下部の識別文字列可や読み取ったもの",
+        "rarity_ocr": "R など1文字。カード下部の識別文字列から読み取ったもの",
         "rarity_symbol": "R など1文字。カード名の上の宝石マークから読み取ったもの",
         "unique_number": "ユニーク番号（非ユニークはnull）",
         "card_name": "カード上部もしくはカード中央（Permanentの場合）に書かれた英語のカード名",
         "faction": "Axiom / Bravos / Lyra / Muna / Ordis / Yzmir（旗マークから判定）"        
-        "card_type": "Character / Permanent / Spell / Hero など",
+        "card_type": "Character / Landmark Permanent / Expedition Permanent / Spell / Hero など",
         "card_subtypes": ["Mage", "Plant", "Feat" などサブタイプのリスト。なければ空リスト],
         "main_cost": "1 / 2 / 3 などカード左上に記載されている2つの丸付きの整数値のうち、より左上にある方の整数値をstr型で記載。",
         "recall_cost": "1 / 2 / 3 などカード左上に記載されている2つの丸付きの整数値のうち、よりカードの内側ある方の整数値をstr型で記載。",
-        "forest": "1 / 2 / 3 などCharacterであるカードの左側に縦に3つ並んでいる整数値のうち、葉っぱのアイコンの右に書かれた整数値をstr型で記載。",
-        "mountain": "1 / 2 / 3 などCharacterであるカードの左側に縦に3つ並んでいる整数値のうち、山のアイコンの右に書かれた整数値をstr型で記載。",
-        "ocean": "1 / 2 / 3 などCharacterであるカードの左側に縦に3つ並んでいる整数値のうち、水滴のアイコンの右に書かれた整数値をstr型で記載。",
+        "forest": "1 / 2 / 3 などCharacterであるカードの左側に縦に3つ並んでいる整数値のうち、葉っぱのアイコンの右に書かれた整数値をstr型で記載。characterでなければnull。",
+        "mountain": "1 / 2 / 3 などCharacterであるカードの左側に縦に3つ並んでいる整数値のうち、山のアイコンの右に書かれた整数値をstr型で記載。characterでなければnull。",
+        "ocean": "1 / 2 / 3 などCharacterであるカードの左側に縦に3つ並んでいる整数値のうち、水滴のアイコンの右に書かれた整数値をstr型で記載。characterでなければnull。",
         "card_text": "上記ルールを適用したカードの能力テキスト全文（英語のまま）"
     }
 ]
