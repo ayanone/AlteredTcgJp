@@ -215,6 +215,9 @@ def _score_all(card_info: dict, df: pl.DataFrame) -> np.ndarray:
     if isinstance(subtypes_ocr, list):
         subtypes_ocr = "/".join(subtypes_ocr)
 
+    if card_info.get("rarity_symbol") == "R" and card_info.get("rarity_ocr") == "F":
+        card_info["rarity_symbol"] = "F"
+
     n = len(df)
 
     # ── 一次フィルタ: 完全一致 + 英語名 ──────────────────────
@@ -277,15 +280,16 @@ def lookup_translation(card_info, csv_data, uniques_data):
     rarity_ocr = (card_info.get("rarity_ocr") or "").strip()
     rarity_symbol = (card_info.get("rarity_symbol") or "").strip()
 
-    # ユニークカード: カード番号 + ユニーク番号で直接検索
-    if rarity_ocr == "U" or rarity_symbol == "U":
-        df, rows = _get_df(uniques_data)
-        scores = _score_all(card_info, df)
-        if np.min(scores) < 0.3:
-            return rows[int(np.argmin(scores))]
-
     df, rows = _get_df(csv_data)
     scores = _score_all(card_info, df)
+
+    # ユニークカード: カード番号 + ユニーク番号で直接検索
+    if rarity_ocr == "U" or rarity_symbol == "U":
+        df_unique, rows_unique = _get_df(uniques_data)
+        scores_unique = _score_all(card_info, df_unique)
+        if np.min(scores_unique) <= np.min(scores):
+            return rows_unique[int(np.argmin(scores_unique))]
+
     return rows[int(np.argmin(scores))]
 
 
