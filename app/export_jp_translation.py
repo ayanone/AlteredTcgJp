@@ -142,10 +142,15 @@ def _get_df(csv_data: dict) -> tuple:
     return _df_cache[1], _df_cache[2]
 
 
+def _strip_parens(s: str) -> str:
+    """かっこ書き（注釈文など）を取り除く"""
+    return blackets_match.sub("", s)
+
+
 def _lev_dist(a: str, b: str) -> int:
-    """numpy配列ベースのレーベンシュタイン距離"""
-    a = blackets_match.sub("", a)
-    b = blackets_match.sub("", b)
+    """numpy配列ベースのレーベンシュタイン距離（かっこ書きは比較対象外）"""
+    a = _strip_parens(a)
+    b = _strip_parens(b)
     if a == b:
         return 0
     la, lb = len(a), len(b)
@@ -166,10 +171,11 @@ def _lev_dist(a: str, b: str) -> int:
 _TOP_K = 20  # 一次フィルタで残す候補数
 
 
-def _score_exact_and_name(card_info: dict, df: pl.DataFrame) -> np.ndarray:
+def _score_exact_and_name(card_info: dict, df: pl.DataFrame) -> tuple:
     """
     一次フィルタ用スコア: 完全一致フィールド全部 + 英語名（レーベンシュタイン）のみ計算。
-    全行に対して実行し、スコア配列を返す。
+    全行に対して実行し、(生の重み付き合計スコア, 合計重み) の配列を返す。
+    正規化（割り算）はせず、呼び出し側でほかのスコアと合算してから行う。
     """
     n = len(df)
     total_score = np.zeros(n, dtype=np.float64)
@@ -181,7 +187,7 @@ def _score_exact_and_name(card_info: dict, df: pl.DataFrame) -> np.ndarray:
         if not ocr_val:
             continue
         csv_vals = df[csv_col].to_list()
-        la = len(ocr_val)
+        la = len(csv_vals)
         sims = np.array([
             _lev_dist(ocr_val, v) / max(la, len(v)) if v else 1.0
             for v in csv_vals
@@ -200,10 +206,7 @@ def _score_exact_and_name(card_info: dict, df: pl.DataFrame) -> np.ndarray:
         total_score += mismatch * has_val * weight
         total_weight += has_val * weight
 
-    mask = total_weight > 0
-    result = np.ones(n, dtype=np.float64)
-    result[mask] = total_score[mask] / total_weight[mask]
-    return result
+    return total_score, total_weight
 
 
 def _score_all(card_info: dict, df: pl.DataFrame) -> np.ndarray:
@@ -220,45 +223,38 @@ def _score_all(card_info: dict, df: pl.DataFrame) -> np.ndarray:
 
     n = len(df)
 
-    # ── 一次フィルタ: 完全一致 + 英語名 ──────────────────────
-    first_scores = _score_exact_and_name(card_info, df)
+    # ── 一次フィルタ: 完全一致 + 英語名（生の重み付き合計・合計重み） ──
+    first_score, first_weight = _score_exact_and_name(card_info, df)
+    with np.errstate(invalid="ignore", divide="ignore"):
+        first_ratio = np.where(first_weight > 0, first_score / first_weight, 1.0)
     if n > _TOP_K:
-        top_indices = np.argpartition(first_scores, _TOP_K)[:_TOP_K]
+        top_indices = np.argpartition(first_ratio, _TOP_K)[:_TOP_K]
     else:
         top_indices = np.arange(n)
     df_top = df[top_indices]
 
-    # ── 二次スコア: 残りのレーベンシュタインフィールドを追加 ──
-    k = len(top_indices)
-    total_score = np.zeros(k, dtype=np.float64)
-    total_weight = np.zeros(k, dtype=np.float64)
+    # ── 二次スコア: 一次フィルタの生スコアに残りのレーベンシュタインフィールドを追加 ──
+    # （first_score/first_weight はまだ正規化していない生の値なので、そのまま加算してよい）
+    total_score = first_score[top_indices].copy()
+    total_weight = first_weight[top_indices].copy()
 
-    # 一次フィルタで計算済みのスコアを引き継ぐ（英語名 + 完全一致分）
-    total_score += first_scores[top_indices]
-    # 一次フィルタの重みを再計算して引き継ぐ
-    name_weight = 4.0 if (card_info.get("card_name") or "").strip() else 0.0
-    exact_weight = sum(
-        w for key, _, w in _EXACT_FIELDS if (card_info.get(key) or "").strip()
-    )
-    inherited_weight = name_weight + exact_weight
-    total_weight += inherited_weight
-
-    # 残りのレーベンシュタインフィールド
+    # 残りのレーベンシュタインフィールド（かっこ書きは比較対象外）
     for ocr_key, csv_col, weight in _SECONDARY_LEV_FIELDS:
         ocr_val = subtypes_ocr if ocr_key == "_subtypes" else (card_info.get(ocr_key) or "").strip()
         if not ocr_val:
             continue
         csv_vals = df_top[csv_col].to_list()
-        la = len(ocr_val)
+        ocr_stripped = _strip_parens(ocr_val)
+        la = len(ocr_stripped)
         sims = np.array([
-            _lev_dist(ocr_val, v) / max(la, len(v)) if v else 1.0
+            _lev_dist(ocr_val, v) / max(la, len(_strip_parens(v))) if v else 1.0
             for v in csv_vals
         ], dtype=np.float64)
         total_score += sims * weight
         total_weight += weight
 
     mask = total_weight > 0
-    top_result = np.ones(k, dtype=np.float64)
+    top_result = np.ones(len(top_indices), dtype=np.float64)
     top_result[mask] = total_score[mask] / total_weight[mask]
 
     # 全行スコアに書き戻す（足切りされた行は 1.0 のまま）
