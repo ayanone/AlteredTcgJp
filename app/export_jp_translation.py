@@ -187,7 +187,7 @@ def _score_exact_and_name(card_info: dict, df: pl.DataFrame) -> tuple:
         if not ocr_val:
             continue
         csv_vals = df[csv_col].to_list()
-        la = len(csv_vals)
+        la = len(ocr_val)
         sims = np.array([
             _lev_dist(ocr_val, v) / max(la, len(v)) if v else 1.0
             for v in csv_vals
