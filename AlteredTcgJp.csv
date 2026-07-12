@@ -114,12 +114,12 @@
 2024-09,BTG-027,F,Ordis,Kelonic Generator,Permanent,Landmark,4,4,,,,"{1}, {T} : Draw a card.",ケロン式起動機,"（ランドマーク。私が一過を得ることはない。）
 [1],[消耗]:カードを1枚引く。",
 2024-09,BTG-028,C,Axiom,"The Foundry, Axiom Bastion",Permanent,Landmark,3,3,,,,{T} : The next Character you play from your hand this turn activates its {r} abilities (as if it had been played from Reserve).,アクシオムの要塞、ファウンドリー,"（ランドマーク。私が一過を得ることはない。）
-[消耗]:このターン、次にあなたが手札からプレイするキャラクターの[ウラ]能力を起動する。",
+[消耗]:このターン、次にあなたが手札からプレイするキャラクターの各[ウラ]能力を起動する。",
 2024-09,BTG-028,R,Axiom,"The Foundry, Axiom Bastion",Permanent,Landmark,4,4,,,,{J} Draw a card.  {T} : The next Character you play from your hand this turn activates its {r} abilities (as if it had been played from Reserve).,アクシオムの要塞、ファウンドリー,"（ランドマーク。私が一過を得ることはない。）
 [両面]カードを1枚引く。
-[消耗]:このターン、次にあなたが手札からプレイするキャラクターの[ウラ]能力を起動する。",
+[消耗]:このターン、次にあなたが手札からプレイするキャラクターの各[ウラ]能力を起動する。",
 2024-09,BTG-028,F,Bravos,"The Foundry, Axiom Bastion",Permanent,Landmark,3,3,,,,{T} : The next Character you play from your hand this turn activates its {r} abilities (as if it had been played from Reserve).,アクシオムの要塞、ファウンドリー,"（ランドマーク。私が一過を得ることはない。）
-[消耗]:このターン、次にあなたが手札からプレイするキャラクターの[ウラ]能力を起動する。",
+[消耗]:このターン、次にあなたが手札からプレイするキャラクターの各[ウラ]能力を起動する。",
 2024-09,BTG-029,C,Axiom,Axiom Reprocessor,Permanent,Landmark,4,4,,,,At Noon — [Resupply]. (Put the top card of your deck in Reserve.),アクシオムの再処理装置,"（ランドマーク。私が一過を得ることはない。）
 昼に-リサプライする。（あなたのデッキの一番上のカードをあなたのリザーブに置く。）",
 2024-09,BTG-029,R,Axiom,Axiom Reprocessor,Permanent,Landmark,4,4,,,,{J} [Resupply].  At Noon — [Resupply]. (Put the top card of your deck in Reserve.),アクシオムの再処理装置,"（ランドマーク。私が一過を得ることはない。）
@@ -1965,17 +1965,17 @@ _一過_または_ブースト中_である対象のキャラクターは_アン
 [両面] あなたはあなたのリザーブから任意の数のカードを捨て札にして私にその数のブーストを与えてもよい。",
 2025-09,SKY-011,C,Axiom,Axiom Signet,Spell,Conjuration,2,4,,,,Choose one:  • Create a [Brassbug 2/2/2] Robot token in target Expedition.  • Target Permanent you control activates its {j} abilities.  • Discard target Permanent with Hand Cost {3} or less.,アクシオムの印章,"1つ選ぶ：
 • 対象の探検隊にブラスバグ2/2/2ロボット・トークンを生成する。
-• あなたがコントロールする対象のパーマネントがその[両面]能力を起動する。
+• あなたがコントロールする対象のパーマネントはその各[両面]能力を起動する。
 • 手札コスト[3]以下の対象のパーマネントを捨て札にする。",
 2025-09,SKY-011,R,Axiom,Axiom Signet,Spell,Conjuration,3,3,,,,[[Fleeting]].  Choose two:  • Create a [Brassbug 2/2/2] Robot token in target Expedition.  • Target Permanent you control activates its {j} abilities.  • Discard target Permanent with Hand Cost {3} or less.,アクシオムの印章,"_一過_（私がリザーブに送られるなら、代わりに捨て札にする。）
 2つ選ぶ：
 • 対象の探検隊にブラスバグ2/2/2ロボット・トークンを生成する。
-• あなたがコントロールする対象のパーマネントがその[両面]能力を起動する。
+• あなたがコントロールする対象のパーマネントはその各[両面]能力を起動する。
 • 手札コスト[3]以下の対象のパーマネントを捨て札にする。",
 2025-09,SKY-011,F,Ordis,Axiom Signet,Spell,Conjuration,3,3,,,,[[Fleeting]].  Choose two:  • Create a [Brassbug 2/2/2] Robot token in target Expedition.  • Target Permanent you control activates its {j} abilities.  • Discard target Permanent with Hand Cost {3} or less.,アクシオムの印章,"_一過_（私がリザーブに送られるなら、代わりに捨て札にする。）
 2つ選ぶ：
 • 対象の探検隊にブラスバグ2/2/2ロボット・トークン1個を生成する。
-• あなたがコントロールする対象のパーマネントはその[両面]の能力を起動する。
+• あなたがコントロールする対象のパーマネントはその各[両面]能力を起動する。
 • 手札コスト[3]以下の対象のパーマネントを捨て札にする。",
 2025-09,SKY-012,C,Axiom,Detonation,Spell,Disruption,4,4,,,,[[Fleeting]]. (Send me to Discard instead of Reserve after my effect resolves.)  You may sacrifice a Permanent to reduce my cost by {1}.  Send target Character to Reserve.,爆発,"_一過_（私がリザーブに送られるなら、代わりに捨て札にする。）
 あなたはパーマネントを生け贄に捧げて、私のコストを[1]減らしてもよい。
@@ -3077,9 +3077,9 @@ _一過_または_ブースト中_である対象のキャラクターは_アン
 2026-05,ROC-006,C,Axiom,Hop-o'-my-Thumb,Character,Citizen,2,2,2,1,2,"{R} You may put a card from your hand in Reserve to create an [Aerolith] token in your Landmarks. (It's a Permanent with ""When I'm sacrificed — Resupply. {T}, {1}: Sacrifice me."")",ホップ・オー・マイ・サム,[ウラ] あなたの手札のカード1枚をリザーブに置き、あなたのランドマークにエアロリス・トークン1個を生成してもよい。（それは「これが生け贄に捧げられたとき ― リサプライする。」と「[消耗]、[1]：これを生け贄に捧げる。」を持つパーマネントである。）,
 2026-05,ROC-006,R,Axiom,Hop-o'-my-Thumb,Character,Citizen,2,1,2,1,1,{H} You may put a card from your hand in Reserve to create an [Aerolith] token in your Landmarks.,ホップ・オー・マイ・サム,[表] あなたの手札のカード1枚をリザーブに置き、あなたのランドマークにエアロリス・トークン1個を生成してもよい。,
 2026-05,ROC-006,F,Ordis,Hop-o'-my-Thumb,Character,Citizen,2,1,2,1,1,{H} You may put a card from your hand in Reserve to create an [Aerolith] token in your Landmarks.,ホップ・オー・マイ・サム,[表] あなたの手札のカード1枚をリザーブに置き、あなたのランドマークにエアロリス・トークン1個を生成してもよい。,
-2026-05,ROC-007,C,Axiom,"Shiramun, Tech Monk",Character,Engineer,3,2,2,2,3,{H} You may put a card from your hand in Reserve to [Sabotage]. (Discard up to one target card from a Reserve.),テック・モンク、シラムン,[表] あなたの手札のカード1枚をリザーブに置き、サボタージュしてもよい。（リザーブのカード最大1枚を対象とし、それを捨て札にする。）,
-2026-05,ROC-007,R,Axiom,"Shiramun, Tech Monk",Character,Engineer,2,2,2,2,3,{H} You may discard a card from your Reserve to [Sabotage].,テック・モンク、シラムン,[表] あなたのリザーブのカード1枚を捨て札にし、サボタージュしてもよい。（リザーブのカード最大1枚を対象とし、それを捨て札にする。）,
-2026-05,ROC-007,F,Yzmir,"Shiramun, Tech Monk",Character,Engineer,2,2,2,2,3,{H} You may discard a card from your Reserve to [Sabotage].,テック・モンク、シラムン,[表] あなたのリザーブのカード1枚を捨て札にし、サボタージュしてもよい。（リザーブのカード最大1枚を対象とし、それを捨て札にする。）,
+2026-05,ROC-007,C,Axiom,"Shiramun, Tech Monk",Character,Engineer,3,2,2,2,3,{H} You may put a card from your hand in Reserve to [Sabotage]. (Discard up to one target card from a Reserve.),テック・モンク、シラムン,[表] あなたはあなたの手札のカード1枚をリザーブに置くことでサボタージュしてもよい。（リザーブのカード最大1枚を対象とし、それを捨て札にする。）,
+2026-05,ROC-007,R,Axiom,"Shiramun, Tech Monk",Character,Engineer,2,2,2,2,3,{H} You may discard a card from your Reserve to [Sabotage].,テック・モンク、シラムン,[表] あなたはあなたのリザーブのカード1枚を捨て札にすることでサボタージュしてもよい。（リザーブのカード最大1枚を対象とし、それを捨て札にする。）,
+2026-05,ROC-007,F,Yzmir,"Shiramun, Tech Monk",Character,Engineer,2,2,2,2,3,{H} You may discard a card from your Reserve to [Sabotage].,テック・モンク、シラムン,[表] あなたはあなたのリザーブのカード1枚を捨て札にすることでサボタージュしてもよい。（リザーブのカード最大1枚を対象とし、それを捨て札にする。）,
 2026-05,ROC-008,C,Axiom,Reka Recycler,Character,Engineer,3,2,3,2,3,{H} You may discard two cards from your Reserve to draw a card.,レカの再利用者,[表] あなたのリザーブのカード2枚を捨て札にし、カードを1枚引いてもよい。,
 2026-05,ROC-008,R,Axiom,Reka Recycler,Character,Engineer,3,2,3,1,3,{H} You may discard one card from your Reserve to draw a card.,レカの再利用者,[表] あなたのリザーブのカード1枚を捨て札にし、カードを1枚引いてもよい。,
 2026-05,ROC-008,F,Lyra,Reka Recycler,Character,Engineer,3,2,3,1,3,{H} You may discard one card from your Reserve to draw a card.,レカの再利用者,[表] あなたのリザーブのカード1枚を捨て札にし、カードを1枚引いてもよい。,
@@ -3098,7 +3098,7 @@ _一過_または_ブースト中_である対象のキャラクターは_アン
 2026-05,ROC-013,C,Axiom,"Inari, Spirit of Industry",Character,Robot/Deity,4,4,4,3,4,"When you pass — If your hand is empty, draw a card.",産業の精霊、イナリ,あなたがパスしたとき — あなたの手札が空なら、カードを1枚引く。,
 2026-05,ROC-013,R,Axiom,"Inari, Spirit of Industry",Character,Robot/Deity,4,3,4,3,4,"When you pass — If your hand is empty, draw a card. Otherwise, [Resupply].",産業の精霊、イナリ,あなたがパスしたとき — あなたの手札が空なら、カードを1枚引く。そうでなければ、リサプライする。（あなたのデッキの一番上のカードをあなたのリザーブに置く。）,
 2026-05,ROC-013,F,Bravos,"Inari, Spirit of Industry",Character,Robot/Deity,4,3,4,3,4,"When you pass — If your hand is empty, draw a card. Otherwise, [Resupply].",産業の精霊、イナリ,あなたがパスしたとき — あなたの手札が空なら、カードを1枚引く。そうでなければ、リサプライする。（あなたのデッキの一番上のカードをあなたのリザーブに置く。）,
-2026-05,ROC-014,E,Axiom,Plague of Avarice,Character,Corruption,5,2,2,3,3,{H} Each Permanent you control activates its {j} abilities.  When you pass — Sacrifice a Permanent.,強欲の疫病,"[表] あなたがコントロールしている各パーマネントはその[両面]能力を起動する。
+2026-05,ROC-014,E,Axiom,Plague of Avarice,Character,Corruption,5,2,2,3,3,{H} Each Permanent you control activates its {j} abilities.  When you pass — Sacrifice a Permanent.,強欲の疫病,"[表] あなたがコントロールしている各パーマネントはその各[両面]能力を起動する。
 あなたがパスしたとき — パーマネント1つを生け贄に捧げる。",
 2026-05,ROC-015,C,Axiom,A Pebble in the Pond,Spell,Boon,2,1,,,,"Create an [Aerolith] token in your Landmarks. (It's a Permanent with ""When I'm sacrificed — Resupply. {T}, {1}: Sacrifice me."")",池の小石,あなたのランドマークにエアロリス・トークン1個を生成する。（それは「これが生け贄に捧げられたとき ― リサプライする。」と「[消耗]、[1]：これを生け贄に捧げる。」を持つパーマネントである。）,
 2026-05,ROC-015,R,Axiom,A Pebble in the Pond,Spell,Boon,2,2,,,,Play me for {1} less if there are no tokens in your Landmarks.  Create an [Aerolith] token in your Landmarks.,池の小石,あなたのランドマークにトークンがないなら、私のコストは[1]少なくなる。あなたのランドマークにエアロリス・トークン1個を生成する。,
